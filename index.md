@@ -8,10 +8,14 @@ notification: ""
 sections:
   - hero:
       background: /images/photo6160989144705250736.jpg
-  - infopic:
-      title: Infopic Title
-      subtitle: Infopic Subtitle
-      description: Infopic description
-      button: Button Text
-      alt: Image alt text
+      key_highlights:
+        - title: NOTICEBOARD
+          description: ""
+          url: ""
+        - title: ANNOUNCEMENTS
+          description: ""
+          url: ""
+        - title: HIGHLIGHTS
+          description: ""
+          url: ""
 ---
