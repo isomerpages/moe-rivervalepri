@@ -3,6 +3,5 @@ collections:
     output: true
     order:
       - General Information/.keep
-      - General Information.md
       - Mission&Vision.md
       - School Song.md
