@@ -34,3 +34,6 @@ links:
         url: /permalink
       - title: Student Development Team
         url: /permalink
+  - title: Menu Title
+    url: /permalink
+    sublinks: []
