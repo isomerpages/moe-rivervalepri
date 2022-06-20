@@ -1,6 +1,6 @@
 logo: /images/photo6160989144705250760.jpg
 links:
-  - title: About us
+  - title: ABOUT US
     url: /permalink
     sublinks:
       - title: Mission & Vision
@@ -15,7 +15,7 @@ links:
         url: /permalink
       - title: Our Staff
         url: /permalink
-  - title: Curriculum Departments
+  - title: CURRICULUM DEPARTMENTS
     url: /permalink
     sublinks:
       - title: English
@@ -45,10 +45,13 @@ links:
         url: /permalink
       - title: Uniformed Groups
         url: /permalink
-  - title: Programme and Events
+  - title: PROGRAMME AND EVENTS
     url: /permalink
     sublinks:
       - title: Programmes
         url: /permalink
       - title: Events
         url: /permalink
+  - title: STAKEHOLDERS
+    url: /permalink
+    sublinks: []
