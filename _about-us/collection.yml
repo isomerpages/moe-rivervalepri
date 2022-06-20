@@ -2,8 +2,8 @@ collections:
   about-us:
     output: true
     order:
-      - General Information/School Rules and Regulations.md
-      - General Information/General Information.md
       - General Information/.keep
+      - General Information/General Information.md
+      - General Information/School Rules and Regulations.md
       - Mission&Vision.md
       - School Song.md
