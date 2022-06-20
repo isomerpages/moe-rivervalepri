@@ -6,7 +6,8 @@ image: /images/isomer-logo.svg
 permalink: /
 notification: Here's a notification bar you can use!
 sections:
-  - hero: {}
+  - hero:
+      background: /images/photo6160989144705250736.jpg
   - infobar:
       title: Infobar title
       subtitle: Subtitle
