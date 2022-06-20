@@ -15,3 +15,22 @@ links:
         url: /permalink
       - title: Our Staff
         url: /permalink
+  - title: Curriculum Departments
+    url: /permalink
+    sublinks:
+      - title: English
+        url: /permalink
+      - title: Mathematics
+        url: /permalink
+      - title: Science
+        url: /permalink
+      - title: Mother Tongue
+        url: /permalink
+      - title: ICT
+        url: /permalink
+      - title: PE/CCA
+        url: /permalink
+      - title: Aesthetics
+        url: /permalink
+      - title: Student Development Team
+        url: /permalink
