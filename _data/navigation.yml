@@ -34,6 +34,14 @@ links:
         url: /permalink
       - title: Student Development Team
         url: /permalink
-  - title: Menu Title
+  - title: CCA
     url: /permalink
-    sublinks: []
+    sublinks:
+      - title: Sports
+        url: /permalink
+      - title: Performing Arts
+        url: /permalink
+      - title: Clubs
+        url: /permalink
+      - title: Uniformed Groups
+        url: /permalink
