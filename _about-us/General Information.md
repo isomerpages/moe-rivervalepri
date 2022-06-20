@@ -28,6 +28,4 @@ description: ""
 
 **Address:** 80, RIVERVALE DRIVE, SINGAPORE 545092
 
-[School Rules and Regulations](/Mission-Vision/Permalink)
 
-[School](https://moe-rivervalepri-staging.netlify.app/mission-vision)
