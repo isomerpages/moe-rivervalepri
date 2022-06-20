@@ -15,6 +15,10 @@ links:
         url: /permalink
       - title: Our Staff
         url: /permalink
+      - title: Programmes
+        url: /permalink
+      - title: Events
+        url: /permalink
   - title: CURRICULUM DEPARTMENTS
     url: /permalink
     sublinks:
@@ -44,13 +48,6 @@ links:
       - title: Clubs
         url: /permalink
       - title: Uniformed Groups
-        url: /permalink
-  - title: PROGRAMME AND EVENTS
-    url: /permalink
-    sublinks:
-      - title: Programmes
-        url: /permalink
-      - title: Events
         url: /permalink
   - title: STAKEHOLDERS
     url: /permalink
