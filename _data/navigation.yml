@@ -1,10 +1,10 @@
 logo: /images/photo6160989144705250760.jpg
 links:
   - title: ABOUT US
-    url: " /Mission-Vision/permalink"
+    url: /permalink
     sublinks:
       - title: Mission & Vision
-        url: /permalink
+        url: /Mission-Vision/permalink
       - title: School Song
         url: /permalink
       - title: General Information
