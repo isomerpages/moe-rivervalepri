@@ -1,4 +1,5 @@
 collections:
   mission-and-vision:
     output: true
-    order: []
+    order:
+      - example-page.md
