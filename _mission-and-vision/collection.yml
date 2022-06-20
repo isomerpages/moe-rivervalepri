@@ -1,5 +1,4 @@
 collections:
   mission-and-vision:
     output: true
-    order:
-      - Mission&Vision.md
+    order: []
