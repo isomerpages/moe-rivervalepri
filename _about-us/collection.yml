@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - General Information/National School Games.md
       - General Information/Waiting List Application Form.md
       - General Information/Financial Assistance.md
       - General Information/.keep
