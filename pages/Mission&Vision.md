@@ -3,24 +3,20 @@ title: Mission&Vision
 permalink: /Mission-Vision
 description: ""
 ---
-
-
-
-
 Mission & Vision
 ================
 
   
 
-**OUR MISSION
+**OUR MISSION**
   
 To inspire and develop Riverlites to be responsible citizens and passionate learners.
 
-**OUR VISION  
+**OUR VISION**  
   
 The Rivervale - School of Excellence, Individuals of Character
 
-**OUR CORE VALUES  
+**OUR CORE VALUES**  
 
 
 o       Respect
@@ -39,6 +35,6 @@ o       Excellence
 
 o       Teamwork  
 
-**SCHOOL MOTTO  
+**SCHOOL MOTTO**  
   
 Succeed & Excel
