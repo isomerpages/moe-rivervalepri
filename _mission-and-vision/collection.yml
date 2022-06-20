@@ -2,4 +2,4 @@ collections:
   mission-and-vision:
     output: true
     order:
-      - example-page.md
+      - Mission&Vision.md
