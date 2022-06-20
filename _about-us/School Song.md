@@ -3,7 +3,6 @@ title: School Song
 permalink: /School-Song
 description: ""
 ---
-  
 **The Emblem of Rivervale Primary School**
 
   
@@ -53,6 +52,3 @@ Keep on Striving always to be the best
 Honour to our crest indeed
 
 **Chorus** **(Repeat)**
-
-
-
