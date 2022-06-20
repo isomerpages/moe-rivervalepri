@@ -27,3 +27,5 @@ description: ""
 [www.rivervalepri.moe.edu.sg](https://www.rivervalepri.moe.edu.sg/)
 
 **Address:** 80, RIVERVALE DRIVE, SINGAPORE 545092
+
+[School Rules and Regulations](/Mission-Vision/Permalink)
