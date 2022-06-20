@@ -2,7 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - Our Staff/.keep
       - General Information/.keep
       - General Information/General Information.md
       - General Information/School Rules and Regulations.md
@@ -13,3 +12,4 @@ collections:
       - School Song.md
       - Our Location.md
       - Our Service Providers.md
+      - Our Staff/.keep
