@@ -4,7 +4,7 @@ permalink: /about-us/Our-Staff/School-Advisory-Committee
 description: ""
 third_nav_title: Our Staff
 ---
-![](/images/photo6160989144705250857.jpg)
+![](/images/photo6160989144705250931.jpg)
 
 ![](/images/photo6160989144705250860.jpg)
 
