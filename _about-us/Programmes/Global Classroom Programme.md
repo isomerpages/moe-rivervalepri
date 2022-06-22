@@ -18,12 +18,12 @@ The design of the programme takes into consideration the width and depth to achi
 &nbsp; &nbsp;
 	 
 	 
-### 	 
+
 ### 2019 Global Classroom
 
-## 
+ 
 ##### Summary of Learning Journeys during Global Classroom week, 11-15 March 2019
-## 
+ 
 
   
 
