@@ -4,7 +4,6 @@ permalink: /about-us/Programmes/Global-Classroom-Programme
 description: ""
 third_nav_title: Programmes
 ---
-  
 With the emphasis on developing 21st&nbsp;Century Competencies in our pupils and the recognition that schools’ internationalization efforts strongly support the Desired Outcomes of Education, Global Classroom is designed to support these outcomes. It provides our pupils with the borderless classrooms where they learn to be independent and confident.
 
 The design of the programme takes into consideration the width and depth to achieve the 21CC Student Outcomes and the strategic objectives of
