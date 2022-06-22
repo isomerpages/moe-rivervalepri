@@ -2,7 +2,7 @@ collections:
   about-us:
     output: true
     order:
-      - Programmes/Programmes.md
+      - Programmes/Learning for Life Programmes.md
       - Programmes/.keep
       - General Information/.keep
       - General Information/General Information.md
