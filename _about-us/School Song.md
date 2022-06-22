@@ -5,7 +5,7 @@ description: ""
 ---
 **The Emblem of Rivervale Primary School**
   
-
+![](/images/photo6167760560079352290.jpg)
 
 The book symbolises "knowledge & wisdom" .
 The Chinese characters means "greatness through learning".
