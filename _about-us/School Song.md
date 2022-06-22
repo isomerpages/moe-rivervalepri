@@ -4,16 +4,7 @@ permalink: /School-Song
 description: ""
 ---
 **The Emblem of Rivervale Primary School**
-
   
-
-  
-
-
-
-
-  
-
 
 
 The book symbolises "knowledge & wisdom" .
