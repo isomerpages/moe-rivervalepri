@@ -2,9 +2,9 @@ collections:
   about-us:
     output: true
     order:
-      - Programmes/Global Classroom Programme.md
-      - Programmes/Learning for Life Programmes.md
       - Programmes/.keep
+      - Programmes/Learning for Life Programmes.md
+      - Programmes/Global Classroom Programme.md
       - General Information/.keep
       - General Information/General Information.md
       - General Information/School Rules and Regulations.md
