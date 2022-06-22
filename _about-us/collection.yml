@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Events.md
       - Programmes.md
       - General Information/.keep
       - General Information/General Information.md
