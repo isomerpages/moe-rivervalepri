@@ -2,8 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - Events.md
-      - Programmes.md
       - General Information/.keep
       - General Information/General Information.md
       - General Information/School Rules and Regulations.md
@@ -30,3 +28,5 @@ collections:
       - Our Staff/EAS Staff.md
       - Our Staff/School Supporting Staff.md
       - Our Staff/Senior School Counsellor.md
+      - Programmes.md
+      - Events.md
