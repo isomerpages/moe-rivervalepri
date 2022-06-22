@@ -41,3 +41,21 @@ The webpage aims to promote the visibility and accessibility of the counselling 
 &nbsp;Click:
 
 &nbsp;**[Healthy Nuggets for a Happy Child](https://rivervalepri.moe.edu.sg/qql/slot/u143/About-Us/Staff/Counsellor/Healthy%20Nuggets%20for%20a%20Happy%20Child.pdf)**
+
+### **Nuggets Takeaway**
+
+  
+[Boss Your Brain.pdf](https://rivervalepri.moe.edu.sg/qql/slot/u143/About-Us/Staff/Counsellor/Boss%20Your%20Brain.pdf)   
+[A Story About Feelings.pdf](https://rivervalepri.moe.edu.sg/qql/slot/u143/About-Us/Staff/Counsellor/2015/September%202015_A%20Story%20About%20Feelings.pdf)  
+[Awesome August.pdf](https://rivervalepri.moe.edu.sg/qql/slot/u143/About-Us/Staff/Counsellor/2014/Nuggets_Takeaway_Awesome_August_2014.pdf)  
+[Happy & Positive YOU.pdf](https://rivervalepri.moe.edu.sg/qql/slot/u143/About-Us/Staff/Counsellor/2014/September_Nuggets_Takeaway_Becoming_a_Happy_&_Positive_YOU.pdf)  
+[Helping My Friend.pdf](https://rivervalepri.moe.edu.sg/qql/slot/u143/About-Us/Staff/Counsellor/2015/April_2015_Helping_My_Friend_Culture_of_Love-Care-Support.pdf)  
+[How are you feeling.pdf](https://rivervalepri.moe.edu.sg/qql/slot/u143/About-Us/Staff/Counsellor/2014/Joyful_July_14_Jul_2014.pdf)  
+[Love & Care.pdf](https://rivervalepri.moe.edu.sg/qql/slot/u143/About-Us/Staff/Counsellor/2014/Nuggets%20Takeaway%20from%20Your%20School%20Counsellor_APR_MAY%20Issue%202014.pdf)  
+[Managing your Grrr....pdf](https://rivervalepri.moe.edu.sg/qql/slot/u143/About-Us/Staff/Counsellor/2016/July%202016_Managing%20your%20Grrr....pdf)  
+[Oral-Motor Workout.pdf](https://rivervalepri.moe.edu.sg/qql/slot/u143/About-Us/Staff/Counsellor/2015/August%202015_Oral-Motor%20Workout.pdf)  
+[Relaxation Exercises.pdf](https://rivervalepri.moe.edu.sg/qql/slot/u143/About-Us/Staff/Counsellor/2014/October_Nuggets_Takeaway_Relaxation_Exercises_2014.pdf)  
+[Starting Big School.pdf](https://rivervalepri.moe.edu.sg/qql/slot/u143/About-Us/Staff/Counsellor/2015/Jan_2015_Nuggets_Takeaway_Starting_Big_School_P1_Induction_5_Jan_2015.pdf)  
+[Stress Busters.pdf](https://rivervalepri.moe.edu.sg/qql/slot/u143/About-Us/Staff/Counsellor/2015/July%202015_Stress%20Busters.pdf)  
+[Transition Tips for P1 Parents.pdf](https://rivervalepri.moe.edu.sg/qql/slot/u143/About-Us/Staff/Counsellor/2015/Guidance_Branch-MOE_Tips_for_P1_Parents_to_Ease_Transitions_Slides_for_Schools_2015.pdf)  
+[When Someone Special Dies.pdf](https://rivervalepri.moe.edu.sg/qql/slot/u143/About-Us/Staff/Counsellor/2016/Feb%202016_When%20Someone%20Special%20Dies_Grief%20&%20Loss.pdf)
