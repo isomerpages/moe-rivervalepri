@@ -71,3 +71,5 @@ The school aims to infuse the inculcation of the 3Cs through various school leve
 **[Primary 4 Booster](/Primary-4-Booster)**
 
 **[P2 Junior Level Leader Training](/P2-Junior-Level-Leader-Training)**
+
+**[Staff Appreciation Week 2020](/Staff-Appreciation-Week-2020)**
