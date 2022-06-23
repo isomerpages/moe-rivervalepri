@@ -11,7 +11,7 @@ Equip every student with mathematical problem-solving ability through the acquis
 
 ### Vision
 ------
-## 
+
 ##### All students are able to apply mathematical problem-solving ability in their daily lives.  
 
 ### Department Members
