@@ -1,4 +1,5 @@
 collections:
   curriculum-departments:
     output: true
-    order: []
+    order:
+      - English/.keep
