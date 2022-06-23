@@ -62,3 +62,8 @@ Aspiring leaders, Individuals of Character
 ![s2.jpg](https://rivervalepri.moe.edu.sg/qql/slot/u143/Curriculum/Departments/SDT/Student%20Management/s2.jpg)  
 ![s3.jpg](https://rivervalepri.moe.edu.sg/qql/slot/u143/Curriculum/Departments/SDT/Student%20Management/s3.jpg)  
 ![S4.jpg](https://rivervalepri.moe.edu.sg/qql/slot/u143/Curriculum/Departments/SDT/Student%20Management/S4.jpg)
+
+| Theme      | Care for the school environment                                                                                                          |
+|------------|------------------------------------------------------------------------------------------------------------------------------------------|
+| Highlights | Students have to tidy up the area where they took their meals after recess, using the cloths provided at the side of the canteen tables. |
+| OBJECTIVES | To educate the students to take ownership and be responsible for the up-keeping of the school environment.                               |
