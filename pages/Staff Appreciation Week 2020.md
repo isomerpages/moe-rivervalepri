@@ -11,8 +11,8 @@ description: ""
 Staff Appreciation Week Programme&nbsp;is to allow students to appreciate efforts of non-teaching staff in school and to present them care packs. Student Leaders worked together to plan ideas through Student Learning Space portal to show their appreciation to non-teaching staff. They prepared care packs and ‘Thank you’ cards to show their appreciation. The programme helps them to show compassion and to work in teams effectively.
 
 
-
 **
+
 
 <img style="width:120%;height:120%" src="/images/C1%20(2).png">
 																																					 
