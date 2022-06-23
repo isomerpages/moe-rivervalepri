@@ -2,6 +2,7 @@ collections:
   curriculum-departments:
     output: true
     order:
+      - Student Development Team/.keep
       - Aesthetics/.keep
       - PE and CCA/.keep
       - ICT/.keep
