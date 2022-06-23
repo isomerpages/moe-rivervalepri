@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Programmes/.keep
-      - Programmes/Global Classroom Programme.md
       - General Information/.keep
       - General Information/General Information.md
       - General Information/School Rules and Regulations.md
