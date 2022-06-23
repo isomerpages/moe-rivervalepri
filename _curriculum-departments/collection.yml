@@ -2,6 +2,7 @@ collections:
   curriculum-departments:
     output: true
     order:
+      - English/Our School Library.md
       - English/English.md
       - English/.keep
       - Mathematics/.keep
