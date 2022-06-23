@@ -2,11 +2,11 @@ collections:
   curriculum-departments:
     output: true
     order:
-      - Student Development Team/.keep
-      - Aesthetics/.keep
-      - PE and CCA/.keep
-      - ICT/.keep
-      - Mother Tongue/.keep
-      - Science/.keep
-      - Mathematics/.keep
       - English/.keep
+      - Mathematics/.keep
+      - Science/.keep
+      - Mother Tongue/.keep
+      - ICT/.keep
+      - PE and CCA/.keep
+      - Aesthetics/.keep
+      - Student Development Team/.keep
