@@ -26,3 +26,7 @@ _It was a good learning experience for me to learn about my role as a Junior Lev
 
 _I have learnt to be a good role model to my peers. It was an enriching experience for me to learn about 3Cs: Compassion, Confidence and Commitment that will shape my role as a Junior Level Leader._
 
+![](/images/photo6172264159706722723.jpg)
+Ms Pavitra trained P2 Junior Level Leaders of the Student Leadership Framework
+![](/images/photo6172264159706722722.jpg)
+Exco Prefects trained P2 Junior Level Leaders of their roles and responsibilities
