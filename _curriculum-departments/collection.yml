@@ -2,4 +2,5 @@ collections:
   curriculum-departments:
     output: true
     order:
+      - Mathematics/.keep
       - English/.keep
