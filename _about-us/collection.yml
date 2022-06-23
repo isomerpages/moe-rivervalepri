@@ -2,7 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - Programmes/.keep
       - General Information/.keep
       - General Information/General Information.md
       - General Information/School Rules and Regulations.md
