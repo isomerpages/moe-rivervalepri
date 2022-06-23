@@ -2,6 +2,7 @@ collections:
   curriculum-departments:
     output: true
     order:
+      - PE and CCA/.keep
       - ICT/.keep
       - Mother Tongue/.keep
       - Science/.keep
