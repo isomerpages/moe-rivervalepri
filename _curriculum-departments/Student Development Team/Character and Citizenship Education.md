@@ -251,3 +251,6 @@ At Rivervale, the focus of CW is to help our Riverlites become responsible digit
 
 ![M8.png](https://rivervalepri.moe.edu.sg/qql/slot/u143/Curriculum/Departments/SDT/CCE/2021/M8.png)  
 ![M9.PNG](https://rivervalepri.moe.edu.sg/qql/slot/u143/Curriculum/Departments/SDT/CCE/2021/M9.PNG)
+
+|  |  |
+|---|---|
