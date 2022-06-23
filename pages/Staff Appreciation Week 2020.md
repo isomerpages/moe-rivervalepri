@@ -12,13 +12,11 @@ Staff Appreciation Week Programme&nbsp;is to allow students to appreciate effort
 
 
 
+**
 
-![](/images/C1%20(1).png)
-
-
-<img src="/images/C1%20(1).png"*style="width:25%">
+<img style="width:120%;height:120%" src="/images/C1%20(2).png">
+																																					 
 
 
 **
 
-![](/images/C2.png)
