@@ -15,10 +15,6 @@ links:
         url: /permalink
       - title: Our Staff
         url: /about-us/Our-Staff/School-Advisory-Committee
-      - title: Programmes
-        url: /about-us/Learning-for-Life-Programmes
-      - title: Events
-        url: /permalink
   - title: CURRICULUM DEPARTMENTS
     url: /permalink
     sublinks:
@@ -92,7 +88,9 @@ links:
   - title: Programmes
     url: /permalink
     sublinks:
-      - title: Submenu Title
+      - title: Learning for Life Programme
         url: /permalink
-      - title: Submenu Title
+      - title: Global Classroom Programme
+        url: /permalink
+      - title: Events
         url: /permalink
