@@ -41,3 +41,5 @@ Badminton is a popular sport in the school. Students will be put into the Fun te
 | 2016 | Nicole Ng | Xinmin Secondary School |
 | 2016 | Nge Joo Jie | Singapore Sports School |
 | 2015 | Elton Ang Jiale | Chung Cheng High School (Main) |
+
+![](/images/Sports/Badminton/photo6181643878654914894.jpg)
