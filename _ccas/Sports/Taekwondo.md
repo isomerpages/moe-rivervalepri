@@ -21,16 +21,16 @@ Taekwondo is a Korean martial art, characterised by its emphasis on head-height 
 | Friday 7.30 a.m. to 9.00 a.m. | IBC | Mdm Mary Chua  Mdm Nora Mdm Lua Hao Ting  | P2 to P6 |
 | Friday 2.00 p.m. to 4.00 p.m.   | IBC | Mdm Mary Chua Mdm Nora Mdm Lua Hao Ting | P3 to P6 |
 
-![](/images/Sports/photo6172524464789631360.jpg)
+![](/images/Sports/Taekwondo/photo6172524464789631360.jpg)
 Xu Xiao Han of 2 Harmony at the National Schools Taekwondo Championship Poomsae 2018
 
-![](/images/Sports/photo6172524464789631359.jpg)
+![](/images/Sports/Taekwondo/photo6172524464789631359.jpg)
 Taekwondo CCA booth
 
-![](/images/Sports/t1.png)
+![](/images/Sports/Taekwondo/t1.png)
 
-![](/images/Sports/t2.png)
+![](/images/Sports/Taekwondo/t2.png)
 
-![](/images/Sports/t3.png)
+![](/images/Sports/Taekwondo/t3.png)
 
-![](/images/Sports/t4.png)
+![](/images/Sports/Taekwondo/t4.png)
