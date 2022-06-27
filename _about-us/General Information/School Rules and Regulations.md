@@ -4,7 +4,6 @@ permalink: /School-Rules-and-Regulations
 description: ""
 third_nav_title: General Information
 ---
-
 **1.**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Basic Rules**
 
 **1.1**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**General Conduct**
@@ -207,10 +206,6 @@ third_nav_title: General Information
 
 &nbsp; 6.3.8&nbsp; &nbsp;Boys must be in neat appearance, clean shaven and no facial hair is allowed.
 
-  
+![](/images/School/photo6183895678468600363.jpg)
 
-  
-![Boys Attire_ Handbook.JPG](https://rivervalepri.moe.edu.sg/qql/slot/u143/About-Us/Rules_n_Regulations/Boys%20Attire_%20Handbook.JPG)
-
-  
-![Girls Attire_ Handbook.JPG](https://rivervalepri.moe.edu.sg/qql/slot/u143/About-Us/Rules_n_Regulations/Girls%20Attire_%20Handbook.JPG)
+![](/images/School/photo6183895678468600362.jpg)
