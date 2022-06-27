@@ -2,6 +2,7 @@ collections:
   ccas:
     output: true
     order:
+      - Performing Arts/Indian Dance.md
       - Performing Arts/Malay Dance.md
       - Performing Arts/Speech & Drama Club.md
       - Performing Arts/Brass Band.md
