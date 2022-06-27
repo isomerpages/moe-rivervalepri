@@ -25,3 +25,9 @@ To be one of the top football school in Sengkang and Punggol area
 | 2019 | Inter-School Futsal Challenge (Bowl Tournament) | 4th |
 | 2015 | North Zone Football Championship Senior Division | 3rd |
 | 2013 | North Zone Football Championship Junior Division | 3rd |
+
+![](/images/Sports/Football/photo6181643878654914891.jpg)4th in position for Inter-School Futsal Challenge 2019 (Bowl Tournament)
+
+![](/images/Sports/Football/photo6181643878654914892.jpg)Milo Soccer Clinic with Coach Fandi Ahmad (Photo was taken in 2019)
+
+![](/images/Sports/Football/photo6181643878654914890.jpg)CCA VIA with students from Star Learners (Photo was taken in 2019)
