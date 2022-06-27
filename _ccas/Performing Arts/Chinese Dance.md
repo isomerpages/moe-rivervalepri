@@ -46,4 +46,14 @@ A confident and graceful dancer in every Riverlite
 #### CCA VIA
 -------
 
-![](/images/Performing%20Arts/Chinese%20Dance/photo6183895678468600353.jpg)
+<img style="width:500%;height:100%" src="/images/Performing%20Arts/Chinese%20Dance/photo6183895678468600353.jpg">
+Chinese Dance VIA @ Star Learners
+
+#### Weekly Practice
+---------------
+
+![](/images/Performing%20Arts/Chinese%20Dance/photo6183895678468600349.jpg)
+
+![](/images/Performing%20Arts/Chinese%20Dance/photo6183895678468600354.jpg)
+
+![](/images/Performing%20Arts/Chinese%20Dance/photo6183895678468600352.jpg)
