@@ -42,7 +42,26 @@ Badminton is a popular sport in the school. Students will be put into the Fun te
 | 2016 | Nge Joo Jie | Singapore Sports School |
 | 2015 | Elton Ang Jiale | Chung Cheng High School (Main) |
 
+**2018 PINES Cup**
+
 <img style="width:70%;height:50%" src="/images/Sports/Badminton/photo6181643878654914894.jpg">
  
   <img style="width:70%;height:50%" src="/images/Sports/Badminton/photo6181643878654914899.jpg">
+	
+<img style="width:70%;height:50%" src="/images/photo6181643878654914898.jpg">
 
+![](/images/Sports/Badminton/photo6181643878654914902.jpg)
+
+![](/images/Sports/Badminton/photo6181643878654914904.jpg)
+
+![](/images/Sports/Badminton/photo6181643878654914901.jpg)
+
+![](/images/Sports/Badminton/photo6181643878654914903.jpg)
+
+![](/images/Sports/Badminton/photo6181643878654914900.jpg)
+
+![](/images/Sports/Badminton/photo6181643878654914897.jpg)
+
+![](/images/Sports/Badminton/photo6181643878654914896.jpg)
+
+![](/images/Sports/Badminton/photo6181643878654914895.jpg)
