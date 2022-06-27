@@ -42,4 +42,7 @@ Badminton is a popular sport in the school. Students will be put into the Fun te
 | 2016 | Nge Joo Jie | Singapore Sports School |
 | 2015 | Elton Ang Jiale | Chung Cheng High School (Main) |
 
-![](/images/Sports/Badminton/photo6181643878654914894.jpg)
+<img style="width:70%;height:50%" src="/images/Sports/Badminton/photo6181643878654914894.jpg">
+ 
+  <img style="width:70%;height:50%" src="/images/Sports/Badminton/photo6181643878654914899.jpg">
+
