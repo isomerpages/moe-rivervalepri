@@ -5,9 +5,10 @@ description: ""
 third_nav_title: General Information
 ---
 
-![](/images/school.jpg)
+![](/images/School/school.jpg)
 
-![](/images/school2.jpeg)
+![](/images/School/school2.jpeg)
+
 **School Hours**
 
 0730 - 1330   
@@ -29,5 +30,3 @@ third_nav_title: General Information
 [www.rivervalepri.moe.edu.sg](https://www.rivervalepri.moe.edu.sg/)
 
 **Address:** 80, RIVERVALE DRIVE, SINGAPORE 545092
-
-
