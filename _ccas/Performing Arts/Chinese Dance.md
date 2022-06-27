@@ -37,7 +37,13 @@ A confident and graceful dancer in every Riverlite
 
   
 
-**2018 SYF Distinction - 年二十八洗邋遢**  
+**2018 SYF Distinction - 年二十八洗邋遢**
 
-  
+![](/images/Performing%20Arts/Chinese%20Dance/photo6183895678468600351.jpg)
 
+![](/images/Performing%20Arts/Chinese%20Dance/photo6183895678468600350.jpg)
+
+#### CCA VIA
+-------
+
+![](/images/Performing%20Arts/Chinese%20Dance/photo6183895678468600353.jpg)
