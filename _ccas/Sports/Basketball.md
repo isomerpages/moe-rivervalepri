@@ -37,25 +37,25 @@ Basketball is a team sports which requires utmost concentration and teamwork to 
 
 **2019**
 
-![](/images/Sports/photo6172524464789631373.jpg)
+![](/images/Sports/Basketball/photo6172524464789631373.jpg)
 SPSSC Basketball National Junior Division 2019: Achievement Pin awarded
 
-![](/images/Sports/photo6172524464789631372.jpg)
+![](/images/Sports/Basketball/photo6172524464789631372.jpg)
 N1 Cluster Game 2019: 2nd Runner up
 
 **2018**
 
-![](/images/Sports/photo6172524464789631367.jpg)
+![](/images/Sports/Basketball/photo6172524464789631367.jpg)
 N1 Cluster Game 2018: Team B – 1st Runner up
 
-![](/images/Sports/photo6172524464789631371.jpg)
+![](/images/Sports/Basketball/photo6172524464789631371.jpg)
 N1 Cluster Game 2018: Team A – 2nd Runner up
 
-![](/images/Sports/photo6172524464789631368.jpg)
+![](/images/Sports/Basketball/photo6172524464789631368.jpg)
 Jump-Shot!
 
-![](/images/Sports/photo6172524464789631369.jpg)
+![](/images/Sports/Basketball/photo6172524464789631369.jpg)
 Senior Boys with their coach
 
-![](/images/Sports/photo6172524464789631370.jpg)
+![](/images/Sports/Basketball/photo6172524464789631370.jpg)
 Rivervale basketball camaraderie
