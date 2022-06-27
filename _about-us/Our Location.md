@@ -3,7 +3,7 @@ title: Our Location
 permalink: /Our-Location
 description: ""
 ---
-![School Location.png](https://rivervalepri.moe.edu.sg/qql/slot/u143/About-Us/Location.png)
+![](/images/School/Location.png)
 
 *   **We are located @**  
     80, RIVERVALE DRIVE, SINGAPORE 545092
