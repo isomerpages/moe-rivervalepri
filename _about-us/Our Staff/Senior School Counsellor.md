@@ -10,33 +10,33 @@ third_nav_title: Our Staff
 
 The webpage aims to promote the visibility and accessibility of the counselling service and related programmes at Rivervale Primary School. It serves as an online outreach to the Riverlites and the various stakeholders in a collaborative effort to enhance the well-being of children.
 
-**_![School Counsellor - Responsibilities](https://rivervalepri.moe.edu.sg/qql/slot/u143/About-Us/Staff/Counsellor/Ph2.jpg.png)_**
+![](/images/School/photo6183895678468600372.jpg)
 
 **Counselling Room**
 
-![Counselling Room Entrance](https://rivervalepri.moe.edu.sg/qql/slot/u143/About-Us/Staff/Counsellor/Ph3.jpg)
+![](/images/School/photo6183895678468600369.jpg)
 
 **Outside the Counselling Room**
 
-![Outside Counselling Room](https://rivervalepri.moe.edu.sg/qql/slot/u143/About-Us/Staff/Counsellor/Ph4.jpg)
+![](/images/School/photo6183895678468600367.jpg)
 
 &nbsp;
 
 **Counselling Corner…**
 
-**![Counselling Room Interior 01](https://rivervalepri.moe.edu.sg/qql/slot/u143/About-Us/Staff/Counsellor/Ph5.jpg)**
+![](/images/School/photo6183895678468600368.jpg)
 
 **A Safe Space…**
 
-![A safe space.png](https://rivervalepri.moe.edu.sg/qql/slot/u143/A%20safe%20space.png)&nbsp;
+![](/images/School/photo6183895678468600373.jpg)
 
-**![Self Help Book - Book Cover](https://rivervalepri.moe.edu.sg/qql/slot/u143/About-Us/Staff/Counsellor/.tn.Ph7.jpg.mid.jpg)**
+![](/images/School/photo6183895678468600371.jpg)
 
 **A Self-Help Book**
 
 ****for Children****
+![](/images/School/photo6183895678468600370.jpg)
 
-![Self Help Book - TOC](https://rivervalepri.moe.edu.sg/qql/slot/u143/About-Us/Staff/Counsellor/.tn.Nu1.png.mid.jpg)![Self Help Book - Intro](https://rivervalepri.moe.edu.sg/qql/slot/u143/About-Us/Staff/Counsellor/Ph8.jpg)
 
 &nbsp;Click:
 
