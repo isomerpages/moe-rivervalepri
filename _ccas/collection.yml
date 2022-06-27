@@ -2,6 +2,8 @@ collections:
   ccas:
     output: true
     order:
+      - Performing Arts/.keep
+      - Performing Arts/Brass Band.md
       - Performing Arts/Chinese Dance.md
       - Performing Arts/Choir.md
       - Performing Arts/Fusion Dance.md
@@ -9,8 +11,6 @@ collections:
       - Performing Arts/Indian Dance.md
       - Performing Arts/Malay Dance.md
       - Performing Arts/Speech & Drama Club.md
-      - Performing Arts/Brass Band.md
-      - Performing Arts/.keep
       - Sports/Badminton.md
       - Sports/Football.md
       - Sports/Hockey.md
