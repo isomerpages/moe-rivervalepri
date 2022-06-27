@@ -29,4 +29,44 @@ To develop our pupils’ potential to the fullest physically and mentally while 
 #### 2019 National Junior Championship
 ---------------------------------
 
-![](/images/Hockey/photo6181643878654914881.jpg)
+<img style="width:70%;height:50%" src="/images/Hockey/photo6181643878654914881.jpg">
+Some words of encouragement from our principal before the junior boys headed off for their afternoon game at MOE Evan Pitch!
+
+![](/images/Hockey/photo6181643878654914882.jpg)
+Our P5 junior boys cheering before battling with the scorching sun!
+
+![](/images/Hockey/photo6181643878654914879.jpg)
+Our resilient P4s who stood by one another throughout the matches which lasted till late afternoons! Well done boys!
+
+![](/images/Hockey/photo6181643878654914878.jpg)
+Our P4 boys in action!
+
+#### P6 Hockey Senior Boys Championship 2019
+---------------------------------------
+
+![](/images/Hockey/photo6181643878654914876.jpg)
+Smiling after a great game with Sengkang Primary under the scorching sun.
+
+![](/images/Hockey/photo6181643878654914875.jpg)
+Our P6 Senior Boys during their Senior Championship 2019 at MOE Evan Hockey Pitch
+
+![](/images/Hockey/photo6181643878654914874.jpg)
+A quick water break and listening to Coach Farhan’s strategy in tackling the opponent team!
+
+#### VIA at Rivervale Star Learners 2019
+-----------------------------------
+
+<img style="width:70%;height:50%" src="/images/Hockey/photo6181643878654914880.jpg">
+Our p6 boys guiding our star learners during their Values In Action programme!
+
+![](/images/Hockey/photo6181643878654914877.jpg)
+Showing our Star Learners how to make paper aeroplanes
+
+![](/images/Hockey/photo6181643878654914873.jpg)
+Time to fly those aeroplanes!
+
+![](/images/Hockey/photo6181643878654914872.jpg)
+We are very glad that our little Star Learners and our boys bonded well throughout the session!
+
+
+
