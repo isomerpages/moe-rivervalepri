@@ -21,6 +21,6 @@ Netball is a female sport in Rivervale Primary School.  Primary 2 to Primary 6 
 | Monday 2.30 p.m. to 5.30 p.m. | ISH | Mdm Liyana Mdm Hartini Mdm Hanani | Selected students (P3-P6) |
 | Friday 7.30 a.m. to 9.00 a.m. | Parade Square | Mdm Liyana Jawini Mdm Hartini | All P2-P6 students |
 
-![](/images/n1.png)
+![](/images/Sports/Netball/n1.png)
 
-![](/images/n2.png)
+![](/images/Sports/Netball/n2.png)
