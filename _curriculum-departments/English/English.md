@@ -56,39 +56,27 @@ _Good Morning, Rivervale!_
 &nbsp;All Riverlites are given an opportunity to tell a story, recite poems, do choral reading or share a topic of their interest&nbsp;through zoom. Through this sharing, the students will develop and improve their oral presentation skills whilst boosting their self-confidence. Promotion of reading a wide genre of books is advocated through this platform.
 
   
+![](/images/Curriculum/English/photo6183895678468600413.jpg)
 
-![EL1.jpg](https://rivervalepri.moe.edu.sg/qql/slot/u143/Curriculum/Departments/English/2021/EL1.jpg)
+![](/images/Curriculum/English/photo6183895678468600412.jpg)
 
-  
+![](/images/Curriculum/English/photo6183895678468600409.jpg)
 
-![EL2.jpg](https://rivervalepri.moe.edu.sg/qql/slot/u143/Curriculum/Departments/English/2021/EL2.jpg)  
-
-![el3.jpg](https://rivervalepri.moe.edu.sg/qql/slot/u143/Curriculum/Departments/English/2021/el3.jpg)
-
-  
-
-![el4.jpg](https://rivervalepri.moe.edu.sg/qql/slot/u143/Curriculum/Departments/English/2021/el4.jpg)  
+![](/images/Curriculum/English/photo6183895678468600411.jpg)
 
 **_2021 Language Carnival_**
 
 English department collaborated&nbsp;with the Mother&nbsp;Tongue department to hold a Language Carnival for Primary 1 and Primary 2. This aims to develop students’ passion for the languages, and arouse interest in learning them through these fun games.&nbsp;
 
   
+![](/images/Curriculum/English/photo6183895678468600407.jpg)
 
-![el5.jpg](https://rivervalepri.moe.edu.sg/qql/slot/u143/Curriculum/Departments/English/2021/el5.jpg)  
+![](/images/Curriculum/English/photo6183895678468600410.jpg)
 
-![el6.jpg](https://rivervalepri.moe.edu.sg/qql/slot/u143/Curriculum/Departments/English/2021/el6.jpg)
+![](/images/Curriculum/English/photo6183895678468600408.jpg)
 
-  
+![](/images/Curriculum/English/photo6183895678468600406.jpg)
 
-![el7.jpg](https://rivervalepri.moe.edu.sg/qql/slot/u143/Curriculum/Departments/English/2021/el7.jpg)  
+![](/images/Curriculum/English/photo6183895678468600404.jpg)
 
-![el8.jpg](https://rivervalepri.moe.edu.sg/qql/slot/u143/Curriculum/Departments/English/2021/el8.jpg)
-
-  
-
-![el9.jpg](https://rivervalepri.moe.edu.sg/qql/slot/u143/Curriculum/Departments/English/2021/el9.jpg)
-
-  
-
-![el10.jpg](https://rivervalepri.moe.edu.sg/qql/slot/u143/Curriculum/Departments/English/2021/el10.jpg)
+![](/images/Curriculum/English/photo6183895678468600405.jpg)
