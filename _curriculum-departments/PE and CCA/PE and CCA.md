@@ -43,18 +43,17 @@ Through these platforms, the students internalise the meaning of teamwork, sport
 #### Structured Recess Activity
 --------------------------
 
-
-![pe1.jpg](https://rivervalepri.moe.edu.sg/qql/slot/u143/Curriculum/Departments/PE/pe1.jpg)  P1 and P2 classes are scheduled for SRA daily. P3 to P6 students to sign up for the individual Beep Challenge and Agility Challenge.
+![](/images/Curriculum/PE%20and%20CCA/123123pe1.jpg)
+P1 and P2 classes are scheduled for SRA daily. P3 to P6 students to sign up for the individual Beep Challenge and Agility Challenge.
 
   
+![](/images/Curriculum/PE%20and%20CCA/1231231.jpg)
+![Structured Recess Activity - Photo 01] Primary 1 and Primary 2 students participating in the Structured Recess Activity.  
 
-![Structured Recess Activity - Photo 01](https://rivervalepri.moe.edu.sg/qql/slot/u143/Curriculum/Departments/PE/1.jpg) Primary 1 and Primary 2 students participating in the Structured Recess Activity.  
+![](/images/Curriculum/PE%20and%20CCA/1232.jpg)
+Students showing off their token they got from participating in the Structured Recess Activity.  
 
-
-![Structured Recess Activity - Photo 02](https://rivervalepri.moe.edu.sg/qql/slot/u143/Curriculum/Departments/PE/2.jpg) Students showing off their token they got from participating in the Structured Recess Activity.  
-
-
-![Structured Recess Activity - Photo 03](https://rivervalepri.moe.edu.sg/qql/slot/u143/Curriculum/Departments/PE/3.jpg) Primary 3 and Primary 4 Structured Recess Activity. Inter-class modified Captain’s Ball.  
+![](/images/Curriculum/PE%20and%20CCA/3231.jpg) Primary 3 and Primary 4 Structured Recess Activity. Inter-class modified Captain’s Ball.  
 
 ![](/images/Curriculum/PE%20and%20CCA/photo6183895678468600774.jpg)
 Primary 5 and Primary 6 Structured Recess Activity. Interclass modified&nbsp;Captain’s Ball.  
