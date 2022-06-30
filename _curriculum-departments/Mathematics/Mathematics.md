@@ -65,12 +65,10 @@ Primary 5 and 6 seniors design and facilitate the various activities for the Pri
 P1 &amp; P2 Math Fair 2018 were held on 8th November &amp; 17th May 2018 respectively. Guided by Mdm Liyana and Mrs Thomas, a group of Primary 5 and 6 seniors helped design and facilitate the various activities. The aim of this Math Fair is to allow the P1s and P2s to appreciate the application of mathematics concepts and skills outside the classroom while instilling the joy of learning of mathematics through physical activities.&nbsp;
 
   
+![](/images/Curriculum/Mathematics/photo6183895678468600418.jpg)
 
-![MF.png](https://rivervalepri.moe.edu.sg/qql/slot/u143/Curriculum/Departments/Maths/MF.png)
+![](/images/Curriculum/Mathematics/photo6183895678468600417.jpg)
 
-  
-
-![mf2.PNG](https://rivervalepri.moe.edu.sg/qql/slot/u143/Curriculum/Departments/Maths/mf2.PNG)
 
 *   **Maths Parents Workshop**  
     
@@ -79,23 +77,7 @@ P1 &amp; P2 Math Fair 2018 were held on 8th November &amp; 17th May 2018 respect
 
 Working in strong partnership with our key stakeholders to support Riverlites' learning of Mathematics.
 
-![Upper Primary Workshop Photos](https://rivervalepri.moe.edu.sg/qql/slot/u143/Curriculum/Departments/Maths/1.jpg)
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
+![](/images/Curriculum/Mathematics/photo6183895678468600416.jpg)
 
 Upper Primary Workshop
 
