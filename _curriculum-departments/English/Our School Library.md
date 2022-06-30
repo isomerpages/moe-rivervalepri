@@ -4,7 +4,7 @@ permalink: /curriculum-departments/English/Our-School-Library
 description: ""
 third_nav_title: English
 ---
-![lib1.PNG](https://rivervalepri.moe.edu.sg/qql/slot/u143/Curriculum/Departments/ICT/library/lib1.PNG)
+![](/images/Curriculum/English/photo6183895678468600403.jpg)
 
 Library Guidelines
 ------------------
@@ -42,7 +42,8 @@ OPAC stands for Online Public Access Catalogue. It allows you to search through 
 
 You may access OPAC at home via the link: [https://schoolibrary.moe.edu.sg/rivervalepri](https://schoolibrary.moe.edu.sg/rivervalepri)
 
-![lib2.png](https://rivervalepri.moe.edu.sg/qql/slot/u143/Curriculum/Departments/ICT/library/lib2.png)
+![](/images/Curriculum/English/photo6183895678468600402.jpg)
+
 
   
 
@@ -58,6 +59,4 @@ You may access SERR at home via OPAC or the following link:
 
   
 
-  
-
-![lib3.png](https://rivervalepri.moe.edu.sg/qql/slot/u143/Curriculum/Departments/ICT/library/lib3.png)
+![](/images/Curriculum/English/photo6183895678468600401.jpg)
