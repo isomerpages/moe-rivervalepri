@@ -168,3 +168,44 @@ In providing an engaging outdoor learning experience on environmental issue, our
 
 In providing an engaging outdoor learning experience on environmental issue, our school sent our P4 and P5 Environment Monitors for learning journey to Electricity Efficiency Centre (organized by SP Services). This learning journey is purposefully intended to enhance awareness on electricity efficiency, educate our students on energy-saving tips and practise good energy efficiency habits.
 
+![](/images/Curriculum/Science/photo_6192618825766252689_x.jpg)
+
+#### Students’ Voices
+----------------
+
+  
+
+In the provision of an avenue to hear our students on environment issues and concerns, we conducted a Students’ Voices during Form Teacher Guidance Programme, FTGP. Form teachers shared and reiterated on the significance of 3Rs in our life. Students took a pledge on their responsibilities towards our environment and they discussed on the likely difficulties/problems in some students not bringing recyclables from home for the weekly recycling programme in the school and how we should do to encourage them to cultivate such good habit.
+
+![](/images/Curriculum/Science/photo6183895678468600584.jpg)
+
+  
+#### Earth Hour
+-------------
+
+  
+
+Yearly, we commemorate Earth Hour with a series of activities to reinforce and spread the green message meaningfully.
+
+![](/images/Curriculum/Science/photo6183895678468600581.jpg)
+
+![](/images/Curriculum/Science/photo6183895678468600579.jpg)
+
+#### Green Week
+----------
+
+  
+
+We commemorate the annual Green Week with a series of activities to reinforce and spread the green message meaningfully.
+
+![](/images/Curriculum/Science/photo6183895678468600580.jpg) 
+![](/images/Curriculum/Science/photo6183895678468600577.jpg)
+
+##### Science Toy-Making (Slimes) (Global Classroom Programme)
+--------------------------------------------------------
+
+  
+
+Students exemplifying joy in learning as they learnt the scientific concepts behind slime-making.
+
+![](/images/Curriculum/Science/photo6183895678468600578.jpg)
