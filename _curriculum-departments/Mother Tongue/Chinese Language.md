@@ -37,6 +37,8 @@ third_nav_title: Mother Tongue
 
 ![](/images/Curriculum/Mother%20Tongue/Chinese/Chinese1.png)
 
+#### **GLOBAL CLASSROOM**
+
 
 #### Xiamen 15 - 19 March 2019
 
