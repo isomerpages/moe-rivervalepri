@@ -57,9 +57,10 @@ Aspiring leaders, Individuals of Character
 
 *   To give recognition and commendation to Riverlites who demonstrate great interest and passion in the non-core areas of performing or visual arts, sports and games, leadership and character excellence via our school core R3ICHET values to emerge as Individuals of Character, a part of our school vision.
 
-  
-![s1.jpg](https://rivervalepri.moe.edu.sg/qql/slot/u143/Curriculum/Departments/SDT/Student%20Management/s1.jpg)  
-![s2.jpg](https://rivervalepri.moe.edu.sg/qql/slot/u143/Curriculum/Departments/SDT/Student%20Management/s2.jpg)  
-![s3.jpg](https://rivervalepri.moe.edu.sg/qql/slot/u143/Curriculum/Departments/SDT/Student%20Management/s3.jpg)  
-![S4.jpg](https://rivervalepri.moe.edu.sg/qql/slot/u143/Curriculum/Departments/SDT/Student%20Management/S4.jpg)
+![](/images/Curriculum/Student%20Development%20Team/photo6183895678468600800.jpg)
 
+![](/images/Curriculum/Student%20Development%20Team/photo6183895678468600797.jpg)
+
+![](/images/Curriculum/Student%20Development%20Team/photo6183895678468600798.jpg)
+
+![](/images/Curriculum/Student%20Development%20Team/photo6183895678468600799.jpg)
