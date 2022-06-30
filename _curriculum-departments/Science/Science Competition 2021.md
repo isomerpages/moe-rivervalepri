@@ -14,25 +14,22 @@ third_nav_title: Science
 
 **Singapore Primary Science Olympiad 2021**
 
-![s1a.jpg](https://rivervalepri.moe.edu.sg/qql/slot/u143/Curriculum/Departments/Science/competition%202021/s1a.jpg)
+![](/images/Curriculum/Science/photo6183895678468600576.jpg)
 Bronze Award
 
   
-
-![s1b.jpg](https://rivervalepri.moe.edu.sg/qql/slot/u143/Curriculum/Departments/Science/competition%202021/s1b.jpg)
+![](/images/Curriculum/Science/photo6183895678468600575.jpg)
 P5 Merit and Bronze Award
 
   
-
-![s1c.jpg](https://rivervalepri.moe.edu.sg/qql/slot/u143/Curriculum/Departments/Science/competition%202021/s1c.jpg)
+![](/images/Curriculum/Science/photo6183895678468600574.jpg)
 P6 Merit Award
 
 **Singapore Amazing Flying Machine Competition 2021**
 
-![s2a.jpg](https://rivervalepri.moe.edu.sg/qql/slot/u143/Curriculum/Departments/Science/competition%202021/s2a.jpg)
+![](/images/Curriculum/Science/photo6183895678468600572.jpg)
 1st&nbsp;Position, Best Presentation Award
 
   
-
-![s2b.jpg](https://rivervalepri.moe.edu.sg/qql/slot/u143/Curriculum/Departments/Science/competition%202021/s2b.jpg)
+![](/images/Curriculum/Science/photo6183895678468600573.jpg)
 3RD&nbsp;Position, Distance Category
