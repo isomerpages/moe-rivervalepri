@@ -103,11 +103,15 @@ P5-NE Show
 
 P6-NE Heritage Trail
 
-![National Education - P1](https://rivervalepri.moe.edu.sg/qql/slot/u143/Curriculum/Departments/SDT/CCE/.tn.LJ1.jpg.2.jpg)P1
+![](/images/Curriculum/Student%20Development%20Team/photo6183895678468600824.jpg)
+P1
 
-![National Education - P3](https://rivervalepri.moe.edu.sg/qql/slot/u143/Curriculum/Departments/SDT/CCE/.tn.Kamp%20Glam.jpg.2.jpg)P3
+![](/images/Curriculum/Student%20Development%20Team/photo6183895678468600823.jpg)
+P3
 
-![National Education - P4](https://rivervalepri.moe.edu.sg/qql/slot/u143/Curriculum/Departments/SDT/CCE/.tn.Worship.jpg.2.jpg)P4&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+![](/images/Curriculum/Student%20Development%20Team/photo6183895678468600822.jpg)
+P4
+
 
 #### Character Education Curriculum
 ------------------------------
@@ -163,14 +167,13 @@ The “ALL-in-ONE" approach aligns with our School Vision: School of Excellence,
 *   Every Friday, V-10 will begin with a viewing of a video that introduces the value related to the value of the month, e.g. Respect. After the video, students reflect on the significance of the value. During the students' CCA session, the teachers will recap the value taught.&nbsp;Students are encouraged to display behaviors of the value learnt.&nbsp;Teachers will&nbsp;deliberately capture teachable moments to reinforce the learning points.
 *   Students write down their reflections and share their reflections at the last 5 mins of the CCA session.&nbsp;
 
-  
-![m10.PNG](https://rivervalepri.moe.edu.sg/qql/slot/u143/Curriculum/Departments/SDT/CCE/2021/m10.PNG)  
-  
-![M11.jpg](https://rivervalepri.moe.edu.sg/qql/slot/u143/Curriculum/Departments/SDT/CCE/2021/M11.jpg)
+![](/images/Curriculum/Student%20Development%20Team/photo6183895678468600825.jpg)
+
+![](/images/Curriculum/Student%20Development%20Team/photo6183895678468600821.jpg)
 Pictures were taken in 2019. Currently, V-10 is being carried out in classrooms.
 
-  
-![M12.PNG](https://rivervalepri.moe.edu.sg/qql/slot/u143/Curriculum/Departments/SDT/CCE/2021/M12.PNG)
+![](/images/Curriculum/Student%20Development%20Team/photo6183895678468600826.jpg)
+
 Students write down their reflections and share their reflections at the last 5 minutes of the CCA session.
 
   
@@ -189,8 +192,8 @@ Students write down their reflections and share their reflections at the last 5 
 *   Each SCV-FTGP lesson focuses on two core values. With a suitable current issue at hand, teachers make use of the thinking routines to derive the desired learning outcomes of establishing interaction and rapport, building trust and empowering learners. Students participate in rich discussions on how core values are important in helping us make good decisions and develop strong character.
 *   Students reflect if they exhibit these core values in their daily lives.&nbsp;
 
-  
-![m13.png](https://rivervalepri.moe.edu.sg/qql/slot/u143/Curriculum/Departments/SDT/CCE/2021/m13.png)  
+![](/images/Curriculum/Student%20Development%20Team/photo6183895678468600827.jpg)  
+
 
 #### Peer Support Relationship (PSR) and Cyberwellness
 -------------------------------------------------
@@ -204,34 +207,34 @@ A close-knit community with positive peer relationships is what we aim to build 
 Riverlites contribute to the caring and positive peer culture in school when they look out for one another and provide support to their peers in need. Peer relationships are also powerful channels of positive influence and are excellent opportunities for student voice and empowerment in our school.
 
   
+![](/images/Curriculum/Student%20Development%20Team/photo6183895678468600819.jpg)
 
-![M1.PNG](https://rivervalepri.moe.edu.sg/qql/slot/u143/Curriculum/Departments/SDT/CCE/2021/M1.PNG)
 
 **School Wide Approach in Peer Support**
 
   
+![](/images/Curriculum/Student%20Development%20Team/photo6183895678468600818.jpg)
 
-![M2.png](https://rivervalepri.moe.edu.sg/qql/slot/u143/Curriculum/Departments/SDT/CCE/2021/M2.png)
 
 At Rivervale Primary, all students are taught peer support skills and mindsets explicitly through our school-wide Peer Support Relationships training programmes. Our teachers also intentionally plan for explicit teaching, reinforcement and application of these skills in class too.
 
   
-
-![M3.png](https://rivervalepri.moe.edu.sg/qql/slot/u143/Curriculum/Departments/SDT/CCE/2021/M3.png)The “CHEER” and “LOOK” model, adapted from Guidance Branch (MOE) are introduced as part of the Peer Support Curriculum. Riverlites are provided the opportunities to understand PSR-related skills and mindsets - Peer Bonding, Peer Helping and Peer Influencing and learn how to apply them in their daily interactions with others.  
+![](/images/Curriculum/Student%20Development%20Team/photo6183895678468600820.jpg)
+The “CHEER” and “LOOK” model, adapted from Guidance Branch (MOE) are introduced as part of the Peer Support Curriculum. Riverlites are provided the opportunities to understand PSR-related skills and mindsets - Peer Bonding, Peer Helping and Peer Influencing and learn how to apply them in their daily interactions with others.  
 
   
+![](/images/Curriculum/Student%20Development%20Team/photo6183895678468600817.jpg)
 
-![M4.PNG](https://rivervalepri.moe.edu.sg/qql/slot/u143/Curriculum/Departments/SDT/CCE/2021/M4.PNG)
 
 **Rivervale Peer Support Leaders**
 
   
-
-![M5.png](https://rivervalepri.moe.edu.sg/qql/slot/u143/Curriculum/Departments/SDT/CCE/2021/M5.png)To enhance the efforts in building&nbsp;a culture of care and inclusiveness within the Rivervale Primary, Peer Support Leaders (PSL) are appointed from Primary 4 to 6. They are provided customized trainings by a dedicated team of teachers, known as Peer Mentors  
+![](/images/Curriculum/Student%20Development%20Team/photo6183895678468600814.jpg)
+To enhance the efforts in building&nbsp;a culture of care and inclusiveness within the Rivervale Primary, Peer Support Leaders (PSL) are appointed from Primary 4 to 6. They are provided customized trainings by a dedicated team of teachers, known as Peer Mentors  
 
   
+![](/images/Curriculum/Student%20Development%20Team/photo6183895678468600815.jpg)
 
-![M6.PNG](https://rivervalepri.moe.edu.sg/qql/slot/u143/Curriculum/Departments/SDT/CCE/2021/M6.PNG)
 
 The training sessions aim to build up our PSLs’ competency in carrying out their duties. During these training sessions, skills such as conflict management and communication skills are being introduced to them. They also received trainings to look out for signs of distress in their peers too.&nbsp;
 
@@ -246,11 +249,12 @@ Cyber Wellness (CW) refers to the positive well-being of Internet users. It invo
 At Rivervale, the focus of CW is to help our Riverlites become responsible digital learners. The tagline “Be Safe, Be Kind, Be Smart” is strongly inculcated in our students to remind them to be positive peer influence while harnessing technology for collaboration, learning and productivity.
 
   
+![](/images/Curriculum/Student%20Development%20Team/photo6183895678468600816.jpg)
 
-![M7.PNG](https://rivervalepri.moe.edu.sg/qql/slot/u143/Curriculum/Departments/SDT/CCE/2021/M7.PNG)  
+![](/images/Curriculum/Student%20Development%20Team/photo6183895678468600813.jpg)
 
-![M8.png](https://rivervalepri.moe.edu.sg/qql/slot/u143/Curriculum/Departments/SDT/CCE/2021/M8.png)  
-![M9.PNG](https://rivervalepri.moe.edu.sg/qql/slot/u143/Curriculum/Departments/SDT/CCE/2021/M9.PNG)
+![](/images/Curriculum/Student%20Development%20Team/photo6183895678468600811.jpg)
+
 
 |  |  |
 |---|---|
