@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/photo6160989144705250736.jpg
+      background: /images/School/photo6160989144705250736.jpg
       key_highlights:
         - title: NOTICEBOARD
           description: ""
