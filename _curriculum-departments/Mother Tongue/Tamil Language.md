@@ -24,76 +24,66 @@ To provide a vibrant and conducive language learning environment. The students w
 
   
 
-**P1 Singing Competition**&nbsp;  
-![t1.jpg](https://rivervalepri.moe.edu.sg/qql/slot/u143/Curriculum/Departments/tamil/tl%202021/t1.jpg)  
+**P1 Singing Competition**&nbsp;
+![](/images/Curriculum/Mother%20Tongue/Indian/photo6183895678468600698.jpg)
 
 **P1 Story Telling Competition**&nbsp;
-![t2.jpg](https://rivervalepri.moe.edu.sg/qql/slot/u143/Curriculum/Departments/tamil/tl%202021/t2.jpg)
+![](/images/Curriculum/Mother%20Tongue/Indian/photo6183895678468600696.jpg)
+
 
   
 
 #### P2 Story Telling and Reading Competition Winners
 ------------------------------------------------
 
-  
-![t3.PNG](https://rivervalepri.moe.edu.sg/qql/slot/u143/Curriculum/Departments/tamil/tl%202021/t3.PNG)  
+![](/images/Curriculum/Mother%20Tongue/Indian/photo6183895678468600695.jpg)
 
 #### P3 Story Telling and Spelling Competition Winners
 -------------------------------------------------
 
-  
-![t4.PNG](https://rivervalepri.moe.edu.sg/qql/slot/u143/Curriculum/Departments/tamil/tl%202021/t4.PNG)  
+![](/images/Curriculum/Mother%20Tongue/Indian/photo6183895678468600699.jpg)
 
 #### P4 Recipe Demonstration and Creative Writing Competition Winners
 ----------------------------------------------------------------
 
-  
-![t5.PNG](https://rivervalepri.moe.edu.sg/qql/slot/u143/Curriculum/Departments/tamil/tl%202021/t5.PNG)  
+![](/images/Curriculum/Mother%20Tongue/Indian/photo6183895678468600693.jpg)
 
 #### P5&nbsp;Game Creation Competition&nbsp;
 -----------------------------
 
-  
-![t6.jpg](https://rivervalepri.moe.edu.sg/qql/slot/u143/Curriculum/Departments/tamil/tl%202021/t6.jpg)  
+![](/images/Curriculum/Mother%20Tongue/Indian/photo6183895678468600694.jpg)
 
 #### P5 Advertisement Competition
 ----------------------------
 
-  
-![t7.jpg](https://rivervalepri.moe.edu.sg/qql/slot/u143/Curriculum/Departments/tamil/tl%202021/t7.jpg)  
+![](/images/Curriculum/Mother%20Tongue/Indian/photo6183895678468600691.jpg)
 
 #### P6 Games Creation and Advertisement Competition
 -----------------------------------------------
 
-  
-![t8.jpg](https://rivervalepri.moe.edu.sg/qql/slot/u143/Curriculum/Departments/tamil/tl%202021/t8.jpg)  
+![](/images/Curriculum/Mother%20Tongue/Indian/photo6183895678468600692.jpg)  
 
 #### P1 Speech and Drama 2021
 ------------------------
 
-  
-![t9.PNG](https://rivervalepri.moe.edu.sg/qql/slot/u143/Curriculum/Departments/tamil/t9.PNG)  
+![](/images/Curriculum/Mother%20Tongue/Indian/photo6183895678468600689.jpg)
 
 #### P1 and P2 Bilingual Language Carnival 2021
 ------------------------------------------
 
-  
-![t10.PNG](https://rivervalepri.moe.edu.sg/qql/slot/u143/Curriculum/Departments/tamil/t10.PNG)
+![](/images/Curriculum/Mother%20Tongue/Indian/photo6183895678468600697.jpg)
 
 #### P1 and P2 Mother Tongue Fortnight Activities 2021
 -------------------------------------------------
 
-  
-![t11.PNG](https://rivervalepri.moe.edu.sg/qql/slot/u143/Curriculum/Departments/tamil/t11.PNG)
+![](/images/Curriculum/Mother%20Tongue/Indian/photo6183895678468600690.jpg)
 
 #### P3 – P4 Mother Tongue Fortnight Activities
 ------------------------------------------
 
-  
-![t12.PNG](https://rivervalepri.moe.edu.sg/qql/slot/u143/Curriculum/Departments/tamil/t12.PNG)
+![](/images/Curriculum/Mother%20Tongue/Indian/photo6183895678468600688.jpg)
 
 #### P5 and P6 Mother Tongue Fortnight Activities
 --------------------------------------------
 
-  
-![t13.PNG](https://rivervalepri.moe.edu.sg/qql/slot/u143/Curriculum/Departments/tamil/t13.PNG)
+![](/images/Curriculum/Mother%20Tongue/Indian/photo6183895678468600687.jpg)
