@@ -17,9 +17,8 @@ third_nav_title: Mother Tongue
 
 <table style="margin: 0px; outline: 0px; padding: 0px; border-collapse: collapse; max-width: 100%; border: none;" cellpadding="0" cellspacing="0" border="1" class="MsoTableGrid"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0in 5.4pt; width: 67.25pt; border: 1pt solid windowtext;" valign="top" width="86"><p style="margin: 0px 0px 0.0001pt; outline: 0px; padding: 0px; line-height: normal; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 13px;" class="MsoNormal"><font style="margin: 0px; outline: 0px; padding: 0px;" face="arial, sans-serif" size="2">Date</font></p></td><td style="margin: 0px; outline: 0px; padding: 0in 5.4pt; width: 400.25pt; border-top: 1pt solid windowtext; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-image: initial; border-left: none;" valign="top" width="385"><p style="margin: 0in 0in 0.0001pt 0.5in; outline: 0px; padding: 0px; line-height: 20px !important; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 13px;" class="MsoNormal"><span style="margin: 0px; outline: 0px; padding: 0px; line-height: 19.5px;"><font style="margin: 0px; outline: 0px; padding: 0px;" size="2" face="arial, sans-serif"></font></span></p><p style="margin: 0in 0in 0.0001pt 0.5in; outline: 0px; padding: 0px; line-height: 20px !important; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 13px;" class="MsoNormal"><span style="margin: 0px; outline: 0px; padding: 0px; line-height: 19.5px;"><font style="margin: 0px; outline: 0px; padding: 0px;" size="2" face="arial, sans-serif"></font></span></p><p style="margin: 0px 0px 0.0001pt; outline: 0px; padding: 0px; line-height: 20px !important; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 13px;" class="MsoNormal"><span style="margin: 0px; outline: 0px; padding: 0px; line-height: 19.5px;"><font style="margin: 0px; outline: 0px; padding: 0px;" face="arial, sans-serif" size="2">1<sup style="margin: 0px; outline: 0px; padding: 0px;">st</sup><span>&nbsp;</span>March – 5<sup style="margin: 0px; outline: 0px; padding: 0px;">th</sup><span>&nbsp;</span>March 2021&nbsp;</font></span></p></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0in 5.4pt; width: 67.25pt; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-left: 1pt solid windowtext; border-image: initial; border-top: none;" valign="top" width="86"><p style="margin: 0px 0px 0.0001pt; outline: 0px; padding: 0px; line-height: normal; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 13px;" class="MsoNormal"><font style="margin: 0px; outline: 0px; padding: 0px;" face="arial, sans-serif" size="2">Objective</font></p></td><td style="margin: 0px; outline: 0px; padding: 0in 5.4pt; width: 400.25pt; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext;" valign="top" width="385"><font style="margin: 0px; outline: 0px; padding: 0px;" face="arial, sans-serif" size="2"><br style="margin: 0px; outline: 0px; padding: 0px;"></font><p style="margin: 0px; outline: 0px; padding: 0px; line-height: 20px !important; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 13px; text-align: justify;" class="MsoNormal"><font style="margin: 0px; outline: 0px; padding: 0px;" face="arial, sans-serif" size="2"><span style="margin: 0px; outline: 0px; padding: 0px; line-height: 13.91px; color: rgb(40, 40, 40); background: white;">Mother Tongue Language (MTL) Fortnight aims to create an immersive environment for learning and appreciating Mother Tongue Languages and Cultures. Students are exposed to a wide variety of activities with the hope that these culturally rich activities would deepen our students' understanding of their cultural roots and promote the learning of MTL in a fun and engagement way.&nbsp;</span><span style="margin: 0px; outline: 0px; padding: 0px; line-height: 13.91px;"></span></font></p></td></tr></tbody></table>
 
-  
-  
-![Capture.PNG](https://rivervalepri.moe.edu.sg/qql/slot/u143/Curriculum/Departments/MT/Capture.PNG)
+  ![](/images/Curriculum/Mother%20Tongue/Malay/photo6183895678468600722.jpg)
+
 
 ### Language Carnival 2021
 ----------------------
@@ -28,23 +27,22 @@ third_nav_title: Mother Tongue
 
 <table style="margin: 0px; outline: 0px; padding: 0px; border-collapse: collapse; max-width: 100%; border: none;" cellpadding="0" cellspacing="0" border="1" class="MsoTableGrid"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0in 5.4pt; width: 67.25pt; border: 1pt solid windowtext;" valign="top" width="86"><p style="margin: 0px 0px 0.0001pt; outline: 0px; padding: 0px; line-height: normal; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 13px;" class="MsoNormal"><font style="margin: 0px; outline: 0px; padding: 0px;" face="arial, sans-serif" size="2">Date</font></p></td><td style="margin: 0px; outline: 0px; padding: 0in 5.4pt; width: 400.25pt; border-top: 1pt solid windowtext; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-image: initial; border-left: none;" valign="top" width="385"><p style="margin: 0in 0in 0.0001pt 0.5in; outline: 0px; padding: 0px; line-height: 20px; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 13px;" class="MsoNormal"><span style="margin: 0px; outline: 0px; padding: 0px; line-height: 19.5px;"><font style="margin: 0px; outline: 0px; padding: 0px;" size="2" face="arial, sans-serif">1<sup style="margin: 0px; outline: 0px; padding: 0px;">st</sup><span>&nbsp;</span>– 4<sup style="margin: 0px; outline: 0px; padding: 0px;">th</sup><span>&nbsp;</span>March 2021</font></span></p><p style="margin: 0px 0px 0.0001pt; outline: 0px; padding: 0px; line-height: 20px; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 13px;" class="MsoNormal"><span style="margin: 0px; outline: 0px; padding: 0px; line-height: 19.5px;"><font style="margin: 0px; outline: 0px; padding: 0px;" face="arial, sans-serif" size="2">&nbsp;</font></span></p></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0in 5.4pt; width: 67.25pt; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-left: 1pt solid windowtext; border-image: initial; border-top: none;" valign="top" width="86"><p style="margin: 0px 0px 0.0001pt; outline: 0px; padding: 0px; line-height: normal; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 13px;" class="MsoNormal"><font style="margin: 0px; outline: 0px; padding: 0px;" face="arial, sans-serif" size="2">Objective</font></p></td><td style="margin: 0px; outline: 0px; padding: 0in 5.4pt; width: 400.25pt; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext;" valign="top" width="385"><p style="margin: 0in 0in 0.0001pt 0.5in; outline: 0px; padding: 0px; line-height: 20px; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 13px;" class="MsoNormal"><span style="margin: 0px; outline: 0px; padding: 0px; line-height: 19.5px;"><font style="margin: 0px; outline: 0px; padding: 0px;" face="arial, sans-serif" size="2">The objective of Language Carnival is to infuse games in teaching language. P1 and P2 students played bilingual language games such as ‘Ah Tepuk!” It was a twist to the classic game of SNAP. They also played “Jom Padankan!” Students chose from a wide range of nouns and matched them to their Malay language counterparts.</font></span></p><p style="margin: 0in 0in 0.0001pt 0.5in; outline: 0px; padding: 0px; line-height: 20px; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 13px;" class="MsoNormal"><span style="margin: 0px; outline: 0px; padding: 0px; line-height: 19.5px;"><font style="margin: 0px; outline: 0px; padding: 0px;" face="arial, sans-serif" size="2">P3 and P4 students played Deck Toy lesson through the SLS platform. P3 theme was CCA while P4 theme was technology.</font></span></p><p style="margin: 0in 0in 0.0001pt 0.5in; outline: 0px; padding: 0px; line-height: 20px; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 13px;" class="MsoNormal"><span style="margin: 0px; outline: 0px; padding: 0px; line-height: 19.5px;"><font style="margin: 0px; outline: 0px; padding: 0px;" size="2"><font style="margin: 0px; outline: 0px; padding: 0px;" face="arial, sans-serif">Children learnt as they play. Most importantly, in play, children learnt how to learn.</font><span style="margin: 0px; outline: 0px; padding: 0px; font-family: Arial, sans-serif;"></span></font></span></p></td></tr></tbody></table>
 
-  
-![z1.PNG](https://rivervalepri.moe.edu.sg/qql/slot/u143/Curriculum/Departments/MT/Malay/Language%20carnival%202021/z1.PNG)
+![](/images/Curriculum/Mother%20Tongue/Malay/photo6183895678468600721.jpg)
+
 P4 Deck Toy lesson in SLS
 
-  
+![](/images/Curriculum/Mother%20Tongue/Malay/photo6183895678468600719.jpg)
 
-![z2.PNG](https://rivervalepri.moe.edu.sg/qql/slot/u143/Curriculum/Departments/MT/Malay/Language%20carnival%202021/z2.PNG)
 Completing the Deck Toy lesson in SLS
 
-  
-![z3.PNG](https://rivervalepri.moe.edu.sg/qql/slot/u143/Curriculum/Departments/MT/Malay/Language%20carnival%202021/z3.PNG)  
-  
-![z4.PNG](https://rivervalepri.moe.edu.sg/qql/slot/u143/Curriculum/Departments/MT/Malay/Language%20carnival%202021/z4.PNG)
+![](/images/Curriculum/Mother%20Tongue/Malay/photo6183895678468600718.jpg)
+
+![](/images/Curriculum/Mother%20Tongue/Malay/photo6183895678468600720.jpg)  
+
 Student participating in the “Jom Padankan!” game.&nbsp;
 
-  
-![z5.PNG](https://rivervalepri.moe.edu.sg/qql/slot/u143/Curriculum/Departments/MT/Malay/Language%20carnival%202021/z5.PNG)
+![](/images/Curriculum/Mother%20Tongue/Malay/photo6183895678468600717.jpg)
+
 Students participating in the “Ah Tepuk!” game.
 
   
@@ -54,14 +52,10 @@ Students participating in the “Ah Tepuk!” game.
 
 <table style="margin: 0px; outline: 0px; padding: 0px; border-collapse: collapse; max-width: 100%; border: none; width: 684px; height: 119px;" width="0" align="left" cellpadding="0" cellspacing="0" border="1" class="MsoNormalTable"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0cm 5.4pt; width: 145px; border: 1pt solid windowtext;" valign="top" width="123"><p style="margin: 0px; outline: 0px; padding: 0px; line-height: 20px !important; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 13px;" class="MsoNormal">Date</p></td><td style="margin: 0px; outline: 0px; padding: 0cm 5.4pt; width: 538px; border-top: 1pt solid windowtext; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-image: initial; border-left: none;" valign="top" width="493"><p style="margin: 0px; outline: 0px; padding: 0px; line-height: 20px !important; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 13px;" class="MsoNormal">20th July 2018</p></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0cm 5.4pt; width: 92.4pt; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-left: 1pt solid windowtext; border-image: initial; border-top: none;" valign="top" width="123"><p style="margin: 0px; outline: 0px; padding: 0px; line-height: 20px !important; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 13px;" class="MsoNormal">Objectives</p></td><td style="margin: 0px; outline: 0px; padding: 0cm 5.4pt; width: 369.7pt; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext;" valign="top" width="493"><ol style="margin: 0cm 0px 0.5em 15px; outline: 0px; padding: 0px;" type="1" start="1"><li style="margin: 0px; outline: 0px; padding: 0px;" class="MsoNormal">To provide P6 students with study guide to PSLE</li><li style="margin: 0px; outline: 0px; padding: 0px;" class="MsoNormal">To enrich P6 students with various methods in composition writing and answering comprehension questions</li><li style="margin: 0px; outline: 0px; padding: 0px;" class="MsoNormal">To reiterate on the new PSLE Oral format</li></ol></td></tr></tbody></table>
 
-  
-  
-  
-  
-  
-  
-  
-![ml15.PNG](https://rivervalepri.moe.edu.sg/qql/slot/u143/Curriculum/Departments/MT/Malay/2018/ml15.PNG)
+
+
+![](/images/Curriculum/Mother%20Tongue/Malay/photo6183895678468600716.jpg)
+
 Actively engaged in group activities
 
   
@@ -75,22 +69,14 @@ Actively engaged in group activities
   
   
   
-  
-![ml16.jpg](https://rivervalepri.moe.edu.sg/qql/slot/u143/Curriculum/Departments/MT/Malay/2018/ml16.jpg)
+![](/images/Curriculum/Mother%20Tongue/Malay/photo6183895678468600715.jpg)
 Designing Songket using ink stamps
 
-  
-
-  
-
-![ml17.jpg](https://rivervalepri.moe.edu.sg/qql/slot/u143/Curriculum/Departments/MT/Malay/2018/ml17.jpg)
+ 
+ ![](/images/Curriculum/Mother%20Tongue/Malay/photo6183895678468600714.jpg)
 Playing the gasing
 
-  
-
-  
-
-![ml18.jpg](https://rivervalepri.moe.edu.sg/qql/slot/u143/Curriculum/Departments/MT/Malay/2018/ml18.jpg)
+![](/images/Curriculum/Mother%20Tongue/Malay/photo6183895678468600713.jpg)
 Learning to play the Tapak Kuda
 
   
@@ -108,14 +94,11 @@ Learning to play the Tapak Kuda
   
   
   
-  
-  
-![ml4.png](https://rivervalepri.moe.edu.sg/qql/slot/u143/Curriculum/Departments/MT/Malay/2018/ml4.png)
+![](/images/Curriculum/Mother%20Tongue/Malay/photo6183895678468600710.jpg)
 P2 Students learning about the playground
 
   
-  
-![ml5.jpg](https://rivervalepri.moe.edu.sg/qql/slot/u143/Curriculum/Departments/MT/Malay/2018/ml5.jpg)
+![](/images/Curriculum/Mother%20Tongue/Malay/photo6183895678468600708.jpg)
 On the way to learn about their neighbourhood
 
   
@@ -129,23 +112,19 @@ On the way to learn about their neighbourhood
   
   
   
-  
-  
-![ml1.jpg](https://rivervalepri.moe.edu.sg/qql/slot/u143/Curriculum/Departments/MT/Malay/2018/ml1.jpg)
+![](/images/Curriculum/Mother%20Tongue/Malay/photo6183895678468600711.jpg)
 First Group : Learning about using technology wisely
 
   
 
   
-
-![ml2.png](https://rivervalepri.moe.edu.sg/qql/slot/u143/Curriculum/Departments/MT/Malay/2018/ml2.png)
+![](/images/Curriculum/Mother%20Tongue/Malay/photo6183895678468600709.jpg)
 “The King is concerned about the safety of his country”
 
   
 
   
-
-![ml3.jpg](https://rivervalepri.moe.edu.sg/qql/slot/u143/Curriculum/Departments/MT/Malay/2018/ml3.jpg)
+![](/images/Curriculum/Mother%20Tongue/Malay/photo6183895678468600712.jpg)
 The performers from Primary 2
 
   
@@ -158,11 +137,11 @@ The performers from Primary 2
   
   
   
-  
-  
-![ml6.png](https://rivervalepri.moe.edu.sg/qql/slot/u143/Curriculum/Departments/MT/Malay/2018/ml6.png)  
-![ml7.png](https://rivervalepri.moe.edu.sg/qql/slot/u143/Curriculum/Departments/MT/Malay/2018/ml7.png)  
-![ml8.png](https://rivervalepri.moe.edu.sg/qql/slot/u143/Curriculum/Departments/MT/Malay/2018/ml8.png)  
+![](/images/Curriculum/Mother%20Tongue/Malay/photo6183895678468600706.jpg)
+
+![](/images/Curriculum/Mother%20Tongue/Malay/photo6183895678468600705.jpg)
+
+![](/images/Curriculum/Mother%20Tongue/Malay/photo6183895678468600707.jpg)
 
 #### P6 Cultural Camp
 ----------------
@@ -172,15 +151,12 @@ The performers from Primary 2
   
   
   
-  
-  
-![ml13.PNG](https://rivervalepri.moe.edu.sg/qql/slot/u143/Curriculum/Departments/MT/Malay/2018/ml13.PNG)
+![](/images/Curriculum/Mother%20Tongue/Malay/photo6183895678468600703.jpg)
 P6 students learning the art of Arabic calligraphy
 
   
 
-  
-![ml14.png](https://rivervalepri.moe.edu.sg/qql/slot/u143/Curriculum/Departments/MT/Malay/2018/ml14.png)
+![](/images/Curriculum/Mother%20Tongue/Malay/photo6183895678468600702.jpg)
 Dikir Barat Performance
 
   
@@ -200,13 +176,10 @@ Dikir Barat Performance
   
   
   
-  
-![ml11.jpg](https://rivervalepri.moe.edu.sg/qql/slot/u143/Curriculum/Departments/MT/Malay/2018/ml11.jpg)
+ ![](/images/Curriculum/Mother%20Tongue/Malay/photo6183895678468600701.jpg) 
 First Group : “The Boy Who Cried Wolf”
 
   
 
-  
-
-![ml12.jpg](https://rivervalepri.moe.edu.sg/qql/slot/u143/Curriculum/Departments/MT/Malay/2018/ml12.jpg)
+![](/images/Curriculum/Mother%20Tongue/Malay/photo6183895678468600700.jpg)
 Second Group : The Greedy Giant
