@@ -12,7 +12,6 @@ Staff Appreciation Week Programme&nbsp;is to allow students to appreciate effort
 
 
 
-<img style="width:200%;height:120%"  src="/images/C1%20(2).png"> Student Leaders gave care packs to School's operational team and office staff
+![](/images/Curriculum/Student%20Development%20Team/photo6183895678468600810.jpg) Student Leaders gave care packs to School's operational team and office staff
 
-<img style="width:120%;height:100%" src="/images/C2.png"> Student Leaders gave care packs to Canteen Vendors and School's office staff
-
+![](/images/Curriculum/Student%20Development%20Team/photo6183895678468600801.jpg) Student Leaders gave care packs to Canteen Vendors and School's office staff
