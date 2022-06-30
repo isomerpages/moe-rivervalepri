@@ -13,9 +13,8 @@ Every class in Rivervale Primary School is allocated with designated tables and
 
 At the end of the recess, students will tidy up the area where they have taken their meals, using the cloths provided at the side of the canteen tables. Through this platform, the school hopes to inculcate the value of social responsibility for self and others whereby students learnt the importance to clear up after eating; this habit will then be transferred to clearing the areas where they eat at homes and even at public areas like hawker centres.
 
-![Nobody But You - Photo 01](https://rivervalepri.moe.edu.sg/qql/slot/u143/Curriculum/Departments/SDT/CCE/.tn.CN1.jpg.mid.jpg)
+![](/images/Curriculum/Student%20Development%20Team/photo6183895678468600804.jpg)
 Students cleaning the tables and chairs after having their meals.
 
   
-
-![Nobody But You - Photo 02](https://rivervalepri.moe.edu.sg/qql/slot/u143/Curriculum/Departments/SDT/CCE/.tn.CN2.jpg.mid.jpg)
+![](/images/Curriculum/Student%20Development%20Team/photo6183895678468600806.jpg)
