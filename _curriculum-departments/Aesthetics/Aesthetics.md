@@ -58,23 +58,19 @@ o&nbsp;&nbsp;&nbsp;Pri 5 Ukelele Programme
 The school has set up the Art and Music Hubs to encourage the learning of Art and Music beyond the classrooms. Part of the Fun Alley programme, Riverlites are&nbsp;able to experience art exhibitions, explore music instruments, and enjoy various hands-on activities held in the Art and Music Hubs. The hubs are opened daily during the consortium’s respective recesses.&nbsp;
 
   
-
-![a1.PNG](https://rivervalepri.moe.edu.sg/qql/slot/u143/Curriculum/Departments/Aesthetics/2021/a1.PNG)
+![](/images/Curriculum/Aesthetics/photo6183895678468600790.jpg)
 Art Hub - a conducive sanctuary for creative expression
 
-  
 
-![a2.PNG](https://rivervalepri.moe.edu.sg/qql/slot/u143/Curriculum/Departments/Aesthetics/2021/a2.PNG)
+![](/images/Curriculum/Aesthetics/photo6183895678468600789.jpg)
 Students engaging in a hands-on art activities
 
   
-
-![a3.PNG](https://rivervalepri.moe.edu.sg/qql/slot/u143/Curriculum/Departments/Aesthetics/2021/a3.PNG)
+![](/images/Curriculum/Aesthetics/photo6183895678468600788.jpg)
 Students exploring instruments in the Music Hub
 
   
-
-![a4.PNG](https://rivervalepri.moe.edu.sg/qql/slot/u143/Curriculum/Departments/Aesthetics/2021/a4.PNG)
+![](/images/Curriculum/Aesthetics/photo6183895678468600791.jpg)
 Exposure to different instruments of different cultures
 
 #### Music Instrumental Programme
@@ -87,15 +83,15 @@ The Music Instrumental Programme provides opportunities for students to learn to
   
 
 **Primary 5 and 6 Garage Band Programme**
-![a5.PNG](https://rivervalepri.moe.edu.sg/qql/slot/u143/Curriculum/Departments/Aesthetics/2021/a5.PNG)
+
+![](/images/Curriculum/Aesthetics/photo6183895678468600787.jpg)
 Infusing technology in the learning of music
 
   
-
-![a6.jpg](https://rivervalepri.moe.edu.sg/qql/slot/u143/Curriculum/Departments/Aesthetics/2021/a6.jpg)
+![](/images/Curriculum/Aesthetics/photo6183895678468600786.jpg)
 Learning thLearning the basics of music composition
 
-![a7.jpg](https://rivervalepri.moe.edu.sg/qql/slot/u143/Curriculum/Departments/Aesthetics/2021/a7.jpg)
+![](/images/Curriculum/Aesthetics/photo6183895678468600784.jpg)
 Students composing music using Garage Band
 
   
