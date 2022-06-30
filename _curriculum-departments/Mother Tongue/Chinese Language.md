@@ -14,22 +14,29 @@ third_nav_title: Mother Tongue
   
 
 **P1 and P2 Speech and Drama**
-![m1q.PNG](https://rivervalepri.moe.edu.sg/qql/slot/u143/Curriculum/Departments/MT/2021/m1q.PNG)  
+
+![](/images/Curriculum/Mother%20Tongue/Chinese/Chinese6.png)
 
 **Good Morning, Rivervale!**
-![m2q.PNG](https://rivervalepri.moe.edu.sg/qql/slot/u143/Curriculum/Departments/MT/2021/m2q.PNG)  **iFun: 乐学华文**
+![](/images/Curriculum/Mother%20Tongue/Chinese/Chinese5.png)  **iFun: 乐学华文**
 
 **Mother Tongue Fortnight**
-![m3q.PNG](https://rivervalepri.moe.edu.sg/qql/slot/u143/Curriculum/Departments/MT/2021/m3q.PNG)  
+
+![](/images/Curriculum/Mother%20Tongue/Chinese/Chinese4.png)
+
 
 **Language Carnival**
-![m4q.PNG](https://rivervalepri.moe.edu.sg/qql/slot/u143/Curriculum/Departments/MT/2021/m4q.PNG)  
+
+![](/images/Curriculum/Mother%20Tongue/Chinese/Chinese3.png)
 
 **P6 Cultural Camp**
-![m5q.PNG](https://rivervalepri.moe.edu.sg/qql/slot/u143/Curriculum/Departments/MT/2021/m5q.PNG)  
+
+![](/images/Curriculum/Mother%20Tongue/Chinese/Chinese2.png)
 
 **Junior Reporters**
-![m6q.PNG](https://rivervalepri.moe.edu.sg/qql/slot/u143/Curriculum/Departments/MT/2021/m6q.PNG)
+
+![](/images/Curriculum/Mother%20Tongue/Chinese/Chinese1.png)
+
 
 #### Xiamen 15 - 19 March 2019
 
