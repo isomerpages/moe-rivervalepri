@@ -45,7 +45,6 @@ third_nav_title: PE and CCA
   
   
   
-  
-![k1.PNG](https://rivervalepri.moe.edu.sg/qql/slot/u143/Curriculum/Departments/PE/k1.PNG)  
-  
-![k2.PNG](https://rivervalepri.moe.edu.sg/qql/slot/u143/Curriculum/Departments/PE/k2.PNG)
+![](/images/Curriculum/PE%20and%20CCA/photo6183895678468600752.jpg)
+
+![](/images/Curriculum/PE%20and%20CCA/photo6183895678468600747.jpg)  
