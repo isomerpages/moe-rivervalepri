@@ -7,7 +7,7 @@ third_nav_title: Science
 ### Don't Trash our OTTERLY Future
 ------------------------------
 
-  
+
 ![c1.PNG](https://rivervalepri.moe.edu.sg/qql/slot/u143/Curriculum/Departments/Science/c1.PNG)  
 
 ### Bring out the Simplicity of 3Rs
