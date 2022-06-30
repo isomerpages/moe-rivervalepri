@@ -49,29 +49,29 @@ Excellent ICT Infrastructure Provision and People
   
 
   
+![](/images/Curriculum/ICT/photo6183895678468600734.jpg)
 
-![1.png](https://rivervalepri.moe.edu.sg/qql/slot/u143/Curriculum/Departments/ICT/1.png)  
-![2.png](https://rivervalepri.moe.edu.sg/qql/slot/u143/Curriculum/Departments/ICT/2.png)  
-![3.png](https://rivervalepri.moe.edu.sg/qql/slot/u143/Curriculum/Departments/ICT/3.png)  
-![4.png](https://rivervalepri.moe.edu.sg/qql/slot/u143/Curriculum/Departments/ICT/4.png)  
-![5.png](https://rivervalepri.moe.edu.sg/qql/slot/u143/Curriculum/Departments/ICT/5.png)  
+![](/images/Curriculum/ICT/photo6183895678468600735.jpg)
 
-  
-![ict1.PNG](https://rivervalepri.moe.edu.sg/qql/slot/u143/Curriculum/Departments/ICT/ict1.PNG)
+![](/images/Curriculum/ICT/photo6183895678468600737.jpg)
+
+![](/images/Curriculum/ICT/photo6183895678468600736.jpg)
+
+![](/images/Curriculum/ICT/photo6183895678468600733.jpg)
+
+![](/images/Curriculum/ICT/photo6183895678468600739.jpg)  
 P1/P2 Touch Typing Lessons
 
   
 
-  
-![ict2.PNG](https://rivervalepri.moe.edu.sg/qql/slot/u143/Curriculum/Departments/ICT/ict2.PNG)  
-![k.PNG](https://rivervalepri.moe.edu.sg/qql/slot/u143/Curriculum/Departments/ICT/k.PNG)
+![](/images/Curriculum/ICT/photo6183895678468600738.jpg)
+
+![](/images/Curriculum/ICT/photo6183895678468600740.jpg)
 Multi-Literacy Program (Coding Lessons)
 
   
-
-![m.jpg](https://rivervalepri.moe.edu.sg/qql/slot/u143/Curriculum/Departments/ICT/m.jpg)
+![](/images/Curriculum/ICT/photo6183895678468600741.jpg)
 P6 Financial Literacy Program&nbsp;
 
-  
-![ict3.jpg](https://rivervalepri.moe.edu.sg/qql/slot/u143/Curriculum/Departments/ICT/ict3.jpg)
+![](/images/Curriculum/ICT/photo6183895678468600731.jpg)
 National Cyber Wellness Advocacy Challenge
