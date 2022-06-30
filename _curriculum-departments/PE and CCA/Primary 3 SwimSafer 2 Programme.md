@@ -4,8 +4,6 @@ permalink: /curriculum-departments/PE-and-CCA/Primary-3-SwimSafer-2-Programme
 description: ""
 third_nav_title: PE and CCA
 ---
-  
-
 <table style="margin: 0px; outline: 0px; padding: 0px; border-collapse: collapse; max-width: 100%; width: 468.15pt; border: none;" width="0" align="left" cellpadding="0" cellspacing="0" border="1" class="MsoNormalTable"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0in 5.4pt; width: 78.3pt; border: 1pt solid windowtext;" valign="top" width="104"><p style="margin: 0px; outline: 0px; padding: 0px; line-height: 20px !important; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 13px;" class="MsoNormal"><span style="margin: 0px; outline: 0px; padding: 0px; font-size: 12pt; line-height: 18.4px; font-family: Arial, sans-serif;" lang="EN-SG">Date</span></p></td><td style="margin: 0px; outline: 0px; padding: 0in 5.4pt; width: 389.85pt; border-top: 1pt solid windowtext; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-image: initial; border-left: none;" valign="top" width="520"><p style="margin: 0px; outline: 0px; padding: 0px; line-height: 20px !important; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 13px;" class="MsoNormal"><span style="margin: 0px; outline: 0px; padding: 0px; font-size: 12pt; line-height: 18.4px; font-family: Arial, sans-serif;" lang="EN-SG">Term 1 Week 1 to Week 8</span></p></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0in 5.4pt; width: 78.3pt; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-left: 1pt solid windowtext; border-image: initial; border-top: none;" valign="top" width="104"><p style="margin: 0px; outline: 0px; padding: 0px; line-height: 20px !important; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 13px;" class="MsoNormal"><span style="margin: 0px; outline: 0px; padding: 0px; font-size: 12pt; line-height: 18.4px; font-family: Arial, sans-serif;" lang="EN-SG">Time</span></p></td><td style="margin: 0px; outline: 0px; padding: 0in 5.4pt; width: 389.85pt; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext;" valign="top" width="520"><p style="margin: 0px; outline: 0px; padding: 0px; line-height: 20px !important; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 13px;" class="MsoNormal"><span style="margin: 0px; outline: 0px; padding: 0px; font-size: 12pt; line-height: 18.4px; font-family: Arial, sans-serif;" lang="EN-SG">11.30 a.m. to 1.30 p.m.</span></p></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0in 5.4pt; width: 78.3pt; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-left: 1pt solid windowtext; border-image: initial; border-top: none;" valign="top" width="104"><p style="margin: 0px; outline: 0px; padding: 0px; line-height: 20px !important; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 13px;" class="MsoNormal"><span style="margin: 0px; outline: 0px; padding: 0px; font-size: 12pt; line-height: 18.4px; font-family: Arial, sans-serif;" lang="EN-SG">Objectives</span></p></td><td style="margin: 0px; outline: 0px; padding: 0in 5.4pt; width: 389.85pt; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext;" valign="top" width="520"><p style="margin: 0px 0px 0.0001pt; outline: 0px; padding: 0px; line-height: normal; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 13px;" class="MsoNormal"><span style="margin: 0px; outline: 0px; padding: 0px; font-size: 12pt; font-family: Arial, sans-serif;" lang="EN-SG">P3 SwimSafer 2.0 programme aims to teach swimming proficiency and water survival skills to students to minimize drowning incidences in a fun manner.</span></p></td></tr></tbody></table>
 
   
@@ -35,13 +33,15 @@ third_nav_title: PE and CCA
   
 
 SwimSafer 2.0 is a national water safety programme in Singapore.&nbsp; The SwimSafer programme consists of six progressive stages.&nbsp; Survival and activity skills are taught in each stage of the programme, working progressively toward the next stage.&nbsp;&nbsp; Pictures below are some of the water activities that the students did during the programme.  
-  
-![s1.PNG](https://rivervalepri.moe.edu.sg/qql/slot/u143/Curriculum/Departments/PE/s1.PNG)  
-  
-![s2.PNG](https://rivervalepri.moe.edu.sg/qql/slot/u143/Curriculum/Departments/PE/s2.PNG)  
-  
-![S3.jpg](https://rivervalepri.moe.edu.sg/qql/slot/u143/Curriculum/Departments/PE/S3.jpg)  
-![S4.jpg](https://rivervalepri.moe.edu.sg/qql/slot/u143/Curriculum/Departments/PE/S4.jpg)
+ 
+ ![](/images/Curriculum/PE%20and%20CCA/photo6183895678468600758.jpg)
+
+![](/images/Curriculum/PE%20and%20CCA/photo6183895678468600754.jpg)  
+
+![](/images/Curriculum/PE%20and%20CCA/photo6183895678468600753.jpg)  
+
+![](/images/Curriculum/PE%20and%20CCA/photo6183895678468600750.jpg)
+
 
 Students took picture with their coaches on their last day of SwimSafer programme.
 
