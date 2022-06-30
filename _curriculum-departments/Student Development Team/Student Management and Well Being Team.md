@@ -58,8 +58,8 @@ The school aims to infuse the inculcation of the 3Cs through various school leve
 #### Student Leadership Framework
 ----------------------------
 
-  
-![sm framework.png](https://rivervalepri.moe.edu.sg/qql/slot/u143/Curriculum/Departments/SDT/Student%20Management/sm%20framework.png)  
+![](/images/Curriculum/Student%20Development%20Team/photo6183895678468600805.jpg)
+
 
 #### Student Leadership Key Programme
 --------------------------------
