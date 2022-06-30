@@ -15,7 +15,8 @@ The focus of CW is about helping students to become responsible digital learners
 
 Students should also be a positive peer influence by harnessing technology for collaboration, learning and productivity, as well as advocating positive use of technology for the good of the community.
 
-![Capture.PNG](https://rivervalepri.moe.edu.sg/qql/slot/u143/Curriculum/Departments/ICT/Cyberwellness/Capture.PNG)
+![](/images/Curriculum/ICT/photo6183895678468600730.jpg)
+
 
   
 
@@ -50,47 +51,21 @@ Students need to:
 
   
 
-**Cyber Games**  
-![Cyber Games - Photo 01](https://rivervalepri.moe.edu.sg/qql/slot/u143/Curriculum/Departments/ICT/Cyberwellness/1.jpg)![Cyber Games - Photo 02](https://rivervalepri.moe.edu.sg/qql/slot/u143/Curriculum/Departments/ICT/Cyberwellness/2.jpg)![Cyber Games - Photo 03](https://rivervalepri.moe.edu.sg/qql/slot/u143/Curriculum/Departments/ICT/Cyberwellness/3.jpg)  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-![Cyber Games - Photo 04](https://rivervalepri.moe.edu.sg/qql/slot/u143/Curriculum/Departments/ICT/Cyberwellness/4.jpg)![Cyber Games - Photo 05](https://rivervalepri.moe.edu.sg/qql/slot/u143/Curriculum/Departments/ICT/Cyberwellness/5.jpg)  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-![Cyber Games - Photo 06](https://rivervalepri.moe.edu.sg/qql/slot/u143/Curriculum/Departments/ICT/Cyberwellness/6.jpg)  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-![Cyber Games - Photo 07](https://rivervalepri.moe.edu.sg/qql/slot/u143/Curriculum/Departments/ICT/Cyberwellness/7.jpg)![Cyber Games - Photo 08](https://rivervalepri.moe.edu.sg/qql/slot/u143/Curriculum/Departments/ICT/Cyberwellness/8.jpg)
+**Cyber Games**
+
+![](/images/Curriculum/ICT/photo6183895678468600728.jpg)
+
+![](/images/Curriculum/ICT/photo6183895678468600729.jpg)
+
+![](/images/Curriculum/ICT/photo6183895678468600732.jpg)
+
+ ![](/images/Curriculum/ICT/photo6183895678468600727.jpg)
+ 
+![](/images/Curriculum/ICT/photo6183895678468600723.jpg)
+
+![](/images/Curriculum/ICT/photo6183895678468600724.jpg)
+
+![](/images/Curriculum/ICT/photo6183895678468600726.jpg)
+
+![](/images/Curriculum/ICT/photo6183895678468600725.jpg)
+
