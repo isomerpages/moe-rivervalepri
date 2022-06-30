@@ -116,3 +116,55 @@ Apart from adopting efforts and initiatives to increase the students’ knowledg
 
 Through ‘Live Your Food @ Schools’ project by National Environment Agency, we encourage our students to cherish food and take action to reduce the amount of food being thrown away everyday. The project instils in our students the value of not being wasteful, by cultivating appreciation and respect for the efforts and resources that go into growing and delivering food to our tables.
 
+![](/images/Curriculum/Science/s13.png)
+
+![](/images/Curriculum/Science/s14.png)
+
+![](/images/Curriculum/Science/s15.png)
+
+![](/images/Curriculum/Science/s16.png)
+
+#### Smart Nation Initiatives – Rivervale Pri Sch, a Smart and Green School
+----------------------------------------------------------------------
+
+  
+
+Our school is one of the pioneer schools taking up Smart Nation Initiatives. The following initiatives have been spearheaded effectively in our school :  
+
+1) Smart lighting, air conditioning and fans – Lights, fans and aircons within the enclosed rooms in the school will be triggered when the sensors detect human activities within the room. When the activities stopped, the power will be cut off to conserve electrical usage.
+
+2) Smart Toilet – The ammonia sensor will be triggered and alert the school cleaners via SMS once the ammonia level reaches a certain level. i.e. too smelly.
+
+3) The Smart cleaning Robot – This cleaning machine is able to move automatically on its own through sensors, mapping out its tracks as it disinfects, scrubs and cleans the floor. The only human intervention is for the cleaner to clean the mop/scrub, top up the disinfectant solution. It is safe as it will stop before any obstacles, which includes people.
+
+4) The Smart Bin – Coupled with a solar panel, it runs partially with solar energy at locations with sufficient sunlight. The bin is able to compress the trash to compact it and once the capacity of the bin reaches a certain level, a SMS will be sent to the school cleaners to empty the bin.
+
+5) Water and electrical meter monitoring – Water meters and electrical meters within the school is linked to a computerised management system. Any irregular usage of water (water leakages) or electricity (high usage, etc) within the premises will alert the system and thus the alert the school.
+
+![](/images/Curriculum/Science/photo6183895678468600586.jpg)
+
+#### ‘Energy Heroes! – The Mobile Exhibition’
+----------------------------------------
+
+  
+
+Collaborating with SP Group and the Energy Market Authority **(**EMA), we participated in the programme engaging our students in a learning programme focusing on energy efficiency related exhbits and SPE group and encouraging them to practise good energy efficiency habits starting from home.
+
+![](/images/Curriculum/Science/photo6183895678468600585.jpg)
+
+#### ‘NEWater Scientist Programme’ Learning Journey to NEWater Visitor Centre (PUB)
+------------------------------------------------------------------------------
+
+  
+
+In providing an engaging outdoor learning experience on environmental issue, our school enrolled our P4 and P5 Environment Monitors for the NEWater Scientist Programme at NEWater Visitor Centre. This learning journey is purposefully intended to provide a multi-sensory learning experience for our students to learn about Singapore’s past water challenges, the 4 national taps and discover the technology behind NEWater.
+
+![](/images/Curriculum/Science/photo6183895678468600582.jpg)
+
+#### Learning Journey to Electricity Efficiency Centre
+-------------------------------------------------
+
+  
+
+In providing an engaging outdoor learning experience on environmental issue, our school sent our P4 and P5 Environment Monitors for learning journey to Electricity Efficiency Centre (organized by SP Services). This learning journey is purposefully intended to enhance awareness on electricity efficiency, educate our students on energy-saving tips and practise good energy efficiency habits.
+
