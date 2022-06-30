@@ -61,5 +61,58 @@ Sharing the student-written story about the endangered seahorses online through&
 
 NYUM aims to educate the youth on the threats facing the natural environment and inspire them to take action in promoting a culture of sustainability through upcycling and green consumerism. Sharing similar aims, we empowered our students to design and create an upcycled item using waste materials with the given theme. After which, the newly created upcycled items will be produced in bulk by our students and sold to the community and within our school. The sales proceed will then be channelled to aid our students on Financial Assistance Scheme.
 
+![](/images/Curriculum/Science/s1.png)
 
+![](/images/Curriculum/Science/s2.png)
+
+![](/images/Curriculum/Science/s3.png)
+
+![](/images/Curriculum/Science/s4.png)
+
+#### Sembcorp GO GREEN Fund + RECESS Programme
+-----------------------------------------
+
+  
+
+In continuing our long working partnership with SembWaste Pte Ltd, the Public Waste Collector, our school shows our support through our participation in the two above-mentioned recycling programmes annually. These programmes aim to inspire our students to be environmental activists through their real-live 3R movements in school and recognize the harmonious coexistence of urban living and green living. As a whole-school approach, weekly _Green Thursday_ recycling was carried out every Thursday during our recesses. Inter-class (of each level) recycling competitions have been included to encourage students to exemplify their green movements.
+
+![](/images/Curriculum/Science/photo6183895678468600602.jpg)
+
+![](/images/Curriculum/Science/photo6183895678468600599.jpg)
+
+![](/images/Curriculum/Science/photo6183895678468600598.jpg)
+
+#### School Green Awards (SGA)
+-------------------------
+
+  
+
+Through the yearly participation of SGA organized by Singapore Environment Council, our school has effectively used this holistic environmental audit programme to raise environmental consciousness among our students, teachers and staff in order to work towards a sustainable future. We have become more mindful in monitoring the year-to-year progress in areas like water conservation, energy usage and recycling.
+
+![](/images/Curriculum/Science/photo6183895678468600597.jpg)
+
+#### E-waste Recycling
+-----------------
+
+  
+
+E-waste is electrical and electronic equipment of any kind that has been discarded. This includes practically anything powered by an electrical source (e.g. from a power socket or a battery).
+
+![](/images/Curriculum/Science/photo6183895678468600596.jpg)
+![](/images/Curriculum/Science/photo6183895678468600595.jpg)
+
+##### “NorthEast District Environment Award” organised by North East Community Development Council and National Environment Agency (NEA)
+----------------------------------------------------------------------------------------------------------------------------------
+
+  
+Apart from adopting efforts and initiatives to increase the students’ knowledge on recycling, our school also extends similar regimen to deserving teacher(s). In recognising the dedication, initiative and effort of the main spokesman and teacher in-charge in spreading the environmental message, active role-modeling of the application of 3R in daily lives by bringing recyclables from home and leading and spearheading the students to learn and get involved in sustainable programmes / activities / events to know and create a Clean and Green environment within and outside school in the North East District.  
+
+![](/images/Curriculum/Science/photo6183895678468600593.jpg)
+
+#### Food Waste – Towards Zero Waste Singapore
+-----------------------------------------
+
+  
+
+Through ‘Live Your Food @ Schools’ project by National Environment Agency, we encourage our students to cherish food and take action to reduce the amount of food being thrown away everyday. The project instils in our students the value of not being wasteful, by cultivating appreciation and respect for the efforts and resources that go into growing and delivering food to our tables.
 
