@@ -25,6 +25,8 @@ We hope to develop the pupils holistically and acquire a love and passion for Gu
 | Monday 2 pm – 3:30 pm | Junior Members |  |  |
 |  Monday 3:30 pm – 5 pm | Senior Members |  |  |
 
+![](/images/Performing%20Arts/Guzheng/gz1.jpg)
+
 **A light-hearted moment during the SYF Arts Presentation 2018**
 
 **Achievements**
@@ -42,21 +44,9 @@ We hope to develop the pupils holistically and acquire a love and passion for Gu
 | 2004 | Singapore Youth Festival Celebrations  | Silver award |
 | 2002 | Singapore Youth Festival Celebrations  | Silver award |
 
-  
-
-
-A light-hearted moment during the SYF Arts Presentation 2018
-
-  
-
-
-
-  
-
-
-
-  
 [21st International Arts Festival, Genting Highlands, 2009 - Participants]
+
+![](/images/Performing%20Arts/Guzheng/Guzheng3.jpg)
 
 **Yearly Performance:**
 
@@ -67,3 +57,25 @@ A light-hearted moment during the SYF Arts Presentation 2018
 3)    Speech Day
 
 4)    Senior Citizens’ Night organised by Chong Ghee Temple
+
+#### SYF Arts Presentation 2018
+--------------------------
+
+#### SYF Arts Presentation 2016
+--------------------------
+
+![](/images/Performing%20Arts/Guzheng/1231.jpg)
+
+![](/images/Performing%20Arts/Guzheng/gz23.png)
+
+#### Performing for School Events
+----------------------------
+
+![](/images/Performing%20Arts/Guzheng/gz34.png)
+Guzheng players @ the senior citizens' night organised by Chong Ghee Temple(L). Guzheng players performing during the Chinese New Year celebrations(R).
+
+![](/images/Performing%20Arts/Guzheng/123G1.jpg)
+Guzheng Ensemble Players during Speech Day Rehearsal 2019
+
+![](/images/Performing%20Arts/Guzheng/123G2.jpg)
+The Guzheng Ensemble players having fun!
