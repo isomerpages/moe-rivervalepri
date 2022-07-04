@@ -45,4 +45,3 @@ Every member a confident performer.
 ![](/images/Performing%20Arts/Speech%20and%20Drama%20Club/25.jpg)Speech Day 2017: United We Stand
 
 ![](/images/Performing%20Arts/Speech%20and%20Drama%20Club/26.jpg)Speech Day 2017: United We Stand
-
