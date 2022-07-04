@@ -3,10 +3,6 @@ title: Learning for Life Programmes
 permalink: /about-us/Learning-for-Life-Programmes
 description: ""
 ---
-
-
-
-
 **Learning for Life Programme: Dance and Fitness**
 
 The Learning for Life Programme (LLP) is a MOE initiated programme that exposes students to a wide range of experiences to build their social-emotional competencies and to acquire sound values.
