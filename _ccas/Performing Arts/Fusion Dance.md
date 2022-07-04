@@ -38,3 +38,45 @@ Contemporary Dance encompasses different dance forms and it is open to interpret
 |  2014 | Blackout Dance Competition | Invitation to perform at Dance School Opening Ceremony |
 
 **1st Inaugural Chinese Street Dance Competition 2019**
+
+![](/images/Performing%20Arts/Fusion%20Dance/fd1%20(1).png)
+
+**Singapore Youth Festival 2018**
+
+![](/images/Performing%20Arts/Fusion%20Dance/DF1.jpg)
+
+**Our dancers performing in school 2017**
+
+![](/images/Performing%20Arts/Fusion%20Dance/F10.jpg)
+Students showing off their moves!
+
+![](/images/Performing%20Arts/Fusion%20Dance/F11.jpg)
+Putting in her best and dancing energetically!
+
+**Singapore Youth Festival 2016 Celebrations**
+
+![](/images/Performing%20Arts/Fusion%20Dance/F9.jpg)
+Dancers in action
+
+![](/images/Performing%20Arts/Fusion%20Dance/F8.jpg)
+Showcasing various feelings in a dancer
+
+![](/images/Performing%20Arts/Fusion%20Dance/F7.jpg)
+
+**Fusion Dancers at DanceWORKS!**  
+
+**2015 Competition**
+
+![](/images/Performing%20Arts/Fusion%20Dance/Fusion2.jpg)
+
+![](/images/Performing%20Arts/Fusion%20Dance/Fusion3.jpg)
+
+**FUSION DANCERS AT BLACKOUT 2014 DANCE COMPETITION**
+
+![](/images/Performing%20Arts/Fusion%20Dance/Fusion.jpg)
+
+![](/images/Performing%20Arts/Fusion%20Dance/Fusion1.jpg)
+
+![](/images/Performing%20Arts/Fusion%20Dance/Fusion4.jpg)
+
+![](/images/Performing%20Arts/Fusion%20Dance/Fusion5.jpg)
