@@ -27,5 +27,3 @@ An interactive CCA where students learn to solve real-world problems through pro
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Wuza5WXiMkc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-
-
