@@ -43,3 +43,38 @@ Over the years, the Choir’s learning journey included performances within scho
 #### COVID-19 - Zoom Practice for CNY 2021
 -------------------------------------
 
+![](/images/Performing%20Arts/Choir/C1.png)
+
+#### Choir Performances
+------------------
+
+![](/images/Performing%20Arts/Choir/C2.png)
+Virtual Performance during CNY 2021
+
+![](/images/Performing%20Arts/Choir/ch1.jpg)
+
+![](/images/Performing%20Arts/Choir/ch7-compressed.jpg)
+
+![](/images/Performing%20Arts/Choir/ch3.jpg)
+
+#### CCA VIA
+-------
+
+![](/images/Performing%20Arts/Choir/CH4.jpg)
+Getting ready for CCA VIA project
+
+![](/images/Performing%20Arts/Choir/CH5.jpg)
+Choir members performing during CCA VIA
+
+![](/images/Performing%20Arts/Choir/CH6.jpg)
+Students interacting with the senior citizens during CCA VIA
+
+#### Team-Bonding
+------------
+
+![](/images/Performing%20Arts/Choir/ch9.jpg)
+Bonding session during Racial Harmony Day
+
+![](/images/Performing%20Arts/Choir/ch11.jpg)
+
+![](/images/Performing%20Arts/Choir/ch11.jpg)
