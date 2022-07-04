@@ -2,7 +2,7 @@ collections:
   programme:
     output: true
     order:
-      - 2019 Global Classroom/.keep
-      - 2021 Global Classroom.md
-      - Global Classroom Programme.md
       - Learning for Life Programmes.md
+      - Global Classroom Programme.md
+      - 2021 Global Classroom.md
+      - 2019 Global Classroom/.keep
