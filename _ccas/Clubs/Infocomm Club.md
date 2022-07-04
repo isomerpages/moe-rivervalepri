@@ -54,10 +54,3 @@ An interactive CCA where students learn to solve real-world problems through pro
 
 ![](/images/Clubs/Infocomm%20Club/11.jpg)
 Students displaying their completed artwork
-
-
-
-
-
-
-
