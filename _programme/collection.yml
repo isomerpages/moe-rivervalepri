@@ -2,5 +2,6 @@ collections:
   programme:
     output: true
     order:
+      - 2021 Global Classroom.md
       - Global Classroom Programme.md
       - Learning for Life Programmes.md
