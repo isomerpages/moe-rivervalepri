@@ -31,4 +31,10 @@ Indian Dance aims to develop a sense of appreciation in pupils towards Indian cl
 
 #### Our Performances
 ----------------
+![](/images/Performing%20Arts/Indian%20Dance/ID.jpg)Senior Citizen’s Night 2020
 
+![](/images/Performing%20Arts/Indian%20Dance/ID1.jpg)Cultural Appreciation Evening 2018
+
+![](/images/Performing%20Arts/Indian%20Dance/ID2.jpg)SYF 2018
+
+![](/images/Performing%20Arts/Indian%20Dance/ID3.jpg)enior Citizen Night 2018
