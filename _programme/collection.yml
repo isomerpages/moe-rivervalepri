@@ -3,5 +3,4 @@ collections:
     output: true
     order:
       - Learning for Life Programmes.md
-      - Global Classroom Programme.md
       - Events.md
