@@ -28,13 +28,11 @@ This LLP consists of 2 tiers. Tier 1 comprises programmes that cater to the mass
 To promote dance as a form of fitness to the students, our Primary 1 to 3 Riverlites participate in 6 sessions of Mass Dance and Fitness throughout the year. They also experience different genres of dance and enjoy dancing as a form of exercise.
 
   
-
-![D1.jpg](https://rivervalepri.moe.edu.sg/qql/slot/u143/Programmes/Dance_Fever/D1.jpg)
+![](/images/Programme/Learning%20for%20Life%20Programme/D1.jpg)
 Primary 1 learning simple dance moves and steps via online platform due to COVID-19.
 
   
-
-![D2.jpg](https://rivervalepri.moe.edu.sg/qql/slot/u143/Programmes/Dance_Fever/D2.jpg)
+![](/images/Programme/Learning%20for%20Life%20Programme/D2.jpg)
 Primary 2 students engaging in Creative Movements through synchronous online platform due to COVID-19.
 
   
@@ -47,10 +45,9 @@ Primary 2 students engaging in Creative Movements through synchronous online pla
 
 To promote cultural literacy and appreciation of the arts through the learning of multicultural and modern dance movements, our Riverlites go through a series of dance programmes where they learn Cultural Dances, Hip Hop and K-Pop dance movements.
 
-![D3.jpg](https://rivervalepri.moe.edu.sg/qql/slot/u143/Programmes/Dance_Fever/D3.jpg)
+![](/images/Programme/Learning%20for%20Life%20Programme/D3.jpg)
 Primary 6 students learning choreography to KPop Dance
 
-  
 
-![D4.jpg](https://rivervalepri.moe.edu.sg/qql/slot/u143/Programmes/Dance_Fever/D4.jpg)
+![](/images/Programme/Learning%20for%20Life%20Programme/D4.jpg)
 Primary 6 boys in action
