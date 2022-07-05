@@ -2,7 +2,6 @@ collections:
   programme:
     output: true
     order:
-      - Events/.keep
       - Learning for Life Programmes.md
       - Global Classroom Programme.md
       - 2021 Global Classroom.md
@@ -22,3 +21,4 @@ collections:
       - 2019 Global Classroom/P4 Museum Based Learning Experience to National
         Gallery Singapore.md
       - 2019 Global Classroom/Introduction to Percussion Ensemble Music.md
+      - Events/.keep
