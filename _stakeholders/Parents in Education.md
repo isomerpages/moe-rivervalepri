@@ -14,3 +14,10 @@ description: ""
 ![](/images/Stakeholders/Parents%20in%20Education/SIS.jpg)[SIS](https://www.moe.gov.sg/schoolfinder/?journey=Secondary%20school)
 
 
+* [Packed for Transit_Booklet](/files/Parents%20in%20Education/Packed%20for%20Transit_Booklet.pdf)
+
+* [Transition support_for Parents](/files/Parents%20in%20Education/Transition%20support_for%20Parents.pdf)
+
+* [Resilience Resources for Parents](/files/Parents%20in%20Education/Resilience_Resources%20for%20Parents.pdf)
+
+* [Rivervale SelfHelpKit View](/files/Parents%20in%20Education/Rivervale_SelfHelpKit_View%20(1).pdf)
