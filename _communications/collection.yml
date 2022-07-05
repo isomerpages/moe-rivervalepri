@@ -2,5 +2,6 @@ collections:
   communications:
     output: true
     order:
+      - Consent for photography and videos.md
       - Parents Engagement.md
       - Subject Sharing.md
