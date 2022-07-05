@@ -2,4 +2,5 @@ collections:
   stakeholders:
     output: true
     order:
+      - Parent Support Group.md
       - Parent Volunteers Programme.md
