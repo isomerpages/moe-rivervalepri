@@ -2,6 +2,7 @@ collections:
   programme:
     output: true
     order:
+      - Events/.keep
       - Learning for Life Programmes.md
       - Global Classroom Programme.md
       - 2021 Global Classroom.md
