@@ -2,9 +2,9 @@ collections:
   stakeholders:
     output: true
     order:
-      - Teacher's Portal/FA section.md
-      - Teacher's Portal/Teachers' Portal.md
       - Teacher's Portal/.keep
+      - Teacher's Portal/Teachers' Portal.md
+      - Teacher's Portal/FA section.md
       - Our Alumni.md
       - Parents in Education.md
       - Parent Support Group.md
