@@ -2,6 +2,7 @@ collections:
   communications:
     output: true
     order:
+      - PSLE Scoring and Secondary 1 Posting from 2021.md
       - Consent for photography and videos.md
       - Parents Engagement.md
       - Subject Sharing.md
