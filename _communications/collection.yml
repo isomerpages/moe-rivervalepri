@@ -1,4 +1,5 @@
 collections:
   communications:
     output: true
-    order: []
+    order:
+      - Subject Sharing.md
