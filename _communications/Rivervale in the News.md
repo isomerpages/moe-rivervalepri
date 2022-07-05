@@ -48,3 +48,10 @@ Click [here](https://www.schoolbag.sg/story/reel-to-real?utm_source=facebook&utm
  
  12) Channel News Asia: Stronger :The Battle against COVID-19 3rd March 2020
  
+![](/images/Communications/Capture.png)
+
+Click [here](https://www.channelnewsasia.com/watch/stronger-battle-against-covid-19) to view video (~31:17 - 34:06) and article on Channel News Asia.
+
+13)  Lianhe Zaobao 8 March 2020   
+确保学生都能参与心仪项目 八小学试行无须选拔课程辅助活动模式    
+Click [here](/files/Communications/Rivervale%20in%20the%20News/确保学生都能参与心仪项目%20八小学试行无须选拔课程辅助活动模式%208%20March%202020.pdf)  to view
