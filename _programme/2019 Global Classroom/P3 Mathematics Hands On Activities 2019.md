@@ -22,8 +22,8 @@ third_nav_title: 2019 Global Classroom
 #### Programme
 ---------
 
-![](/images/Programme/Global%20Classroom/2019%20Global%20Classroom/P3%20Mathematics%20Activities%202019/31.jpg)Students showed enthusiasm while playing the game, Maths Power Tower. The students took turns to answer the multiplication equations shown on the cup.
+<img style="width:70%;height:50%" src="/images/Programme/Global%20Classroom/2019%20Global%20Classroom/P3%20Mathematics%20Activities%202019/31.jpg">Students showed enthusiasm while playing the game, Maths Power Tower. The students took turns to answer the multiplication equations shown on the cup.
 
-![](/images/Programme/Global%20Classroom/2019%20Global%20Classroom/P3%20Mathematics%20Activities%202019/32.jpg)To play the game, students first rolled a dice to get a number. They then tried to find a multiplication equation on the Bingo Sheet where the number could be used. This equation would be marked out and the cycle repeated until someone found a 'Bingo'
+<img style="width:70%;height:50%" src="/images/Programme/Global%20Classroom/2019%20Global%20Classroom/P3%20Mathematics%20Activities%202019/32.jpg">To play the game, students first rolled a dice to get a number. They then tried to find a multiplication equation on the Bingo Sheet where the number could be used. This equation would be marked out and the cycle repeated until someone found a 'Bingo'
 
-![](/images/Programme/Global%20Classroom/2019%20Global%20Classroom/P3%20Mathematics%20Activities%202019/33.jpg)The students will draw an Equation card and make use of the cubes to show various arrays that could represent the equation on the card.
+<img style="width:70%;height:50%" src="/images/Programme/Global%20Classroom/2019%20Global%20Classroom/P3%20Mathematics%20Activities%202019/33.jpg">The students will draw an Equation card and make use of the cubes to show various arrays that could represent the equation on the card.
