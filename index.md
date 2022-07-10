@@ -17,5 +17,5 @@ sections:
           url: /ANNOUNCEMENTS
         - title: HIGHLIGHTS
           description: ""
-          url: ""
+          url: /Highlights
 ---
