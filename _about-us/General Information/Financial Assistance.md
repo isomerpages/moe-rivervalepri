@@ -41,7 +41,7 @@ How to apply?
 
 Application period is from&nbsp;**Wednesday, 13 October 2021 to Wednesday, 3 November 2021**.&nbsp;Parents/Guardians may&nbsp;**arrange for their child/ward to collect the application form from the school’s General Office.**&nbsp;Alternatively, you may also&nbsp;**print the application form on their own**. The application&nbsp;**form is available on Parents Gateway and the school website**.
 
-Please click&nbsp;**[HERE](https://rivervalepri.moe.edu.sg/qql/slot/u143/About-Us/FAS%202022/RiVPS%20FAS%20Application%20Form%20For%202022.pdf)**&nbsp;to download the application form.
+Please click&nbsp;**[HERE](/files/About%20Us/RiVPS%20FAS%20Application%20Form%20For%202022.pdf)**&nbsp;to download the application form.
 
 ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Application for FAS for Primary 1 to Primary 5 students, in 2022:**
 
@@ -53,7 +53,7 @@ Parents/Guardians with children studying in different Government or Government-a
 
 Primary 6 students can apply for FAS at their primary school&nbsp;**before the release of the PSLE results**&nbsp;in November 2021. The primary school will process the application and inform parents/guardians of the outcome. After the release of the posting results,&nbsp;**a copy of the approval letter is to be submitted to the secondary school to alert them of the grant**.
 
-For more information on the scheme, please refer to the&nbsp;[**MOE FAS 2022 Pamphlet**](https://rivervalepri.moe.edu.sg/qql/slot/u143/About-Us/FAS%202022/MOE_FAS_Pamphlet_2022.pdf)&nbsp;or you may visit&nbsp;**[MOE’s website](https://www.moe.gov.sg/financial-matters/financial-assistance)**.
+For more information on the scheme, please refer to the&nbsp;[FAS Pamphlet 2022](/files/About%20Us/MOE_FAS_Pamphlet_2022.pdf)&nbsp;or you may visit&nbsp;**[MOE’s website](https://www.moe.gov.sg/financial-matters/financial-assistance)**.
 
 All application forms are to be&nbsp;**duly signed and submitted together with copies of all relevant documents**&nbsp;to the school’s General Office&nbsp;**by**&nbsp;**Wednesday, 3 November 2021**. Parents/Guardians are to&nbsp;**seal the form (Pages 1, 2, 3, &amp; 7 only) and all supporting documents in an envelope and inform your child/ward to submit it to the school’s General Office.**
 
