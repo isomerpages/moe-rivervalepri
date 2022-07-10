@@ -2,6 +2,7 @@ collections:
   communications:
     output: true
     order:
+      - Rivervale Primary E Open House 2022.md
       - Rivervale in the News.md
       - Calendar.md
       - Rivervale Connects.md
