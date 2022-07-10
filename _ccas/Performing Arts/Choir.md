@@ -53,9 +53,13 @@ Virtual Performance during CNY 2021
 
 ![](/images/Performing%20Arts/Choir/ch1.jpg)
 
+![](/images/Performing%20Arts/Choir/ch2.jpg)Choir members performing during Chinese New Year celebrations 2018
+
 ![](/images/Performing%20Arts/Choir/ch7-compressed.jpg)
 
-![](/images/Performing%20Arts/Choir/ch3.jpg)
+![](/images/Performing%20Arts/Choir/ch8.jpg)Rejoicing with the community during Cultural Appreciation Evening 2018
+
+![](/images/Performing%20Arts/Choir/ch3.jpg)Singapore Youth Festival Arts Presentation 2018
 
 #### CCA VIA
 -------
@@ -77,4 +81,4 @@ Bonding session during Racial Harmony Day
 
 ![](/images/Performing%20Arts/Choir/ch11.jpg)
 
-![](/images/Performing%20Arts/Choir/ch11.jpg)
+![](/images/Performing%20Arts/Choir/ch11.jpg)Enjoying our team-building games during Choir Camp 2018
