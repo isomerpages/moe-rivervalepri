@@ -14,4 +14,4 @@ The following models of Scientific Calculators are suitable for:
 
   
 
-For more approved calculator models, please click [here](https://www.seab.gov.sg/docs/default-source/documents/guidelines_calculators.pdf?sfvrsn=5c759ac4_4).
+For more approved calculator models, please click [Here](/files/Curriculum%20Science/guidelines_calculators.pdf)
