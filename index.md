@@ -11,7 +11,7 @@ sections:
       key_highlights:
         - title: NOTICEBOARD
           description: ""
-          url: ""
+          url: /Noticeboard
         - title: ANNOUNCEMENTS
           description: ""
           url: /ANNOUNCEMENTS
