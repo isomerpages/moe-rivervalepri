@@ -60,6 +60,7 @@ We hope to develop the pupils holistically and acquire a love and passion for Gu
 
 #### SYF Arts Presentation 2018
 --------------------------
+![](/images/Performing%20Arts/Guzheng/gz2.jpg)
 
 #### SYF Arts Presentation 2016
 --------------------------
