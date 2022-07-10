@@ -40,22 +40,22 @@ The webpage aims to promote the visibility and accessibility of the counselling 
 
 &nbsp;Click:
 
-&nbsp;**[Healthy Nuggets for a Happy Child](https://rivervalepri.moe.edu.sg/qql/slot/u143/About-Us/Staff/Counsellor/Healthy%20Nuggets%20for%20a%20Happy%20Child.pdf)**
+&nbsp;**[Healthy Nuggets for a Happy Child](/files/About%20Us/Healthy%20Nuggets%20for%20a%20Happy%20Child%20.pdf)**
 
 ### **Nuggets Takeaway**
 
-  
-[Boss Your Brain.pdf](https://rivervalepri.moe.edu.sg/qql/slot/u143/About-Us/Staff/Counsellor/Boss%20Your%20Brain.pdf)   
-[A Story About Feelings.pdf](https://rivervalepri.moe.edu.sg/qql/slot/u143/About-Us/Staff/Counsellor/2015/September%202015_A%20Story%20About%20Feelings.pdf)  
-[Awesome August.pdf](https://rivervalepri.moe.edu.sg/qql/slot/u143/About-Us/Staff/Counsellor/2014/Nuggets_Takeaway_Awesome_August_2014.pdf)  
-[Happy & Positive YOU.pdf](https://rivervalepri.moe.edu.sg/qql/slot/u143/About-Us/Staff/Counsellor/2014/September_Nuggets_Takeaway_Becoming_a_Happy_&_Positive_YOU.pdf)  
-[Helping My Friend.pdf](https://rivervalepri.moe.edu.sg/qql/slot/u143/About-Us/Staff/Counsellor/2015/April_2015_Helping_My_Friend_Culture_of_Love-Care-Support.pdf)  
-[How are you feeling.pdf](https://rivervalepri.moe.edu.sg/qql/slot/u143/About-Us/Staff/Counsellor/2014/Joyful_July_14_Jul_2014.pdf)  
-[Love & Care.pdf](https://rivervalepri.moe.edu.sg/qql/slot/u143/About-Us/Staff/Counsellor/2014/Nuggets%20Takeaway%20from%20Your%20School%20Counsellor_APR_MAY%20Issue%202014.pdf)  
-[Managing your Grrr....pdf](https://rivervalepri.moe.edu.sg/qql/slot/u143/About-Us/Staff/Counsellor/2016/July%202016_Managing%20your%20Grrr....pdf)  
-[Oral-Motor Workout.pdf](https://rivervalepri.moe.edu.sg/qql/slot/u143/About-Us/Staff/Counsellor/2015/August%202015_Oral-Motor%20Workout.pdf)  
-[Relaxation Exercises.pdf](https://rivervalepri.moe.edu.sg/qql/slot/u143/About-Us/Staff/Counsellor/2014/October_Nuggets_Takeaway_Relaxation_Exercises_2014.pdf)  
-[Starting Big School.pdf](https://rivervalepri.moe.edu.sg/qql/slot/u143/About-Us/Staff/Counsellor/2015/Jan_2015_Nuggets_Takeaway_Starting_Big_School_P1_Induction_5_Jan_2015.pdf)  
-[Stress Busters.pdf](https://rivervalepri.moe.edu.sg/qql/slot/u143/About-Us/Staff/Counsellor/2015/July%202015_Stress%20Busters.pdf)  
-[Transition Tips for P1 Parents.pdf](https://rivervalepri.moe.edu.sg/qql/slot/u143/About-Us/Staff/Counsellor/2015/Guidance_Branch-MOE_Tips_for_P1_Parents_to_Ease_Transitions_Slides_for_Schools_2015.pdf)  
-[When Someone Special Dies.pdf](https://rivervalepri.moe.edu.sg/qql/slot/u143/About-Us/Staff/Counsellor/2016/Feb%202016_When%20Someone%20Special%20Dies_Grief%20&%20Loss.pdf)
+
+1. [Boss Your Brain](/files/About%20Us/Nuggets%20Takeaway/Boss%20Your%20Brain.pdf)
+2. [A Story About Feelings](/files/About%20Us/Nuggets%20Takeaway/September%202015_A%20Story%20About%20Feelings.pdf)
+3. [Awesome August](/files/About%20Us/Nuggets%20Takeaway/Nuggets_Takeaway_Awesome_August_2014.pdf)
+4. [Happy & Positive YOU](/files/About%20Us/Nuggets%20Takeaway/September_Nuggets_Takeaway_Becoming_a_Happy_&_Positive_YOU.pdf)
+5. [Helping My Friend](/files/About%20Us/Nuggets%20Takeaway/April_2015_Helping_My_Friend_Culture_of_Love-Care-Support.pdf)
+6. [How are you feeling](/files/About%20Us/Nuggets%20Takeaway/Joyful_July_14_Jul_2014.pdf)
+7. [Love & Care](/files/About%20Us/Nuggets%20Takeaway/Nuggets%20Takeaway%20from%20Your%20School%20Counsellor_APR_MAY%20Issue%202014.pdf)
+8. [Managing your Grrr...](/files/About%20Us/Nuggets%20Takeaway/July%202016%20Managing%20your%20Grrr.pdf)
+9. [Oral-Motor Workout](/files/About%20Us/Nuggets%20Takeaway/August%202015_Oral-Motor%20Workout.pdf)
+10. [Relaxation Exercises](/files/About%20Us/Nuggets%20Takeaway/October%20Nuggets%20Takeaway%20Relaxation%20Exercises%202014.pdf) 
+11. [Starting Big School](/files/About%20Us/Nuggets%20Takeaway/Jan_2015_Nuggets_Takeaway_Starting_Big_School_P1_Induction_5_Jan_2015.pdf)
+12. [Stress Busters](/files/About%20Us/Nuggets%20Takeaway/July%202015%20Stress%20Busters.pdf)
+13. [Transition Tips for P1 Parents](/files/About%20Us/Nuggets%20Takeaway/Guidance%20Branch%20MOE%20Tips%20for%20P1%20Parents%20to%20Ease%20Transitions%20Slides%20for%20Schools%202015.pdf)
+14. [When Someone Special Dies](/files/About%20Us/Nuggets%20Takeaway/Feb%202016%20When%20Someone%20Special%20Dies%20Grief%20&%20Loss.pdf)
