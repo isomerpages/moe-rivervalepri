@@ -1,6 +1,6 @@
 ---
 title: Sexuality Education @ Rivervale
-permalink: /Sexuality-Education-Rivervale
+permalink: /Sexuality-Education-Rivervale/
 description: ""
 ---
 **RIVERVALE PRIMARY SCHOOL**

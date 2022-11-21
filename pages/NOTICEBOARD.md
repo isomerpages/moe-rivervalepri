@@ -1,6 +1,6 @@
 ---
 title: NOTICEBOARD
-permalink: /Noticeboard
+permalink: /Noticeboard/
 description: ""
 ---
 1. [Student iCON](https://workspace.google.com/dashboard)

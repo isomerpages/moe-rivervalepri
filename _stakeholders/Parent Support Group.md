@@ -1,6 +1,6 @@
 ---
 title: Parent Support Group
-permalink: /stakeholders/Parent-Support-Group
+permalink: /stakeholders/Parent-Support-Group/
 description: ""
 ---
 ![](/images/Stakeholders/Parent%20Support%20Group/p1.png)

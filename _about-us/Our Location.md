@@ -1,6 +1,6 @@
 ---
 title: Our Location
-permalink: /Our-Location
+permalink: /Our-Location/
 description: ""
 ---
 ![](/images/School/Location.png)
