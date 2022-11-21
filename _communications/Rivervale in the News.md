@@ -1,6 +1,6 @@
 ---
 title: Rivervale in the News
-permalink: /communications/Rivervale-in-the-News
+permalink: /communications/Rivervale-in-the-News/
 description: ""
 ---
 1) Hello Singapore 狮城有约 11 March 2016  

@@ -1,6 +1,6 @@
 ---
 title: Subject Sharing
-permalink: /communications/Subject-Sharing
+permalink: /communications/Subject-Sharing/
 description: ""
 ---
 1. [P3 P4 Malay Language](/files/Communications/Subject%20Sharing%202022/P3%20P4%20Malay%20Language.pdf)

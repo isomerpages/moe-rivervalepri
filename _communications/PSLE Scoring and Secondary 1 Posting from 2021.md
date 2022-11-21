@@ -1,6 +1,6 @@
 ---
 title: PSLE Scoring and Secondary 1 Posting from 2021
-permalink: /communications/PSLE-Scoring-and-Secondary-1-Posting-from-2021
+permalink: /communications/PSLE-Scoring-and-Secondary-1-Posting-from-2021/
 description: ""
 ---
 To support parents and students to choose suitable secondary schools under the new PSLE Scoring System, MOE has provided the following resources:

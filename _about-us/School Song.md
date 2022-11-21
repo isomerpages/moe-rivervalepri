@@ -1,6 +1,6 @@
 ---
 title: School Song
-permalink: /School-Song
+permalink: /School-Song/
 description: ""
 ---
 **The Emblem of Rivervale Primary School**

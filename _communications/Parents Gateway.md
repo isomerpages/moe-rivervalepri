@@ -1,6 +1,6 @@
 ---
 title: Parents Gateway
-permalink: /communications/Parents-Gateway
+permalink: /communications/Parents-Gateway/
 description: ""
 ---
   

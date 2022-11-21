@@ -1,6 +1,6 @@
 ---
 title: Mission&Vision
-permalink: /Mission-Vision
+permalink: /Mission-Vision/
 description: ""
 ---
 

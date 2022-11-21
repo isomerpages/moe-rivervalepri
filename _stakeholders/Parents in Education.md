@@ -1,6 +1,6 @@
 ---
 title: Parents in Education
-permalink: /stakeholders/Parents-in-Education
+permalink: /stakeholders/Parents-in-Education/
 description: ""
 ---
 <img style="width:50%;height:50%" src="/images/Stakeholders/Parents%20in%20Education/SchoolBag.jpg">[Schoolbag](https://www.schoolbag.sg/)

@@ -1,6 +1,6 @@
 ---
 title: 2021 Global Classroom
-permalink: /programme/2021-Global-Classroom
+permalink: /programme/2021-Global-Classroom/
 description: ""
 ---
 #### Applied Learning Program (ALP) 2021

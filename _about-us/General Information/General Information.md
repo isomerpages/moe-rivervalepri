@@ -1,6 +1,6 @@
 ---
 title: General Information
-permalink: /General-Information
+permalink: /General-Information/
 description: ""
 third_nav_title: General Information
 ---

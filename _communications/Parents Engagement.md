@@ -1,6 +1,6 @@
 ---
 title: Parents Engagement
-permalink: /communications/Parents-Engagement
+permalink: /communications/Parents-Engagement/
 description: ""
 ---
 ##### P2

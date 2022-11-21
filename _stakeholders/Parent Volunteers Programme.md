@@ -1,6 +1,6 @@
 ---
 title: Parent Volunteers Programme
-permalink: /stakeholders/Parent-Volunteers-Programme
+permalink: /stakeholders/Parent-Volunteers-Programme/
 description: ""
 ---
 **_(Updated as at 22 May 2022)_**

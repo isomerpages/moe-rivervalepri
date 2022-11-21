@@ -1,6 +1,6 @@
 ---
 title: ANNOUNCEMENTS
-permalink: /ANNOUNCEMENTS
+permalink: /ANNOUNCEMENTS/
 description: ""
 ---
 [P6 Prelim Schedule](/files/Announcements/2022_P6_Prelim_Schedule.pdf)

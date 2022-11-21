@@ -1,6 +1,6 @@
 ---
 title: Learning for Life Programmes
-permalink: /about-us/Learning-for-Life-Programmes
+permalink: /about-us/Learning-for-Life-Programmes/
 description: ""
 ---
 **Learning for Life Programme: Dance and Fitness**

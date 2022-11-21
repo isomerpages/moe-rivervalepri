@@ -1,6 +1,6 @@
 ---
 title: Calendar
-permalink: /communications/Calendar
+permalink: /communications/Calendar/
 description: ""
 ---
 Calendar
