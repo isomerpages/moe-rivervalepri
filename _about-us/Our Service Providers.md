@@ -3,8 +3,8 @@ title: Our Service Providers
 permalink: /Our-Service-Providers/
 description: ""
 ---
-School Bookshop
----------------
+#### **School Bookshop**
+
 
 **Pacific Bookstores Pte Ltd**
 
@@ -16,8 +16,8 @@ Website: [www.pacificbookstores.com](http://www.pacificbookstores.com/)
 
 [](http://www.pacificbookstores.com/)
 
-School Uniform Supplier
------------------------
+#### **School Uniform Supplier**
+
 
   
 
@@ -49,8 +49,8 @@ To purchase uniform, click on link below:
 
   
 
-School Bus Service
-------------------
+#### **School Bus Service**
+
 
   
 
@@ -68,8 +68,8 @@ Fax: 62800768
 
 Email: [khng.bus.service@gmail.com](mailto:khng.bus.service@gmail.com)
 
-Student Care Centre
--------------------
+#### **Student Care Centre**
+
 
   
 
@@ -87,8 +87,8 @@ Facebook: [https://www.facebookcom/groups/ptrivervale](https://www.facebookcom/
 
 Website: [www.pro-teach.com](http://www.pro-teach.com/)
 
-School Dental Clinic
---------------------
+#### **School Dental Clinic**
+
 
   
 
