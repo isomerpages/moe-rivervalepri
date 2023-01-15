@@ -3,7 +3,6 @@ title: Mission&Vision
 permalink: /Mission-Vision/
 description: ""
 ---
-
 Mission & Vision
 ================
 
@@ -38,4 +37,4 @@ o       Teamwork
 
 **SCHOOL MOTTO**  
   
-Succeed & Excel
+Succeed n Excel
