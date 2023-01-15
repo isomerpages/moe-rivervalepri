@@ -2,14 +2,14 @@ collections:
   about-us:
     output: true
     order:
+      - Mission&Vision.md
+      - School Song.md
       - General Information/.keep
       - General Information/General Information.md
       - General Information/School Rules and Regulations.md
       - General Information/Financial Assistance.md
       - General Information/Waiting List Application Form.md
       - General Information/National School Games.md
-      - Mission&Vision.md
-      - School Song.md
       - Our Location.md
       - Our Service Providers.md
       - Our Staff/.keep
