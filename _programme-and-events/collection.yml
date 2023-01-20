@@ -1,5 +1,5 @@
 collections:
-  programme:
+  programme-and-events:
     output: true
     order:
       - Learning for Life Programmes.md
