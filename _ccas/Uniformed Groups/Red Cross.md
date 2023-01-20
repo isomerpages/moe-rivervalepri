@@ -4,61 +4,24 @@ permalink: /ccas/Uniformed-Groups/Red-Cross/
 description: ""
 third_nav_title: Uniformed Groups
 ---
-**Mission**  
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-pg9x">CCA</th>
+    <th class="tg-pg9x">Day and Time of after-school training (if applicable)</th>
+    <th class="tg-pg9x">Teachers in Charge</th>
+    <th class="tg-pg9x">Email Address</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-m9di">Red Cross</td>
+    <td class="tg-m9di">Selected Friday afternoons / Saturday (event-based)</td>
+    <td class="tg-u2s6"><span style="font-weight:400;color:#0C3989">Mdm Nurul Nabila</span><br><span style="font-weight:400;color:#0C3989">Mr Tang Kwang Wue</span><br><span style="font-weight:400;color:#0C3989">Ms Nur Sakina</span></td>
+    <td class="tg-m9di">nurul_nabila_azman@moe.edu.sg tang_kwang_wue@moe.edu.sg nur_sakina_akbar_ali@moe.edu.sg</td>
+  </tr>
+</tbody>
+</table>
 
-Lead and serve  
-  
 
-**Vision**
-
-To nurture Rivervale links to be leaders who are socially responsible and embrace humanitarian values through community engagement.
-
-**BRIEF OVERVIEW**
-
-| Day & Time | Venue | Teachers-in-Charge | Levels involved |
-|:---:|:---:|:---:|:---:|
-| Fridays 7.30 am to 9.00am | 5 Care Classroom | Ms Sally Tan Mdm Nurul Nabila Mr Tang Kwang Wue Ms Nur Sakina | P3 to P6 |
-| Selected weekdays afternoon | School/Outside School   (Competition trainings/Red Cross HQ events/ Learning Journeys) |  |  |
-
-#### Achievements
-------------
-| Year | Competition | Achievement |
-|:---:|:---:|:---:|
-| 2019 | Excellent Unit Award 2019 | GOLD Award |
-| 2019 | Red Cross Youth First Aid Championships | SILVER Award |
-| 2018 | Excellent Unit Award 2018 | GOLD Award |
-| 2018 | Red Cross Youth First Aid Championships | SILVER Award |
-
-#### Learning Journeys to enrich students' Learning Experience
----------------------------------------------------------
-
-![](/images/Uniformed%20Groups/Red%20Cross/rc1.png)**Trip to Civil Defence Heritage Gallery**
-
-![](/images/Uniformed%20Groups/Red%20Cross/rc2.png)**Attended a Gingerbread-making Workshop**
-
-#### Serving the Community
----------------------
-
-![](/images/Uniformed%20Groups/Red%20Cross/rc3.png)**Visit to Grace Lodge Home and Interacting with the Seniors**
-
-![](/images/Uniformed%20Groups/Red%20Cross/LJ4.jpg)**inks packing donated food items for “A Helping Hand towards our Friends”**
-
-![](/images/Uniformed%20Groups/Red%20Cross/rc4.jpg)**Beach Clean Up at Pasir Ris Park**
-
-#### Enrichment and Professional Development
----------------------------------------
-
-![](/images/Uniformed%20Groups/Red%20Cross/rc5.png)**Links learning First Aid skills**
-
-![](/images/Uniformed%20Groups/Red%20Cross/rc6.jpg)**Links participating in Linkamania Day Camp**
-
-#### Competitions and Collaboration
-------------------------------
-
-![](/images/Uniformed%20Groups/Red%20Cross/rc7.jpg)**Collaborating with Seng Kang Secondary School cadets**
-
-![](/images/Uniformed%20Groups/Red%20Cross/rc8.jpg)
-
-![](/images/Uniformed%20Groups/Red%20Cross/rc9.jpg)**Red Cross Links taking part in the National Day Celebration in School**
-
-![](/images/Uniformed%20Groups/Red%20Cross/rc10.jpg)**Links participating in World Red Cross Day 2019**
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQr9TpW1jiRwpm1sh4tYpfkDPtG1F1sreGo0h42Ucw15n4E0yChx0_OeR9D0A4J8Ub3n4X8Fe6WU407/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
