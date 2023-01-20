@@ -9,7 +9,7 @@ description: ""
 
 <figcaption>
 
-<strong> Sport | Badminton </strong>
+<strong> Aesthetics - Art & Music </strong>
 
 </figcaption>
 
@@ -21,7 +21,7 @@ description: ""
 
 <figcaption>
 
-<strong> Sport | Badminton </strong>
+<strong> English </strong>
 
 </figcaption>
 
@@ -33,7 +33,7 @@ description: ""
 
 <figcaption>
 
-<strong> Sport | Badminton </strong>
+<strong> CCE </strong>
 
 </figcaption>
 
@@ -45,7 +45,7 @@ description: ""
 
 <figcaption>
 
-<strong> Sport | Badminton </strong>
+<strong> Science </strong>
 
 </figcaption>
 
@@ -57,7 +57,7 @@ description: ""
 
 <figcaption>
 
-<strong> Sport | Badminton </strong>
+<strong> ICT </strong>
 
 </figcaption>
 
@@ -69,7 +69,7 @@ description: ""
 
 <figcaption>
 
-<strong> Sport | Badminton </strong>
+<strong> Mathematics </strong>
 
 </figcaption>
 
@@ -81,7 +81,7 @@ description: ""
 
 <figcaption>
 
-<strong> Sport | Badminton </strong>
+<strong> Mother Tongue - Chinese </strong>
 
 </figcaption>
 
@@ -93,7 +93,7 @@ description: ""
 
 <figcaption>
 
-<strong> Sport | Badminton </strong>
+<strong> Mother Tongue - Malay </strong>
 
 </figcaption>
 
@@ -105,7 +105,7 @@ description: ""
 
 <figcaption>
 
-<strong> Sport | Badminton </strong>
+<strong> Mother Tongue Tamil </strong>
 
 </figcaption>
 
@@ -117,7 +117,7 @@ description: ""
 
 <figcaption>
 
-<strong> Sport | Badminton </strong>
+<strong> PE </strong>
 
 </figcaption>
 
@@ -129,7 +129,7 @@ description: ""
 
 <figcaption>
 
-<strong> Sport | Badminton </strong>
+<strong> Student Management </strong>
 
 </figcaption>
 
