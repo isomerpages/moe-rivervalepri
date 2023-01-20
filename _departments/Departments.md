@@ -5,7 +5,7 @@ description: ""
 ---
 <figure>
 
-<a href="/ccas/Sports/Badminton/" target = "\_blank"> <img style="width:40%;height:50%" src="/images/Departments/D1.png"></a>
+<a href="/departments/Aesthetics-Art-Music/" target = "\_blank"> <img style="width:40%;height:50%" src="/images/Departments/D1.png"></a>
 
 <figcaption>
 
@@ -17,7 +17,7 @@ description: ""
 
 <figure>
 
-<a href="/ccas/Sports/Badminton/" target = "\_blank"> <img style="width:40%;height:50%" src="/images/Departments/D2.png"></a>
+<a href="/departments/English/" target = "\_blank"> <img style="width:40%;height:50%" src="/images/Departments/D2.png"></a>
 
 <figcaption>
 
@@ -29,7 +29,7 @@ description: ""
 
 <figure>
 
-<a href="/ccas/Sports/Badminton/" target = "\_blank"> <img style="width:40%;height:50%" src="/images/Departments/D3.png"></a>
+<a href="/departments/Character-and-Citizenship-Education/" target = "\_blank"> <img style="width:40%;height:50%" src="/images/Departments/D3.png"></a>
 
 <figcaption>
 
@@ -41,7 +41,7 @@ description: ""
 
 <figure>
 
-<a href="/ccas/Sports/Badminton/" target = "\_blank"> <img style="width:40%;height:50%" src="/images/Departments/D4.png"></a>
+<a href="/departments/Science/" target = "\_blank"> <img style="width:40%;height:50%" src="/images/Departments/D4.png"></a>
 
 <figcaption>
 
@@ -53,7 +53,7 @@ description: ""
 
 <figure>
 
-<a href="/ccas/Sports/Badminton/" target = "\_blank"> <img style="width:40%;height:50%" src="/images/Departments/D5.png"></a>
+<a href="/departments/Info-Communication-and-Technology-Department/" target = "\_blank"> <img style="width:40%;height:50%" src="/images/Departments/D5.png"></a>
 
 <figcaption>
 
@@ -65,7 +65,7 @@ description: ""
 
 <figure>
 
-<a href="/ccas/Sports/Badminton/" target = "\_blank"> <img style="width:40%;height:50%" src="/images/Departments/D6.png"></a>
+<a href="/departments/Mathematics/" target = "\_blank"> <img style="width:40%;height:50%" src="/images/Departments/D6.png"></a>
 
 <figcaption>
 
@@ -77,7 +77,7 @@ description: ""
 
 <figure>
 
-<a href="/ccas/Sports/Badminton/" target = "\_blank"> <img style="width:40%;height:50%" src="/images/Departments/D7.png"></a>
+<a href="/departments/Chinese-Language/" target = "\_blank"> <img style="width:40%;height:50%" src="/images/Departments/D7.png"></a>
 
 <figcaption>
 
@@ -89,7 +89,7 @@ description: ""
 
 <figure>
 
-<a href="/ccas/Sports/Badminton/" target = "\_blank"> <img style="width:40%;height:50%" src="/images/Departments/D8.png"></a>
+<a href="/departments/Malay-Language/" target = "\_blank"> <img style="width:40%;height:50%" src="/images/Departments/D8.png"></a>
 
 <figcaption>
 
@@ -101,7 +101,7 @@ description: ""
 
 <figure>
 
-<a href="/ccas/Sports/Badminton/" target = "\_blank"> <img style="width:40%;height:50%" src="/images/Departments/D9.png"></a>
+<a href="/departments/Tamil-Language/" target = "\_blank"> <img style="width:40%;height:50%" src="/images/Departments/D9.png"></a>
 
 <figcaption>
 
@@ -113,7 +113,7 @@ description: ""
 
 <figure>
 
-<a href="/ccas/Sports/Badminton/" target = "\_blank"> <img style="width:40%;height:50%" src="/images/Departments/D10.png"></a>
+<a href="/departments/Physical-Education-PE/" target = "\_blank"> <img style="width:40%;height:50%" src="/images/Departments/D10.png"></a>
 
 <figcaption>
 
@@ -125,7 +125,7 @@ description: ""
 
 <figure>
 
-<a href="/ccas/Sports/Badminton/" target = "\_blank"> <img style="width:40%;height:50%" src="/images/Departments/D11.png"></a>
+<a href="/departments/Student-Management/" target = "\_blank"> <img style="width:40%;height:50%" src="/images/Departments/D11.png"></a>
 
 <figcaption>
 
