@@ -2,5 +2,6 @@ collections:
   departments:
     output: true
     order:
+      - Tamil Language.md
       - Physical Education (PE).md
       - Student Management.md
