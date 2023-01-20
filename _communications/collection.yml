@@ -2,6 +2,7 @@ collections:
   communications:
     output: true
     order:
+      - 2023 P1 Admin Briefing.md
       - Useful Links for students.md
       - Rivervale in the News.md
       - Calendar.md
