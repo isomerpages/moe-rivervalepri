@@ -1,5 +1,5 @@
 collections:
-  stakeholders:
+  partnerships:
     output: true
     order:
       - Teacher's Portal/.keep
