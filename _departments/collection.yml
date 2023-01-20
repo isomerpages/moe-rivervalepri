@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - English.md
       - Character and Citizenship Education.md
       - Science.md
       - Info Communication and Technology Department.md
