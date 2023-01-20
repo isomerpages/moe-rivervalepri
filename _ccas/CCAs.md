@@ -45,7 +45,7 @@ description: ""
 
 <figcaption>
 
-<strong> Celebration Of Pongal Or Indian Harvest Festival </strong>
+<strong> Sport | Hockey </strong>
 
 </figcaption>
 
@@ -57,7 +57,7 @@ description: ""
 
 <figcaption>
 
-<strong> Celebration Of Pongal Or Indian Harvest Festival </strong>
+<strong> Sport | Netball </strong>
 
 </figcaption>
 
@@ -69,7 +69,7 @@ description: ""
 
 <figcaption>
 
-<strong> Celebration Of Pongal Or Indian Harvest Festival </strong>
+<strong> Sport | Taekwondo </strong>
 
 </figcaption>
 
@@ -81,7 +81,7 @@ description: ""
 
 <figcaption>
 
-<strong> Celebration Of Pongal Or Indian Harvest Festival </strong>
+<strong> Performing Arts | Brass Band </strong>
 
 </figcaption>
 
@@ -93,7 +93,7 @@ description: ""
 
 <figcaption>
 
-<strong> Celebration Of Pongal Or Indian Harvest Festival </strong>
+<strong> Performing Arts | Chinese Dance </strong>
 
 </figcaption>
 
@@ -105,7 +105,7 @@ description: ""
 
 <figcaption>
 
-<strong> Celebration Of Pongal Or Indian Harvest Festival </strong>
+<strong> Performing Arts | Choir </strong>
 
 </figcaption>
 
@@ -117,7 +117,7 @@ description: ""
 
 <figcaption>
 
-<strong> Celebration Of Pongal Or Indian Harvest Festival </strong>
+<strong> Performing Arts | Fusion Dance </strong>
 
 </figcaption>
 
@@ -129,7 +129,7 @@ description: ""
 
 <figcaption>
 
-<strong> Celebration Of Pongal Or Indian Harvest Festival </strong>
+<strong> Performing Arts | Guzheng </strong>
 
 </figcaption>
 
@@ -141,7 +141,7 @@ description: ""
 
 <figcaption>
 
-<strong> Celebration Of Pongal Or Indian Harvest Festival </strong>
+<strong> Performing Arts | Indian Dance </strong>
 
 </figcaption>
 
@@ -153,7 +153,7 @@ description: ""
 
 <figcaption>
 
-<strong> Celebration Of Pongal Or Indian Harvest Festival </strong>
+<strong> Performing Arts | Malay Dance </strong>
 
 </figcaption>
 
@@ -165,7 +165,7 @@ description: ""
 
 <figcaption>
 
-<strong> Celebration Of Pongal Or Indian Harvest Festival </strong>
+	<strong> Performing Arts | Speech and Drama </strong>
 
 </figcaption>
 
@@ -177,7 +177,7 @@ description: ""
 
 <figcaption>
 
-<strong> Celebration Of Pongal Or Indian Harvest Festival </strong>
+<strong> Clubs & Societies | Art Club </strong>
 
 </figcaption>
 
@@ -189,7 +189,7 @@ description: ""
 
 <figcaption>
 
-<strong> Celebration Of Pongal Or Indian Harvest Festival </strong>
+<strong> Clubs & Societies |  Ceramics Club </strong>
 
 </figcaption>
 
@@ -201,7 +201,7 @@ description: ""
 
 <figcaption>
 
-<strong> Celebration Of Pongal Or Indian Harvest Festival </strong>
+<strong> Clubs & Societies | Infocomm </strong>
 
 </figcaption>
 
@@ -213,7 +213,7 @@ description: ""
 
 <figcaption>
 
-<strong> Celebration Of Pongal Or Indian Harvest Festival </strong>
+<strong> Clubs & Societies | Life Skills </strong>
 
 </figcaption>
 
@@ -225,7 +225,7 @@ description: ""
 
 <figcaption>
 
-<strong> Celebration Of Pongal Or Indian Harvest Festival </strong>
+<strong> Clubs & Societies | Public Speaking </strong>
 
 </figcaption>
 
@@ -237,7 +237,7 @@ description: ""
 
 <figcaption>
 
-<strong> Celebration Of Pongal Or Indian Harvest Festival </strong>
+<strong> Clubs & Societies | Robotics </strong>
 
 </figcaption>
 
@@ -249,7 +249,7 @@ description: ""
 
 <figcaption>
 
-<strong> Celebration Of Pongal Or Indian Harvest Festival </strong>
+<strong> Uniformed Groups | Red Cross </strong>
 
 </figcaption>
 
