@@ -2,8 +2,6 @@ collections:
   communications:
     output: true
     order:
-      - Staff Accolades.md
-      - 2023 P1 Admin Briefing.md
       - Useful Links for students.md
       - Rivervale in the News.md
       - Calendar.md
@@ -17,3 +15,5 @@ collections:
       - Consent for photography and videos.md
       - Subject Sharing.md
       - Rivervale Primary E Open House 2022.md
+      - 2023 P1 Admin Briefing.md
+      - Staff Accolades.md
