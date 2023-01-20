@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - Info Communication and Technology Department.md
       - Mathematics.md
       - Chinese Language.md
       - Malay Language.md
