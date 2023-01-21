@@ -3,8 +3,6 @@ title: Guide to using SLS & Student ICON
 permalink: /communications/Guide-to-using-SLS-Student-ICON/
 description: ""
 ---
-
-
 Dear Parents,
 
   
@@ -27,4 +25,3 @@ During Home Based Learning, fofrassistance, email [rivps.sls@gmail.com](mailto
 3. [Guide on uploading images and videos](/files/Communications/Guide%20to%20using%20SLS%20and%20iCON/SLS%20Upload%20an%20image%20or%20video.pdf)
 4. Guide on sound recording
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pz7ZtKTanKc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
