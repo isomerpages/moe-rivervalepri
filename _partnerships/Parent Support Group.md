@@ -3,28 +3,10 @@ title: Parent Support Group
 permalink: /stakeholders/Parent-Support-Group/
 description: ""
 ---
-![](/images/Stakeholders/Parent%20Support%20Group/p1.png)
+Rivervale's Parent Support Group (PSG) plays a key role in inspiring and guiding parents who wish to contribute to the school’s efforts, coordinating their time and effort effectively to give our children the best educational experience. Our PSG members actively contributing to the following school programmes;
 
-![](/images/Stakeholders/Parent%20Support%20Group/p2.png)
+1. **FUN for ALL & Every-One (FUN ALLEY)**: PSG provides logistic support and assist students whenever they encounter problem.
 
-![](/images/Stakeholders/Parent%20Support%20Group/p3.png)
+2. **Math For Life Programme**: PSG helps Primary 1 students to apply simple mathematical concepts of counting money by using physical cash during recess.
 
-![](/images/Stakeholders/Parent%20Support%20Group/p4.png)
-
-![](/images/Stakeholders/Parent%20Support%20Group/p5.png)
-
-![](/images/Stakeholders/Parent%20Support%20Group/p6.png)
-
-![](/images/Stakeholders/Parent%20Support%20Group/p7.png)
-
-![](/images/Stakeholders/Parent%20Support%20Group/p8.png)
-
-![](/images/Stakeholders/Parent%20Support%20Group/p9.png)
-
-![](/images/Stakeholders/Parent%20Support%20Group/p10.png)
-
-![](/images/Stakeholders/Parent%20Support%20Group/p11.png)
-
-![](/images/Stakeholders/Parent%20Support%20Group/p12.png)
-
-![](/images/Stakeholders/Parent%20Support%20Group/p13.png)
+3. **Fruittie Veggie Bites Programme (FVB)**: PSG partners with the school in encouraging students to lead a healthy lifestyle
