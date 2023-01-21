@@ -9,13 +9,7 @@ sections:
   - hero:
       background: /images/Homepage/RVPS_Homepage_New.gif
       key_highlights:
-        - title: NOTICEBOARD
-          description: ""
-          url: /Noticeboard
         - title: ANNOUNCEMENTS
           description: ""
           url: /ANNOUNCEMENTS
-        - title: HIGHLIGHTS
-          description: ""
-          url: /Highlights
 ---
