@@ -2,11 +2,11 @@ collections:
   communications:
     output: true
     order:
-      - Guide to using SLS & Student ICON.md
       - Useful Links for students.md
       - Rivervale in the News.md
       - Calendar.md
       - Rivervale Connects.md
+      - Guide to using SLS & Student ICON.md
       - Parents Gateway.md
       - Primary One 2022 information.md
       - PSLE Scoring and Secondary 1 Posting from 2021.md
