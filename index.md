@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/School/photo6160989144705250736.jpg
+      background: /images/Homepage/RVPS_Homepage_New.gif
       key_highlights:
         - title: NOTICEBOARD
           description: ""
@@ -19,4 +19,3 @@ sections:
           description: ""
           url: /Highlights
 ---
-
