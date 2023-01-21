@@ -2,4 +2,5 @@ collections:
   programme-and-events:
     output: true
     order:
+      - Applied Learning Programme (ALP) @ Rivervale.md
       - Learning for Life Programmes.md
