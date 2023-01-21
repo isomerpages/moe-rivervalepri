@@ -12,3 +12,5 @@ To develop Riverlites to be self-disciplined learners, we promote ownership with
   
 
 We also deploy a three-tiers leadership development programme where we provide opportunities for every Riverlite to assume a leadership role during their time in Rivervale. In addition, we will stretch the students who have demonstrated the ability to lead others with competence and compassion.
+
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSskmDAiUCSQD8Rrk4exCjirjWpj9XQnXKhKo99bPK7XiTluI-QgFXisvstmXnixU4IQO15swn59r3i/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
