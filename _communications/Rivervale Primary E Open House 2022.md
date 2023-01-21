@@ -3,13 +3,6 @@ title: Rivervale Primary E Open House 2022
 permalink: /communications/Rivervale-Primary-E-Open-House-2022/
 description: ""
 ---
-Come join Rivervale’s  2022 E-Open House via webinar on  **9 July 2022, Saturday**, from **9.00am to 10.00am.**
+Please click [here](https://rivervalepri.moe.edu.sg/qql/slot/u143/Communications/e%20open%20house/Open%20House_For%20SchoolWebsite.pdf) to view slides for our E-open House 2022.
 
-  
-Registration is not required. All are welcome!  
-  
-Please click the link below to join the webinar:
-
-[Moe Singapore Zoom](https://moe-singapore.zoom.us/j/84810751340)
-
-Passcode: 903828
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Azb8sezx72Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
