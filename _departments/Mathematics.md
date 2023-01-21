@@ -19,3 +19,5 @@ Rivervale equips every student with mathematical problem-solving ability in thei
   
 
 3. **Spatial Visualisation Programme**: This programme aims to develop students in their spatial visualisation intelligence. Students work in groups using different manipulatives to help them develop this intelligence.
+
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSk0bOUC8OnbhWJpq_I7Z2Ufsi-x1UPLdVJIpkCXdkCdcy2mD6oOkB6hkR8zVAxnAecooOM_q7Skz5q/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
