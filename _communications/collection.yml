@@ -2,7 +2,7 @@ collections:
   communications:
     output: true
     order:
-      - Singapore Student Learning Space (SLS).md
+      - Guide to using SLS & Student ICON.md
       - Useful Links for students.md
       - Rivervale in the News.md
       - Calendar.md
