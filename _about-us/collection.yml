@@ -2,9 +2,9 @@ collections:
   about-us:
     output: true
     order:
-      - School Advisory Committee.md
       - Mission&Vision.md
       - School Song.md
       - General Information.md
       - Our Location.md
       - Our Service Providers.md
+      - School Advisory Committee.md
