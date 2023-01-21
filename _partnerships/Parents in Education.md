@@ -20,4 +20,4 @@ description: ""
 
 * [Resilience Resources for Parents](/files/Parents%20in%20Education/Resilience_Resources%20for%20Parents.pdf)
 
-* [Rivervale SelfHelpKit View](/files/Parents%20in%20Education/Rivervale_SelfHelpKit_View%20(1).pdf)
+* [Healthy Nuggets for a Happy Child](/files/Parents%20in%20Education/Rivervale_SelfHelpKit_View%20(1).pdf)
