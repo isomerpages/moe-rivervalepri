@@ -3,29 +3,8 @@ title: Our Alumni
 permalink: /stakeholders/Our-Alumni/
 description: ""
 ---
-**Mission** 
-
-RIVA creates opportunities for the character and leadership development of members through activities in serving our community
-
-**VISION**
-
-A community of members who embodies a sense of family
-
-**BRIEF OVERVIEW**
-
-![](/images/Stakeholders/Our%20alumni/z1.png)
-
-#### EXCO Organisational Chart
--------------------------
-
-![](/images/Stakeholders/Our%20alumni/z2.png)
-
-
-#### Announcement to Alumni
-----------------------
-
-![](/images/Stakeholders/Our%20alumni/Capture.png)
-
-![](/images/Stakeholders/Our%20alumni/z3.jpg)
-
-![](/images/Stakeholders/Our%20alumni/Capture%20(1).png)
+Rivervale Primary School Alumni Association (RIVA) was established in 2012 with the main objective of giving back to the alma-mater. RIVA contributes regularly to the following programmes.  
+  
+1.  **Educational Career Guidance:** RIVA shares their experiences in their secondary schools and preparation for DSA to equip graduating Riverlites to prepare for the life after primary school.  
+  
+2.  **School Camps:** RIVA provide support for various school Camps such as Student Leadership Camp and P5 Outdoor Camps by facilitating the various activities and ensuring the safety of Riverlites.
