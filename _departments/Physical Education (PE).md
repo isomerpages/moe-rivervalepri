@@ -14,3 +14,5 @@ The highlight for middle primary students is the application of combined skills 
 The upper primary students are engaged in modified games where they participate as players and as game officials.  
   
 Besides the Physical Health component, the PE programme also aims to inculcate school values and Social Emotional Learning (SEL) competencies via games and intra-class competitions.
+
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS-TLOgX3YPPzTSWqv1RYnV1Hzy0asom1928qWuQt9YuXV9uDgFupAgQ2Xo7S18Pukvn_d3UMpaMeVC/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
