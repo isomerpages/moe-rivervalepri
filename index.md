@@ -12,4 +12,8 @@ sections:
         - title: ANNOUNCEMENTS
           description: ""
           url: /ANNOUNCEMENTS
+  - infobar:
+      title: Teachers' Portal
+      button: Click here
+      url: https://rivervalepri.moe.edu.sg/teachers-portal
 ---
