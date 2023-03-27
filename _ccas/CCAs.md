@@ -5,7 +5,7 @@ description: ""
 ---
 <figure>
 
-<a href="/ccas/Sports/Badminton/" target = "\_blank"> <img style="width:40%;height:50%" src="/images/CCAs/S1.png"></a>
+<a href="/ccas/sports/badminton/" target = "\_blank"> <img style="width:40%;height:50%" src="/images/CCAs/S1.png"></a>
 
 <figcaption>
 
