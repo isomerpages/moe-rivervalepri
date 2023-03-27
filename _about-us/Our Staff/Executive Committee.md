@@ -4,64 +4,64 @@ permalink: /about-us/our-staff/executive-committee/
 description: ""
 third_nav_title: Our Staff
 ---
-<table class="tg">
+<table class="tg" style="border: 1px solid black">
 <thead>
   <tr>
-    <th class="tg-ifvt">Principal<br></th>
-    <th class="tg-l7h4">Ms Radha Govindasamy Subramaniam<br></th>
-    <th class="tg-l7h4">rivervale_school_leaders@moe.edu.sg<br></th>
+    <th class="tg-ifvt" style="border: 1px solid black">Principal<br></th>
+    <th class="tg-l7h4" style="border: 1px solid black">Ms Radha Govindasamy Subramaniam<br></th>
+    <th class="tg-l7h4" style="border: 1px solid black">rivervale_school_leaders@moe.edu.sg<br></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-ifvt">Vice-Principal(Academic)</td>
-    <td class="tg-l7h4">Mrs Maria Lee-Goh<br></td>
-    <td class="tg-l7h4">rivervale_school_leaders@moe.edu.sg<br></td>
+    <td class="tg-ifvt" style="border: 1px solid black">Vice-Principal(Academic)</td>
+    <td class="tg-l7h4" style="border: 1px solid black">Mrs Maria Lee-Goh<br></td>
+    <td class="tg-l7h4" style="border: 1px solid black">rivervale_school_leaders@moe.edu.sg<br></td>
   </tr>
   <tr>
-    <td class="tg-ifvt">Vice-Principal(Admin)</td>
-    <td class="tg-l7h4">Mr Aaron Chia<br></td>
-    <td class="tg-l7h4">rivervale_school_leaders@moe.edu.sg<br></td>
+    <td class="tg-ifvt" style="border: 1px solid black">Vice-Principal(Admin)</td>
+    <td class="tg-l7h4" style="border: 1px solid black">Mr Aaron Chia<br></td>
+    <td class="tg-l7h4" style="border: 1px solid black">rivervale_school_leaders@moe.edu.sg<br></td>
   </tr>
   <tr>
-    <td class="tg-ifvt">School Staff Developer(Internal)</td>
-    <td class="tg-l7h4">Mdm Jasmine Chiah<br></td>
-    <td class="tg-l7h4">chiah_min_hui_jasmine@moe.edu.sg<br></td>
+    <td class="tg-ifvt" style="border: 1px solid black">School Staff Developer(Internal)</td>
+    <td class="tg-l7h4" style="border: 1px solid black">Mdm Jasmine Chiah<br></td>
+    <td class="tg-l7h4" style="border: 1px solid black">chiah_min_hui_jasmine@moe.edu.sg<br></td>
   </tr>
   <tr>
-    <td class="tg-ifvt">HOD English<br></td>
-    <td class="tg-l7h4">Mrs Janet Quek<br></td>
-    <td class="tg-l7h4">seah_shiao_yen_janet@moe.edu.sg<br></td>
+    <td class="tg-ifvt" style="border: 1px solid black">HOD English<br></td>
+    <td class="tg-l7h4" style="border: 1px solid black">Mrs Janet Quek<br></td>
+    <td class="tg-l7h4" style="border: 1px solid black">seah_shiao_yen_janet@moe.edu.sg<br></td>
   </tr>
   <tr>
-    <td class="tg-ifvt">HOD Mathematics<br></td>
-    <td class="tg-l7h4">Mrs Candice Poh<br></td>
-    <td class="tg-l7h4">ngau_shu_mei_candice@moe.edu.sg<br></td>
+    <td class="tg-ifvt" style="border: 1px solid black">HOD Mathematics<br></td>
+    <td class="tg-l7h4" style="border: 1px solid black">Mrs Candice Poh<br></td>
+    <td class="tg-l7h4" style="border: 1px solid black">ngau_shu_mei_candice@moe.edu.sg<br></td>
   </tr>
   <tr>
-    <td class="tg-ifvt">HOD Science<br></td>
-    <td class="tg-l7h4">Mrs Jamie Yeo<br></td>
-    <td class="tg-l7h4">kay_woon_ping@moe.edu.sg<br></td>
+    <td class="tg-ifvt" style="border: 1px solid black">HOD Science<br></td>
+    <td class="tg-l7h4" style="border: 1px solid black">Mrs Jamie Yeo<br></td>
+    <td class="tg-l7h4" style="border: 1px solid black">kay_woon_ping@moe.edu.sg<br></td>
   </tr>
   <tr>
-    <td class="tg-ifvt">HOD Mother Tongue<br></td>
-    <td class="tg-l7h4">Ms Ang Hui Nee<br></td>
-    <td class="tg-l7h4">ang_hui_nee@moe.edu.sg<br></td>
+    <td class="tg-ifvt" style="border: 1px solid black">HOD Mother Tongue<br></td>
+    <td class="tg-l7h4" style="border: 1px solid black">Ms Ang Hui Nee<br></td>
+    <td class="tg-l7h4" style="border: 1px solid black">ang_hui_nee@moe.edu.sg<br></td>
   </tr>
   <tr>
-    <td class="tg-ifvt">HOD ICT<br></td>
-    <td class="tg-l7h4">Mr Roy Loy<br></td>
-    <td class="tg-l7h4">loy_boon_theng@moe.edu.sg<br></td>
+    <td class="tg-ifvt" style="border: 1px solid black">HOD ICT<br></td>
+    <td class="tg-l7h4" style="border: 1px solid black">Mr Roy Loy<br></td>
+    <td class="tg-l7h4" style="border: 1px solid black">loy_boon_theng@moe.edu.sg<br></td>
   </tr>
   <tr>
-    <td class="tg-ifvt">HOD PE/ Aesthetics/CCA<br></td>
-    <td class="tg-l7h4">Mrs Emily Tan-Yong<br></td>
-    <td class="tg-l7h4">tan_yong_chwee_ping@moe.edu.sg<br></td>
+    <td class="tg-ifvt" style="border: 1px solid black">HOD PE/ Aesthetics/CCA<br></td>
+    <td class="tg-l7h4" style="border: 1px solid black">Mrs Emily Tan-Yong<br></td>
+    <td class="tg-l7h4" style="border: 1px solid black">tan_yong_chwee_ping@moe.edu.sg<br></td>
   </tr>
   <tr>
-    <td class="tg-ifvt">HOD/CCENE/SS/VIA（Covering</td>
-    <td class="tg-l7h4">Mrs Angie Liu<br></td>
-    <td class="tg-l7h4">thong_phui_shan@moe.edu.sg<br></td>
+    <td class="tg-ifvt" style="border: 1px solid black">HOD/CCENE/SS/VIA（Covering</td>
+    <td class="tg-l7h4" style="border: 1px solid black">Mrs Angie Liu<br></td>
+    <td class="tg-l7h4" style="border: 1px solid black">thong_phui_shan@moe.edu.sg<br></td>
   </tr>
   <tr>
     <td class="tg-ifvt" style="border: 1px solid black">Lead Teacher<br></td>
