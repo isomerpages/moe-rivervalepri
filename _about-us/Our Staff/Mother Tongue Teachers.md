@@ -6,8 +6,163 @@ third_nav_title: Our Staff
 ---
 ### Chinese Language Teachers
 
-
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-vvbc{background-color:#FFF;color:#0C3989;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-vvbc">Ms Ang Hui Nee</th>
+    <th class="tg-vvbc">ang_hui_nee@moe.edu.sg</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-vvbc">Mdm Chew Mian Cheng</td>
+    <td class="tg-vvbc">chew_mian_cheng@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-vvbc">Ms Teo Wei Ping</td>
+    <td class="tg-vvbc">teo_wei_ping@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-vvbc">Mdm Huang Biyun</td>
+    <td class="tg-vvbc">huang_bi_yun@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-vvbc">Mdm Jasmine Chiah</td>
+    <td class="tg-vvbc">chiah_min_hui_jasmine@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-vvbc">Mdm Li Song</td>
+    <td class="tg-vvbc">li_song@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-vvbc">Mdm Liang Wei Hsiang</td>
+    <td class="tg-vvbc">liang_wei_hsiang@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-vvbc">Mdm Low Lee San</td>
+    <td class="tg-vvbc">low_lee_san@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-vvbc">Mdm Ong Wei Kei</td>
+    <td class="tg-vvbc">ong_wei_kei@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-vvbc">Mr Yee Siong Yew</td>
+    <td class="tg-vvbc">yee_siong_yew@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-vvbc">Mdm Yeow Bee Hiong</td>
+    <td class="tg-vvbc">yeow_bee_hiong@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-vvbc">Mdm Tan Kok Teng</td>
+    <td class="tg-vvbc">tan_kok_teng@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-vvbc">Mdm Lu Wan Min</td>
+    <td class="tg-vvbc">lu_wanmin@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-vvbc">Mr Ran Yijun</td>
+    <td class="tg-vvbc">ran_yijun@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-vvbc">Mdm Lua Hao Ting</td>
+    <td class="tg-vvbc">Lua_hao_ting@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-vvbc">Mdm Ivy Choi</td>
+    <td class="tg-vvbc">choi_ivy@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-vvbc">Mdm Ong Shi Theng</td>
+    <td class="tg-vvbc">ong_shi_theng@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-vvbc">Mdm Lo Siew Yee</td>
+    <td class="tg-vvbc">lo_siew_yee@moe.edu.sg</td>
+  </tr>
+</tbody>
+</table>
 
 ### Malay Language Teachers
 
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-l7h4{background-color:#FFF;color:#0C3989;text-align:left;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-l7h4">Mdm Zubaidah Zainal Abidin<br></th>
+    <th class="tg-l7h4">zubaidah_zainal_abidin@moe.edu.sg<br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-l7h4">Mr Mohd Khair Johari<br></td>
+    <td class="tg-l7h4">mohamad_khair_johari@moe.edu.sg<br></td>
+  </tr>
+  <tr>
+    <td class="tg-l7h4">Ms Nurshamira<br></td>
+    <td class="tg-l7h4">nurshamira_johari@moe.edu.sg<br></td>
+  </tr>
+  <tr>
+    <td class="tg-l7h4">Mdm Siti Nurul Aiin<br></td>
+    <td class="tg-l7h4">siti_nurul_aiin_samsulkahar@moe.edu.sg<br></td>
+  </tr>
+  <tr>
+    <td class="tg-l7h4">Mdm Nazrah Hanani<br></td>
+    <td class="tg-l7h4">nazrah_hanani_mohamed_rawi@moe.edu.sg<br></td>
+  </tr>
+  <tr>
+    <td class="tg-l7h4">Mdm Nur Syahidah<br></td>
+    <td class="tg-l7h4">nur_syahidah_mohamed_salleh@moe.edu.sg<br></td>
+  </tr>
+  <tr>
+    <td class="tg-l7h4">Ms Nurmerdina<br></td>
+    <td class="tg-l7h4">nurmerdina_mohd_azni@moe.edu.sg</td>
+  </tr>
+</tbody>
+</table>
+
 ### Tamil Language Teachers
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-vvbc{background-color:#FFF;color:#0C3989;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-vvbc">Mdm Nanthini S Rajandaan</th>
+    <th class="tg-vvbc">nanthini_s_rajandaan@moe.edu.sg</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-vvbc">Ms K Ghayathri Dhevi</td>
+    <td class="tg-vvbc">k_ghayathri_dhevi@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-vvbc">Miss Vijaya Letchumi</td>
+    <td class="tg-vvbc">vijaya_letchumi_sandramogan@moe.edu.sg</td>
+  </tr>
+</tbody>
+</table>
