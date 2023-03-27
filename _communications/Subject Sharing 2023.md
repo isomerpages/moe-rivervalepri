@@ -21,7 +21,7 @@ description: ""
 
 ### Subject Sharing with Parents 2023 – P5 P6
 
-[P5 P6 Aesthetics Subject Sharing.pdf](https://rivervalepri.moe.edu.sg/qql/slot/u143/Subject%20Sharing%20with%20Parents%202023%20%E2%80%93%20P5%20P/P5%20P6%20Aesthetics%20Subject%20Sharing.pdf)  
+[P5 P6 Aesthetics Subject Sharing.pdf](/files/P5%20P6%20Aesthetics%20Subject%20Sharing.pdf)
   
 [P5 P6 English Subject Sharing.pdf](https://rivervalepri.moe.edu.sg/qql/slot/u143/Subject%20Sharing%20with%20Parents%202023%20%E2%80%93%20P5%20P/P5%20P6%20English%20Subject%20Sharing.pdf)  
   
