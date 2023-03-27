@@ -165,7 +165,7 @@ description: ""
 
 <figcaption>
 
-	<strong> Performing Arts | Speech and Drama </strong>
+<strong> Performing Arts | Speech and Drama </strong>
 
 </figcaption>
 
