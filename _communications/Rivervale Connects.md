@@ -5,7 +5,7 @@ description: ""
 ---
 ### Rivervale Connects
 
-[Term 1](https://rivervalepri.moe.edu.sg/qql/slot/u143/Communications/2023%20Rivervale%20Connects/2023%20T1%20Rivervale%20Connects.pdf)  
+[Term 1](/files/Communications/Rivervale%20Connects/2023%20T1%20Rivervale%20Connects.pdf) 
 
 ### WA Schedule
 
