@@ -2,6 +2,7 @@ collections:
   communications:
     output: true
     order:
+      - Subject Sharing 2023.md
       - Useful Links for students.md
       - Rivervale in the News.md
       - School Calendar.md
