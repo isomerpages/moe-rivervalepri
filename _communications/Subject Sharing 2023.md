@@ -17,7 +17,7 @@ description: ""
   
 [P3 P4 PE Subject Sharing.pdf](/files/P3%20P4%20PE%20Subject%20Sharing.pdf)
   
-[P3 P4 Science Subject Sharing.pdf](https://rivervalepri.moe.edu.sg/qql/slot/u143/Subject%20Sharing%20with%20Parents%202023%20%E2%80%93%20P3%20P/P3%20P4%20Science%20Subject%20Sharing.pdf)  
+[P3 P4 Science Subject Sharing.pdf](/files/P3%20P4%20Science%20Subject%20Sharing.pdf)  
 
 ### Subject Sharing with Parents 2023 – P5 P6
 
