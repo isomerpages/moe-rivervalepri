@@ -276,24 +276,24 @@ Every Friday morning, Primary 2 to Primary 6 students will engage in CCAs of the
 .tg .tg-m9di{background-color:#FFF;color:#0C3989;text-align:center;vertical-align:middle}
 .tg .tg-pg9x{background-color:#FFF;color:#0C3989;font-weight:bold;text-align:center;vertical-align:top}
 </style>
-<table class="tg">
+<table class="tg" style="border: 1px solid black">
 <thead>
-  <tr>
-    <th class="tg-pg9x">Day<br></th>
-    <th class="tg-pg9x">Time<br></th>
-    <th class="tg-pg9x">Level<br></th>
+  <tr style="border: 1px solid black">
+    <th class="tg-pg9x" style="border: 1px solid black">Day<br></th>
+    <th class="tg-pg9x" style="border: 1px solid black">Time<br></th>
+    <th class="tg-pg9x" style="border: 1px solid black">Level<br></th>
   </tr>
 </thead>
 <tbody>
-  <tr>
-    <td class="tg-m9di">Friday<br></td>
-    <td class="tg-m9di">7.30am to 9.00am<br></td>
-    <td class="tg-m9di">P2 to P6<br></td>
+  <tr style="border: 1px solid black">
+    <td class="tg-m9di" style="border: 1px solid black">Friday<br></td>
+    <td class="tg-m9di" style="border: 1px solid black">7.30am to 9.00am<br></td>
+    <td class="tg-m9di" style="border: 1px solid black">P2 to P6<br></td>
   </tr>
-  <tr>
-    <td class="tg-m9di">Monday/ Thursday/ Friday<br>(Refer to individual CCA page)<br></td>
-    <td class="tg-m9di">After school hours<br></td>
-    <td class="tg-m9di">P3 to P6</td>
+  <tr style="border: 1px solid black">
+    <td class="tg-m9di" style="border: 1px solid black">Monday/ Thursday/ Friday<br>(Refer to individual CCA page)<br></td>
+    <td class="tg-m9di" style="border: 1px solid black">After school hours<br></td>
+    <td class="tg-m9di" style="border: 1px solid black">P3 to P6</td>
   </tr>
 </tbody>
 </table>
