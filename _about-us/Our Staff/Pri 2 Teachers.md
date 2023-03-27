@@ -49,22 +49,22 @@ third_nav_title: Our Staff
     <td class="tg-vvbc"><span style="font-weight:400;color:#0C3989">ran_yijun@moe.edu.sg</span></td>
   </tr>
   <tr>
-    <td class="tg-ifvt" rowspan="2">2RS</td>
-    <td class="tg-vvbc"><span style="font-weight:400;color:#0C3989">Mdm Ang Hui Nee</span></td>
-    <td class="tg-vvbc"><span style="font-weight:400;color:#0C3989">ang_hui_nee@moe.edu.sg</span></td>
+    <td class="tg-ifvt" rowspan="2" style="border: 1px solid black"><b>2RS</b></td>
+    <td class="tg-vvbc" style="border: 1px solid black"><span style="font-weight:400;color:#0C3989">Mdm Ang Hui Nee</span></td>
+    <td class="tg-vvbc" style="border: 1px solid black"><span style="font-weight:400;color:#0C3989" >ang_hui_nee@moe.edu.sg</span></td>
   </tr>
   <tr>
-    <td class="tg-vvbc">Mdm Nur Liyana Jawini</td>
-    <td class="tg-vvbc">nur_liyana_jawini@moe.edu.sg</td>
+    <td class="tg-vvbc" style="border: 1px solid black">Mdm Nur Liyana Jawini</td>
+    <td class="tg-vvbc" style="border: 1px solid black">nur_liyana_jawini@moe.edu.sg</td>
   </tr>
   <tr>
-    <td class="tg-ifvt" rowspan="2">2IN</td>
-    <td class="tg-vvbc">Mrs Chong Wai Ching</td>
-    <td class="tg-vvbc">fok_wai_ching@moe.edu.sg</td>
+    <td class="tg-ifvt" rowspan="2" style="border: 1px solid black"><b>2IN</b></td>
+    <td class="tg-vvbc" style="border: 1px solid black">Mrs Chong Wai Ching</td>
+    <td class="tg-vvbc" style="border: 1px solid black">fok_wai_ching@moe.edu.sg</td>
   </tr>
   <tr>
-    <td class="tg-vvbc">Mdm Nurmerdina Mohd Azni</td>
-    <td class="tg-vvbc">nurmerdina_mohd_azni@moe.edu.sg</td>
+    <td class="tg-vvbc" style="border: 1px solid black">Mdm Nurmerdina Mohd Azni</td>
+    <td class="tg-vvbc" style="border: 1px solid black">nurmerdina_mohd_azni@moe.edu.sg</td>
   </tr>
   <tr>
     <td class="tg-ifvt" rowspan="2" style="border: 1px solid black"><b>2CA</b></td>
