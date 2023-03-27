@@ -76,4 +76,4 @@ third_nav_title: Our Staff
 </tbody>
 </table><br>
 
-<iframe allowfullscreen="true" height="299" width="480" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ-0Q_xwyuCfdP9flTQ4XOEnpft5_N7HZQA8CVWEDLtLiLbKckGHm3ZDKPqMUbBbiT6h8JdBDfPLacd/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<div align="center"><iframe allowfullscreen="true" height="299" width="480" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ-0Q_xwyuCfdP9flTQ4XOEnpft5_N7HZQA8CVWEDLtLiLbKckGHm3ZDKPqMUbBbiT6h8JdBDfPLacd/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe></div>
