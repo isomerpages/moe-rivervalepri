@@ -14,20 +14,20 @@ third_nav_title: Performing Arts
 .tg .tg-pg9x{background-color:#FFF;color:#0C3989;font-weight:bold;text-align:center;vertical-align:top}
 .tg .tg-u2s6{background-color:#FFF;color:#0C3989;text-align:center;vertical-align:top}
 </style>
-<table class="tg">
+<table class="tg" style="border: 1px solid black">
 <thead>
-  <tr>
-    <th class="tg-pg9x">CCA</th>
-    <th class="tg-pg9x">Day and Time of after-school training (if applicable)</th>
-    <th class="tg-pg9x">Teachers in Charge</th>
-    <th class="tg-pg9x">Email Address</th>
+  <tr style="border: 1px solid black">
+    <th class="tg-pg9x" style="border: 1px solid black">CCA</th>
+    <th class="tg-pg9x" style="border: 1px solid black">Day and Time of after-school training (if applicable)</th>
+    <th class="tg-pg9x" style="border: 1px solid black">Teachers in Charge</th>
+    <th class="tg-pg9x" style="border: 1px solid black">Email Address</th>
   </tr>
 </thead>
 <tbody>
-  <tr>
-    <td class="tg-m9di">Chinese Dance</td>
-    <td class="tg-m9di">Thursday 2.30 p.m. to 4.30 p.m.</td>
-    <td class="tg-u2s6"><span style="font-weight:400;color:#0C3989">Mdm Liang Wei Hsiang</span><br><span style="font-weight:400;color:#0C3989">Mdm Li Song</span></td>
+  <tr style="border: 1px solid black">
+    <td class="tg-m9di" style="border: 1px solid black">Chinese Dance</td>
+    <td class="tg-m9di" style="border: 1px solid black">Thursday 2.30 p.m. to 4.30 p.m.</td>
+    <td class="tg-u2s6" style="border: 1px solid black"><span style="font-weight:400;color:#0C3989">Mdm Liang Wei Hsiang</span><br><span style="font-weight:400;color:#0C3989">Mdm Li Song</span></td>
     <td class="tg-m9di">liang_wei_hsiang@moe.edu.sg li_song@moe.edu.sg</td>
   </tr>
 </tbody>
