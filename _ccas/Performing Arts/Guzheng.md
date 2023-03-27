@@ -14,24 +14,24 @@ third_nav_title: Performing Arts
 .tg .tg-pg9x{background-color:#FFF;color:#0C3989;font-weight:bold;text-align:center;vertical-align:top}
 .tg .tg-u2s6{background-color:#FFF;color:#0C3989;text-align:center;vertical-align:top}
 </style>
-<table class="tg">
+<table class="tg" style="border: 1px solid black">
 <thead>
-  <tr>
-    <th class="tg-pg9x">CCA</th>
-    <th class="tg-pg9x">Day and Time of after-school training (if applicable)</th>
-    <th class="tg-pg9x">Teachers in Charge</th>
-    <th class="tg-pg9x">Email Address</th>
+  <tr style="border: 1px solid black">
+    <th class="tg-pg9x" style="border: 1px solid black">CCA</th>
+    <th class="tg-pg9x" style="border: 1px solid black">Day and Time of after-school training (if applicable)</th>
+    <th class="tg-pg9x" style="border: 1px solid black">Teachers in Charge</th>
+    <th class="tg-pg9x" style="border: 1px solid black">Email Address</th>
   </tr>
 </thead>
 <tbody>
-  <tr>
-    <td class="tg-m9di">Guzheng</td>
-    <td class="tg-m9di">Monday 2.15 p.m. - 3.15 p.m. (Junior members)<br><br>Monday 2.15 p.m. - 5.15p.m.,<br>(Senior Members)</td>
-    <td class="tg-u2s6"><span style="font-weight:400;color:#0C3989">Mdm Lu Wan Min</span><br><span style="font-weight:400;color:#0C3989">Mdm Tan Kok Teng</span><br><span style="font-weight:400;color:#0C3989">Mdm Iris Ang</span></td>
-    <td class="tg-m9di">lu_wanmin@moe.edu.sg<br>tan_kok_teng@moe.edu.sg<br>ang_hui_qian_iris@moe.edu.sg</td>
+  <tr style="border: 1px solid black">
+    <td class="tg-m9di" style="border: 1px solid black">Guzheng</td>
+    <td class="tg-m9di" style="border: 1px solid black">Monday 3.00 p.m. - 5.00 p.m. </td>
+    <td class="tg-u2s6" style="border: 1px solid black"><span style="font-weight:400;color:#0C3989">Mdm Iris Ang</span><br><span style="font-weight:400;color:#0C3989">Mdm Lu Wan Min</span><br><span style="font-weight:400;color:#0C3989">Mdm Tan Kok Teng</span></td>
+    <td class="tg-m9di" style="border: 1px solid black">ang_hui_qian_iris@moe.edu.sg<br>lu_wanmin@moe.edu.sg<br>tan_kok_teng@moe.edu.sg</td>
   </tr>
 </tbody>
-</table>
+</table><br>
 
 
 <iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQW4I9klQ0jRX0R_KV7FsFo6laQJOPMffpG7FwznyPTbfCIaN5QxF0qGqSLReOrNLrAdPYV5vBaJGHp/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
