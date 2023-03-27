@@ -157,9 +157,9 @@ third_nav_title: Our Staff
     <td class="tg-vvbc">huang_bi_yun@moe.edu.sg</td>
   </tr>
   <tr>
-    <td class="tg-ifvt">Assistant Year Head (P5&amp;6)</td>
-    <td class="tg-vvbc">Mrs Tan Li Min</td>
-    <td class="tg-vvbc">phua_li_min@moe.edu.sg</td>
+    <td class="tg-ifvt" style="border: 1px solid black">Assistant Year Head (P5&amp;6)</td>
+    <td class="tg-vvbc" style="border: 1px solid black">Mrs Tan Li Min</td>
+    <td class="tg-vvbc" style="border: 1px solid black">phua_li_min@moe.edu.sg</td>
   </tr>
 </tbody>
 </table><br>
