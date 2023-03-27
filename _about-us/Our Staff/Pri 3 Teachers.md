@@ -62,31 +62,31 @@ third_nav_title: Our Staff
     <td class="tg-vvbc">tang_kwang_wue@moe.edu.sg</td>
   </tr>
   <tr>
-    <td class="tg-ifvt" rowspan="2">3IN</td>
-    <td class="tg-vvbc">Mr Lee Tze Wei Louis</td>
-    <td class="tg-vvbc">lee_tze_wei@moe.edu.sg</td>
+    <td class="tg-ifvt" rowspan="2" style="border: 1px solid black"><b>3IN</b></td>
+    <td class="tg-vvbc" style="border: 1px solid black">Mr Lee Tze Wei Louis</td>
+    <td class="tg-vvbc" style="border: 1px solid black">lee_tze_wei@moe.edu.sg</td>
   </tr>
   <tr>
-    <td class="tg-vvbc">Mdm Siti Nurul Aiin</td>
-    <td class="tg-vvbc">siti_nurul_aiin_samsulkahar@moe.edu.sg</td>
+    <td class="tg-vvbc" style="border: 1px solid black">Mdm Siti Nurul Aiin</td>
+    <td class="tg-vvbc" style="border: 1px solid black">siti_nurul_aiin_samsulkahar@moe.edu.sg</td>
   </tr>
   <tr>
-    <td class="tg-ifvt" rowspan="2">3CA</td>
-    <td class="tg-vvbc">Mr Lim Ze Wei</td>
-    <td class="tg-vvbc">lim_ze_wei@moe.edu.sg</td>
+    <td class="tg-ifvt" rowspan="2" style="border: 1px solid black"><b>3CA</b></td>
+    <td class="tg-vvbc" style="border: 1px solid black">Mr Lim Ze Wei</td>
+    <td class="tg-vvbc" style="border: 1px solid black">lim_ze_wei@moe.edu.sg</td>
   </tr>
   <tr>
-    <td class="tg-vvbc">Mdm Chew Mian Cheng</td>
-    <td class="tg-vvbc">chew_mian_cheng@moe.edu.sg</td>
+    <td class="tg-vvbc" style="border: 1px solid black">Mdm Chew Mian Cheng</td>
+    <td class="tg-vvbc" style="border: 1px solid black">chew_mian_cheng@moe.edu.sg</td>
   </tr>
   <tr>
-    <td class="tg-ifvt" rowspan="2">3HA</td>
-    <td class="tg-vvbc">Mr Mohamed Sadiqin</td>
-    <td class="tg-vvbc">mohamed_sadiqin_subhan@moe.edu.sg</td>
+    <td class="tg-ifvt" rowspan="2" style="border: 1px solid black"><b>3HA</b></td>
+    <td class="tg-vvbc" style="border: 1px solid black">Mr Mohamed Sadiqin</td>
+    <td class="tg-vvbc" style="border: 1px solid black">mohamed_sadiqin_subhan@moe.edu.sg</td>
   </tr>
   <tr>
-    <td class="tg-vvbc">Mrs Janet Quek</td>
-    <td class="tg-vvbc">seah_shiao_yen_janet@moe.edu.sg</td>
+    <td class="tg-vvbc" style="border: 1px solid black">Mrs Janet Quek</td>
+    <td class="tg-vvbc" style="border: 1px solid black">seah_shiao_yen_janet@moe.edu.sg</td>
   </tr>
 </tbody>
 </table>
