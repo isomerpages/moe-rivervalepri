@@ -2,9 +2,6 @@ collections:
   communications:
     output: true
     order:
-      - Parent Engagement 2023.md
-      - MOE Sexuality Education in Schools.md
-      - Subject Sharing 2023.md
       - Useful Links for students.md
       - Rivervale in the News.md
       - School Calendar.md
@@ -18,3 +15,6 @@ collections:
       - Rivervale Primary E Open House 2022.md
       - 2023 P1 Admin Briefing.md
       - Staff Accolades.md
+      - MOE Sexuality Education in Schools.md
+      - Subject Sharing 2023.md
+      - Parent Engagement 2023.md
