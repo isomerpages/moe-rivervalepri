@@ -13,24 +13,24 @@ third_nav_title: Clubs
 .tg .tg-m9di{background-color:#FFF;color:#0C3989;text-align:center;vertical-align:middle}
 .tg .tg-pg9x{background-color:#FFF;color:#0C3989;font-weight:bold;text-align:center;vertical-align:top}
 </style>
-<table class="tg">
+<table class="tg" style="border: 1px solid black">
 <thead>
-  <tr>
-    <th class="tg-pg9x">CCA</th>
-    <th class="tg-pg9x">Day and Time of after-school training (if applicable)</th>
-    <th class="tg-pg9x">Teachers in Charge</th>
-    <th class="tg-pg9x">Email Address</th>
+  <tr style="border: 1px solid black">
+    <th class="tg-pg9x" style="border: 1px solid black">CCA</th>
+    <th class="tg-pg9x" style="border: 1px solid black">Day and Time of after-school training (if applicable)</th>
+    <th class="tg-pg9x" style="border: 1px solid black">Teachers in Charge</th>
+    <th class="tg-pg9x" style="border: 1px solid black">Email Address</th>
   </tr>
 </thead>
 <tbody>
-  <tr>
-    <td class="tg-m9di">Ceramics Club</td>
-    <td class="tg-m9di"></td>
-    <td class="tg-m9di">Ms Fronia Tang<br>Mrs Yow Hwee Peng</td>
-    <td class="tg-m9di">fronia_tang_kia_lin@moe.edu.sg<br>goh_hwee_peng@moe.edu.sg</td>
+  <tr style="border: 1px solid black">
+    <td class="tg-m9di" style="border: 1px solid black">Ceramics Club</td>
+    <td class="tg-m9di" style="border: 1px solid black"></td>
+    <td class="tg-m9di" style="border: 1px solid black">Ms Fronia Tang<br>Mrs Yow Hwee Peng</td>
+    <td class="tg-m9di" style="border: 1px solid black">fronia_tang_kia_lin@moe.edu.sg<br>goh_hwee_peng@moe.edu.sg</td>
   </tr>
 </tbody>
-</table>
+</table><br>
 
 
 <iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRK6d6aw8UxPpLTLZg5RAZMDUs4KvLhk3GBijQP3x9uN2FCfHcQCRv3ckvi1GIUwiPiudsc5F3_igBO/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
