@@ -11,7 +11,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/School%20Advisory%20Committee/School%20Advisory%20Committee(5).jpg" alt="Chairman" style="width:90%;">  
+<body><img src="/images/School%20Advisory%20Committee/School%20Advisory%20Committee(5).jpg" alt="Chairman" style="width:75%;">  
   
 </body><br>
 
