@@ -13,36 +13,36 @@ third_nav_title: Our Staff
 .tg .tg-ifvt{background-color:#FFF;color:#0C3989;font-weight:bold;text-align:left;vertical-align:top}
 .tg .tg-vvbc{background-color:#FFF;color:#0C3989;text-align:left;vertical-align:top}
 </style>
-<table class="tg">
+<table class="tg" style="border: 1px solid black">
 <thead>
   <tr>
-    <th class="tg-ifvt" colspan="3">Primary 4 Form Teachers</th>
+    <th class="tg-ifvt" colspan="3" style="border: 1px solid black">Primary 4 Form Teachers</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-ifvt">Year Head</td>
-    <td class="tg-vvbc"><span style="font-weight:400;color:#0C3989">Mrs Angie Liu</span></td>
-    <td class="tg-vvbc"><span style="font-weight:400;color:#0C3989">thong_phui_shan@moe.edu.sg</span></td>
+    <td class="tg-ifvt" style="border: 1px solid black"><b>Year Head</b></td>
+    <td class="tg-vvbc" style="border: 1px solid black"><span style="font-weight:400;color:#0C3989">Mrs Angie Liu</span></td>
+    <td class="tg-vvbc" style="border: 1px solid black"><span style="font-weight:400;color:#0C3989">thong_phui_shan@moe.edu.sg</span></td>
   </tr>
   <tr>
-    <td class="tg-ifvt">Assistant Year Head</td>
-    <td class="tg-vvbc"><span style="font-weight:400;color:#0C3989">Mdm Huang Biyun</span></td>
-    <td class="tg-vvbc"><span style="font-weight:400;color:#0C3989">huang_bi_yun@moe.edu.sg</span></td>
+    <td class="tg-ifvt" style="border: 1px solid black"><b>Assistant Year Head</b></td>
+    <td class="tg-vvbc" style="border: 1px solid black"><span style="font-weight:400;color:#0C3989">Mdm Huang Biyun</span></td>
+    <td class="tg-vvbc" style="border: 1px solid black"><span style="font-weight:400;color:#0C3989">huang_bi_yun@moe.edu.sg</span></td>
   </tr>
   <tr>
-    <td class="tg-ifvt" rowspan="2">4RE</td>
-    <td class="tg-vvbc"><span style="font-weight:400;color:#0C3989">Mr Eu Kong Leong</span></td>
-    <td class="tg-vvbc"><span style="font-weight:400;color:#0C3989">eu_kong_leong_a@moe.edu.sg</span></td>
+    <td class="tg-ifvt" rowspan="2" style="border: 1px solid black"><b>4RE</b></td>
+    <td class="tg-vvbc" style="border: 1px solid black"><span style="font-weight:400;color:#0C3989">Mr Eu Kong Leong</span></td>
+    <td class="tg-vvbc" style="border: 1px solid black"><span style="font-weight:400;color:#0C3989">eu_kong_leong_a@moe.edu.sg</span></td>
   </tr>
   <tr>
-    <td class="tg-vvbc"><span style="font-weight:400;color:#0C3989">Mdm Syahidah Mohd Salleh</span></td>
-    <td class="tg-vvbc"><span style="font-weight:400;color:#0C3989">nur_syahidah_mohamed_salleh@moe.edu.sg</span></td>
+    <td class="tg-vvbc" style="border: 1px solid black"><span style="font-weight:400;color:#0C3989">Mdm Syahidah Mohd Salleh</span></td>
+    <td class="tg-vvbc" style="border: 1px solid black"><span style="font-weight:400;color:#0C3989">nur_syahidah_mohamed_salleh@moe.edu.sg</span></td>
   </tr>
   <tr>
-    <td class="tg-ifvt" rowspan="2">4RO</td>
-    <td class="tg-vvbc"><span style="font-weight:400;color:#0C3989">Mdm Azrina Abdul Aziz</span></td>
-    <td class="tg-vvbc"><span style="font-weight:400;color:#0C3989">azrina_abdul_aziz@moe.edu.sg</span></td>
+    <td class="tg-ifvt" rowspan="2" style="border: 1px solid black"><b>4RO</b></td>
+    <td class="tg-vvbc" style="border: 1px solid black"><span style="font-weight:400;color:#0C3989">Mdm Azrina Abdul Aziz</span></td>
+    <td class="tg-vvbc" style="border: 1px solid black"><span style="font-weight:400;color:#0C3989">azrina_abdul_aziz@moe.edu.sg</span></td>
   </tr>
   <tr>
     <td class="tg-vvbc" style="border: 1px solid black"><span style="font-weight:400;color:#0C3989">Mdm Lua Hao Ting</span></td>
