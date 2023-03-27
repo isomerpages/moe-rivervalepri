@@ -22,7 +22,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/School%20Advisory%20Committee/School%20Advisory%20Committee(1).jpg" alt="Honorary Secretary and Honorary Treasurer" style="width:70%;">  
+<body><img src="/images/School%20Advisory%20Committee/School%20Advisory%20Committee(1).jpg" alt="Honorary Secretary and Honorary Treasurer" style="width:60%;">  
   
 </body><br>
 
@@ -33,7 +33,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/School%20Advisory%20Committee/School%20Advisory%20Committee(4).jpg" alt="School Advisory Committee Members" style="width:70%;">  
+<body><img src="/images/School%20Advisory%20Committee/School%20Advisory%20Committee(4).jpg" alt="School Advisory Committee Members" style="width:90%;">  
   
 </body><br>
 
@@ -44,6 +44,6 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/School%20Advisory%20Committee/School%20Advisory%20Committee(3).jpg" alt="Vice Principals" style="width:70%;">  
+<body><img src="/images/School%20Advisory%20Committee/School%20Advisory%20Committee(3).jpg" alt="Vice Principals" style="width:60%;">  
   
 </body>
