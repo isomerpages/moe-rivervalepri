@@ -23,13 +23,13 @@ description: ""
 
 [P5 P6 Aesthetics Subject Sharing.pdf](/files/P5%20P6%20Aesthetics%20Subject%20Sharing.pdf)
   
-[P5 P6 English Subject Sharing.pdf](https://rivervalepri.moe.edu.sg/qql/slot/u143/Subject%20Sharing%20with%20Parents%202023%20%E2%80%93%20P5%20P/P5%20P6%20English%20Subject%20Sharing.pdf)  
+[P5 P6 English Subject Sharing.pdf](/files/P5%20P6%20English%20Subject%20Sharing.pdf)
   
-[P5 P6 ICT Subject Sharing.pdf](https://rivervalepri.moe.edu.sg/qql/slot/u143/Subject%20Sharing%20with%20Parents%202023%20%E2%80%93%20P5%20P/P5%20P6%20ICT%20Subject%20Sharing.pdf)  
+[P5 P6 ICT Subject Sharing.pdf](/files/P5%20P6%20ICT%20Subject%20Sharing.pdf)
   
-[P5 P6 Math Subject Sharing.pdf](https://rivervalepri.moe.edu.sg/qql/slot/u143/Subject%20Sharing%20with%20Parents%202023%20%E2%80%93%20P5%20P/P5%20P6%20Math%20Subject%20Sharing.pdf)  
+[P5 P6 Math Subject Sharing.pdf](/files/P5%20P6%20Math%20Subject%20Sharing.pdf) 
   
-[P5 P6 MT Subject Sharing Combined.pdf](https://rivervalepri.moe.edu.sg/qql/slot/u143/Subject%20Sharing%20with%20Parents%202023%20%E2%80%93%20P5%20P/P5%20P6%20MT%20Subject%20Sharing%20Combined.pdf)  
+[P5 P6 MT Subject Sharing Combined.pdf](/files/P5%20P6%20MT%20Subject%20Sharing%20Combined.pdf) 
   
 [P5 P6 PE Subject Sharing.pdf](https://rivervalepri.moe.edu.sg/qql/slot/u143/Subject%20Sharing%20with%20Parents%202023%20%E2%80%93%20P5%20P/P5%20P6%20PE%20Subject%20Sharing.pdf)  
   
