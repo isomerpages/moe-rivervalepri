@@ -2,6 +2,7 @@ collections:
   communications:
     output: true
     order:
+      - Parent Engagement 2023.md
       - MOE Sexuality Education in Schools.md
       - Subject Sharing 2023.md
       - Useful Links for students.md
