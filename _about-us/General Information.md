@@ -25,24 +25,6 @@ img {
   
 </body> 
 
-**School Hours**
+<p style="text-align:center;"><b>School Hours</b><br><br>0730 - 1330 <br><br>
+<b>Tel: </b>63887450 / 62066639<br><b>Fax: </b>63887449<br><br><b>E-Mail:</b><br><a href="mailto:RIVERVALE_PS@MOE.EDU.SG">RIVERVALE_PS@MOE.EDU.SG</a><br><br><b>School Website:</b><br><a href="http://www.rivervalepri.moe.edu.sg/">www.rivervalepri.moe.edu.sg</a><br><br><b>Address: </b>80, RIVERVALE DRIVE, SINGAPORE 545092</p>    
 
-0730 - 1330   
-
-**Tel :** 63887450
-
-**Fax :** 63887449
-
-  
-
-**E-Mail :** 
-
-[RIVERVALE\_PS@MOE.EDU.SG](mailto:RIVERVALE_PS@MOE.EDU.SG)
-
-  
-
-**School Website :** 
-
-[www.rivervalepri.moe.edu.sg](https://www.rivervalepri.moe.edu.sg/)
-
-**Address:** 80, RIVERVALE DRIVE, SINGAPORE 545092
