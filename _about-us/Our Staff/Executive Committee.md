@@ -104,9 +104,9 @@ third_nav_title: Our Staff
     <td class="tg-l7h4">geraldine_ong@moe.gov.sg<br></td>
   </tr>
   <tr>
-    <td class="tg-ifvt">SH Aesthetics<br></td>
-    <td class="tg-l7h4">Mrs Rachel Tay<br></td>
-    <td class="tg-l7h4">rachel_subramaniam@moe.edu.sg</td>
+    <td class="tg-ifvt" style="border: 1px solid black">SH Aesthetics<br></td>
+    <td class="tg-l7h4" style="border: 1px solid black">Mrs Rachel Tay<br></td>
+    <td class="tg-l7h4" style="border: 1px solid black">rachel_subramaniam@moe.edu.sg</td>
   </tr>
 </tbody>
 </table><br>
@@ -122,12 +122,12 @@ third_nav_title: Our Staff
 .tg .tg-ifvt{background-color:#FFF;color:#0C3989;font-weight:bold;text-align:left;vertical-align:top}
 .tg .tg-vvbc{background-color:#FFF;color:#0C3989;text-align:left;vertical-align:top}
 </style>
-<table class="tg">
+<table class="tg" style="border: 1px solid black">
 <thead>
   <tr>
-    <th class="tg-ifvt">HOD Student Management &amp; Well-Being &amp; Student Leadership</th>
-    <th class="tg-vvbc">Mr Muhd Zakir</th>
-    <th class="tg-vvbc">muhammad_zakir_abu_bakar@moe.edu.sg</th>
+    <th class="tg-ifvt" style="border: 1px solid black">HOD Student Management &amp; Well-Being &amp; Student Leadership</th>
+    <th class="tg-vvbc" style="border: 1px solid black">Mr Muhd Zakir</th>
+    <th class="tg-vvbc" style="border: 1px solid black">muhammad_zakir_abu_bakar@moe.edu.sg</th>
   </tr>
 </thead>
 <tbody>
