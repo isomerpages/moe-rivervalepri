@@ -5,7 +5,7 @@ description: ""
 ---
 <figure>
 
-<a href="/ccas/sports/badminton/" target = "\_blank"> <img style="width:40%;height:50%" src="/images/CCAs/S1.png"></a>
+<a href="/ccas/sports/badminton/"> <img style="width:40%;height:50%" src="/images/CCAs/S1.png"></a>
 
 <figcaption>
 
@@ -17,7 +17,7 @@ description: ""
 
 <figure>
 
-<a href="/ccas/Sports/Basketball/" target = "\_blank"> <img style="width:40%;height:50%" src="/images/CCAs/S2.png"></a>
+<a href="/ccas/sports/asketball/"> <img style="width:40%;height:50%" src="/images/CCAs/S2.png"></a>
 
 <figcaption>
 
@@ -29,7 +29,7 @@ description: ""
 
 <figure>
 
-<a href="/ccas/Sports/Football/" target = "\_blank"> <img style="width:40%;height:50%" src="/images/CCAs/S3.png"></a>
+<a href="/ccas/sports/football/"> <img style="width:40%;height:50%" src="/images/CCAs/S3.png"></a>
 
 <figcaption>
 
@@ -41,7 +41,7 @@ description: ""
 
 <figure>
 
-<a href="/ccas/Sports/Hockey/" target = "\_blank"> <img style="width:40%;height:50%" src="/images/CCAs/S4.png"></a>
+<a href="/ccas/sports/hockey/"> <img style="width:40%;height:50%" src="/images/CCAs/S4.png"></a>
 
 <figcaption>
 
@@ -53,7 +53,7 @@ description: ""
 
 <figure>
 
-<a href="/ccas/Sports/Netball/" target = "\_blank"> <img style="width:40%;height:50%" src="/images/CCAs/S5.png"></a>
+<a href="/ccas/sports/netball/"> <img style="width:40%;height:50%" src="/images/CCAs/S5.png"></a>
 
 <figcaption>
 
@@ -65,7 +65,7 @@ description: ""
 
 <figure>
 
-<a href="/ccas/Sports/Taekwondo/" target = "\_blank"> <img style="width:40%;height:50%" src="/images/CCAs/S6.png"></a>
+<a href="/ccas/sports/taekwondo/"> <img style="width:40%;height:50%" src="/images/CCAs/S6.png"></a>
 
 <figcaption>
 
@@ -77,7 +77,7 @@ description: ""
 
 <figure>
 
-<a href="/ccas/Performing-Arts/Brass-Band/" target = "\_blank"> <img style="width:40%;height:50%" src="/images/CCAs/S7.png"></a>
+<a href="/ccas/performing-arts/brass-band/"> <img style="width:40%;height:50%" src="/images/CCAs/S7.png"></a>
 
 <figcaption>
 
@@ -89,7 +89,7 @@ description: ""
 
 <figure>
 
-<a href="/ccas/Performing-Arts/Chinese-Dance/" target = "\_blank"> <img style="width:40%;height:50%" src="/images/CCAs/S8.png"></a>
+<a href="/ccas/performing-arts/chinese-dance/"> <img style="width:40%;height:50%" src="/images/CCAs/S8.png"></a>
 
 <figcaption>
 
@@ -101,7 +101,7 @@ description: ""
 
 <figure>
 
-<a href="/ccas/Performing-Arts/Choir/" target = "\_blank"> <img style="width:40%;height:50%" src="/images/CCAs/S9.png"></a>
+<a href="/ccas/performing-arts/choir/"> <img style="width:40%;height:50%" src="/images/CCAs/S9.png"></a>
 
 <figcaption>
 
@@ -113,7 +113,7 @@ description: ""
 
 <figure>
 
-<a href="/ccas/Performing-Arts/Fusion-Dance/" target = "\_blank"> <img style="width:40%;height:50%" src="/images/CCAs/S10.png"></a>
+<a href="/ccas/performing-arts/fusion-dance/"> <img style="width:40%;height:50%" src="/images/CCAs/S10.png"></a>
 
 <figcaption>
 
@@ -125,7 +125,7 @@ description: ""
 
 <figure>
 
-<a href="/ccas/Performing-Arts/Guzheng/" target = "\_blank"> <img style="width:40%;height:50%" src="/images/CCAs/S11.png"></a>
+<a href="/ccas/performing-arts/guzheng/"> <img style="width:40%;height:50%" src="/images/CCAs/S11.png"></a>
 
 <figcaption>
 
@@ -137,7 +137,7 @@ description: ""
 
 <figure>
 
-<a href="/ccas/Performing-Arts/Indian-Dance/" target = "\_blank"> <img style="width:40%;height:50%" src="/images/CCAs/S12.png"></a>
+<a href="/ccas/performing-arts/indian-dance/"> <img style="width:40%;height:50%" src="/images/CCAs/S12.png"></a>
 
 <figcaption>
 
@@ -149,7 +149,7 @@ description: ""
 
 <figure>
 
-<a href="/ccas/Performing-Arts/Malay-Dance/" target = "\_blank"> <img style="width:40%;height:50%" src="/images/CCAs/S13.png"></a>
+<a href="/ccas/performing-arts/malay-dance/"> <img style="width:40%;height:50%" src="/images/CCAs/S13.png"></a>
 
 <figcaption>
 
@@ -161,7 +161,7 @@ description: ""
 
 <figure>
 
-<a href="/ccas/Performing-Arts/Speech-And-Drama-Club/" target = "\_blank"> <img style="width:40%;height:50%" src="/images/CCAs/S14.png"></a>
+<a href="/ccas/performing-arts/speech-and-drama-club/"> <img style="width:40%;height:50%" src="/images/CCAs/S14.png"></a>
 
 <figcaption>
 
@@ -173,7 +173,7 @@ description: ""
 
 <figure>
 
-<a href="/ccas/Clubs/Art-Club/" target = "\_blank"> <img style="width:40%;height:50%" src="/images/CCAs/S15.png"></a>
+<a href="/ccas/clubs/art-club/"> <img style="width:40%;height:50%" src="/images/CCAs/S15.png"></a>
 
 <figcaption>
 
@@ -185,7 +185,7 @@ description: ""
 
 <figure>
 
-<a href="/ccas/Clubs/Ceramics-Club/" target = "\_blank"> <img style="width:40%;height:50%" src="/images/CCAs/S16.png"></a>
+<a href="/ccas/clubs/ceramics-club/"> <img style="width:40%;height:50%" src="/images/CCAs/S16.png"></a>
 
 <figcaption>
 
@@ -197,7 +197,7 @@ description: ""
 
 <figure>
 
-<a href="/ccas/Clubs/Infocomm-Club/" target = "\_blank"> <img style="width:40%;height:50%" src="/images/CCAs/S17.png"></a>
+<a href="/ccas/clubs/infocomm-club/"> <img style="width:40%;height:50%" src="/images/CCAs/S17.png"></a>
 
 <figcaption>
 
@@ -209,7 +209,7 @@ description: ""
 
 <figure>
 
-<a href="/ccas/Clubs/Life-Skills-Club/" target = "\_blank"> <img style="width:40%;height:50%" src="/images/CCAs/S18.png"></a>
+<a href="/ccas/clubs/life-skills-club/"> <img style="width:40%;height:50%" src="/images/CCAs/S18.png"></a>
 
 <figcaption>
 
@@ -221,7 +221,7 @@ description: ""
 
 <figure>
 
-<a href="/ccas/Clubs/Public-Speaking/" target = "\_blank"> <img style="width:40%;height:50%" src="/images/CCAs/S19.png"></a>
+<a href="/ccas/clubs/public-speaking/"> <img style="width:40%;height:50%" src="/images/CCAs/S19.png"></a>
 
 <figcaption>
 
@@ -233,7 +233,7 @@ description: ""
 
 <figure>
 
-<a href="/ccas/Clubs/Robotics-Club/" target = "\_blank"> <img style="width:40%;height:50%" src="/images/CCAs/S20.png"></a>
+<a href="/ccas/clubs/robotics-club/"> <img style="width:40%;height:50%" src="/images/CCAs/S20.png"></a>
 
 <figcaption>
 
@@ -245,7 +245,7 @@ description: ""
 
 <figure>
 
-<a href="/ccas/Uniformed-Groups/Red-Cross/" target = "\_blank"> <img style="width:40%;height:50%" src="/images/CCAs/S21.png"></a>
+<a href="/ccas/uniformed-groups/red-cross/"> <img style="width:40%;height:50%" src="/images/CCAs/S21.png"></a>
 
 <figcaption>
 
