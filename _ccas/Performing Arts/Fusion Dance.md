@@ -14,21 +14,21 @@ third_nav_title: Performing Arts
 .tg .tg-pg9x{background-color:#FFF;color:#0C3989;font-weight:bold;text-align:center;vertical-align:top}
 .tg .tg-u2s6{background-color:#FFF;color:#0C3989;text-align:center;vertical-align:top}
 </style>
-<table class="tg">
+<table class="tg" style="border: 1px solid black">
 <thead>
-  <tr>
-    <th class="tg-pg9x">CCA</th>
-    <th class="tg-pg9x">Day and Time of after-school training (if applicable)</th>
-    <th class="tg-pg9x">Teachers in Charge</th>
-    <th class="tg-pg9x">Email Address</th>
+  <tr style="border: 1px solid black">
+    <th class="tg-pg9x" style="border: 1px solid black">CCA</th>
+    <th class="tg-pg9x" style="border: 1px solid black">Day and Time of after-school training (if applicable)</th>
+    <th class="tg-pg9x" style="border: 1px solid black">Teachers in Charge</th>
+    <th class="tg-pg9x" style="border: 1px solid black">Email Address</th>
   </tr>
 </thead>
 <tbody>
-  <tr>
-    <td class="tg-m9di">Fusion Dance</td>
-    <td class="tg-m9di">Thursday 2.00 p.m. - 4 p.m.,<br>Friday 8 a.m. to 9 a.m.</td>
-    <td class="tg-u2s6"><span style="font-weight:400;color:#0C3989">Ms Pauline Lee</span><br><span style="font-weight:400;color:#0C3989">Ms Ghayathri</span></td>
-    <td class="tg-m9di">pauline_lee_sok_ngee@moe.edu.sg<br>k_ghayathri_dhevi@moe.edu.sg</td>
+  <tr style="border: 1px solid black">
+    <td class="tg-m9di" style="border: 1px solid black">Fusion Dance</td>
+    <td class="tg-m9di" style="border: 1px solid black">Thursday 2.00 p.m. - 4 p.m.,<br>Friday 8 a.m. to 9 a.m.</td>
+    <td class="tg-u2s6" style="border: 1px solid black"><span style="font-weight:400;color:#0C3989">Ms Pauline Lee</span><br><span style="font-weight:400;color:#0C3989">Ms Ghayathri</span></td>
+    <td class="tg-m9di" style="border: 1px solid black">pauline_lee_sok_ngee@moe.edu.sg<br>k_ghayathri_dhevi@moe.edu.sg</td>
   </tr>
 </tbody>
 </table>
