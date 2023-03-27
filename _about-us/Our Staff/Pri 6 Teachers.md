@@ -31,7 +31,7 @@ third_nav_title: Our Staff
     <td class="tg-vvbc"><span style="font-weight:400;color:#0C3989">phua_li_min@moe.edu.sg</span></td>
   </tr>
   <tr>
-    <td class="tg-ifvt" rowspan="2">6RE</td>
+    <td class="tg-ifvt" rowspan="2"><b>6RE</b></td>
     <td class="tg-vvbc"><span style="font-weight:400;color:#0C3989">Mrs Liew Bee Lin</span></td>
     <td class="tg-vvbc"><span style="font-weight:400;color:#0C3989">tan_bee_lin@moe.edu.sg</span></td>
   </tr>
@@ -40,7 +40,7 @@ third_nav_title: Our Staff
     <td class="tg-vvbc"><span style="font-weight:400;color:#0C3989">nanthini_s_rajandaan@moe.edu.sg</span></td>
   </tr>
   <tr>
-    <td class="tg-ifvt" rowspan="2">6RO</td>
+    <td class="tg-ifvt" rowspan="2"><b>6RO</b></td>
     <td class="tg-vvbc"><span style="font-weight:400;color:#0C3989">Ms Nur Sakina Bte Akbar Ali</span></td>
     <td class="tg-vvbc"><span style="font-weight:400;color:#0C3989">nur_sakina_akbar_ali@moe.edu.sg</span></td>
   </tr>
@@ -58,7 +58,7 @@ third_nav_title: Our Staff
     <td class="tg-vvbc"><span style="font-weight:400;color:#0C3989">hartini_mohamed@moe.edu.sg</span></td>
   </tr>
   <tr>
-    <td class="tg-ifvt" rowspan="2">6IN</td>
+    <td class="tg-ifvt" rowspan="2"><b>6IN</b></td>
     <td class="tg-vvbc"><span style="font-weight:400;color:#0C3989">Mdm Vicki Wan Meng Yi</span></td>
     <td class="tg-vvbc"><span style="font-weight:400;color:#0C3989">wan_meng_yi@moe.edu.sg</span></td>
   </tr>
@@ -67,7 +67,7 @@ third_nav_title: Our Staff
     <td class="tg-vvbc"><span style="font-weight:400;color:#0C3989">muhammad_firdaus_abdul_latiff@moe.edu.sg</span></td>
   </tr>
   <tr>
-    <td class="tg-ifvt" rowspan="2">6CA</td>
+    <td class="tg-ifvt" rowspan="2"><b>6CA</b></td>
     <td class="tg-vvbc"><span style="font-weight:400;color:#0C3989">Ms Tan Yi Han</span></td>
     <td class="tg-vvbc"><span style="font-weight:400;color:#0C3989">tan_yi_han@moe.edu.sg</span></td>
   </tr>
@@ -76,7 +76,7 @@ third_nav_title: Our Staff
     <td class="tg-vvbc"><span style="font-weight:400;color:#0C3989">norasidah_murat@moe.edu.sg</span></td>
   </tr>
   <tr>
-    <td class="tg-ifvt" rowspan="2">6HA</td>
+    <td class="tg-ifvt" rowspan="2"><b>6HA</b></td>
     <td class="tg-vvbc"><span style="font-weight:400;color:#0C3989">Mrs Tan Li Min</span></td>
     <td class="tg-vvbc"><span style="font-weight:400;color:#0C3989">phua_li_min@moe.edu.sg</span></td>
   </tr>
