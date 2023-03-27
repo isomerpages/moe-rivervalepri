@@ -16,50 +16,50 @@ third_nav_title: Our Staff
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-ifvt" colspan="3">Primary 3 Form Teachers</th>
+    <th class="tg-ifvt" colspan="3" style="border: 1px solid black">Primary 3 Form Teachers</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-ifvt">Year Head</td>
-    <td class="tg-vvbc">Mrs Angie Liu</td>
-    <td class="tg-vvbc">thong_phui_shan@moe.edu.sg</td>
+    <td class="tg-ifvt" style="border: 1px solid black"><b>Year Head</b></td>
+    <td class="tg-vvbc" style="border: 1px solid black">Mrs Angie Liu</td>
+    <td class="tg-vvbc" style="border: 1px solid black">thong_phui_shan@moe.edu.sg</td>
   </tr>
   <tr>
-    <td class="tg-ifvt">Assistant Year Head</td>
-    <td class="tg-vvbc">Mdm Huang Biyun</td>
-    <td class="tg-vvbc">huang_bi_yun@moe.edu.sg</td>
+    <td class="tg-ifvt" style="border: 1px solid black"><b>Assistant Year Head</b></td>
+    <td class="tg-vvbc" style="border: 1px solid black">Mdm Huang Biyun</td>
+    <td class="tg-vvbc" style="border: 1px solid black">huang_bi_yun@moe.edu.sg</td>
   </tr>
   <tr>
-    <td class="tg-ifvt" rowspan="2">3RE</td>
-    <td class="tg-vvbc">Mr Seah Jin Yang</td>
-    <td class="tg-vvbc">seah_jin_yang@moe.edu.sg</td>
+    <td class="tg-ifvt" rowspan="2" style="border: 1px solid black"><b>3RE</b></td>
+    <td class="tg-vvbc" style="border: 1px solid black">Mr Seah Jin Yang</td>
+    <td class="tg-vvbc" style="border: 1px solid black">seah_jin_yang@moe.edu.sg</td>
   </tr>
   <tr>
-    <td class="tg-vvbc">Ms Teo Wei Ping</td>
-    <td class="tg-vvbc">teo_wei_ping@moe.edu.sg</td>
+    <td class="tg-vvbc" style="border: 1px solid black">Ms Teo Wei Ping</td>
+    <td class="tg-vvbc" style="border: 1px solid black">teo_wei_ping@moe.edu.sg</td>
   </tr>
   <tr>
-    <td class="tg-ifvt" rowspan="3">3RO</td>
-    <td class="tg-vvbc">Ms Veronica Tan</td>
-    <td class="tg-vvbc">tan_suan_eng_veronica@moe.edu.sg</td>
+    <td class="tg-ifvt" rowspan="3" style="border: 1px solid black"><b>3RO</b></td>
+    <td class="tg-vvbc" style="border: 1px solid black">Ms Veronica Tan</td>
+    <td class="tg-vvbc" style="border: 1px solid black">tan_suan_eng_veronica@moe.edu.sg</td>
   </tr>
   <tr>
-    <td class="tg-vvbc">Mr Roy Loy</td>
-    <td class="tg-vvbc">loy_boon_theng@moe.edu.sg</td>
+    <td class="tg-vvbc" style="border: 1px solid black">Mr Roy Loy</td>
+    <td class="tg-vvbc" style="border: 1px solid black">loy_boon_theng@moe.edu.sg</td>
   </tr>
   <tr>
-    <td class="tg-vvbc">Mdm Yeow Bee Hiong</td>
-    <td class="tg-vvbc">yeow_bee_hiong@moe.edu.sg</td>
+    <td class="tg-vvbc" style="border: 1px solid black">Mdm Yeow Bee Hiong</td>
+    <td class="tg-vvbc" style="border: 1px solid black">yeow_bee_hiong@moe.edu.sg</td>
   </tr>
   <tr>
-    <td class="tg-ifvt" rowspan="2">3RS</td>
-    <td class="tg-vvbc">Ms Nurshamira</td>
-    <td class="tg-vvbc">nurshamira_johari@moe.edu.sg</td>
+    <td class="tg-ifvt" rowspan="2" style="border: 1px solid black"><b>3RS</b></td>
+    <td class="tg-vvbc" style="border: 1px solid black">Ms Nurshamira</td>
+    <td class="tg-vvbc" style="border: 1px solid black">nurshamira_johari@moe.edu.sg</td>
   </tr>
   <tr>
-    <td class="tg-vvbc">Mr Tang Kwang Wue</td>
-    <td class="tg-vvbc">tang_kwang_wue@moe.edu.sg</td>
+    <td class="tg-vvbc" style="border: 1px solid black">Mr Tang Kwang Wue</td>
+    <td class="tg-vvbc" style="border: 1px solid black">tang_kwang_wue@moe.edu.sg</td>
   </tr>
   <tr>
     <td class="tg-ifvt" rowspan="2" style="border: 1px solid black"><b>3IN</b></td>
