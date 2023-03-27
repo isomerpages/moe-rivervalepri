@@ -133,4 +133,16 @@ b.       Character and Citizenship Education (CCE)
     <td class="tg-u2s6">Term 4 Week 9</td>
   </tr>
 </tbody>
-</table>
+</table><br>
+
+**Please Note:**
+
+**For <u>2023</u>, the Primary 5 lesson “_Did You Know_?” will also be conducted for the Primary 6 cohort.**
+
+**Information for Parents**
+
+8.       Parents may opt their children out of Sexuality Education lessons, and/or supplementary Sexuality Education programmes by MOE-approved external providers.
+
+9.       Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. Opt-out form will be made available nearer to the dates of the lessons. A notification will be sent to inform parents about the commencement of the programme via Parents Gateway.
+
+10.      Parents can contact the school at [RIVERVALE\_PS@MOE.EDU.SG](mailto:RIVERVALE_PS@MOE.EDU.SG) or 63887450 for discussion or to seek clarification about the school’s Sexuality Education programme.
