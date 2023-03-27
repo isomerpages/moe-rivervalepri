@@ -31,6 +31,6 @@ description: ""
   
 [P5 P6 MT Subject Sharing Combined.pdf](/files/P5%20P6%20MT%20Subject%20Sharing%20Combined.pdf) 
   
-[P5 P6 PE Subject Sharing.pdf](https://rivervalepri.moe.edu.sg/qql/slot/u143/Subject%20Sharing%20with%20Parents%202023%20%E2%80%93%20P5%20P/P5%20P6%20PE%20Subject%20Sharing.pdf)  
+[P5 P6 PE Subject Sharing.pdf](/files/P5%20P6%20PE%20Subject%20Sharing.pdf)
   
-[P5 P6 Science Subjuect Sharing.pdf](https://rivervalepri.moe.edu.sg/qql/slot/u143/Subject%20Sharing%20with%20Parents%202023%20%E2%80%93%20P5%20P/P5%20P6%20Science%20Subjuect%20Sharing.pdf)
+[P5 P6 Science Subject Sharing.pdf](/files/P5%20P6%20Science%20Subjuect%20Sharing.pdf)
