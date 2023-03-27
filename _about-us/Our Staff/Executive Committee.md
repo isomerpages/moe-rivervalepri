@@ -64,44 +64,44 @@ third_nav_title: Our Staff
     <td class="tg-l7h4">thong_phui_shan@moe.edu.sg<br></td>
   </tr>
   <tr>
-    <td class="tg-ifvt">Lead Teacher<br></td>
-    <td class="tg-l7h4">Mdm Chew Mian Cheng<br></td>
-    <td class="tg-l7h4">chew_mian_cheng@moe.edu.sg<br></td>
+    <td class="tg-ifvt" style="border: 1px solid black">Lead Teacher<br></td>
+    <td class="tg-l7h4" style="border: 1px solid black">Mdm Chew Mian Cheng<br></td>
+    <td class="tg-l7h4" style="border: 1px solid black">chew_mian_cheng@moe.edu.sg<br></td>
   </tr>
   <tr>
-    <td class="tg-ifvt">LH English<br></td>
-    <td class="tg-l7h4">Mdm Marlina Bte Zainal<br></td>
-    <td class="tg-l7h4">marlina_zainal@moe.edu.sg<br></td>
+    <td class="tg-ifvt" style="border: 1px solid black">LH English<br></td>
+    <td class="tg-l7h4" style="border: 1px solid black">Mdm Marlina Bte Zainal<br></td>
+    <td class="tg-l7h4" style="border: 1px solid black">marlina_zainal@moe.edu.sg<br></td>
   </tr>
   <tr>
-    <td class="tg-ifvt">LH Math<br></td>
-    <td class="tg-l7h4">Mdm Ng Mui Chin<br></td>
-    <td class="tg-l7h4">huang_meijing@moe.edu.sg<br></td>
+    <td class="tg-ifvt" style="border: 1px solid black">LH Math<br></td>
+    <td class="tg-l7h4" style="border: 1px solid black">Mdm Ng Mui Chin<br></td>
+    <td class="tg-l7h4" style="border: 1px solid black">huang_meijing@moe.edu.sg<br></td>
   </tr>
   <tr>
-    <td class="tg-ifvt">LH Science<br></td>
-    <td class="tg-l7h4">Mr Tang Kwang Wue<br></td>
-    <td class="tg-l7h4">tang_kwang_wue@moe.edu.sg<br></td>
+    <td class="tg-ifvt" style="border: 1px solid black">LH Science<br></td>
+    <td class="tg-l7h4" style="border: 1px solid black">Mr Tang Kwang Wue<br></td>
+    <td class="tg-l7h4" style="border: 1px solid black">tang_kwang_wue@moe.edu.sg<br></td>
   </tr>
   <tr>
-    <td class="tg-ifvt">LH Chinese<br></td>
-    <td class="tg-l7h4">Mdm Jasmine Chiah<br></td>
-    <td class="tg-l7h4">chiah_min_hui_jasmine@moe.edu.sg<br></td>
+    <td class="tg-ifvt" style="border: 1px solid black">LH Chinese<br></td>
+    <td class="tg-l7h4" style="border: 1px solid black">Mdm Jasmine Chiah<br></td>
+    <td class="tg-l7h4" style="border: 1px solid black">chiah_min_hui_jasmine@moe.edu.sg<br></td>
   </tr>
   <tr>
-    <td class="tg-ifvt">SH Malay<br></td>
-    <td class="tg-l7h4">Mdm Zubaidah<br></td>
-    <td class="tg-l7h4">zubaidah_zainal_abidin@moe.edu.sg<br></td>
+    <td class="tg-ifvt" style="border: 1px solid black">SH Malay<br></td>
+    <td class="tg-l7h4" style="border: 1px solid black">Mdm Zubaidah<br></td>
+    <td class="tg-l7h4" style="border: 1px solid black">zubaidah_zainal_abidin@moe.edu.sg<br></td>
   </tr>
   <tr>
-    <td class="tg-ifvt">SH CCA &amp; Student Leadership and Development<br></td>
-    <td class="tg-l7h4">Mdm Norasidah Murat<br></td>
-    <td class="tg-l7h4">norasidah_murat@moe.edu.sg<br></td>
+    <td class="tg-ifvt" style="border: 1px solid black">SH CCA &amp; Student Leadership and Development<br></td>
+    <td class="tg-l7h4" style="border: 1px solid black">Mdm Norasidah Murat<br></td>
+    <td class="tg-l7h4" style="border: 1px solid black">norasidah_murat@moe.edu.sg<br></td>
   </tr>
   <tr>
-    <td class="tg-ifvt">SH SEN<br></td>
-    <td class="tg-l7h4">Mrs Geraldine Lim<br></td>
-    <td class="tg-l7h4">geraldine_ong@moe.gov.sg<br></td>
+    <td class="tg-ifvt" style="border: 1px solid black">SH SEN<br></td>
+    <td class="tg-l7h4" style="border: 1px solid black">Mrs Geraldine Lim<br></td>
+    <td class="tg-l7h4" style="border: 1px solid black">geraldine_ong@moe.gov.sg<br></td>
   </tr>
   <tr>
     <td class="tg-ifvt" style="border: 1px solid black">SH Aesthetics<br></td>
