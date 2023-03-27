@@ -10,28 +10,27 @@ third_nav_title: Sports
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-m9di{background-color:#FFF;color:#0C3989;text-align:center;vertical-align:middle}
 .tg .tg-pg9x{background-color:#FFF;color:#0C3989;font-weight:bold;text-align:center;vertical-align:top}
 .tg .tg-u2s6{background-color:#FFF;color:#0C3989;text-align:center;vertical-align:top}
 </style>
-<table class="tg">
+<table class="tg" style="border: 1px solid black">
 <thead>
-  <tr>
-    <th class="tg-pg9x">CCA</th>
-    <th class="tg-pg9x">Day and Time of after-school training (if applicable)</th>
-    <th class="tg-pg9x">Teachers in Charge</th>
-    <th class="tg-pg9x">Email Address</th>
+  <tr style="border: 1px solid black">
+    <th class="tg-pg9x" style="border: 1px solid black">CCA</th>
+    <th class="tg-pg9x" style="border: 1px solid black">Day and Time of after-school training (if applicable)</th>
+    <th class="tg-pg9x" style="border: 1px solid black">Teachers in Charge</th>
+    <th class="tg-pg9x" style="border: 1px solid black">Email Address</th>
   </tr>
 </thead>
 <tbody>
-  <tr>
-    <td class="tg-m9di">Badminton</td>
-    <td class="tg-m9di">Monday, 2.15 p.m. to 5.15 p.m.</td>
-    <td class="tg-u2s6"><span style="font-weight:400;color:#0C3989">Ms Choy Yin Lam</span><br><span style="font-weight:400;color:#0C3989">Mr Low Meng Yen</span>Mrs Linda Goh</td>
-    <td class="tg-m9di">choy_yin_lam@moe.edu.sg low_meng_yen@moe.edu.sg tan_su_mei_linda@moe.edu.sg</td>
+  <tr style="border: 1px solid black">
+    <td class="tg-u2s6" style="border: 1px solid black">Badminton</td>
+    <td class="tg-u2s6" style="border: 1px solid black">Monday, 3.00 p.m. to 5.00 p.m.<br>&amp;<br><span style="font-weight:400;color:#0C3989">Thursday, 3.00 p.m. to 5.00 p.m.</span></td>
+    <td class="tg-u2s6" style="border: 1px solid black">Ms Choy Yin Lam<br>Mrs Linda Goh<br>Mdm Syahidah Mohd Salleh</td>
+    <td class="tg-u2s6" style="border: 1px solid black">choy_yin_lam@moe.edu.sg tan_su_mei_linda@moe.edu.sg<br>nur_syahidah_mohamed_salleh@moe.edu.sg</td>
   </tr>
 </tbody>
-</table>
+</table><br>
 
 
 <iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSHSnBTDTg00hfgbWDyyFnLgiXFo2Ejc9M0P6iHcV-XdIxRBUEs1Dg9uURwjqzEGZylDP68j4AFU6tL/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
