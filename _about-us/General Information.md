@@ -3,9 +3,27 @@ title: General Information
 permalink: /about-us/General-Information/
 description: ""
 ---
-![](/images/School/school.jpg)
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/School/school.jpg" alt="Rivervale Pri Sch" style="width:80%;">  
+  
+</body><br>
 
-![](/images/School/school2.jpeg)
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/School/school2.jpeg" alt="Rivervale Pri Sch" style="width:80%;">  
+  
+</body> 
 
 **School Hours**
 
