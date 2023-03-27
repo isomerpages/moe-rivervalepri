@@ -132,29 +132,29 @@ third_nav_title: Our Staff
 </thead>
 <tbody>
   <tr>
-    <td class="tg-ifvt">Year Head (P1&amp;P2)</td>
-    <td class="tg-vvbc">Mdm Hamimah Ali</td>
-    <td class="tg-vvbc">hamimah_ali@moe.edu.sg</td>
+    <td class="tg-ifvt" style="border: 1px solid black">Year Head (P1&amp;P2)</td>
+    <td class="tg-vvbc" style="border: 1px solid black">Mdm Hamimah Ali</td>
+    <td class="tg-vvbc" style="border: 1px solid black">hamimah_ali@moe.edu.sg</td>
   </tr>
   <tr>
-    <td class="tg-ifvt">Year Head (P3&amp;P4)</td>
-    <td class="tg-vvbc">Mrs Angie Liu</td>
-    <td class="tg-vvbc">thong_phui_shan@moe.edu.sg</td>
+    <td class="tg-ifvt" style="border: 1px solid black">Year Head (P3&amp;P4)</td>
+    <td class="tg-vvbc" style="border: 1px solid black">Mrs Angie Liu</td>
+    <td class="tg-vvbc" style="border: 1px solid black">thong_phui_shan@moe.edu.sg</td>
   </tr>
   <tr>
-    <td class="tg-ifvt">Year Head (P5&amp;P6)</td>
-    <td class="tg-vvbc">Mr Ho Kar Yan</td>
-    <td class="tg-vvbc">ho_kar_yan@moe.edu.sg</td>
+    <td class="tg-ifvt" style="border: 1px solid black">Year Head (P5&amp;P6)</td>
+    <td class="tg-vvbc" style="border: 1px solid black">Mr Ho Kar Yan</td>
+    <td class="tg-vvbc" style="border: 1px solid black">ho_kar_yan@moe.edu.sg</td>
   </tr>
   <tr>
-    <td class="tg-ifvt">Assistant Year Head (P1&amp;2)</td>
-    <td class="tg-vvbc">Mdm Ng Hwee Koon</td>
-    <td class="tg-vvbc">ng_hwee_koon@moe.edu.sg</td>
+    <td class="tg-ifvt" style="border: 1px solid black">Assistant Year Head (P1&amp;2)</td>
+    <td class="tg-vvbc" style="border: 1px solid black">Mdm Ng Hwee Koon</td>
+    <td class="tg-vvbc" style="border: 1px solid black">ng_hwee_koon@moe.edu.sg</td>
   </tr>
   <tr>
-    <td class="tg-ifvt">Assistant Year Head (P3&amp;4)</td>
-    <td class="tg-vvbc">Ms Huang Bi Yun</td>
-    <td class="tg-vvbc">huang_bi_yun@moe.edu.sg</td>
+    <td class="tg-ifvt" style="border: 1px solid black">Assistant Year Head (P3&amp;4)</td>
+    <td class="tg-vvbc" style="border: 1px solid black">Ms Huang Bi Yun</td>
+    <td class="tg-vvbc" style="border: 1px solid black">huang_bi_yun@moe.edu.sg</td>
   </tr>
   <tr>
     <td class="tg-ifvt" style="border: 1px solid black">Assistant Year Head (P5&amp;6)</td>
