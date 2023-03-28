@@ -1,0 +1,21 @@
+collections:
+  about-us:
+    output: true
+    order:
+      - Mission&Vision.md
+      - School Song.md
+      - General Information.md
+      - Our Location.md
+      - Our Service Providers.md
+      - Our Staff/School Advisory Committee.md
+      - Our Staff/Executive Committee.md
+      - Our Staff/Pri 1 Teachers.md
+      - Our Staff/Pri 2 Teachers.md
+      - Our Staff/Pri 3 Teachers.md
+      - Our Staff/Pri 4 Teachers.md
+      - Our Staff/Pri 5 Teachers.md
+      - Our Staff/Pri 6 Teachers.md
+      - Our Staff/Mother Tongue Teachers.md
+      - Our Staff/PE ART MUSIC Teachers.md
+      - Our Staff/EAS.md
+      - Our Staff/.keep

@@ -1,0 +1,20 @@
+collections:
+  communications:
+    output: true
+    order:
+      - Useful Links for students.md
+      - Rivervale in the News.md
+      - School Calendar.md
+      - Rivervale Connects.md
+      - Guide to using SLS & Student ICON.md
+      - Parents Gateway.md
+      - Primary One 2022 information.md
+      - PSLE Scoring and Secondary 1 Posting from 2021.md
+      - Consent for photography and videos.md
+      - Subject Sharing.md
+      - Rivervale Primary E Open House 2022.md
+      - 2023 P1 Admin Briefing.md
+      - Staff Accolades.md
+      - MOE Sexuality Education in Schools.md
+      - Subject Sharing 2023.md
+      - Parent Engagement 2023.md

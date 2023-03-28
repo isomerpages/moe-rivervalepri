@@ -1,13 +1,14 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/School/photo6160989144705250760.jpg
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
+  - title: About Us
+    collection: about-us
+  - title: CCAS
+    collection: ccas
+  - title: Departments
+    collection: departments
+  - title: Partnership
+    collection: partnerships
+  - title: Communications
+    collection: communications
+  - title: Programmes & Events
+    collection: programme-and-events

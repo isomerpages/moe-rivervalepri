@@ -1,0 +1,8 @@
+collections:
+  partnerships:
+    output: true
+    order:
+      - Parent Support Group.md
+      - Our Alumni.md
+      - Parents in Education.md
+      - Parent Volunteers Programme.md

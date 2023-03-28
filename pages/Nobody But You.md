@@ -1,0 +1,20 @@
+---
+title: Nobody But You
+permalink: /Nobody-But-You/
+description: ""
+---
+<table border="1" cellspacing="0" cellpadding="0" align="left" style="margin: 0px; outline: 0px; padding: 0px; border-collapse: collapse; max-width: 100%; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 13px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; background-color: rgb(102, 204, 102);"><p style="margin: 0px; outline: 0px; padding: 0px; line-height: 20px !important; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 13px;"><font size="2" face="arial, sans-serif" style="margin: 0px; outline: 0px; padding: 0px;">Theme</font></p></td><td width="493" valign="top" style="margin: 0px; outline: 0px; padding: 5px;"><p style="margin: 0px; outline: 0px; padding: 0px; line-height: 20px !important; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 13px;"><font size="2" face="arial, sans-serif" style="margin: 0px; outline: 0px; padding: 0px;">Care for the school environment</font></p></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; background-color: rgb(102, 204, 102);"><p style="margin: 0px; outline: 0px; padding: 0px; line-height: 20px !important; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 13px;"><font size="2" face="arial, sans-serif" style="margin: 0px; outline: 0px; padding: 0px;">Highlights</font></p></td><td width="493" valign="top" style="margin: 0px; outline: 0px; padding: 5px;"><p style="margin: 0px; outline: 0px; padding: 0px; line-height: 20px !important; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 13px;"><font size="2" face="arial, sans-serif" style="margin: 0px; outline: 0px; padding: 0px;">Students have to tidy up the area where they&nbsp;took their meals after recess, using the cloths provided at the side of the canteen tables.</font></p></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; background-color: rgb(102, 204, 102);"><p style="margin: 0px; outline: 0px; padding: 0px; line-height: 20px !important; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 13px;"><font size="2" face="arial, sans-serif" style="margin: 0px; outline: 0px; padding: 0px;">OBJECTIVES</font></p></td><td width="493" valign="top" style="margin: 0px; outline: 0px; padding: 5px;"><p style="margin: 0px; outline: 0px; padding: 0px; line-height: 20px !important; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 13px;"><font size="2" face="arial, sans-serif" style="margin: 0px; outline: 0px; padding: 0px;">To educate the students to take ownership and be responsible for the up-keeping of the school environment.</font></p></td></tr></tbody></table>
+
+  
+
+  
+
+Every class in Rivervale Primary School is allocated with designated tables and benches in the canteen.
+
+At the end of the recess, students will tidy up the area where they have taken their meals, using the cloths provided at the side of the canteen tables. Through this platform, the school hopes to inculcate the value of social responsibility for self and others whereby students learnt the importance to clear up after eating; this habit will then be transferred to clearing the areas where they eat at homes and even at public areas like hawker centres.
+
+![](/images/Curriculum/Student%20Development%20Team/photo6183895678468600804.jpg)
+Students cleaning the tables and chairs after having their meals.
+
+  
+![](/images/Curriculum/Student%20Development%20Team/photo6183895678468600806.jpg)
