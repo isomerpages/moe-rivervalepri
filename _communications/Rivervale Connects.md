@@ -7,6 +7,8 @@ description: ""
 
 [Term 1](/files/Communications/Rivervale%20Connects/2023%20T1%20Rivervale%20Connects.pdf) 
 
+[Term 2](/files/Communications/Rivervale%20Connects/2023%20t2%20rivervale%20connects.pdf)
+
 ### WA Schedule
 
 **<u>Term 1</u>**  
