@@ -44,4 +44,4 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<img src="/images/School%20Advisory%20Committee/School%20Advisory%20Committee(6).jpg" alt="Vice Principals" style="width:60%;">  School%20Advisory%20Committee(3).jpg"&gt;
+<img src="/images/School%20Advisory%20Committee/School%20Advisory%20Committee(6).jpg" alt="Vice Principals" style="width:75%;">  School%20Advisory%20Committee(3).jpg"&gt;
