@@ -8,7 +8,7 @@ locations:
       - "80, "
       - RIVERVALE DRIVE
       - SINGAPORE 545092
-    title: Rivervale Primary School
     operating_hours: []
     maps_link: ""
+    title: Rivervale Primary School
 ---
