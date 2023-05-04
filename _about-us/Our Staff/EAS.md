@@ -47,16 +47,9 @@ third_nav_title: Our Staff
     <td style="border: 1px solid black" class="tg-1wig">Corporate Support Officer</td>
     <td style="border: 1px solid black" class="tg-cly1">Mdm Yeo Ai Li</td>
     <td style="border: 1px solid black" class="tg-cly1">yeo_ai_li@schools.gov.sg<br></td>
+ 
   </tr>
   <tr>
-    <td style="border: 1px solid black" class="tg-1wig">Corporate Support Officer<br></td>
-    <td style="border: 1px solid black" class="tg-cly1">Mdm Vidya Samson</td>
-    <td style="border: 1px solid black" class="tg-cly1">vidya_samson@schools.gov.sg<br></td>
-  </tr>
-  <tr>
-    <td style="border: 1px solid black" class="tg-1wig">Corporate Support Officer<br></td>
-    <td style="border: 1px solid black" class="tg-cly1">Ms Sukarni Binte Kana</td>
-    <td style="border: 1px solid black" class="tg-cly1">sukarni_kana@schools.gov.sg</td>
   </tr>
   <tr>
     <td style="border: 1px solid black" class="tg-1wig">Operations Support Officer<br></td>
