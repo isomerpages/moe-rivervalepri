@@ -39,4 +39,4 @@ o       Teamwork
 
 **SCHOOL MOTTO**  
   
-Succeed n Excel
+Succeed & Excel
