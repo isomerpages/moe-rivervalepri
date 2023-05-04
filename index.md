@@ -15,5 +15,5 @@ sections:
   - infobar:
       title: Teachers' Portal
       button: Click here
-      url: https://cms.isomer.gov.sg/sites/moe-rivervalepri/folders/communications/editPage/Teacher's%20Portal.md
+      url: https://www.rivervalepri.moe.edu.sg/communications/permalink/
 ---
