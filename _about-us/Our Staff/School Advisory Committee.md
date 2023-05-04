@@ -44,7 +44,3 @@ img {
   margin-right: auto;  
 }  
 	</style>  
-<img src="/images/School%20Advisory%20Committee/School%20Advisory%20Committee(3).jpg" alt="Chairman" style="width:75%;">  
-  
-	
- School%20Advisory%20Committee(3).jpg"&gt;
