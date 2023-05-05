@@ -26,4 +26,9 @@ description: ""
 
 **video to be embedded here**
 
+### P2 Parent Engagement 2023
+[P2 Parent Engagement 2023](/files/Communications/p2%20parent%20engagement%202023.pdf)
+
+[P2 Parent Engagement FAQ 2023](/files/Communications/faq%20primary%202%20parent%20engagement%202023.pdf)
+
 **video to be embedded here**
