@@ -11,4 +11,4 @@ description: ""
 
 [Resource Booking System](https://rbs.avero-tech.com/login.html)
 
-[[SC mobile](https://scmobile.moe.edu.sg/)]
+[SC mobile](https://scmobile.moe.edu.sg/)
