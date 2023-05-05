@@ -10,3 +10,5 @@ description: ""
 [OPAL2.0](https://opal2.moe.edu.sg/)
 
 [Resource Booking System](https://rbs.avero-tech.com/login.html)
+
+[[SC mobile](https://scmobile.moe.edu.sg/)]
