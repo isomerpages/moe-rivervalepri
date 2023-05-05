@@ -1,6 +1,6 @@
 ---
-title: Useful Links for students
-permalink: /communications/Useful-Links-For-Students/
+title: Useful Links for Students
+permalink: /communications/useful-links-for-students/
 description: ""
 ---
 [Student Learning Space](https://vle.learning.moe.edu.sg/login)  

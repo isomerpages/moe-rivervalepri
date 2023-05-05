@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - Teacher's Portal.md
-      - Useful Links for students.md
+      - Useful Links for Students.md
       - Rivervale in the News.md
       - School Calendar.md
       - Rivervale Connects.md
@@ -18,3 +18,4 @@ collections:
       - MOE Sexuality Education in Schools.md
       - Subject Sharing 2023.md
       - Parent Engagement 2023.md
+      - Advertisements.md
