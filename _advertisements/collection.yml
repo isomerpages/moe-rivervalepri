@@ -1,0 +1,4 @@
+collections:
+  advertisements:
+    output: true
+    order: []
