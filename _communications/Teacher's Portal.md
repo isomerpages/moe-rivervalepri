@@ -5,7 +5,7 @@ description: ""
 ---
 |  |  | 
 | ----------| ---------- | 
-| Student learning Space | School Cockpit |  
+| [SLS](https://vle.learning.moe.edu.sg/login) |  |  
 | OPAL2.0 |Resource Booking System|
 |Parents Gateway|
 
