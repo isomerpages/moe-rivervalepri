@@ -2,7 +2,6 @@ collections:
   communications:
     output: true
     order:
-      - Advertisements.md
       - Teacher's Portal.md
       - Useful Links for Students.md
       - Rivervale in the News.md
@@ -19,3 +18,4 @@ collections:
       - MOE Sexuality Education in Schools.md
       - Subject Sharing 2023.md
       - Parent Engagement 2023.md
+      - Advertisements.md
