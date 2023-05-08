@@ -2,6 +2,7 @@ collections:
   communications:
     output: true
     order:
+      - Information for parents/.keep
       - Teacher's Portal.md
       - Useful Links for Students.md
       - Rivervale in the News.md
