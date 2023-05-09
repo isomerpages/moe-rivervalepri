@@ -85,8 +85,8 @@ third_nav_title: Our Staff
   </tr>
   <tr>
     <td class="tg-ifvt" style="border: 1px solid black">LH Chinese<br></td>
-    <td class="tg-l7h4" style="border: 1px solid black">Mdm Jasmine Chiah<br></td>
-    <td class="tg-l7h4" style="border: 1px solid black">chiah_min_hui_jasmine@moe.edu.sg<br></td>
+    <td class="tg-l7h4" style="border: 1px solid black">Ms Teo Wei Ping<br></td>
+    <td class="tg-l7h4" style="border: 1px solid black">teo_wei_ping@moe.edu.sg<br></td>
   </tr>
   <tr>
     <td class="tg-ifvt" style="border: 1px solid black">SH Malay<br></td>
@@ -101,7 +101,7 @@ third_nav_title: Our Staff
   <tr>
     <td class="tg-ifvt" style="border: 1px solid black">SH SEN<br></td>
     <td class="tg-l7h4" style="border: 1px solid black">Mrs Geraldine Lim<br></td>
-    <td class="tg-l7h4" style="border: 1px solid black">geraldine_ong@moe.gov.sg<br></td>
+    <td class="tg-l7h4" style="border: 1px solid black">ong_hui_ying_geraldine@moe.edu.sg<br></td>
   </tr>
   <tr>
     <td class="tg-ifvt" style="border: 1px solid black">SH Aesthetics<br></td>

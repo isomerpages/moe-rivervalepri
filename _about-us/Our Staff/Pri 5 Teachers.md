@@ -51,7 +51,7 @@ third_nav_title: Our Staff
   <tr>
     <td class="tg-2n7o" rowspan="2" style="border: 1px solid black"><b>5RS</b></td>
     <td class="tg-jz0t" style="border: 1px solid black"><span style="font-weight:400;color:#0C3989">Mrs Geraldine Lim</span></td>
-    <td class="tg-jz0t" style="border: 1px solid black"><span style="font-weight:400;color:#0C3989">geraldine_ong@moe.gov.sg</span></td>
+    <td class="tg-jz0t" style="border: 1px solid black"><span style="font-weight:400;color:#0C3989">ong_hui_ying_geraldine@moe.edu.sg</span></td>
   </tr>
   <tr>
     <td class="tg-jz0t" style="border: 1px solid black"><span style="font-weight:400;color:#0C3989">Mr Mohamad Khair Bin Johari</span></td>

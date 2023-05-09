@@ -2,13 +2,14 @@ collections:
   communications:
     output: true
     order:
+      - Information for parents/Parents Gateway.md
+      - Information for parents/.keep
       - Teacher's Portal.md
       - Useful Links for Students.md
       - Rivervale in the News.md
       - School Calendar.md
       - Rivervale Connects.md
       - Guide to using SLS & Student ICON.md
-      - Parents Gateway.md
       - Primary One 2022 information.md
       - Consent for photography and videos.md
       - Rivervale Primary E Open House 2022.md
