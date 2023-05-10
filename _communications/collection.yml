@@ -2,13 +2,13 @@ collections:
   communications:
     output: true
     order:
-      - Information for Parents/School Calendar.md
-      - Information for Parents/Rivervale in the News.md
       - Information for Parents/.keep
+      - Information for Parents/School Calendar.md
       - Information for Parents/Parents Gateway.md
       - Information for Parents/Consent for photography and videos.md
       - Information for Parents/Subject Sharing 2023.md
       - Information for Parents/Parent Engagement 2023.md
+      - Information for Parents/Rivervale in the News.md
       - Information for Parents/2023 P1 Admin Briefing.md
       - Teacher's Portal.md
       - Useful Links for Students.md
