@@ -2,6 +2,7 @@ collections:
   communications:
     output: true
     order:
+      - Information for parents/Parent Engagement 2023.md
       - Information for parents/Consent for photography and videos.md
       - Information for parents/Parents Gateway.md
       - Information for parents/.keep
