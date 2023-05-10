@@ -2,6 +2,7 @@ collections:
   communications:
     output: true
     order:
+      - Information for Students/.keep
       - Information for Parents/.keep
       - Information for Parents/Rivervale Connects.md
       - Information for Parents/School Calendar.md
