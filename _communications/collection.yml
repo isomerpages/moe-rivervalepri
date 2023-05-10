@@ -2,12 +2,12 @@ collections:
   communications:
     output: true
     order:
-      - Information for parents/2023 P1 Admin Briefing.md
+      - Information for parents/.keep
+      - Information for parents/Parents Gateway.md
+      - Information for parents/Consent for photography and videos.md
       - Information for parents/Subject Sharing 2023.md
       - Information for parents/Parent Engagement 2023.md
-      - Information for parents/Consent for photography and videos.md
-      - Information for parents/Parents Gateway.md
-      - Information for parents/.keep
+      - Information for parents/2023 P1 Admin Briefing.md
       - Teacher's Portal.md
       - Useful Links for Students.md
       - Rivervale in the News.md
