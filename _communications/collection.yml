@@ -2,6 +2,7 @@ collections:
   communications:
     output: true
     order:
+      - Information for Students/Guide to using SLS & Student ICON.md
       - Information for Students/Useful Links for Students.md
       - Information for Students/.keep
       - Information for Parents/.keep
