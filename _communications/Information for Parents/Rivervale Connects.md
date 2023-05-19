@@ -2,6 +2,7 @@
 title: Rivervale Connects
 permalink: /communications/Rivervale-Connects/
 description: ""
+third_nav_title: Information for Parents
 ---
 ### Rivervale Connects
 

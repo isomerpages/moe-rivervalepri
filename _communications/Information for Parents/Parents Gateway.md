@@ -2,7 +2,7 @@
 title: Parents Gateway
 permalink: /communications/Parents-Gateway/
 description: ""
-third_nav_title: Information for parents
+third_nav_title: Information for Parents
 ---
 Dear Parents,
 
