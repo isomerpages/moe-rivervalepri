@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Homepage/RVPS_Homepage_New.gif
+      background: /images/Homepage/homepage - confidence.jpg
       key_highlights:
         - title: ANNOUNCEMENTS
           description: ""
