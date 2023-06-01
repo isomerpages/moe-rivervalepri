@@ -4,7 +4,6 @@ permalink: /ccas/performing-arts/chinese-dance/
 description: ""
 third_nav_title: Performing Arts
 ---
-
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -27,7 +26,7 @@ third_nav_title: Performing Arts
 <tbody>
   <tr style="border: 1px solid black">
     <td class="tg-m9di" style="border: 1px solid black">Chinese Dance</td>
-    <td class="tg-m9di" style="border: 1px solid black">Thursday 2.30 p.m. to 4.30 p.m.</td>
+    <td class="tg-m9di" style="border: 1px solid black"></td>
     <td class="tg-u2s6" style="border: 1px solid black"><span style="font-weight:400;color:#0C3989">Mdm Liang Wei Hsiang</span><br><span style="font-weight:400;color:#0C3989">Mdm Li Song</span></td>
     <td class="tg-m9di">liang_wei_hsiang@moe.edu.sg li_song@moe.edu.sg</td>
   </tr>
