@@ -27,9 +27,8 @@ third_nav_title: Performing Arts
   <tr style="border: 1px solid black">
     <td class="tg-m9di" style="border: 1px solid black">International Dance</td>
     <td class="tg-m9di" style="border: 1px solid black">Monday 3 p.m. to 5 p.m.</td>
-    <td class="tg-u2s6" style="border: 1px solid black"><span style="font-weight:400;color:#0C3989">Mdm Liang Wei Hsiang</span><br><span style="font-weight:400;color:#0C3989">Mdm Li Song</span></td>
+    <td class="tg-u2s6" style="border: 1px solid black"><span style="font-weight:400;color:#0C3989">Mdm Liang Wei Hsiang</span><br><span style="font-weight:400;color:#0C3989">Mdm Li Song</span><br><span style="font-weight:400;color:#0C3989">Mdm Shashita Ramesh Kumar</span><br></td>
     <td class="tg-m9di">liang_wei_hsiang@moe.edu.sg li_song@moe.edu.sg</td>
   </tr>
 </tbody>
 </table>
-
