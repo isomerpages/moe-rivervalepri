@@ -4,7 +4,6 @@ permalink: /ccas/performing-arts/malay-dance/
 description: ""
 third_nav_title: Performing Arts
 ---
-
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -26,7 +25,7 @@ third_nav_title: Performing Arts
 <tbody>
   <tr style="border: 1px solid black">
     <td class="tg-m9di" style="border: 1px solid black">Malay Dance</td>
-    <td class="tg-m9di" style="border: 1px solid black">Friday 2.00 p.m. - 4.00 p.m. @ Dance Studio 2</td>
+    <td class="tg-m9di" style="border: 1px solid black"></td>
     <td class="tg-m9di" style="border: 1px solid black">Mdm Nur Syahidah<br>Mdm Nurshamira<br>Mdm Siti Nurul Aiin</td>
     <td class="tg-m9di" style="border: 1px solid black">nur_syahidah_mohamed_salleh@moe.edu.sg nurshamira_johari@moe.edu.sg siti_nurul_aiin_samsulkahar@moe.edu.sg</td>
   </tr>
