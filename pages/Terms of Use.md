@@ -20,7 +20,7 @@ The materials located on this Web Site including the information and software pr
 
 **PRIVACY POLICY**
 
-[Click here](https://www.rivervalepri.moe.edu.sg/404.html) to review this Web Site Privacy Statement.
+[Click here](https://www.rivervalepri.moe.edu.sg/privacy/) to review this Web Site Privacy Statement.
 
 **RESTRICTIONS ON USE OF MATERIALS**
 
