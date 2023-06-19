@@ -2,7 +2,6 @@ collections:
   partnerships:
     output: true
     order:
-      - Parent Volunteer.md
       - Parent Support Group.md
       - Our Alumni.md
       - Parents in Education.md
