@@ -1,6 +1,6 @@
 ---
-title: Malay Dance
-permalink: /ccas/performing-arts/malay-dance/
+title: International Dance
+permalink: /ccas/performing-arts/international/
 description: ""
 third_nav_title: Performing Arts
 ---
@@ -12,10 +12,11 @@ third_nav_title: Performing Arts
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-m9di{background-color:#FFF;color:#0C3989;text-align:center;vertical-align:middle}
 .tg .tg-pg9x{background-color:#FFF;color:#0C3989;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-u2s6{background-color:#FFF;color:#0C3989;text-align:center;vertical-align:top}
 </style>
 <table class="tg" style="border: 1px solid black">
 <thead>
-  <tr>
+  <tr style="border: 1px solid black">
     <th class="tg-pg9x" style="border: 1px solid black">CCA</th>
     <th class="tg-pg9x" style="border: 1px solid black">Day and Time of after-school training (if applicable)</th>
     <th class="tg-pg9x" style="border: 1px solid black">Teachers in Charge</th>
@@ -24,13 +25,10 @@ third_nav_title: Performing Arts
 </thead>
 <tbody>
   <tr style="border: 1px solid black">
-    <td class="tg-m9di" style="border: 1px solid black">Malay Dance</td>
-    <td class="tg-m9di" style="border: 1px solid black"></td>
-    <td class="tg-m9di" style="border: 1px solid black">Mdm Nur Syahidah<br>Mdm Nurshamira<br>Mdm Siti Nurul Aiin</td>
-    <td class="tg-m9di" style="border: 1px solid black">nur_syahidah_mohamed_salleh@moe.edu.sg nurshamira_johari@moe.edu.sg siti_nurul_aiin_samsulkahar@moe.edu.sg</td>
+    <td class="tg-m9di" style="border: 1px solid black">International Dance</td>
+    <td class="tg-m9di" style="border: 1px solid black">Monday 3 p.m. to 5 p.m.</td>
+    <td class="tg-u2s6" style="border: 1px solid black"><span style="font-weight:400;color:#0C3989">Mdm Liang Wei Hsiang</span><br><span style="font-weight:400;color:#0C3989">Mdm Li Song</span><br><span style="font-weight:400;color:#0C3989">Mdm Shashita</span><br></td>
+    <td class="tg-m9di">liang_wei_hsiang@moe.edu.sg<br> li_song@moe.edu.sg<br> shashita_ramesh_kumar@moe.edu.sg</td>
   </tr>
 </tbody>
-</table><br>
-
-
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQlJFj0KH6ChFESJjRS63SW7FeDF8QetYaqtb8xIVl4c4RbvMlxLycf4eOdbNMXDcU4ijHU5MDl5AVg/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+</table>

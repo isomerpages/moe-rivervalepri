@@ -4,7 +4,6 @@ permalink: /ccas/performing-arts/fusion-dance/
 description: ""
 third_nav_title: Performing Arts
 ---
-
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -27,7 +26,7 @@ third_nav_title: Performing Arts
 <tbody>
   <tr style="border: 1px solid black">
     <td class="tg-m9di" style="border: 1px solid black">Fusion Dance</td>
-    <td class="tg-m9di" style="border: 1px solid black">Thursday 2.00 p.m. - 4 p.m.,<br>Friday 8 a.m. to 9 a.m.</td>
+    <td class="tg-m9di" style="border: 1px solid black"><br></td>
     <td class="tg-u2s6" style="border: 1px solid black"><span style="font-weight:400;color:#0C3989">Ms Pauline Lee</span><br><span style="font-weight:400;color:#0C3989">Ms Ghayathri</span></td>
     <td class="tg-m9di" style="border: 1px solid black">pauline_lee_sok_ngee@moe.edu.sg<br>k_ghayathri_dhevi@moe.edu.sg</td>
   </tr>
