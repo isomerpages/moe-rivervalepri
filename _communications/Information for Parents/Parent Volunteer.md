@@ -25,3 +25,6 @@ The **school reserves the right** to select the Parent Volunteers based on the n
 **Please note that only shortlisted applicants will be notified via email by end of June 2023.**
 
 More details with regards to the Parent Volunteer Programme will be shared with the shortlisted applicants in the near future.
+
+Thank you.
+
