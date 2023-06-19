@@ -27,4 +27,3 @@ The **school reserves the right** to select the Parent Volunteers based on the n
 More details with regards to the Parent Volunteer Programme will be shared with the shortlisted applicants in the near future.
 
 Thank you.
-
