@@ -40,7 +40,7 @@ third_nav_title: Our Staff
     <td class="tg-vvbc" style="border: 1px solid black"><span style="font-weight:400;color:#0C3989">nur_syahidah_mohamed_salleh@moe.edu.sg</span></td>
   </tr>
   <tr>
-		<td class="tg-vvbc" style="border: 1px solid black"><span style="font-weight:400;color:#0C3989">Ms Christina Geetha</span></td>
+		<td class="tg-vvbc" style="border: 1px solid black"><span style="font-weight:400;color:#0C3989">Ms Geetha Christina</span></td>
     <td class="tg-vvbc" style="border: 1px solid black"><span style="font-weight:400;color:#0C3989">geetha_christina_mathialagan@moe.edu.sg</span></td>
   </tr>
   <tr>
