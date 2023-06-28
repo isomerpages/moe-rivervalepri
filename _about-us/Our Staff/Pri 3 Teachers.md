@@ -76,8 +76,8 @@ third_nav_title: Our Staff
     <td class="tg-vvbc" style="border: 1px solid black">lim_ze_wei@moe.edu.sg</td>
   </tr>
   <tr>
-    <td class="tg-vvbc" style="border: 1px solid black">Mdm Chew Mian Cheng</td>
-    <td class="tg-vvbc" style="border: 1px solid black">chew_mian_cheng@moe.edu.sg</td>
+    <td class="tg-vvbc" style="border: 1px solid black">Mrs Jamie Yeo</td>
+    <td class="tg-vvbc" style="border: 1px solid black">kay_woon_ping@moe.edu.sg</td>
   </tr>
   <tr>
     <td class="tg-ifvt" rowspan="2" style="border: 1px solid black"><b>3HA</b></td>
@@ -85,8 +85,8 @@ third_nav_title: Our Staff
     <td class="tg-vvbc" style="border: 1px solid black">mohamed_sadiqin_subhan@moe.edu.sg</td>
   </tr>
   <tr>
-    <td class="tg-vvbc" style="border: 1px solid black">Mrs Janet Quek</td>
-    <td class="tg-vvbc" style="border: 1px solid black">seah_shiao_yen_janet@moe.edu.sg</td>
+    <td class="tg-vvbc" style="border: 1px solid black">Mdm Chew Mian Cheng</td>
+    <td class="tg-vvbc" style="border: 1px solid black">chew_mian_cheng@moe.edu.sg</td>
   </tr>
 </tbody>
 </table>
