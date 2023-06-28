@@ -3,21 +3,15 @@ title: Parent Volunteers Programme
 permalink: /stakeholders/Parent-Volunteers-Programme/
 description: ""
 ---
-**_(Updated as at 21 June_** **_2023)_**
+**_(Updated as at 28 June 2023)_**
 
 **For SC and SPR children born in 2018**
 
-The **online application is** **NOW OPEN.** It will **commence from Wednesday, 21 June 2023 at 10.00am and will** **cease on Tuesday, 27 June 2023 at 6.00pm**.
+The **online application is NOW CLOSED.**
 
-**Please click** **[HERE](https://form.gov.sg/648ba867d948070011abeeda) to submit your application.**
-
-Interested applicants are to **submit their online application within the application period. _(The link will only be made available on Wednesday, 21 June 2023 from 10.00am onwards. In the event that the school is experiencing technical issues, we seek your understanding. Kindly refresh the page again after 15 minutes.)_**
-
-**Only 1 submission by either parent is** **required. _(For twins, parents are to submit 1 application for each child with the same parent’s details.)_**
+It commenced on Wednesday, 21 June 2023 at 10.00am and has ceased on Tuesday, 27 June 2023 at 6.00pm.
 
 **Applications that are incomplete and/or received after the closing date & time will not be accepted.**
-
-Please note that **duties to be performed** by selected Parent Volunteers are to be **done within the school premises, on weekdays during school hours**, unless informed otherwise. Working parents are advised to consider their availability before submitting the online application.
 
 The school will **select not more than 20 Parent Volunteers**, however the number may vary each year. Selection will be **conducted by the school committee** after the application period is over.
 
