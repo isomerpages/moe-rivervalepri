@@ -50,8 +50,8 @@ third_nav_title: Our Staff
   </tr>
   <tr>
     <td class="tg-ifvt" rowspan="2" style="border: 1px solid black"><b>2RS</b></td>
-    <td class="tg-vvbc" style="border: 1px solid black"><span style="font-weight:400;color:#0C3989">Mdm Ang Hui Nee</span></td>
-    <td class="tg-vvbc" style="border: 1px solid black"><span style="font-weight:400;color:#0C3989" >ang_hui_nee@moe.edu.sg</span></td>
+    <td class="tg-vvbc" style="border: 1px solid black"><span style="font-weight:400;color:#0C3989">Mdm Ng Hwee Koon</span></td>
+    <td class="tg-vvbc" style="border: 1px solid black"><span style="font-weight:400;color:#0C3989">ng_hwee_koon@moe.edu.sg</span></td>
   </tr>
   <tr>
     <td class="tg-vvbc" style="border: 1px solid black">Mdm Nur Liyana Jawini</td>
