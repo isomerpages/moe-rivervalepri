@@ -10,9 +10,9 @@ description: ""
 
 14 Arumugam Road
 
-#08-01 LTC Building C, Singapore 409958
+#08-01 LTC Building C,&nbsp;Singapore 409958
 
-Website: [www.pacificbookstores.com](http://www.pacificbookstores.com/)
+Website:&nbsp;[www.pacificbookstores.com](http://www.pacificbookstores.com/)
 
 [](http://www.pacificbookstores.com/)
 
@@ -21,7 +21,7 @@ Website: [www.pacificbookstores.com](http://www.pacificbookstores.com/)
 
   
 
-**Jeep Sing Fashion** 
+**Jeep Sing Fashion**&nbsp;
 
 [](https://jeepsinguniform.com/)
 
@@ -37,7 +37,7 @@ Tel: 64563198
 
 Fax: 63862407/ 64563176
 
-Website: [https://jeepsinguniform.com](https://jeepsinguniform.com/) 
+Website:&nbsp;[https://jeepsinguniform.com](https://jeepsinguniform.com/)&nbsp;
 
   
 
@@ -66,7 +66,7 @@ Tel: 62819003
 
 Fax: 62800768
 
-Email: [khng.bus.service@gmail.com](mailto:khng.bus.service@gmail.com)
+Email:&nbsp;[khng.bus.service@gmail.com](mailto:khng.bus.service@gmail.com)
 
 #### **Student Care Centre**
 
@@ -83,9 +83,9 @@ Office: 6386 0168
 
 HP: 90224557
 
-Facebook: [https://www.facebookcom/groups/ptrivervale](https://www.facebookcom/groups/ptrivervale)
+Facebook:&nbsp;[https://www.facebookcom/groups/ptrivervale](https://www.facebookcom/groups/ptrivervale)
 
-Website: [www.pro-teach.com](http://www.pro-teach.com/)
+Website:&nbsp;[www.pro-teach.com](http://www.pro-teach.com/)
 
 #### **School Dental Clinic**
 
@@ -99,12 +99,12 @@ Website: [www.pro-teach.com](http://www.pro-teach.com/)
 Singapore 545092
 
   
-Tel: 6388 9487
+Tel: 8764 1776
 
   
 Opening Day and time:
 
-Wednesday: 8.00am to 5.30pm
+Monday-Thursday: 8.00am to 5.30pm
 
 Friday: 8.00am to 5.00pm
 
@@ -137,8 +137,8 @@ In the event that the dental clinic is closed, for any Emergency cases, please C
     <td class="tg-m9di">8764 1796</td>
   </tr>
   <tr>
-    <td class="tg-m9di">Nan Chiau Primary School Dental Clinic</td>
-    <td class="tg-m9di">8533 4638</td>
+    <td class="tg-m9di">School Dental Centre</td>
+    <td class="tg-m9di">6435 3782</td>
   </tr>
 </tbody>
 </table>
