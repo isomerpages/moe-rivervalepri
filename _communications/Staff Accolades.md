@@ -44,7 +44,7 @@ description: ""
   </tr>
   <tr>
     <td class="tg-a3j2"><span style="color:#222;background-color:#FFF">6.</span></td>
-    <td class="tg-l2bf">National Day Award 2022<br><br>The Commendation Medal<br><br>Mdm Chan Pui Yong<br>The Long Service Medal<br><br>Mdm Low Lee San<br>Mdm Vicki Wan</td>
+    <td class="tg-l2bf">National Day Award 2022<br><br>The Commendation Medal<br><br>Mdm Chan Pui Yong<br><br>The Long Service Medal<br><br>Mdm Low Lee San<br>Mdm Vicki Wan</td>
   </tr>
 </tbody>
 </table>
@@ -77,7 +77,7 @@ description: ""
   </tr>
   <tr>
     <td class="tg-a3j2"><span style="color:#222;background-color:#FFF">3.</span></td>
-    <td class="tg-l2bf">National Day Award 2021<br><br>The Commendation Medal<br><br>Mdm Wan Meng YiThe Long Service Medal<br><br>Mr Kng Wee Beng<br>Mrs Tan-Yong Chwee Ping</td>
+    <td class="tg-l2bf">National Day Award 2021<br><br>The Commendation Medal<br><br>Mdm Wan Meng Yi<br><br>The Long Service Medal<br><br>Mr Kng Wee Beng<br>Mrs Tan-Yong Chwee Ping</td>
   </tr>
 </tbody>
 </table>
