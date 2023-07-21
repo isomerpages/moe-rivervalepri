@@ -4,7 +4,6 @@ permalink: /ccas/clubs/art-club/
 description: ""
 third_nav_title: Clubs
 ---
-
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -29,7 +28,7 @@ third_nav_title: Clubs
     <td class="tg-u2s6" style="border: 1px solid black">Art Club</td>
     <td class="tg-l7h4" style="border: 1px solid black"></td>
     <td class="tg-u2s6" style="border: 1px solid black">Mdm Khairiana Ali<br>Mrs Rachel Tay<br>Mdm Lua Hao Ting<br>Mrs Yow Hwee Peng</td>
-    <td class="tg-u2s6" style="border: 1px solid black">khairiana_ali@moe.edu.sg<br>rachel_subramaniam@moe.edu.sg<br><a href="mailto:Lua_hao_ting@moe.edu.sg"><span style="font-weight:400;text-decoration:none;color:#3563C3">Lua_hao_ting@moe.edu.sg</span></a><br>goh_hwee_peng@moe.edu.sg</td>
+    <td class="tg-u2s6" style="border: 1px solid black">khairiana_ali@moe.edu.sg<br>rachel_subramaniam@moe.edu.sg<br>lua_hao_ting@moe.edu.sg<br>goh_hwee_peng@moe.edu.sg</td>
   </tr>
 </tbody>
 </table><br>
