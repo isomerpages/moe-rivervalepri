@@ -44,7 +44,11 @@ description: ""
   </tr>
   <tr>
     <td class="tg-a3j2"><span style="color:#222;background-color:#FFF">6.</span></td>
-    <td class="tg-l2bf">National Day Award 2022<br><br>The Commendation Medal<br><br>Mdm Chan Pui Yong<br><br>The Long Service Medal<br><br>Mdm Low Lee San<br>Mdm Vicki Wan</td>
+    <td class="tg-l2bf">National Day Award 2022<br><br>The Commendation Medal<br><br>Mdm Chan Pui Yong<br>	</td>
+  </tr>
+  <tr>
+    <td class="tg-a3j2"><span style="color:#222;background-color:#FFF">7.</span></td>
+    <td class="tg-l2bf">The Long Service Medal<br><br>Mdm Low Lee San<br>Mdm Vicki Wan</td>
   </tr>
 </tbody>
 </table>
