@@ -81,11 +81,7 @@ description: ""
   </tr>
   <tr>
     <td class="tg-a3j2"><span style="color:#222;background-color:#FFF">3.</span></td>
-    <td class="tg-l2bf">National Day Award 2021<br><br>The Commendation Medal<br><br>Mdm Wan Meng Yi</td>
-  </tr>
-  <tr>
-    <td class="tg-a3j2"><span style="color:#222;background-color:#FFF"></span></td>
-    <td class="tg-l2bf">The Long Service Medal<br><br>Mr Kng Wee Beng<br>Mrs Tan-Yong Chwee Ping</td>
+    <td class="tg-l2bf">National Day Award 2021<br><br>The Commendation Medal<br><br>Mdm Wan Meng Yi<br><br><br><br>The Long Service Medal<br><br>Mr Kng Wee Beng<br>Mrs Tan-Yong Chwee Ping</td>
   </tr>
 </tbody>
 </table>
