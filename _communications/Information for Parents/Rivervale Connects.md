@@ -13,7 +13,18 @@ third_nav_title: Information for Parents
 [Term 1](/files/Communications/Rivervale%20Connects/2023%20T1%20Rivervale%20Connects.pdf) 
 
 
-### WA Schedule
+### WA and Preliminary Examination Schedule
+
+**<u>Term 3</u>** 
+
+[P3 WA3 Schedule 2023](/files/Communications/Rivervale%20Connects/p3%20wa3%20schedule_2023.pdf)
+
+[P4 WA3 Schedule 2023](/files/Communications/Rivervale%20Connects/p4%20wa3%20schedule_2023.pdf)
+
+[P5 WA3 Schedule 2023](/files/Communications/Rivervale%20Connects/p5%20wa3%20schedule_2023.pdf)
+
+[P6 Prelim Schedule 2023](/files/Communications/Rivervale%20Connects/p6%20prelim%20schedule_2023.pdf)
+
 
 **<u>Term 2</u>** 
 
