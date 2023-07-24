@@ -1,6 +1,6 @@
 ---
-title: Art Club
-permalink: /ccas/clubs/art-club/
+title: Media Club
+permalink: /ccas/clubs/mediaclub/
 description: ""
 third_nav_title: Clubs
 ---
@@ -25,13 +25,10 @@ third_nav_title: Clubs
 </thead>
 <tbody>
   <tr style="border: 1px solid black">
-    <td class="tg-u2s6" style="border: 1px solid black">Art Club</td>
+    <td class="tg-u2s6" style="border: 1px solid black">Media Club</td>
     <td class="tg-l7h4" style="border: 1px solid black"></td>
-    <td class="tg-u2s6" style="border: 1px solid black">Mdm Khairiana Ali<br>Mrs Rachel Tay<br>Mdm Lua Hao Ting<br>Mrs Yow Hwee Peng</td>
-    <td class="tg-u2s6" style="border: 1px solid black">khairiana_ali@moe.edu.sg<br>rachel_subramaniam@moe.edu.sg<br>lua_hao_ting@moe.edu.sg<br>goh_hwee_peng@moe.edu.sg</td>
+    <td class="tg-u2s6" style="border: 1px solid black">Mrs Samantha Lim - Quek<br>Mdm Marlina Bte Zainal<br>Mr David James Chua</td>
+    <td class="tg-u2s6" style="border: 1px solid black">quek_yi_shao@moe.edu.sg<br>marlina_zainal@moe.edu.sg<br>david_james_chua@moe.edu.sg</td>
   </tr>
 </tbody>
 </table><br>
-
-
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vR3oQ4GwuTkDbkHVpK-1FoLdqpkJYDUEFsrQQrcct8X3xBD92dHS_-j5z-X0Z16r89ow_gbKV4qV1K7/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
