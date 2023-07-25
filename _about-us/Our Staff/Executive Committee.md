@@ -164,4 +164,54 @@ third_nav_title: Our Staff
 </tbody>
 </table><br>
 
+### Professional Development Team
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-ifvt{background-color:#FFF;color:#0C3989;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-vvbc{background-color:#FFF;color:#0C3989;text-align:left;vertical-align:top}
+</style>
+<table class="tg" style="border: 1px solid black">
+<thead>
+  <tr>
+    <th class="tg-ifvt" style="border: 1px solid black">Lead Teacher (Chinese)</th>
+    <th class="tg-vvbc" style="border: 1px solid black">Mdm Chew Mian Cheng</th>
+    <th class="tg-vvbc" style="border: 1px solid black">chew_mian_cheng@moe.edu.sg</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-ifvt" style="border: 1px solid black">Senior Teacher (English)</td>
+    <td class="tg-vvbc" style="border: 1px solid black">Mdm Vicki Wan Meng Yi</td>
+    <td class="tg-vvbc" style="border: 1px solid black">wan_meng_yi@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-ifvt" style="border: 1px solid black">Senior Teacher (English)</td>
+    <td class="tg-vvbc" style="border: 1px solid black">Mrs Yow Hwee Peng</td>
+    <td class="tg-vvbc" style="border: 1px solid black">goh_hwee_peng@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-ifvt" style="border: 1px solid black">Senior Teacher (Math)</td>
+    <td class="tg-vvbc" style="border: 1px solid black">Mdm Chan Pui Yong</td>
+    <td class="tg-vvbc" style="border: 1px solid black">chan_pui_yong@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-ifvt" style="border: 1px solid black">Senior Teacher (Science)</td>
+    <td class="tg-vvbc" style="border: 1px solid black">Ms Veronica Tan</td>
+    <td class="tg-vvbc" style="border: 1px solid black">tan_suan_eng_veronica@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-ifvt" style="border: 1px solid black">Senior Teacher (Lower Primary Learners)</td>
+    <td class="tg-vvbc" style="border: 1px solid black">Mdm Nashita M. Idris</td>
+    <td class="tg-vvbc" style="border: 1px solid black">nashita_mohamed_idris@moe.edu.sg</td>
+  </tr>
+  <tr>
+</tr></tbody>
+</table><br>
+
+
 <div align="center"><iframe allowfullscreen="true" height="299" width="480" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRso-nWfyWkpRNIx_HREpPZij6j9sKu2gQ_EHD3mcdoVdp02cCb7ckfyLhqxQAQFM2ZhR2tG6n0XZKC/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe></div>
