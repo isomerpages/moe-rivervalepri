@@ -24,7 +24,7 @@ third_nav_title: Our Staff
     <td class="tg-l7h4" style="border: 1px solid black">rivervale_school_leaders@moe.edu.sg<br></td>
   </tr>
   <tr>
-    <td class="tg-ifvt" style="border: 1px solid black">School Staff Developer(Internal)</td>
+    <td class="tg-ifvt" style="border: 1px solid black">School Staff Developer</td>
     <td class="tg-l7h4" style="border: 1px solid black">Mdm Jasmine Chiah<br></td>
     <td class="tg-l7h4" style="border: 1px solid black">chiah_min_hui_jasmine@moe.edu.sg<br></td>
   </tr>
@@ -59,7 +59,7 @@ third_nav_title: Our Staff
     <td class="tg-l7h4" style="border: 1px solid black">tan_yong_chwee_ping@moe.edu.sg<br></td>
   </tr>
   <tr>
-    <td class="tg-ifvt" style="border: 1px solid black">HOD/CCENE/SS/VIA（Covering</td>
+    <td class="tg-ifvt" style="border: 1px solid black">HOD/CCENE/SS/VIA（Covering）</td>
     <td class="tg-l7h4" style="border: 1px solid black">Mrs Angie Liu<br></td>
     <td class="tg-l7h4" style="border: 1px solid black">thong_phui_shan@moe.edu.sg<br></td>
   </tr>
