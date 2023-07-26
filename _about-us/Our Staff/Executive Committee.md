@@ -62,13 +62,8 @@ third_nav_title: Our Staff
     <td class="tg-ifvt" style="border: 1px solid black">HOD/CCENE/SS/VIA（Covering）</td>
     <td class="tg-l7h4" style="border: 1px solid black">Mrs Angie Liu<br></td>
     <td class="tg-l7h4" style="border: 1px solid black">thong_phui_shan@moe.edu.sg<br></td>
-  </tr>
-  <tr>
-    <td class="tg-ifvt" style="border: 1px solid black">Lead Teacher<br></td>
-    <td class="tg-l7h4" style="border: 1px solid black">Mdm Chew Mian Cheng<br></td>
-    <td class="tg-l7h4" style="border: 1px solid black">chew_mian_cheng@moe.edu.sg<br></td>
-  </tr>
-  <tr>
+  
+  </tr><tr>
     <td class="tg-ifvt" style="border: 1px solid black">LH English<br></td>
     <td class="tg-l7h4" style="border: 1px solid black">Mdm Marlina Bte Zainal<br></td>
     <td class="tg-l7h4" style="border: 1px solid black">marlina_zainal@moe.edu.sg<br></td>

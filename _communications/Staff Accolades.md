@@ -51,15 +51,15 @@ Mdm Nanthini S Rajandaan</td>
 <tbody>
   <tr>
     <td class="tg-a3j2"><span style="color:#222;background-color:#FFF">1.</span></td>
-    <td class="tg-l2bf">The President’s Award for Teachers (PAT) 2022<br><br>School Level Winner<br><br>Mr Ho Kar Yan</td>
+    <td class="tg-l2bf">The President’s Award for Teachers (PAT) 2022<br><br>School Nominee<br><br>Mr Ho Kar Yan</td>
   </tr>
   <tr>
     <td class="tg-a3j2"><span style="color:#222;background-color:#FFF">2.</span></td>
-    <td class="tg-l2bf">The Outstanding Youth in Education Award (OYEA) 2022<br><br>School Level Winner<br><br>Mrs Rachel Tay</td>
+    <td class="tg-l2bf">The Outstanding Youth in Education Award (OYEA) 2022<br><br>School Nominee<br><br>Mrs Rachel Tay</td>
   </tr>
   <tr>
     <td class="tg-a3j2"><span style="color:#222;background-color:#FFF">3.</span></td>
-    <td class="tg-l2bf">Inspiring Teacher of English – Teaching Award 2022<br><br>School Level Winner<br><br>Mr Seah Jin Yang</td>
+    <td class="tg-l2bf">Inspiring Teacher of English – Teaching Award 2022<br><br>School Nominee<br><br>Mr Seah Jin Yang</td>
   </tr>
   <tr>
     <td class="tg-a3j2"><span style="color:#222;background-color:#FFF">4.</span></td>
@@ -67,7 +67,7 @@ Mdm Nanthini S Rajandaan</td>
   </tr>
   <tr>
     <td class="tg-a3j2"><span style="color:#222;background-color:#FFF">5.</span></td>
-    <td class="tg-l2bf">Caring Teacher Awards 2022 by National Institute of Education<br><br>School Level Winners<br><br>Mdm Chew Mian Cheng<br>Mdm Nashita Bte M. Idris<br>Mr Muhd Firdaus B Abdul Latiff<br>Mrs Linda Goh<br>Ms Tan Suan Eng Veronica</td>
+    <td class="tg-l2bf">Caring Teacher Awards 2022 by National Institute of Education<br><br>School Nominee<br><br>Mdm Chew Mian Cheng<br>Mdm Nashita Bte M. Idris<br>Mr Muhd Firdaus B Abdul Latiff<br>Mrs Linda Goh<br>Ms Tan Suan Eng Veronica</td>
   </tr>
   <tr>
     <td class="tg-a3j2"><span style="color:#222;background-color:#FFF">6.</span></td>
