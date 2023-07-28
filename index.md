@@ -16,8 +16,4 @@ sections:
       title: Teachers' Portal
       button: Click here
       url: https://www.rivervalepri.moe.edu.sg/communications/permalink/
-  - infobar:
-      title: School Bus Service
-      button: Click Next
-      url: https://www.rivervalepri.moe.edu.sg/communications/advertisements/
 ---
