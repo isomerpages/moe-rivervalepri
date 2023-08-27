@@ -76,8 +76,8 @@ third_nav_title: Our Staff
     <td class="tg-vvbc" style="border: 1px solid black"><span style="font-weight:400;color:#0C3989">fronia_tang_kia_lin@moe.edu.sg</span></td>
   </tr>
   <tr>
-    <td class="tg-vvbc" style="border: 1px solid black"><span style="font-weight:400;color:#0C3989">Mdm Lo Siew Yee</span></td>
-    <td class="tg-vvbc" style="border: 1px solid black"><span style="font-weight:400;color:#0C3989">lo_siew_yee@moe.edu.sg</span></td>
+    <td class="tg-vvbc" style="border: 1px solid black"><span style="font-weight:400;color:#0C3989">Mdm Ang Hui Qian Iris</span></td>
+    <td class="tg-vvbc" style="border: 1px solid black"><span style="font-weight:400;color:#0C3989">   ang_hui_qian_iris@moe.edu.sg</span></td>
   </tr>
   <tr>
     <td class="tg-ifvt" rowspan="2" style="border: 1px solid black"><b>4HA</b></td>

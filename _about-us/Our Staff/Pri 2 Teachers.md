@@ -49,7 +49,7 @@ third_nav_title: Our Staff
     <td class="tg-vvbc" style="border: 1px solid black"><span style="font-weight:400;color:#0C3989">ran_yijun@moe.edu.sg</span></td>
   </tr>
   <tr>
-    <td class="tg-ifvt" rowspan="2" style="border: 1px solid black"><b>2RS</b></td>
+    <td class="tg-ifvt" rowspan="3" style="border: 1px solid black"><b>2RS</b></td>
     <td class="tg-vvbc" style="border: 1px solid black"><span style="font-weight:400;color:#0C3989">Mdm Ng Hwee Koon</span></td>
     <td class="tg-vvbc" style="border: 1px solid black"><span style="font-weight:400;color:#0C3989">ng_hwee_koon@moe.edu.sg</span></td>
   </tr>
@@ -57,14 +57,22 @@ third_nav_title: Our Staff
     <td class="tg-vvbc" style="border: 1px solid black">Mdm Nur Liyana Jawini</td>
     <td class="tg-vvbc" style="border: 1px solid black">nur_liyana_jawini@moe.edu.sg</td>
   </tr>
+	<tr>
+    <td class="tg-vvbc" style="border: 1px solid black">Ms Siti Zuhrah Binte Abdul Samad</td>
+    <td class="tg-vvbc" style="border: 1px solid black">siti_zuhrah_abdul_samad@moe.edu.sg</td>
+  </tr>
   <tr>
-    <td class="tg-ifvt" rowspan="2" style="border: 1px solid black"><b>2IN</b></td>
+    <td class="tg-ifvt" rowspan="3" style="border: 1px solid black"><b>2IN</b></td>
     <td class="tg-vvbc" style="border: 1px solid black">Mrs Chong Wai Ching</td>
     <td class="tg-vvbc" style="border: 1px solid black">fok_wai_ching@moe.edu.sg</td>
   </tr>
   <tr>
     <td class="tg-vvbc" style="border: 1px solid black">Mdm Nurmerdina Mohd Azni</td>
     <td class="tg-vvbc" style="border: 1px solid black">nurmerdina_mohd_azni@moe.edu.sg</td>
+  </tr>
+	 <tr>
+    <td class="tg-vvbc" style="border: 1px solid black">Mr Muhammad Haikal Bin Ismail</td>
+    <td class="tg-vvbc" style="border: 1px solid black">muhammad_haikal_ismail@moe.edu.sg</td>
   </tr>
   <tr>
     <td class="tg-ifvt" rowspan="2" style="border: 1px solid black"><b>2CA</b></td>

@@ -18,7 +18,7 @@ The Singapore Student Learning Space (SLS) is accessible through [here](https://
 
 To get started with SLS, please view the instructions [here](/files/Communications/Guide%20to%20using%20SLS%20and%20iCON/SLS%20Account%20Management%20-%20Guide%20for%20Students.pdf)
 
-During Home Based Learning, fofrassistance,&nbsp;email&nbsp;[rivps.sls@gmail.com](mailto:rivps.sls@gmail.com)
+During Home Based Learning, for assistance,&nbsp;email&nbsp;[rivps.sls@gmail.com](mailto:rivps.sls@gmail.com)
 
 **Useful guides for navigating SLS**  
 1. [Finding and completing assignments](/files/Communications/Guide%20to%20using%20SLS%20and%20iCON/Finding%20and%20completing%20assignments.pdf)
