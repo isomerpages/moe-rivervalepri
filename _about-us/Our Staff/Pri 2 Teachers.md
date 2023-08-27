@@ -71,8 +71,8 @@ third_nav_title: Our Staff
     <td class="tg-vvbc" style="border: 1px solid black">nurmerdina_mohd_azni@moe.edu.sg</td>
   </tr>
 	 <tr>
-    <td class="tg-vvbc" style="border: 1px solid black">     </td>
-    <td class="tg-vvbc" style="border: 1px solid black">     </td>
+    <td class="tg-vvbc" style="border: 1px solid black">Mr Muhammad Haikal Bin Ismail</td>
+    <td class="tg-vvbc" style="border: 1px solid black">muhammad_haikal_ismai@moe.edu.sg</td>
   </tr>
   <tr>
     <td class="tg-ifvt" rowspan="2" style="border: 1px solid black"><b>2CA</b></td>
