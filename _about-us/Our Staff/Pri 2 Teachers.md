@@ -62,13 +62,17 @@ third_nav_title: Our Staff
     <td class="tg-vvbc" style="border: 1px solid black">siti_zuhrah_abdul_samad@moe.edu.sg</td>
   </tr>
   <tr>
-    <td class="tg-ifvt" rowspan="2" style="border: 1px solid black"><b>2IN</b></td>
+    <td class="tg-ifvt" rowspan="3" style="border: 1px solid black"><b>2IN</b></td>
     <td class="tg-vvbc" style="border: 1px solid black">Mrs Chong Wai Ching</td>
     <td class="tg-vvbc" style="border: 1px solid black">fok_wai_ching@moe.edu.sg</td>
   </tr>
   <tr>
     <td class="tg-vvbc" style="border: 1px solid black">Mdm Nurmerdina Mohd Azni</td>
     <td class="tg-vvbc" style="border: 1px solid black">nurmerdina_mohd_azni@moe.edu.sg</td>
+  </tr>
+	 <tr>
+    <td class="tg-vvbc" style="border: 1px solid black">     </td>
+    <td class="tg-vvbc" style="border: 1px solid black">     </td>
   </tr>
   <tr>
     <td class="tg-ifvt" rowspan="2" style="border: 1px solid black"><b>2CA</b></td>
