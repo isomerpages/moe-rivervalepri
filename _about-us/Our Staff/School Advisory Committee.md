@@ -36,4 +36,3 @@ img {
 <img style="width:90%;" alt="School Advisory Committee Members" src="/images/sac3new.JPG">  
   
 <br>
-
