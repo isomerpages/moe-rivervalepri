@@ -11,7 +11,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<img src="/images/School%20Advisory%20Committee/sac1new.JPG" alt="School Advisory Committee Members" style="width:30%;"> 
+<img style="width:30%;" alt="School Advisory Committee Members" src="/images/School%20Advisory%20Committee/sac1new.JPG"> 
   
 <br>
 
@@ -22,7 +22,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<img src="/images/School%20Advisory%20Committee/sac2new.JPG" alt="School Advisory Committee Members" style="width:60%;">
+<img style="width:60%;" alt="School Advisory Committee Members" src="/images/School%20Advisory%20Committee/sac2new.JPG">
   
 <br>
 
@@ -33,17 +33,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<img src="/images/sac3new.JPG" alt="School Advisory Committee Members" style="width:90%;">  
+<img style="width:90%;" alt="School Advisory Committee Members" src="/images/sac3new.JPG">  
   
 <br>
 
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<img src="/images/School%20Advisory%20Committee/sac4new.JPG" alt="School Advisory Committee Members" style="width:60%;">
-  
-<br>
