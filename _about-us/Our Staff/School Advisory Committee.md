@@ -11,7 +11,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<img src="/images/School%20Advisory%20Committee/School%20Advisory%20Committee(5).jpg" alt="Chairman" style="width:75%;">  
+<img style="width:30%;" alt="School Advisory Committee Members" src="/images/School%20Advisory%20Committee/sac1new.JPG"> 
   
 <br>
 
@@ -22,7 +22,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<img src="/images/School%20Advisory%20Committee/School%20Advisory%20Committee(1).jpg" alt="Honorary Secretary and Honorary Treasurer" style="width:60%;">  
+<img style="width:60%;" alt="School Advisory Committee Members" src="/images/School%20Advisory%20Committee/sac2new.JPG">
   
 <br>
 
@@ -33,14 +33,6 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<img src="/images/School%20Advisory%20Committee/School%20Advisory%20Committee(4).jpg" alt="School Advisory Committee Members" style="width:90%;">  
+<img style="width:90%;" alt="School Advisory Committee Members" src="/images/sac3new.JPG">  
   
 <br>
-
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-	</style>
