@@ -66,9 +66,19 @@ third_nav_title: Our Staff
     <td style="border: 1px solid black" class="tg-cly1">Mdm Siti Binti Ahmat</td>
     <td style="border: 1px solid black" class="tg-nrix"></td>
   </tr>
-  <tr>
+	<tr>
     <td style="border: 1px solid black" class="tg-1wig">Operations Support Officer<br></td>
     <td style="border: 1px solid black" class="tg-cly1">Mr Yeo Tiak Heng</td>
+    <td style="border: 1px solid black" class="tg-nrix"></td>
+  </tr>
+	<tr>
+    <td style="border: 1px solid black" class="tg-1wig">Desktop Engineer<br></td>
+    <td style="border: 1px solid black" class="tg-cly1">Mr Budiman B Salleh</td>
+    <td style="border: 1px solid black" class="tg-nrix"></td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid black" class="tg-1wig">Desktop Engineer<br></td>
+    <td style="border: 1px solid black" class="tg-cly1">Mr Wong Jia Xiang</td>
     <td style="border: 1px solid black" class="tg-nrix"></td>
   </tr>
 </tbody>
