@@ -9,7 +9,7 @@ description: ""
 
 <img style="width:50%;height:50%" src="/images/Stakeholders/Parents%20in%20Education/DSA.jpg">[Dsa-Sec](https://www.moe.gov.sg/secondary/dsa)
 
-<img style="width:50%;height:50%" src="/images/Stakeholders/Parents%20in%20Education/ECG.jpg">[ECG](https://www.moe.gov.sg/page%20not%20found?item=%2fprogrammes%2feducation-and-career-guidance%2f&amp;user=extranet%5cAnonymous&amp;site=moe-website)
+<img style="width:50%;height:50%" src="/images/Stakeholders/Parents%20in%20Education/ECG.jpg">[ECG](https://www.myskillsfuture.gov.sg/content/student/en/primary.html)
 
 <img style="width:50%;height:50%" src="/images/Stakeholders/Parents%20in%20Education/SIS.jpg">[SIS](https://www.moe.gov.sg/schoolfinder/?journey=Secondary%20school)
 
