@@ -51,8 +51,8 @@ third_nav_title: Our Staff
  </tr>
   <tr>
     <td style="border: 1px solid black" class="tg-1wig">Corporate Support Officer</td>
-    <td style="border: 1px solid black" class="tg-cly1">Mdm Ang Chin Lye</td>
-    <td style="border: 1px solid black" class="tg-cly1"> ang_chin_lye@schools.gov.sg<br></td>
+    <td style="border: 1px solid black" class="tg-cly1">Mdm Lim Lee Lian</td>
+    <td style="border: 1px solid black" class="tg-cly1"> <br></td>
   </tr>
   <tr>
   </tr>
