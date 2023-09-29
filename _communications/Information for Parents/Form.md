@@ -13,6 +13,5 @@ User Guide for apply GIRO:
 
 2.  **Waiting List**
 
-Content:
-
-      [Link](https://form.gov.sg/6502c5f7d5cb3e0011056366)
+Content:     [Link](https://form.gov.sg/6502c5f7d5cb3e0011056366)
+	 
