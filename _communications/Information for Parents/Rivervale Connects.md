@@ -17,6 +17,10 @@ third_nav_title: Information for Parents
 
 ### WA and Preliminary Examination Schedule
 
+**<u>Term 4</u>**
+
+
+
 **<u>Term 3</u>** 
 
 [P3 WA3 Schedule 2023](/files/Communications/Rivervale%20Connects/p3%20wa3%20schedule_2023.pdf)
