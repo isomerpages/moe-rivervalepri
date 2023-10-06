@@ -19,7 +19,11 @@ third_nav_title: Information for Parents
 
 **<u>Term 4</u>**
 
+[P3 EOY Schedule 2023](/files/Communications/Rivervale%20Connects/2023_p3_end-of-year%20assessment_schedule.pdf)
 
+[P4 EOY Schedule 2023](/files/Communications/Rivervale%20Connects/2023_p4_end-of-year%20assessment_schedule.pdf)
+
+[P5 EOY Schedule 2023](/files/Communications/Rivervale%20Connects/2023_p5_end-of-year%20assessment_schedule.pdf)
 
 **<u>Term 3</u>** 
 
