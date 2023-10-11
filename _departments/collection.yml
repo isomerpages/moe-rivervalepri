@@ -2,11 +2,11 @@ collections:
   departments:
     output: true
     order:
-      - MOE Sexuality Education in Schools.md
       - Departments.md
       - Aesthetics (Art & Music).md
       - English.md
       - Character and Citizenship Education.md
+      - MOE Sexuality Education in Schools.md
       - Science.md
       - Info Communication and Technology Department.md
       - Mathematics.md
