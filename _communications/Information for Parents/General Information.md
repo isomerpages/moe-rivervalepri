@@ -6,15 +6,9 @@ third_nav_title: Information for Parents
 ---
 ### Rivervale Connects
 
-[Term 4](/files/Communications/Rivervale%20Connects/2023%20t4%20rivervale%20connects.pdf)
-
-[Term 3](/files/Communications/Rivervale%20Connects/rivervale%20connects_t3%202023.pdf)
-
-[Term 2](/files/Communications/Rivervale%20Connects/2023%20t2%20rivervale%20connects.pdf)
-
-[Term 1](/files/Communications/Rivervale%20Connects/2023%20T1%20Rivervale%20Connects.pdf) 
 
 
+| [Term 1](/files/Communications/Rivervale%20Connects/2023%20T1%20Rivervale%20Connects.pdf)  | [Term 2](/files/Communications/Rivervale%20Connects/2023%20t2%20rivervale%20connects.pdf) | [Term 3](/files/Communications/Rivervale%20Connects/rivervale%20connects_t3%202023.pdf) |  [Term 4](/files/Communications/Rivervale%20Connects/2023%20t4%20rivervale%20connects.pdf)| 
 ### WA and Preliminary Examination Schedule
 
 **<u>Term 4</u>**
