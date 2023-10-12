@@ -4,4 +4,4 @@ permalink: /communications/information-for-parents/generalinformation/
 description: ""
 third_nav_title: Information for Parents
 ---
-Rivervale E
+### Rivervale Primary School E Open House 2022 ###
