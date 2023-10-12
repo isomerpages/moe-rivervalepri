@@ -10,13 +10,13 @@ third_nav_title: Information for Parents
 **<u>Term 1</u>**  
 
 
-|[P3 WA1 Schedule\_2023](/files/Communications/Rivervale%20Connects/P3%20WA1%20Schedule_2023.pdf)|[P4 WA1 Schedule\_2023](/files/Communications/Rivervale%20Connects/P4%20WA1%20Schedule_2023.pdf)|[P5 WA1 Schedule\_2023](/files/Communications/Rivervale%20Connects/P5%20WA1%20Schedule_2023.pdf)|[P6 WA1 Schedule\_2023](/files/Communications/Rivervale%20Connects/P6%20WA1%20Schedule_2023.pdf)|
+|[P3 WA1 Schedule\_2023](/files/Communications/Rivervale%20Connects/P3%20WA1%20Schedule_2023.pdf)|[P4 WA1 Schedule\_2023](/files/Communications/Rivervale%20Connects/P4%20WA1%20Schedule_2023.pdf)| [P5 WA1 Schedule\_2023](/files/Communications/Rivervale%20Connects/P5%20WA1%20Schedule_2023.pdf)|[P6 WA1 Schedule\_2023](/files/Communications/Rivervale%20Connects/P6%20WA1%20Schedule_2023.pdf)|
 
 **<u>Term 2</u>** 
 
 
 |  [P3 WA2 Schedule 2023](/files/Communications/Rivervale%20Connects/p3%20wa2%20schedule_2023.pdf) 
-| [P4 WA2 Schedule 2023](/files/Communications/Rivervale%20Connects/p4%20wa2%20schedule_2023.pdf)    |<br> [P5 WA2 Schedule 2023](/files/Communications/Rivervale%20Connects/p5%20wa2%20schedule_2023.pdf)
+| [P4 WA2 Schedule 2023](/files/Communications/Rivervale%20Connects/p4%20wa2%20schedule_2023.pdf)    | [P5 WA2 Schedule 2023](/files/Communications/Rivervale%20Connects/p5%20wa2%20schedule_2023.pdf)
      | [P6 WA2 Schedule 2023](/files/Communications/Rivervale%20Connects/p6%20wa2%20schedule_2023.pdf)     |
 
 **<u>Term 3</u>** 
