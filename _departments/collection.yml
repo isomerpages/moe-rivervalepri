@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - MOE Sexuality Education/Character and Citizenship Education.md
       - MOE Sexuality Education/.keep
       - Departments.md
       - Aesthetics (Art & Music).md
