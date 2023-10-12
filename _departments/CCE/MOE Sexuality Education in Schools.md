@@ -2,7 +2,7 @@
 title: MOE Sexuality Education in Schools
 permalink: /communications/moe-sexuality-education-in-schools/
 description: ""
-third_nav_title: Information for Parents
+third_nav_title: CCE
 ---
 <p style="text-align:center;"><b>RIVERVALE PRIMARY SCHOOL</b></p>
 

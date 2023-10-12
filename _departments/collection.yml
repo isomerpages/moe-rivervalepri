@@ -4,8 +4,10 @@ collections:
     order:
       - Departments.md
       - Aesthetics (Art & Music).md
+      - CCE/.keep
+      - CCE/Character and Citizenship Education.md
+      - CCE/MOE Sexuality Education in Schools.md
       - English.md
-      - Character and Citizenship Education.md
       - Science.md
       - Info Communication and Technology Department.md
       - Mathematics.md

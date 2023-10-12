@@ -1,6 +1,6 @@
 ---
-title: Form
-permalink: /communications/information-for-parents/form/
+title: Forms and Links
+permalink: /communications/information-for-parents/formsandlinks/
 description: ""
 third_nav_title: Information for Parents
 ---
