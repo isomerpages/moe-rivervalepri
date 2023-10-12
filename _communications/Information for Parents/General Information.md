@@ -5,19 +5,11 @@ description: ""
 third_nav_title: Information for Parents
 ---
 ### Rivervale Connects
-
-
-
 | [Term 1](/files/Communications/Rivervale%20Connects/2023%20T1%20Rivervale%20Connects.pdf)  | [Term 2](/files/Communications/Rivervale%20Connects/2023%20t2%20rivervale%20connects.pdf) | [Term 3](/files/Communications/Rivervale%20Connects/rivervale%20connects_t3%202023.pdf) |  [Term 4](/files/Communications/Rivervale%20Connects/2023%20t4%20rivervale%20connects.pdf)| 
 ### WA and Preliminary Examination Schedule
+**<u>Term 4</u>** 
 
-**<u>Term 4</u>**
-
-[P3 EOY Schedule 2023](/files/Communications/Rivervale%20Connects/2023_p3_end-of-year%20assessment_schedule.pdf)
-
-[P4 EOY Schedule 2023](/files/Communications/Rivervale%20Connects/2023_p4_end-of-year%20assessment_schedule.pdf)
-
-[P5 EOY Schedule 2023](/files/Communications/Rivervale%20Connects/2023_p5_end-of-year%20assessment_schedule.pdf)
+| [P3 EOY Schedule 2023](/files/Communications/Rivervale%20Connects/2023_p3_end-of-year%20assessment_schedule.pdf)     | [P4 EOY Schedule 2023](/files/Communications/Rivervale%20Connects/2023_p4_end-of-year%20assessment_schedule.pdf)     | [P5 EOY Schedule 2023](/files/Communications/Rivervale%20Connects/2023_p5_end-of-year%20assessment_schedule.pdf)     |
 
 **<u>Term 3</u>** 
 
