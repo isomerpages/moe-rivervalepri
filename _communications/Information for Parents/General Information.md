@@ -7,14 +7,11 @@ third_nav_title: Information for Parents
 ### Rivervale Connects
 | [Term 1](/files/Communications/Rivervale%20Connects/2023%20T1%20Rivervale%20Connects.pdf)  | [Term 2](/files/Communications/Rivervale%20Connects/2023%20t2%20rivervale%20connects.pdf) | [Term 3](/files/Communications/Rivervale%20Connects/rivervale%20connects_t3%202023.pdf) |  [Term 4](/files/Communications/Rivervale%20Connects/2023%20t4%20rivervale%20connects.pdf)| 
 ### WA and Preliminary Examination Schedule
-**<u>Term 4</u>** 
-
-| [P3 EOY Schedule 2023](/files/Communications/Rivervale%20Connects/2023_p3_end-of-year%20assessment_schedule.pdf)     | [P4 EOY Schedule 2023](/files/Communications/Rivervale%20Connects/2023_p4_end-of-year%20assessment_schedule.pdf)     |<br> [P5 EOY Schedule 2023](/files/Communications/Rivervale%20Connects/2023_p5_end-of-year%20assessment_schedule.pdf)     |
-
-**<u>Term 3</u>** 
+**<u>Term 1</u>**  
 
 
-| [P3 WA3 Schedule 2023](/files/Communications/Rivervale%20Connects/p3%20wa3%20schedule_2023.pdf)     | [P4 WA3 Schedule 2023](/files/Communications/Rivervale%20Connects/p4%20wa3%20schedule_2023.pdf)     | <br>[P5 WA3 Schedule 2023](/files/Communications/Rivervale%20Connects/p5%20wa3%20schedule_2023.pdf)     |[P6 Prelim Schedule 2023](/files/Communications/Rivervale%20Connects/p6%20prelim%20schedule_2023.pdf)|
+| [P3 WA1 Schedule\_2023](/files/Communications/Rivervale%20Connects/P3%20WA1%20Schedule_2023.pdf)
+| [P4 WA1 Schedule\_2023](/files/Communications/Rivervale%20Connects/P4%20WA1%20Schedule_2023.pdf)   | [P5 WA1 Schedule\_2023](/files/Communications/Rivervale%20Connects/P5%20WA1%20Schedule_2023.pdf)   | [P6 WA1 Schedule\_2023](/files/Communications/Rivervale%20Connects/P6%20WA1%20Schedule_2023.pdf)     |
 
 **<u>Term 2</u>** 
 
@@ -23,12 +20,14 @@ third_nav_title: Information for Parents
 | [P4 WA2 Schedule 2023](/files/Communications/Rivervale%20Connects/p4%20wa2%20schedule_2023.pdf)    |<br> [P5 WA2 Schedule 2023](/files/Communications/Rivervale%20Connects/p5%20wa2%20schedule_2023.pdf)
      | [P6 WA2 Schedule 2023](/files/Communications/Rivervale%20Connects/p6%20wa2%20schedule_2023.pdf)     |
 
-**<u>Term 1</u>**  
+**<u>Term 3</u>** 
 
 
-| [P3 WA1 Schedule\_2023](/files/Communications/Rivervale%20Connects/P3%20WA1%20Schedule_2023.pdf)
-| [P4 WA1 Schedule\_2023](/files/Communications/Rivervale%20Connects/P4%20WA1%20Schedule_2023.pdf)   | [P5 WA1 Schedule\_2023](/files/Communications/Rivervale%20Connects/P5%20WA1%20Schedule_2023.pdf)   | [P6 WA1 Schedule\_2023](/files/Communications/Rivervale%20Connects/P6%20WA1%20Schedule_2023.pdf)     |
+| [P3 WA3 Schedule 2023](/files/Communications/Rivervale%20Connects/p3%20wa3%20schedule_2023.pdf)     | [P4 WA3 Schedule 2023](/files/Communications/Rivervale%20Connects/p4%20wa3%20schedule_2023.pdf)     | <br>[P5 WA3 Schedule 2023](/files/Communications/Rivervale%20Connects/p5%20wa3%20schedule_2023.pdf)     |[P6 Prelim Schedule 2023](/files/Communications/Rivervale%20Connects/p6%20prelim%20schedule_2023.pdf)|
 
+**<u>Term 4</u>** 
+
+| [P3 EOY Schedule 2023](/files/Communications/Rivervale%20Connects/2023_p3_end-of-year%20assessment_schedule.pdf)     | [P4 EOY Schedule 2023](/files/Communications/Rivervale%20Connects/2023_p4_end-of-year%20assessment_schedule.pdf)     |<br> [P5 EOY Schedule 2023](/files/Communications/Rivervale%20Connects/2023_p5_end-of-year%20assessment_schedule.pdf)     |
 ### Parents Gateway 
 Dear Parents,
 
