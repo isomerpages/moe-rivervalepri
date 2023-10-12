@@ -4,7 +4,7 @@ permalink: /communications/information-for-parents/generalinformation/
 description: ""
 third_nav_title: Information for Parents
 ---
-### Consent for  ###
+### Consent for Photography and video images ###
 
 
 
