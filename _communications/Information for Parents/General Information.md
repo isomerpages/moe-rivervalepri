@@ -18,13 +18,10 @@ third_nav_title: Information for Parents
 
 **<u>Term 2</u>** 
 
-[P3 WA2 Schedule 2023](/files/Communications/Rivervale%20Connects/p3%20wa2%20schedule_2023.pdf)
 
-[P4 WA2 Schedule 2023](/files/Communications/Rivervale%20Connects/p4%20wa2%20schedule_2023.pdf)
-
-[P5 WA2 Schedule 2023](/files/Communications/Rivervale%20Connects/p5%20wa2%20schedule_2023.pdf)
-
-[P6 WA2 Schedule 2023](/files/Communications/Rivervale%20Connects/p6%20wa2%20schedule_2023.pdf)
+|  [P3 WA2 Schedule 2023](/files/Communications/Rivervale%20Connects/p3%20wa2%20schedule_2023.pdf) 
+| [P4 WA2 Schedule 2023](/files/Communications/Rivervale%20Connects/p4%20wa2%20schedule_2023.pdf)    | [P5 WA2 Schedule 2023](/files/Communications/Rivervale%20Connects/p5%20wa2%20schedule_2023.pdf)
+     | [P6 WA2 Schedule 2023](/files/Communications/Rivervale%20Connects/p6%20wa2%20schedule_2023.pdf)     |
 
 **<u>Term 1</u>**  
 
