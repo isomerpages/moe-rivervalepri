@@ -24,7 +24,7 @@ Fax: 62800768
 Email:&nbsp;[khng.bus.service@gmail.com](mailto:khng.bus.service@gmail.com)
 
 
-#### **School Bus Operator and Bus Fare **
+#### School Bus Operator and Bus Fare 
 
 [Link for School Bus Service](/files/school%20bus%20services.pdf)
 
