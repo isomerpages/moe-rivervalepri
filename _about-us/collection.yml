@@ -2,12 +2,12 @@ collections:
   about-us:
     output: true
     order:
-      - Service Providers/School Bus Service.md
-      - Service Providers/Our Service Providers.md
-      - Service Providers/.keep
       - Vision & Mission.md
       - School Song.md
       - General Information.md
+      - Service Providers/.keep
+      - Service Providers/School Bus Service.md
+      - Service Providers/Our Service Providers.md
       - Our Location.md
       - Our Staff/.keep
       - Our Staff/School Advisory Committee.md
