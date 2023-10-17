@@ -28,4 +28,4 @@ Email:&nbsp;[khng.bus.service@gmail.com](mailto:khng.bus.service@gmail.com)
 
 [Link for School Bus Service](/files/school%20bus%20services.pdf)
 
-[Form to Request for School Bus Service](/files/attachment%204%20request%20for%20school%20bus%20services_30jun23_rivps_final.pdf)
+[Form to Request for School Bus Service](https://go.gov.sg/request-for-school-bus-services-rivps)
