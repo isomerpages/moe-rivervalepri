@@ -4,3 +4,6 @@ permalink: /communications/information-for-parents/p12024intake/
 description: ""
 third_nav_title: Information for Parents
 ---
+[Click here for important information and links!](https://sites.google.com/moe.edu.sg/rivpsp12024/home)
+
+[Click here to access briefing slides](/files/p1%202024%20parents%20briefing.pdf)
