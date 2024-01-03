@@ -1,0 +1,18 @@
+collections:
+  departments:
+    output: true
+    order:
+      - Departments.md
+      - Aesthetics (Art & Music).md
+      - CCE/.keep
+      - CCE/Character and Citizenship Education.md
+      - CCE/MOE Sexuality Education in Schools.md
+      - English.md
+      - Science.md
+      - Info Communication and Technology Department.md
+      - Mathematics.md
+      - Chinese Language.md
+      - Malay Language.md
+      - Tamil Language.md
+      - Physical Education (PE).md
+      - Student Management.md

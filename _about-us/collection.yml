@@ -1,0 +1,27 @@
+collections:
+  about-us:
+    output: true
+    order:
+      - Vision & Mission.md
+      - School Song.md
+      - General Information.md
+      - Our Service Providers/.keep
+      - Our Service Providers/School Bus Service.md
+      - Our Service Providers/School Bookshop.md
+      - Our Service Providers/School Uniform Supplier.md
+      - Our Service Providers/School Dental Clinic.md
+      - Our Service Providers/Student Care Centre.md
+      - Our Location.md
+      - Our Staff/.keep
+      - Our Staff/School Advisory Committee.md
+      - Our Staff/Executive Committee.md
+      - Our Staff/Pri 1 Teachers.md
+      - Our Staff/Pri 2 Teachers.md
+      - Our Staff/Pri 3 Teachers.md
+      - Our Staff/Pri 4 Teachers.md
+      - Our Staff/Pri 5 Teachers.md
+      - Our Staff/Pri 6 Teachers.md
+      - Our Staff/Mother Tongue Teachers.md
+      - Our Staff/PE ART MUSIC Teachers.md
+      - Our Staff/Executive & Administration Staff.md
+      - Our Staff/Counsellors & SEN Officers.md

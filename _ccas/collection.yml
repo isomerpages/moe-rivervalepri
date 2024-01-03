@@ -1,0 +1,33 @@
+collections:
+  ccas:
+    output: true
+    order:
+      - CCAs.md
+      - Sports/.keep
+      - Sports/Badminton.md
+      - Sports/Basketball.md
+      - Sports/Football.md
+      - Sports/Hockey.md
+      - Sports/Netball.md
+      - Sports/Taekwondo.md
+      - Performing Arts/.keep
+      - Performing Arts/International Dance.md
+      - Performing Arts/Brass Band.md
+      - Performing Arts/Choir.md
+      - Performing Arts/Guzheng.md
+      - Performing Arts/Speech & Drama Club.md
+      - Performing Arts/Chinese Dance.md
+      - Performing Arts/Fusion Dance.md
+      - Performing Arts/Indian Dance.md
+      - Performing Arts/Malay Dance.md
+      - Clubs/.keep
+      - Clubs/Art Club.md
+      - Clubs/Media Club.md
+      - Clubs/Life Skills Club.md
+      - Clubs/Robotics Club.md
+      - Clubs/Mass Communication.md
+      - Clubs/Ceramics Club.md
+      - Clubs/Infocomm Club.md
+      - Clubs/Public Speaking.md
+      - Uniformed Groups/.keep
+      - Uniformed Groups/Red Cross.md
