@@ -6,6 +6,6 @@ third_nav_title: Information for Students
 variant: markdown
 ---
 1. [Student Learning Space](https://vle.learning.moe.edu.sg/login)  
-2. [Google Classroom Sign-in](https://accounts.google.com/ServiceLogin/signinchooser?service=classroom&passive=1209600&continue=https%3A%2F%2Fclassroom.google.com%2Fu%2F0%2Fh&followup=https%3A%2F%2Fclassroom.google.com%2Fu%2F0%2Fh&ifkv=AeAAQh7d_mRY7ZZDiPahMH_WA6qkzoHfZu5GHX-_uBDMWh2Jd-xy2INoaP7foR_4ly0OgaaDGPMqoA&flowName=GlifWebSignIn&flowEntry=ServiceLogin)  
+2. [Google Classroom Sign-in](https://classroom.google.com/u/0/h) 
 3. [Rivervale Primary Science Website](https://rivervalescience.wixsite.com/2020)  
-4. [](https://schoolibrary.moe.edu.sg/rivervalepri)[School Library](https://schoolibrary.moe.edu.sg/rivervalepri)
+4. [School Library](https://schoolibrary.moe.edu.sg/rivervalepri)
