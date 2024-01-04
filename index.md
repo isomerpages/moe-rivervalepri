@@ -16,4 +16,9 @@ sections:
       title: Teachers' Portal
       button: Click here
       url: https://www.rivervalepri.moe.edu.sg/communications/permalink/
+  - infobar:
+      title: Information for Parents
+      id: infobar
+      button: CLICK HERE
+      url: https://www.rivervalepri.moe.edu.sg/communications/information-for-parents/generalinformation/
 ---
