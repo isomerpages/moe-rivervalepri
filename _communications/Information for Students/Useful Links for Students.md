@@ -3,8 +3,16 @@ title: Useful Links for Students
 permalink: /communications/useful-links-for-students/
 description: ""
 third_nav_title: Information for Students
+variant: markdown
 ---
-[Student Learning Space](https://vle.learning.moe.edu.sg/login)  
-[Google Classroom Sign-in](https://accounts.google.com/ServiceLogin/signinchooser?service=classroom&passive=1209600&continue=https%3A%2F%2Fclassroom.google.com%2Fu%2F0%2Fh&followup=https%3A%2F%2Fclassroom.google.com%2Fu%2F0%2Fh&ifkv=AeAAQh7d_mRY7ZZDiPahMH_WA6qkzoHfZu5GHX-_uBDMWh2Jd-xy2INoaP7foR_4ly0OgaaDGPMqoA&flowName=GlifWebSignIn&flowEntry=ServiceLogin)  
-[Rivervale Primary Science Website](https://rivervalescience.wixsite.com/2020)  
-[](https://schoolibrary.moe.edu.sg/rivervalepri)[School Library](https://schoolibrary.moe.edu.sg/rivervalepri)
+1. [Student Learning Space](https://vle.learning.moe.edu.sg/login)  
+2. [Google Classroom Sign-in](https://classroom.google.com/u/0/h) 
+3. [Rivervale Primary Science Website](https://rivervalescience.wixsite.com/2020)  
+4. [School Library](https://schoolibrary.moe.edu.sg/rivervalepri)
+5.  Suggested Reads from NLB
+* [P1](https://go.gov.sg/nlb-suggestedreads2023-p1)
+* [P2](https://go.gov.sg/nlb-suggestedreads2023-p2)
+* [P3](https://go.gov.sg/nlb-suggestedreads2023-p3)
+* [P4](https://go.gov.sg/nlb-suggestedreads2023-p4)
+* [P5](https://go.gov.sg/nlb-suggestedreads2023-p5)
+* [P6](https://go.gov.sg/nlb-suggestedreads2023-p6)
