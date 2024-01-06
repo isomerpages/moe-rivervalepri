@@ -3,6 +3,7 @@ title: Art Club
 permalink: /ccas/clubs/art-club/
 description: ""
 third_nav_title: Clubs
+variant: markdown
 ---
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -27,8 +28,8 @@ third_nav_title: Clubs
   <tr style="border: 1px solid black">
     <td class="tg-u2s6" style="border: 1px solid black">Art Club</td>
     <td class="tg-l7h4" style="border: 1px solid black"></td>
-    <td class="tg-u2s6" style="border: 1px solid black">Mdm Khairiana Ali<br>Mrs Rachel Tay<br>Mdm Lua Hao Ting<br>Mrs Yow Hwee Peng</td>
-    <td class="tg-u2s6" style="border: 1px solid black">khairiana_ali@moe.edu.sg<br>rachel_subramaniam@moe.edu.sg<br>lua_hao_ting@moe.edu.sg<br>goh_hwee_peng@moe.edu.sg</td>
+    <td class="tg-u2s6" style="border: 1px solid black">Mdm Khairiana Ali<br>Mrs Rachel Tay<br>Ms Veronica Tan<br>Mdm Low Lee San</td>
+    <td class="tg-u2s6" style="border: 1px solid black">khairiana_ali@moe.edu.sg<br>rachel_subramaniam@moe.edu.sg<br>tan_suan_eng_veronica@moe.edu.sg<br>low_lee_san@moe.edu.sg</td>
   </tr>
 </tbody>
 </table><br>
