@@ -37,7 +37,8 @@ variant: markdown
   </tr>
   <tr>
     <td style="border: 1px solid black" class="tg-vvbc">Mdm Jasmine Chiah</td>
-    <td class="tg-vvbc style=">chiah_min_hui_jasmine@moe.edu.sg</td>
+     <td style="border: 1px solid black" class="tg-vvbc">
+	chiah_min_hui_jasmine@moe.edu.sg </td>
   </tr>
   <tr>
     <td style="border: 1px solid black" class="tg-vvbc">Mdm Li Song</td>
