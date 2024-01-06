@@ -3,8 +3,8 @@ title: Brass Band
 permalink: /ccas/performing-arts/brass-band/
 description: ""
 third_nav_title: Performing Arts
+variant: markdown
 ---
-
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -27,8 +27,8 @@ third_nav_title: Performing Arts
   <tr style="border: 1px solid black">
     <td class="tg-u2s6" style="border: 1px solid black">Brass Band</td>
     <td class="tg-u2s6" style="border: 1px solid black">Monday, 3.00 p.m. - 5.00 p.m. &amp;<br>Friday, 2.30 p.m. - 4.30 p.m.</td>
-    <td class="tg-u2s6" style="border: 1px solid black">Ms Tan Yi Han<br>Mrs Liew-Tan Bee Lin<br>Ms Teo Wei Ping<br>Mdm Nurul Huda</td>
-    <td class="tg-u2s6" style="border: 1px solid black">tan_yi_han@moe.edu.sg<br>tan_bee_lin@moe.edu.sg<br>teo_wei_ping@moe.edu.sgnurul_huda_borhan_ali@moe.edu.sg</td>
+    <td class="tg-u2s6" style="border: 1px solid black">Ms Tan Yi Han<br>Ms Teo Wei Ping<br>Ms Poh Si Hui</td>
+    <td class="tg-u2s6" style="border: 1px solid black">tan_yi_han@moe.edu.sg<br>teo_wei_ping@moe.edu.sg<br>poh_si_hui@moe.edu.sg</td>
   </tr>
 </tbody>
 </table><br>
