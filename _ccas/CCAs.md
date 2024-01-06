@@ -2,6 +2,7 @@
 title: CCAs
 permalink: /ccas/CCAs/
 description: ""
+variant: markdown
 ---
 <figure>
 
@@ -89,13 +90,7 @@ description: ""
 
 <figure>
 
-<a href="/ccas/performing-arts/chinese-dance/"> <img style="width:40%;height:50%" src="/images/CCAs/S8.png"></a>
 
-<figcaption>
-
-<strong> Performing Arts | Chinese Dance </strong>
-
-</figcaption>
 
 </figure>
 
@@ -113,17 +108,6 @@ description: ""
 
 <figure>
 
-<a href="/ccas/performing-arts/fusion-dance/"> <img style="width:40%;height:50%" src="/images/CCAs/S10.png"></a>
-
-<figcaption>
-
-<strong> Performing Arts | Fusion Dance </strong>
-
-</figcaption>
-
-</figure>
-
-<figure>
 
 <a href="/ccas/performing-arts/guzheng/"> <img style="width:40%;height:50%" src="/images/CCAs/S11.png"></a>
 
@@ -141,31 +125,7 @@ description: ""
 
 <figcaption>
 
-<strong> Performing Arts | Indian Dance </strong>
-
-</figcaption>
-
-</figure>
-
-<figure>
-
-<a href="/ccas/performing-arts/malay-dance/"> <img style="width:40%;height:50%" src="/images/CCAs/S13.png"></a>
-
-<figcaption>
-
-<strong> Performing Arts | Malay Dance </strong>
-
-</figcaption>
-
-</figure>
-
-<figure>
-
-<a href="/ccas/performing-arts/speech-and-drama-club/"> <img style="width:40%;height:50%" src="/images/CCAs/S14.png"></a>
-
-<figcaption>
-
-<strong> Performing Arts | Speech and Drama </strong>
+<strong> Performing Arts | International Dance </strong>
 
 </figcaption>
 
@@ -177,43 +137,29 @@ description: ""
 
 <figcaption>
 
-<strong> Clubs & Societies | Art Club </strong>
+<strong> Clubs &amp; Societies | Art Club </strong>
 
 </figcaption>
 
 </figure>
 
-<figure>
 
-<a href="/ccas/clubs/ceramics-club/"> <img style="width:40%;height:50%" src="/images/CCAs/S16.png"></a>
-
-<figcaption>
-
-<strong> Clubs & Societies |  Ceramics Club </strong>
-
-</figcaption>
-
-</figure>
-
-<figure>
-
-<a href="/ccas/clubs/infocomm-club/"> <img style="width:40%;height:50%" src="/images/CCAs/S17.png"></a>
-
-<figcaption>
-
-<strong> Clubs & Societies | Infocomm </strong>
-
-</figcaption>
-
-</figure>
-
-<figure>
 
 <a href="/ccas/clubs/life-skills-club/"> <img style="width:40%;height:50%" src="/images/CCAs/S18.png"></a>
 
 <figcaption>
+	<figure>
+	
+<strong> Clubs &amp; Societies | Lifeskills </strong>
 
-<strong> Clubs & Societies | Life Skills </strong>
+</figure></figcaption>
+<figure>
+
+<a href="/ccas/performing-arts/speech-and-drama-club/"> <img style="width:40%;height:50%" src="/images/CCAs/S14.png"></a>
+
+<figcaption>
+
+<strong> Clubs &amp; Societies | Mass Communication </strong>
 
 </figcaption>
 
@@ -221,15 +167,10 @@ description: ""
 
 <figure>
 
-<a href="/ccas/clubs/public-speaking/"> <img style="width:40%;height:50%" src="/images/CCAs/S19.png"></a>
-
-<figcaption>
-
-<strong> Clubs & Societies | Public Speaking </strong>
-
-</figcaption>
-
 </figure>
+
+
+
 
 <figure>
 
@@ -237,7 +178,7 @@ description: ""
 
 <figcaption>
 
-<strong> Clubs & Societies | Robotics </strong>
+<strong> Clubs &amp; Societies | Robotics </strong>
 
 </figcaption>
 
