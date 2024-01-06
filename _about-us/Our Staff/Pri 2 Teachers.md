@@ -14,7 +14,7 @@ variant: markdown
 .tg .tg-ifvt{background-color:#FFF;color:#0C3989;font-weight:bold;text-align:left;vertical-align:top}
 .tg .tg-vvbc{background-color:#FFF;color:#0C3989;text-align:left;vertical-align:top}
 </style>
-<table class="tg">
+<b>2IN</b><table class="tg">
 <thead>
   <tr>
     <th class="tg-ifvt" colspan="3" style="border: 1px solid black">Primary 2 Form Teachers</th>
@@ -59,8 +59,7 @@ variant: markdown
     <td class="tg-vvbc" style="border: 1px solid black">li_song@moe.edu.sg</td>
   </tr>
 	<tr>
-    <td class="tg-vvbc" style="border: 1px solid black">Ms Siti Zuhrah Binte Abdul Samad</td>
-    <td class="tg-vvbc" style="border: 1px solid black">siti_zuhrah_abdul_samad@moe.edu.sg</td>
+   
   </tr>
   <tr>
     <td class="tg-ifvt" rowspan="3" style="border: 1px solid black"><b>2IN</b></td>
@@ -72,11 +71,8 @@ variant: markdown
     <td class="tg-vvbc" style="border: 1px solid black">chiah_min_hui_jasmine@moe.edu.sg</td>
   </tr>
 	 <tr>
-    <td class="tg-vvbc" style="border: 1px solid black">Ms Nur Shazlina</td>
-    <td class="tg-vvbc" style="border: 1px solid black">nur_shazlina_shaly@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-ifvt" rowspan="2" style="border: 1px solid black"><b>2CA</b></td>
+		 </tr>
+    <tr><td class="tg-ifvt" rowspan="2" style="border: 1px solid black"><b>2CA</b></td>
     <td class="tg-vvbc" style="border: 1px solid black">Ms Nur Shazlina</td>
     <td class="tg-vvbc" style="border: 1px solid black">nur_shazlina_shaly@moe.edu.sg</td>
   </tr>
@@ -103,13 +99,6 @@ variant: markdown
     <td class="tg-vvbc" style="border: 1px solid black">kiran_jacqueline_rafeek@moe.edu.sg</td>
   </tr>
   <tr>
-    <td class="tg-ifvt" rowspan="2" style="border: 1px solid black"><b>2TW</b></td>
-    <td class="tg-vvbc" style="border: 1px solid black">Mrs Samantha Lim-Quek</td>
-    <td class="tg-vvbc" style="border: 1px solid black">quek_yi_shao@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-vvbc" style="border: 1px solid black"><span style="font-weight:400;color:#0C3989">Mrs Emily Tan-Yong</span></td>
-    <td class="tg-vvbc" style="border: 1px solid black"><span style="font-weight:400;color:#0C3989">tan-yong_chwee_ping@moe.edu.sg</span></td>
-  </tr>
-</tbody>
+  
+</tr></tbody>
 </table>
