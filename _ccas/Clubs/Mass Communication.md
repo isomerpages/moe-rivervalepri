@@ -3,6 +3,7 @@ title: Mass Communication
 permalink: /ccas/clubs/masscommunication/
 description: ""
 third_nav_title: Clubs
+variant: markdown
 ---
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -32,3 +33,6 @@ third_nav_title: Clubs
   </tr>
 </tbody>
 </table><br>
+
+
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTHLsfSYlI4zLkIBebn0YaEzlSN1F9Epx4gAAy6T0GzODz-iKtRvKiM4h8R1U5fLHDdB4K_Ax5N_ja3/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
