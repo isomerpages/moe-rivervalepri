@@ -3,8 +3,8 @@ title: Life Skills Club
 permalink: /ccas/clubs/life-skills-club/
 description: ""
 third_nav_title: Clubs
+variant: markdown
 ---
-
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -27,9 +27,9 @@ third_nav_title: Clubs
   <tr style="border: 1px solid black">
     <td class="tg-m9di" style="border: 1px solid black">Life Skills Club</td>
     <td class="tg-m9di" style="border: 1px solid black"></td>
-    <td class="tg-m9di" style="border: 1px solid black">Miss Veronica Tan<br>Ms K Ghayathri Dhevi<br>Mdm Nurmerdina Mohd Azni<br>Mrs Laura Bay<br></td>
-    <td class="tg-m9di" style="border: 1px solid black">tan_suan_eng_veronica@moe.edu.sg<br>K_Ghayathri_Dhevi@moe.edu.sg<br>nurmerdina_mohd_azni@moe.edu.sg<br>tay_shengwei_laura@moe.edu.sg</td>
-  </tr>
+    <td class="tg-m9di" style="border: 1px solid black">Mdm Nurmerdina Mohd Azni<br>Mrs Laura Bay<br>Ms K Ghayathri Dhevi<br>Ms Siti Zuhrah Binte Abdul Samad<br></td>
+    <td class="tg-m9di" style="border: 1px solid black">nurmerdina_mohd_azni@moe.edu.sg<br>tay_shengwei_laura@moe.edu.sg<br>K_Ghayathri_Dhevi@moe.edu.sg<br>       siti_zuhrah_abdul_samad@moe.edu.sg 
+  </td></tr>
 </tbody>
 </table><br>
 

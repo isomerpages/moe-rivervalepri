@@ -3,8 +3,8 @@ title: Choir
 permalink: /ccas/performing-arts/choir/
 description: ""
 third_nav_title: Performing Arts
+variant: markdown
 ---
-
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -27,8 +27,8 @@ third_nav_title: Performing Arts
   <tr>
     <td class="tg-u2s6" style="border: 1px solid black">Choir</td>
     <td class="tg-u2s6" style="border: 1px solid black">Friday, 2.30 p.m. to 4.30 p.m.</td>
-    <td class="tg-u2s6" style="border: 1px solid black">Mrs Chong Wai Ching<br>Mdm Ivy Choi<br>Mdm Ong Shi Theng</td>
-    <td class="tg-u2s6" style="border: 1px solid black">fok_wai_ching@moe.edu.sg choi_ivy@moe.edu.sg<br>ong_shi_teng@moe.edu.sg</td>
+    <td class="tg-u2s6" style="border: 1px solid black">Mdm Ivy Choi<br>Mrs Chong Wai Ching<br>Mdm Lu Wan Min</td>
+    <td class="tg-u2s6" style="border: 1px solid black">choi_ivy@moe.edu.sg<br>fok_wai_ching@moe.edu.sg <br>lu_wanmin@moe.edu.sg</td>
   </tr>
 </tbody>
 </table><br>

@@ -3,8 +3,8 @@ title: Guzheng
 permalink: /ccas/performing-arts/guzheng/
 description: ""
 third_nav_title: Performing Arts
+variant: markdown
 ---
-
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -28,8 +28,8 @@ third_nav_title: Performing Arts
   <tr style="border: 1px solid black">
     <td class="tg-m9di" style="border: 1px solid black">Guzheng</td>
     <td class="tg-m9di" style="border: 1px solid black">Monday 3.00 p.m. - 5.00 p.m. </td>
-    <td class="tg-u2s6" style="border: 1px solid black"><span style="font-weight:400;color:#0C3989">Mdm Iris Ang</span><br><span style="font-weight:400;color:#0C3989">Mdm Lu Wan Min</span><br><span style="font-weight:400;color:#0C3989">Mdm Tan Kok Teng</span></td>
-    <td class="tg-m9di" style="border: 1px solid black">ang_hui_qian_iris@moe.edu.sg<br>lu_wanmin@moe.edu.sg<br>tan_kok_teng@moe.edu.sg</td>
+    <td class="tg-u2s6" style="border: 1px solid black"><span style="font-weight:400;color:#0C3989">Mdm Iris Ang<br><span style="font-weight:400;color:#0C3989">Mdm Tan Kok Teng</span></span></td>
+    <td class="tg-m9di" style="border: 1px solid black">ang_hui_qian_iris@moe.edu.sg<br>tan_kok_teng@moe.edu.sg</td>
   </tr>
 </tbody>
 </table><br>

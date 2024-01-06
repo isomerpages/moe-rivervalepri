@@ -3,6 +3,7 @@ title: Mother Tongue Teachers
 permalink: /about-us/our-staff/mother-tongue-teachers/
 description: ""
 third_nav_title: Our Staff
+variant: markdown
 ---
 ### Chinese Language Teachers
 
@@ -36,11 +37,13 @@ third_nav_title: Our Staff
   </tr>
   <tr>
     <td style="border: 1px solid black" class="tg-vvbc">Mdm Jasmine Chiah</td>
-    <td class="tg-vvbc style=">chiah_min_hui_jasmine@moe.edu.sg</td>
+     <td style="border: 1px solid black" class="tg-vvbc">
+	chiah_min_hui_jasmine@moe.edu.sg </td>
   </tr>
   <tr>
     <td style="border: 1px solid black" class="tg-vvbc">Mdm Li Song</td>
-    <td style="border: 1px solid black" class="tg-vvbc">li_song@moe.edu.sg</td>
+    <td style="border: 1px solid
+															 black" class="tg-vvbc">li_song@moe.edu.sg</td>
   </tr>
   <tr>
     <td style="border: 1px solid black" class="tg-vvbc">Mdm Liang Wei Hsiang</td>
@@ -75,10 +78,6 @@ third_nav_title: Our Staff
     <td style="border: 1px solid black" class="tg-vvbc">ran_yijun@moe.edu.sg</td>
   </tr>
   <tr>
-    <td style="border: 1px solid black" class="tg-vvbc">Mdm Lua Hao Ting</td>
-    <td style="border: 1px solid black" class="tg-vvbc">Lua_hao_ting@moe.edu.sg</td>
-  </tr>
-  <tr>
     <td style="border: 1px solid black" class="tg-vvbc">Mdm Ivy Choi</td>
     <td style="border: 1px solid black" class="tg-vvbc">choi_ivy@moe.edu.sg</td>
   </tr>
@@ -87,10 +86,8 @@ third_nav_title: Our Staff
     <td style="border: 1px solid black" class="tg-vvbc">ong_shi_theng@moe.edu.sg</td>
   </tr>
   <tr>
-    <td style="border: 1px solid black" class="tg-vvbc">Mdm Lo Siew Yee</td>
-    <td style="border: 1px solid black" class="tg-vvbc">lo_siew_yee@moe.edu.sg</td>
-  </tr>
-</tbody>
+    
+</tr></tbody>
 </table>
 
 ### Malay Language Teachers
@@ -106,10 +103,8 @@ third_nav_title: Our Staff
 <table style="border: 1px solid black" class="tg">
 <thead>
   <tr>
-    <th style="border: 1px solid black" class="tg-l7h4">Mdm Zubaidah Zainal Abidin<br></th>
-    <th style="border: 1px solid black" class="tg-l7h4">zubaidah_zainal_abidin@moe.edu.sg<br></th>
-  </tr>
-</thead>
+    
+</tr></thead>
 <tbody>
   <tr>
     <td style="border: 1px solid black" class="tg-l7h4">Mr Mohd Khair Johari<br></td>

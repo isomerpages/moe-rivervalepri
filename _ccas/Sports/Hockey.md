@@ -3,8 +3,8 @@ title: Hockey
 permalink: /ccas/sports/hockey/
 description: ""
 third_nav_title: Sports
+variant: markdown
 ---
-
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -14,7 +14,7 @@ third_nav_title: Sports
 .tg .tg-m9di{background-color:#FFF;color:#0C3989;text-align:center;vertical-align:middle}
 .tg .tg-pg9x{background-color:#FFF;color:#0C3989;font-weight:bold;text-align:center;vertical-align:top}
 </style>
-<table class="tg" style="border: 1px solid black" >
+<table class="tg" style="border: 1px solid black">
 <thead>
   <tr style="border: 1px solid black">
     <th class="tg-pg9x" style="border: 1px solid black">CCA</th>
@@ -27,8 +27,8 @@ third_nav_title: Sports
   <tr style="border: 1px solid black">
     <td class="tg-m9di" style="border: 1px solid black">Hockey</td>
     <td class="tg-m9di" style="border: 1px solid black">Thursday, 3.00 p.m. - 5.00 p.m.<br></td>
-    <td class="tg-m9di" style="border: 1px solid black">Mr Riduan<br>Mdm Nashita M. Idris<br>Mdm Harbans Kaur<br></td>
-    <td class="tg-m9di" style="border: 1px solid black"> riduan_mohamed_ali@moe.edu.sg<br>nashita_mohamed_idris@moe.edu.sg<br>harbans_kaur@moe.edu.sg</td>
+    <td class="tg-m9di" style="border: 1px solid black">Mr Riduan<br>Mdm Nashita M. Idris<br>Ms Geetha Christina<br>Mrs Kiran Jacqueline Rafeek</td>
+    <td class="tg-m9di" style="border: 1px solid black"> riduan_mohamed_ali@moe.edu.sg<br>nashita_mohamed_idris@moe.edu.sg<br>         geetha_christina_mathialagan@moe.edu.sg<br>kiran_jacqueline_rafeek@moe.edu.sg</td>
   </tr>
 </tbody>
 </table><br>

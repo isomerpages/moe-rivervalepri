@@ -3,8 +3,8 @@ title: Red Cross
 permalink: /ccas/uniformed-groups/red-cross/
 description: ""
 third_nav_title: Uniformed Groups
+variant: markdown
 ---
-
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -28,8 +28,8 @@ third_nav_title: Uniformed Groups
   <tr style="border: 1px solid black">
     <td class="tg-m9di" style="border: 1px solid black">Red Cross</td>
     <td class="tg-m9di" style="border: 1px solid black">Selected Friday afternoons / Saturday (event-based)</td>
-    <td class="tg-u2s6" style="border: 1px solid black"><span style="font-weight:400;color:#0C3989">Mdm Nurul Nabila</span><br><span style="font-weight:400;color:#0C3989">Mr Tang Kwang Wue</span><br>Mdm Nanthini S Rajandaan<br></td>
-    <td class="tg-m9di" style="border: 1px solid black">nurul_nabila_azman@moe.edu.sg tang_kwang_wue@moe.edu.sg <br>nanthini_s_rajandaan@moe.edu.sg</td>
+    <td class="tg-u2s6" style="border: 1px solid black"><span style="font-weight:400;color:#0C3989">Mdm Nurul Nabila</span><br><span style="font-weight:400;color:#0C3989">Mr Tang Kwang Wue</span><br>Mdm Nanthini S Rajandaansg<br>Mr Yee Siong Yew<br></td>
+    <td class="tg-m9di" style="border: 1px solid black">nurul_nabila_azman@moe.edu.sg tang_kwang_wue@moe.edu.sg <br>nanthini_s_rajandaan@moe.edu.sg<br>yee_siong_yew@moe.edu.sg</td>
   </tr>
 </tbody>
 </table><br>
