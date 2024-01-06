@@ -3,8 +3,8 @@ title: Badminton
 permalink: /ccas/sports/badminton/
 description: ""
 third_nav_title: Sports
+variant: markdown
 ---
-
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -27,8 +27,8 @@ third_nav_title: Sports
   <tr style="border: 1px solid black">
     <td class="tg-u2s6" style="border: 1px solid black">Badminton</td>
     <td class="tg-u2s6" style="border: 1px solid black">Monday, 3.00 p.m. to 5.00 p.m.<br>&amp;<br><span style="font-weight:400;color:#0C3989">Thursday, 3.00 p.m. to 5.00 p.m.</span></td>
-    <td class="tg-u2s6" style="border: 1px solid black">Ms Choy Yin Lam<br>Mrs Linda Goh<br>Mdm Syahidah Mohd Salleh</td>
-    <td class="tg-u2s6" style="border: 1px solid black">choy_yin_lam@moe.edu.sg tan_su_mei_linda@moe.edu.sg<br>nur_syahidah_mohamed_salleh@moe.edu.sg</td>
+    <td class="tg-u2s6" style="border: 1px solid black">Ms Choy Yin Lam<br>Mrs Linda Goh<br>Mdm Syahidah Mohd Salleh<br>Mr Muhammad Haikal Bin Ismail</td>
+    <td class="tg-u2s6" style="border: 1px solid black">choy_yin_lam@moe.edu.sg tan_su_mei_linda@moe.edu.sg<br>nur_syahidah_mohamed_salleh@moe.edu.sg<br>muhammad_haikal_ismail@moe.edu.sg</td>
   </tr>
 </tbody>
 </table><br>
