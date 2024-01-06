@@ -3,8 +3,8 @@ title: Basketball
 permalink: /ccas/sports/basketball/
 description: ""
 third_nav_title: Sports
+variant: markdown
 ---
-
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -20,7 +20,7 @@ third_nav_title: Sports
   <tr style="border: 1px solid black">
     <th class="tg-pg9x" style="border: 1px solid black">CCA</th>
     <th class="tg-pg9x" style="border: 1px solid black">Day and Time of after-school training (if applicable)</th>
-    <th class="tg-pg9x"  style="border: 1px solid black">Teachers in Charge</th>
+    <th class="tg-pg9x" style="border: 1px solid black">Teachers in Charge</th>
     <th class="tg-pg9x" style="border: 1px solid black">Email Address</th>
   </tr>
 </thead>
@@ -28,8 +28,8 @@ third_nav_title: Sports
   <tr style="border: 1px solid black">
     <td class="tg-m9di" style="border: 1px solid black">Basketball</td>
     <td class="tg-m9di" style="border: 1px solid black">Thursday, 3.00 p.m. to 5.00 p.m.</td>
-    <td class="tg-u2s6" style="border: 1px solid black"><span style="font-weight:400;color:#0C3989">Mr Yee Siong Yew</span><br><span style="font-weight:400;color:#0C3989">Mr Ran Yijun</span><br><span style="background-color:initial">Mr Mohamed Sadiqin</span><br></td>
-    <td class="tg-m9di" style="border: 1px solid black">yee_siong_yew@moe.edu.sg ran_yijun@moe.edu.sg<br>mohamed_sadiqin_subhan@moe.edu.sg</td>
+    <td class="tg-u2s6" style="border: 1px solid black"><span style="font-weight:400;color:#0C3989">Mr Mohamed Sadiqin</span><br><span style="font-weight:400;color:#0C3989">Mr Ran Yijun</span><br><span style="background-color:initial">Ms Nur Shazlina</span><br></td>
+    <td class="tg-m9di" style="border: 1px solid black">mohamed_sadiqin_subhan@moe.edu.sg ran_yijun@moe.edu.sg<br>nur_shazlina_shaly@moe.edu.sg</td>
   </tr>
 </tbody>
 </table><br>
