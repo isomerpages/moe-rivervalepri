@@ -3,6 +3,7 @@ title: Pri 6 Teachers
 permalink: /about-us/our-staff/pri-6-teachers/
 description: ""
 third_nav_title: Our Staff
+variant: markdown
 ---
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -26,63 +27,58 @@ third_nav_title: Our Staff
     <td class="tg-vvbc" style="border: 1px solid black"><span style="font-weight:400;color:#0C3989">ho_kar_yan@moe.edu.sg</span></td>
   </tr>
   <tr>
-    <td class="tg-ifvt" style="border: 1px solid black"><b>Assistant Year Head</b></td>
-    <td class="tg-vvbc" style="border: 1px solid black"><span style="font-weight:400;color:#0C3989">Mrs Tan Li Min</span></td>
-    <td class="tg-vvbc" style="border: 1px solid black"><span style="font-weight:400;color:#0C3989">phua_li_min@moe.edu.sg</span></td>
-  </tr>
-  <tr>
     <td class="tg-ifvt" rowspan="2" style="border: 1px solid black"><b>6RE</b></td>
-    <td class="tg-vvbc" style="border: 1px solid black"><span style="font-weight:400;color:#0C3989">Mrs Liew Bee Lin</span></td>
-    <td class="tg-vvbc" style="border: 1px solid black"><span style="font-weight:400;color:#0C3989">tan_bee_lin@moe.edu.sg</span></td>
+    <td class="tg-vvbc" style="border: 1px solid black"><span style="font-weight:400;color:#0C3989">Mr Mohd Razif Ansari</span></td>
+    <td class="tg-vvbc" style="border: 1px solid black"><span style="font-weight:400;color:#0C3989">mohd_razif_ansari@moe.edu.sg</span></td>
   </tr>
   <tr>
-    <td class="tg-vvbc" style="border: 1px solid black"><span style="font-weight:400;color:#0C3989">Mdm Nanthini S Rajandaan</span></td>
-    <td class="tg-vvbc" style="border: 1px solid black"><span style="font-weight:400;color:#0C3989">nanthini_s_rajandaan@moe.edu.sg</span></td>
+    <td class="tg-vvbc" style="border: 1px solid black"><span style="font-weight:400;color:#0C3989">Ms Choy Yin Lam</span></td>
+    <td class="tg-vvbc" style="border: 1px solid black"><span style="font-weight:400;color:#0C3989">choy_yin_lam@moe.edu.sg</span></td>
   </tr>
   <tr>
     <td class="tg-ifvt" rowspan="2" style="border: 1px solid black"><b>6RO</b></td>
-    <td class="tg-vvbc" style="border: 1px solid black"><span style="font-weight:400;color:#0C3989">Ms Nur Sakina Bte Akbar Ali</span></td>
-    <td class="tg-vvbc" style="border: 1px solid black"><span style="font-weight:400;color:#0C3989">nur_sakina_akbar_ali@moe.edu.sg</span></td>
+    <td class="tg-vvbc" style="border: 1px solid black"><span style="font-weight:400;color:#0C3989">Mr Lim Ze Wei</span></td>
+    <td class="tg-vvbc" style="border: 1px solid black"><span style="font-weight:400;color:#0C3989">lim_ze_wei@moe.edu.sg</span></td>
   </tr>
   <tr>
-    <td class="tg-vvbc" style="border: 1px solid black"><span style="font-weight:400;color:#0C3989">Mdm Nicole Tan</span></td>
-    <td class="tg-vvbc" style="border: 1px solid black"><span style="font-weight:400;color:#0C3989">tan_liang_liang@moe.edu.sg</span></td>
+    <td class="tg-vvbc" style="border: 1px solid black"><span style="font-weight:400;color:#0C3989">Mr Roy Loy</span></td>
+    <td class="tg-vvbc" style="border: 1px solid black"><span style="font-weight:400;color:#0C3989">loy_boon_theng@moe.edu.sg</span></td>
   </tr>
   <tr>
     <td class="tg-ifvt" rowspan="2" style="border: 1px solid black">6RS</td>
-    <td class="tg-vvbc" style="border: 1px solid black"><span style="font-weight:400;color:#0C3989">Mr Riduan Bin Mohd Ali</span></td>
-    <td class="tg-vvbc" style="border: 1px solid black"><span style="font-weight:400;color:#0C3989">riduan_mohamed_ali@moe.edu.sg</span></td>
+    <td class="tg-vvbc" style="border: 1px solid black"><span style="font-weight:400;color:#0C3989">Mrs Geraldine Lim</span></td>
+    <td class="tg-vvbc" style="border: 1px solid black"><span style="font-weight:400;color:#0C3989">ong_hui_ying_geraldine@moe.edu.sg</span></td>
   </tr>
   <tr>
-    <td class="tg-vvbc" style="border: 1px solid black"><span style="font-weight:400;color:#0C3989">Mdm Hartini Bte Mohamed</span></td>
-    <td class="tg-vvbc" style="border: 1px solid black"><span style="font-weight:400;color:#0C3989">hartini_mohamed@moe.edu.sg</span></td>
+    <td class="tg-vvbc" style="border: 1px solid black"><span style="font-weight:400;color:#0C3989">Mr Mohamad Khair Bin Johari</span></td>
+    <td class="tg-vvbc" style="border: 1px solid black"><span style="font-weight:400;color:#0C3989">mohamad_khair_johari@moe.edu.sg</span></td>
   </tr>
   <tr>
     <td class="tg-ifvt" rowspan="2" style="border: 1px solid black"><b>6IN</b></td>
-    <td class="tg-vvbc" style="border: 1px solid black"><span style="font-weight:400;color:#0C3989">Mdm Vicki Wan Meng Yi</span></td>
-    <td class="tg-vvbc" style="border: 1px solid black"><span style="font-weight:400;color:#0C3989">wan_meng_yi@moe.edu.sg</span></td>
+    <td class="tg-vvbc" style="border: 1px solid black"><span style="font-weight:400;color:#0C3989">Mdm Ng Mui Chin</span></td>
+    <td class="tg-vvbc" style="border: 1px solid black"><span style="font-weight:400;color:#0C3989">huang_meijing@moe.edu.sg</span></td>
   </tr>
   <tr>
-    <td class="tg-vvbc" style="border: 1px solid black"><span style="font-weight:400;color:#0C3989">Mr Muhd Firdaus B Abdul Latiff</span></td>
-    <td class="tg-vvbc" style="border: 1px solid black"><span style="font-weight:400;color:#0C3989">muhammad_firdaus_abdul_latiff@moe.edu.sg</span></td>
+    <td class="tg-vvbc" style="border: 1px solid black"><span style="font-weight:400;color:#0C3989">Mr Yee Siong Yew</span></td>
+    <td class="tg-vvbc" style="border: 1px solid black"><span style="font-weight:400;color:#0C3989">yee_siong_yew@moe.edu.sg</span></td>
   </tr>
   <tr>
     <td class="tg-ifvt" rowspan="2" style="border: 1px solid black"><b>6CA</b></td>
-    <td class="tg-vvbc" style="border: 1px solid black"><span style="font-weight:400;color:#0C3989">Ms Tan Yi Han</span></td>
-    <td class="tg-vvbc" style="border: 1px solid black"><span style="font-weight:400;color:#0C3989">tan_yi_han@moe.edu.sg</span></td>
+    <td class="tg-vvbc" style="border: 1px solid black"><span style="font-weight:400;color:#0C3989">Mdm Chan Pui Yong</span></td>
+    <td class="tg-vvbc" style="border: 1px solid black"><span style="font-weight:400;color:#0C3989">chan_pui_yong@moe.edu.sg</span></td>
   </tr>
   <tr>
-    <td class="tg-vvbc" style="border: 1px solid black"><span style="font-weight:400;color:#0C3989">Mdm Norasidah Murat</span></td>
-    <td class="tg-vvbc" style="border: 1px solid black"><span style="font-weight:400;color:#0C3989">norasidah_murat@moe.edu.sg</span></td>
+    <td class="tg-vvbc" style="border: 1px solid black"><span style="font-weight:400;color:#0C3989">Mdm Ong Wei Kei</span></td>
+    <td class="tg-vvbc" style="border: 1px solid black"><span style="font-weight:400;color:#0C3989">ong_wei_kei@moe.edu.sg</span></td>
   </tr>
   <tr>
     <td class="tg-ifvt" rowspan="2" style="border: 1px solid black"><b>6HA</b></td>
-    <td class="tg-vvbc" style="border: 1px solid black"><span style="font-weight:400;color:#0C3989">Mrs Tan Li Min</span></td>
-    <td class="tg-vvbc" style="border: 1px solid black"><span style="font-weight:400;color:#0C3989">phua_li_min@moe.edu.sg</span></td>
+    <td class="tg-vvbc" style="border: 1px solid black"><span style="font-weight:400;color:#0C3989">Mrs Amy Thomas</span></td>
+    <td class="tg-vvbc" style="border: 1px solid black"><span style="font-weight:400;color:#0C3989">amy_lim_kin_kuen@moe.edu.sg</span></td>
   </tr>
   <tr>
-    <td class="tg-vvbc" style="border: 1px solid black"><span style="font-weight:400;color:#0C3989">Ms Ivy Choi</span></td>
-    <td class="tg-vvbc" style="border: 1px solid black"><span style="font-weight:400;color:#0C3989">choi_ivy@moe.edu.sg</span></td>
+    <td class="tg-vvbc" style="border: 1px solid black"><span style="font-weight:400;color:#0C3989">Mdm Lu Wan Min</span></td>
+    <td class="tg-vvbc" style="border: 1px solid black"><span style="font-weight:400;color:#0C3989">lu_wanmin@moe.edu.sg</span></td>
   </tr>
 </tbody>
 </table>
