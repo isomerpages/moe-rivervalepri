@@ -3,8 +3,8 @@ title: Taekwondo
 permalink: /ccas/sports/taekwondo/
 description: ""
 third_nav_title: Sports
+variant: markdown
 ---
-
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -28,8 +28,8 @@ third_nav_title: Sports
   <tr style="border: 1px solid black">
     <td class="tg-m9di" style="border: 1px solid black">Taekwondo</td>
     <td class="tg-u2s6" style="border: 1px solid black">Friday 2.15 p.m. - 4.15 p.m.<br><br></td>
-    <td class="tg-u2s6" style="border: 1px solid black"><span style="background-color:initial">Mdm Hartini Mohamed</span><br><br>Ms Vijaya Letchumii<br>Ms Nurshamira</td>
-    <td class="tg-m9di" style="border: 1px solid black">hartini_mohamed@moe.edu.sg<br>vijaya_letchumi_sandramogan@moe.edu.sg<br>nurshamira_johari@moe.edu.sg</td>
+    <td class="tg-u2s6" style="border: 1px solid black"><span style="background-color:initial">Ms Nurshamira</span><br>Ms Vijaya Letchumii<br>Ms Fronia Tang</td>
+    <td class="tg-m9di" style="border: 1px solid black">nurshamira_johari@moe.edu.sg<br>vijaya_letchumi_sandramogan@moe.edu.sg<br>fronia_tang_kia_lin@moe.edu.sg</td>
   </tr>
 </tbody>
 </table><br>
