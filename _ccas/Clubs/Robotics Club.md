@@ -3,8 +3,8 @@ title: Robotics Club
 permalink: /ccas/clubs/robotics-club/
 description: ""
 third_nav_title: Clubs
+variant: markdown
 ---
-
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -27,8 +27,8 @@ third_nav_title: Clubs
   <tr style="border: 1px solid black">
     <td class="tg-m9di" style="border: 1px solid black">Robotics Club</td>
     <td class="tg-m9di" style="border: 1px solid black"></td>
-    <td class="tg-m9di" style="border: 1px solid black">Mr Seah Jin Yang<br>Mr Lim Ze Wei<br>Mr Eu Kong Leong<br>Mdm Yong Jui Lin<br></td>
-    <td class="tg-m9di" style="border: 1px solid black">seah_jin_yang@moe.edu.sg<br>lim_ze_wei@moe.edu.sg<br>eu_kong_leong@moe.edu.sg<br>yong_jui_lin@moe.edu.sg</td>
+    <td class="tg-m9di" style="border: 1px solid black">Mr Seah Jin Yang<br>Mr Eu Kong Leong<br>Mdm Yong Jui Lin<br></td>
+    <td class="tg-m9di" style="border: 1px solid black">seah_jin_yang@moe.edu.sg<br>eu_kong_leong@moe.edu.sg<br>yong_jui_lin@moe.edu.sg</td>
   </tr>
 </tbody>
 </table><br>
