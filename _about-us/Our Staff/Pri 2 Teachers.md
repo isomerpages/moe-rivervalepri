@@ -14,7 +14,7 @@ variant: markdown
 .tg .tg-ifvt{background-color:#FFF;color:#0C3989;font-weight:bold;text-align:left;vertical-align:top}
 .tg .tg-vvbc{background-color:#FFF;color:#0C3989;text-align:left;vertical-align:top}
 </style>
-<b>2IN</b><table class="tg">
+<table class="tg">
 <thead>
   <tr>
     <th class="tg-ifvt" colspan="3" style="border: 1px solid black">Primary 2 Form Teachers</th>
