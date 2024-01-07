@@ -14,7 +14,7 @@ variant: markdown
 .tg .tg-ifvt{background-color:#FFF;color:#0C3989;font-weight:bold;text-align:left;vertical-align:top}
 .tg .tg-vvbc{background-color:#FFF;color:#0C3989;text-align:left;vertical-align:top}
 </style>
-<b>2IN</b><table class="tg">
+<table class="tg">
 <thead>
   <tr>
     <th class="tg-ifvt" colspan="3" style="border: 1px solid black">Primary 2 Form Teachers</th>
@@ -77,8 +77,8 @@ variant: markdown
     <td class="tg-vvbc" style="border: 1px solid black">nur_shazlina_shaly@moe.edu.sg</td>
   </tr>
   <tr>
-    <td class="tg-vvbc" style="border: 1px solid black"><span style="font-weight:400;color:#0C3989">Ms Ong Shi Teng</span></td>
-    <td class="tg-vvbc" style="border: 1px solid black"><span style="font-weight:400;color:#0C3989">ong_shi_teng@moe.edu.sg</span></td>
+    <td class="tg-vvbc" style="border: 1px solid black"><span style="font-weight:400;color:#0C3989">Ms Ong Shi Theng</span></td>
+    <td class="tg-vvbc" style="border: 1px solid black"><span style="font-weight:400;color:#0C3989">ong_shi_theng@moe.edu.sg</span></td>
   </tr>
   <tr>
     <td class="tg-ifvt" rowspan="2" style="border: 1px solid black"><b>2HA</b></td>
