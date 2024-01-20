@@ -27,7 +27,7 @@ variant: markdown
 <tbody>
   <tr style="border: 1px solid black">
     <td class="tg-m9di" style="border: 1px solid black">Basketball</td>
-    <td class="tg-m9di" style="border: 1px solid black">Thursday, 3.00 p.m. to 5.00 p.m.</td>
+    <td class="tg-m9di" style="border: 1px solid black">Thursday, Juniors &amp; Seniors, 3.00 p.m. - 5.00 p.m.</td>
     <td class="tg-u2s6" style="border: 1px solid black"><span style="font-weight:400;color:#0C3989">Mr Mohamed Sadiqin</span><br><span style="font-weight:400;color:#0C3989">Mr Ran Yijun</span><br><span style="background-color:initial">Ms Nur Shazlina</span><br></td>
     <td class="tg-m9di" style="border: 1px solid black">mohamed_sadiqin_subhan@moe.edu.sg ran_yijun@moe.edu.sg<br>nur_shazlina_shaly@moe.edu.sg</td>
   </tr>

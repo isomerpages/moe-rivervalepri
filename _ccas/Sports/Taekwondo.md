@@ -27,7 +27,7 @@ variant: markdown
 <tbody>
   <tr style="border: 1px solid black">
     <td class="tg-m9di" style="border: 1px solid black">Taekwondo</td>
-    <td class="tg-u2s6" style="border: 1px solid black">Friday 2.15 p.m. - 4.15 p.m.<br><br></td>
+    <td class="tg-u2s6" style="border: 1px solid black">Friday, Above Yellow, 2.15 p.m. - 4.15 p.m.<br><br></td>
     <td class="tg-u2s6" style="border: 1px solid black"><span style="background-color:initial">Ms Nurshamira</span><br>Ms Vijaya Letchumii<br>Ms Fronia Tang</td>
     <td class="tg-m9di" style="border: 1px solid black">nurshamira_johari@moe.edu.sg<br>vijaya_letchumi_sandramogan@moe.edu.sg<br>fronia_tang_kia_lin@moe.edu.sg</td>
   </tr>

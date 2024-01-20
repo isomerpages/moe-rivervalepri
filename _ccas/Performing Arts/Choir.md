@@ -26,7 +26,7 @@ variant: markdown
 <tbody>
   <tr>
     <td class="tg-u2s6" style="border: 1px solid black">Choir</td>
-    <td class="tg-u2s6" style="border: 1px solid black">Friday, 2.30 p.m. to 4.30 p.m.</td>
+    <td class="tg-u2s6" style="border: 1px solid black">Friday, 2.15 p.m. to 4.15 p.m.</td>
     <td class="tg-u2s6" style="border: 1px solid black">Mdm Ivy Choi<br>Mrs Chong Wai Ching<br>Mdm Lu Wan Min</td>
     <td class="tg-u2s6" style="border: 1px solid black">choi_ivy@moe.edu.sg<br>fok_wai_ching@moe.edu.sg <br>lu_wanmin@moe.edu.sg</td>
   </tr>
