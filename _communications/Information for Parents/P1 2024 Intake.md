@@ -11,4 +11,9 @@ variant: markdown
 
 
 3. P1 Orientation Slides
-*  
+
+* [Core Curriculum](/files/2024_Induction_2024_CoreCurriculum.pdf)
+* [Principal Address](/files/2024_P1_Induction_Prog_for_Parents_Principal_Address.pdf)
+* [CoCurriculum PAM](/files/2024_P1_Induction_CoCurriculum_PAM.pdf)
+* [Student Development Team](/files/2024_P1_Induction_Student_Development_Team.pdf)
+* [FAQs](/files/2024_Primary_1_Orientation_FAQs.pdf)
