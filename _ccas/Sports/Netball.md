@@ -26,7 +26,7 @@ variant: markdown
 <tbody>
   <tr style="border: 1px solid black">
     <td class="tg-m9di" style="border: 1px solid black">Netball</td>
-    <td class="tg-m9di" style="border: 1px solid black">Monday, 3.00 p.m. - 4.00 p.m.<br>&amp;<br>Thursday, 3.00 p.m. - 5.00 p.m.<br></td>
+    <td class="tg-m9di" style="border: 1px solid black">Monday, Juniors &amp; Seniors, 3.00 p.m. - 5.00 p.m.<br>&amp;<br>Thursday, Seniors, 3.00 p.m. - 5.00 p.m.<br></td>
     <td class="tg-m9di" style="border: 1px solid black">Mdm Liyana<br>Ms Sally Tan<br>Mdm Hanani<br>Mrs Geraldine Lim</td>
     <td class="tg-m9di" style="border: 1px solid black"> nur_liyana_jawini@moe.edu.sg<br>sally_tan_cai_feng@moe.edu.sg<br> nazrah_hanani_mohamed_rawi@moe.edu.sg<br>ong_hui_ying_geraldine@moe.edu.sg</td>
   </tr>
