@@ -27,7 +27,7 @@ variant: markdown
 <tbody>
   <tr style="border: 1px solid black">
     <td class="tg-m9di" style="border: 1px solid black">Guzheng</td>
-    <td class="tg-m9di" style="border: 1px solid black">Monday 3.00 p.m. - 5.00 p.m. </td>
+    <td class="tg-m9di" style="border: 1px solid black">Monday, Senior Group, 3.00 p.m. - 5.00 p.m. &amp;. Thursday, Performing Group (Ad-Hoc), 3.00 p.m. - 5.00 p.m.</td>
     <td class="tg-u2s6" style="border: 1px solid black"><span style="font-weight:400;color:#0C3989">Mdm Iris Ang<br><span style="font-weight:400;color:#0C3989">Mdm Tan Kok Teng</span></span></td>
     <td class="tg-m9di" style="border: 1px solid black">ang_hui_qian_iris@moe.edu.sg<br>tan_kok_teng@moe.edu.sg</td>
   </tr>
