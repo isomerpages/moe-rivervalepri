@@ -26,7 +26,7 @@ variant: markdown
 <tbody>
   <tr style="border: 1px solid black">
     <td class="tg-u2s6" style="border: 1px solid black">Brass Band</td>
-    <td class="tg-u2s6" style="border: 1px solid black">Monday, Senior Band, 3.00 p.m. - 5.00 p.m.;<br>Friday, Junior Band, 2.15 p.m. - 3.30 p.m., Senior Band, 2.15 p.m. - 5.00 p.m.</td>
+    <td class="tg-u2s6" style="border: 1px solid black">Monday, Senior Band, 3.00 p.m. - 5.00 p.m.;<br>&amp;<br>Friday, Junior Band, 2.15 p.m. - 3.30 p.m., <br> &amp; Senior Band, 2.15 p.m. - 5.00 p.m.</td>
     <td class="tg-u2s6" style="border: 1px solid black">Ms Tan Yi Han<br>Ms Teo Wei Ping<br>Ms Poh Si Hui</td>
     <td class="tg-u2s6" style="border: 1px solid black">tan_yi_han@moe.edu.sg<br>teo_wei_ping@moe.edu.sg<br>poh_si_hui@moe.edu.sg</td>
   </tr>
