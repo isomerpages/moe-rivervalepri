@@ -19,6 +19,7 @@ variant: markdown
 ### P5P6 Parent Engagement 2024
 
 [P5 Parent Engagement 2024](/files/Communications/P5_Parent_Engagement_2024_sch_website.pdf)<br>
+[P5 PSG Video](https://youtube.be/jq9exPHkAtE)<br>
 [P6 Parent Engagement 2024](/files/Communications/P6_Parent_Engagement_2024_sch_website.pdf)<br>
 *Student-Led Conference will be held on **17 April 2023**. Please note correction and we apologise for any inconvenience caused.
 
