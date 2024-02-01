@@ -32,23 +32,20 @@ variant: markdown
 <br>
 [P2 Parent Engagement FAQ 2023](/files/Communications/faq%20primary%202%20parent%20engagement%202023.pdf)
 
-### Subject Sharing with Parents 2023 – P3 P4&nbsp;
+### Subject Sharing with Parents 2024 – P3 P4&nbsp;
 
-[P3 P4 Aesthetics Subject Sharing](/files/P3%20P4%20Aesthetics%20Subject%20Sharing.pdf)
+[English 2024 P3 P4 Subject Sharing](/files/Communications/EL_2024_P3_P4_Subject_Sharing.pdf)
 <br>
-[P3 P4 English Subject Sharing](/files/P3%20P4%20English%20Subject%20Sharing.pdf) 
+[Mother Tongue 2024 P3 P4 Subject Sharing](/files/Communications/MT_2024_P3_P4_Subject_Sharing.pdf)
 <br>
-[P3 P4 Aesthetics Subject Sharing](/files/P3%20P4%20Aesthetics%20Subject%20Sharing.pdf)
+[Mathematics 2024 P3 P4 Subject Sharing](/files/Communications/MA_2024_P3_P4_Subject_Sharing.pdf)
 <br>
-[P3 P4 ICT Subject Sharing](/files/P3%20P4%20ICT%20Subject%20Sharing.pdf)
+[Science 2024 P3 P4 Subject Sharing](/files/Communications/SC_2024_P3_P4_Subject_Sharing_Lower_Block.pdf)
 <br>
-[P3 P4 Math Subject Sharing](/files/P3%20P4%20Math%20Subject%20Sharing.pdf)
+[PAM 2024 P3 P4 Subject Sharing](/files/Communications/PAM_2024_P3_P4_Subject_Sharing.pdf)
 <br>
-[P3 P4 MT Subject Sharing Combined](/files/P3%20P4%20MT%20Subject%20Sharing%20Combined.pdf)
+[ICT 2024 P3 P4 Subject Sharing](/files/Communications/ICT_2024_P3_P4_Subject_Sharing.pdf)
 <br> 
-[P3 P4 PE Subject Sharing](/files/P3%20P4%20PE%20Subject%20Sharing.pdf)
-<br> 
-[P3 P4 Science Subject Sharing](/files/P3%20P4%20Science%20Subject%20Sharing.pdf)  
 
 ### Subject Sharing with Parents 2023 – P5 P6
 
