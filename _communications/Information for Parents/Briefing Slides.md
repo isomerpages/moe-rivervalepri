@@ -11,7 +11,8 @@ variant: markdown
 
 ### P3P4 Parent Engagement 2024
 
-
+[P3 Parent Engagement 2024](/files/Communications/P3_Parent_Engagement_2024.pdf)<br>
+[P4 Parent Engagement 2024](/files/Communications/P4_Parent_Engagement_2024.pdf)<br>
 
 ### P5P6 Parent Engagement 2024
 
