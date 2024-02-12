@@ -12,7 +12,11 @@ variant: markdown
 ### P3P4 Parent Engagement 2024
 
 [P3 Parent Engagement 2024](/files/Communications/P3_Parent_Engagement_2024.pdf)<br>
+
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/vpl_oHvDyAo?si=VPXs3WHxujkVRex7" height="315" width="560"></iframe><br>
+
 [P4 Parent Engagement 2024](/files/Communications/P4_Parent_Engagement_2024.pdf)<br>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/lYOR7yYtfos?si=T7Piq_Yml507lTTr" height="315" width="560"></iframe>
 
 ### P5P6 Parent Engagement 2024
 
