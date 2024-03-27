@@ -64,7 +64,7 @@ variant: markdown
   </tr>
   <tr>
     <td class="tg-ifvt" rowspan="2" style="border: 1px solid black"><b>3IN</b></td>
-    <td class="tg-vvbc" style="border: 1px solid black">Mr Tan Yi Han</td>
+    <td class="tg-vvbc" style="border: 1px solid black">Ms Tan Yi Han</td>
     <td class="tg-vvbc" style="border: 1px solid black">tan_yi_han@moe.edu.sg</td>
   </tr>
   <tr>
