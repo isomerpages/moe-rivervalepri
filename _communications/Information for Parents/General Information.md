@@ -13,7 +13,7 @@ variant: markdown
 
 **<u>Term 2</u>** 
 |  [P3 WA2 Schedule 2024](/files/Communications/WA%20and%20Prelim%20Schedule/P3_WA2_Schedule_2024.pdf)
-| [P4 WA2 Schedule 2024](/files/Communications/WA%20and%20Prelim%20Schedule/P4_WA2_Schedule_2024.pdf) | [P5 WA2 Schedule 2024](/files/Communications/P5_WA2_Schedule_2024_updated.pdf)
+| [P4 WA2 Schedule 2024](/files/Communications/WA%20and%20Prelim%20Schedule/P4_WA2_Schedule_2024_updated.pdf)| [P5 WA2 Schedule 2024](/files/Communications/P5_WA2_Schedule_2024_updated.pdf)
      | [P6 WA2 Schedule 2024](/files/Communications/WA%20and%20Prelim%20Schedule/P6_WA2_Schedule_2024.pdf) |
 
 **<u>Term 3</u>** 
