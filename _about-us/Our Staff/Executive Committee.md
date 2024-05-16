@@ -3,6 +3,7 @@ title: Executive Committee
 permalink: /about-us/our-staff/executive-committee/
 description: ""
 third_nav_title: Our Staff
+variant: markdown
 ---
 <table class="tg" style="border: 1px solid black">
 <thead>
@@ -84,11 +85,6 @@ third_nav_title: Our Staff
     <td class="tg-l7h4" style="border: 1px solid black">teo_wei_ping@moe.edu.sg<br></td>
   </tr>
   <tr>
-    <td class="tg-ifvt" style="border: 1px solid black">SH Malay<br></td>
-    <td class="tg-l7h4" style="border: 1px solid black">Mdm Zubaidah<br></td>
-    <td class="tg-l7h4" style="border: 1px solid black">zubaidah_zainal_abidin@moe.edu.sg<br></td>
-  </tr>
-  <tr>
     <td class="tg-ifvt" style="border: 1px solid black">SH CCA &amp; Student Leadership and Development<br></td>
     <td class="tg-l7h4" style="border: 1px solid black">Mdm Norasidah Murat<br></td>
     <td class="tg-l7h4" style="border: 1px solid black">norasidah_murat@moe.edu.sg<br></td>
@@ -151,11 +147,7 @@ third_nav_title: Our Staff
     <td class="tg-vvbc" style="border: 1px solid black">Ms Huang Bi Yun</td>
     <td class="tg-vvbc" style="border: 1px solid black">huang_bi_yun@moe.edu.sg</td>
   </tr>
-  <tr>
-    <td class="tg-ifvt" style="border: 1px solid black">Assistant Year Head (P5&amp;6)</td>
-    <td class="tg-vvbc" style="border: 1px solid black">Mrs Tan Li Min</td>
-    <td class="tg-vvbc" style="border: 1px solid black">phua_li_min@moe.edu.sg</td>
-  </tr>
+  
 </tbody>
 </table><br>
 
