@@ -173,11 +173,6 @@ variant: markdown
 <tbody>
   <tr>
     <td class="tg-ifvt" style="border: 1px solid black">Senior Teacher (English)</td>
-    <td class="tg-vvbc" style="border: 1px solid black">Mdm Vicki Wan Meng Yi</td>
-    <td class="tg-vvbc" style="border: 1px solid black">wan_meng_yi@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-ifvt" style="border: 1px solid black">Senior Teacher (English)</td>
     <td class="tg-vvbc" style="border: 1px solid black">Mrs Yow Hwee Peng</td>
     <td class="tg-vvbc" style="border: 1px solid black">goh_hwee_peng@moe.edu.sg</td>
   </tr>
