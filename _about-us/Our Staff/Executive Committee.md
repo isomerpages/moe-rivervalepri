@@ -196,4 +196,3 @@ variant: markdown
 </table><br>
 
 
-<div align="center"><iframe allowfullscreen="true" height="299" width="480" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRso-nWfyWkpRNIx_HREpPZij6j9sKu2gQ_EHD3mcdoVdp02cCb7ckfyLhqxQAQFM2ZhR2tG6n0XZKC/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe></div>
