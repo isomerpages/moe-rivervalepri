@@ -10,7 +10,7 @@ variant: markdown
 
 The **online application is** **NOW OPEN****.** It will commence from Friday, 31 May 2024 at 10.00am and will cease on Thursday, 6 June 2024 at 5.00pm.
 
-**Please click** **HERE** **to submit your application.**
+**Please click** **[HERE](https://form.gov.sg/663da96239f404b38e671602)** **to submit your application.**
 
 Interested applicants are to **submit their online application within the application period.** _(The link will only be made available on Friday, 31 May 2024 from 10.00am onwards. In the event that the school is experiencing technical issues, we seek your understanding. Kindly refresh the page again after 15 minutes.)_
 
