@@ -155,7 +155,7 @@ variant: markdown
 </figure></figcaption>
 <figure>
 
-<a href="/ccas/performing-arts/speech-and-drama-club/"> <img style="width:40%;height:50%" src="/images/CCAs/S14.png"></a>
+<a href="/ccas/performing-arts/masscommunication/"> <img style="width:40%;height:50%" src="/images/CCAs/S14.png"></a>
 
 <figcaption>
 
