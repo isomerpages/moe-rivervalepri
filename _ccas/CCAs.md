@@ -121,7 +121,7 @@ variant: markdown
 
 <figure>
 
-<a href="/ccas/performing-arts/indian-dance/"> <img style="width:40%;height:50%" src="/images/CCAs/S12.png"></a>
+<a href="/ccas/performing-arts/international/"> <img style="width:40%;height:50%" src="/images/CCAs/S12.png"></a>
 
 <figcaption>
 
