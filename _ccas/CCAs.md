@@ -18,7 +18,7 @@ variant: markdown
 
 <figure>
 
-<a href="/ccas/sports/asketball/"> <img style="width:40%;height:50%" src="/images/CCAs/S2.png"></a>
+<a href="/ccas/sports/basketball/"> <img style="width:40%;height:50%" src="/images/CCAs/S2.png"></a>
 
 <figcaption>
 
