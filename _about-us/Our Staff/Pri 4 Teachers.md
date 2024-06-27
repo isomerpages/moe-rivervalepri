@@ -50,8 +50,7 @@ variant: markdown
     <td class="tg-vvbc" style="border: 1px solid black"><span style="font-weight:400;color:#0C3989">quek_yi_shao@moe.edu.sg</span></td>
   </tr>
   <tr>
-		<td class="tg-vvbc" style="border: 1px solid black"><span style="font-weight:400;color:#0C3989">Mrs Angie Liu</span></td>
-    <td class="tg-vvbc" style="border: 1px solid black"><span style="font-weight:400;color:#0C3989">thong_phui_shan@moe.edu.sg</span></td>
+
   </tr>
   <tr>
     <td class="tg-ifvt" rowspan="2" style="border: 1px solid black"><b>4RS</b></td>
