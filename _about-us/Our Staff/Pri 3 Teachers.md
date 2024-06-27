@@ -50,8 +50,8 @@ variant: markdown
     <td class="tg-vvbc" style="border: 1px solid black">yeo_peng_quee@moe.edu.sg</td>
   </tr>
   <tr>
-    <td class="tg-vvbc" style="border: 1px solid black">Mdm Nanthini S Rajandaan</td>
-    <td class="tg-vvbc" style="border: 1px solid black">nanthini_s_rajandaan@moe.edu.sg</td>
+    <td class="tg-vvbc" style="border: 1px solid black">Mrs Angie Liu</td>
+    <td class="tg-vvbc" style="border: 1px solid black">thong_phui_shan@moe.edu.sg</td>
   </tr>
   <tr>
     <td class="tg-ifvt" rowspan="2" style="border: 1px solid black"><b>3RS</b></td>
@@ -68,8 +68,8 @@ variant: markdown
     <td class="tg-vvbc" style="border: 1px solid black">tan_yi_han@moe.edu.sg</td>
   </tr>
   <tr>
-    <td class="tg-vvbc" style="border: 1px solid black">Mr Muhammad Haikal Bin Ismail</td>
-    <td class="tg-vvbc" style="border: 1px solid black">muhammad_haikal_ismail@moe.edu.sg</td>
+    <td class="tg-vvbc" style="border: 1px solid black">Mrs Janet Quek</td>
+    <td class="tg-vvbc" style="border: 1px solid black">seah_shiao_yen_janet@moe.edu.sg</td>
   </tr>
   <tr>
     <td class="tg-ifvt" rowspan="2" style="border: 1px solid black"><b>3CA</b></td>

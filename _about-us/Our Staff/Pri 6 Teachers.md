@@ -32,8 +32,8 @@ variant: markdown
     <td class="tg-vvbc" style="border: 1px solid black"><span style="font-weight:400;color:#0C3989">mohd_razif_ansari@moe.edu.sg</span></td>
   </tr>
   <tr>
-    <td class="tg-vvbc" style="border: 1px solid black"><span style="font-weight:400;color:#0C3989">Ms Choy Yin Lam</span></td>
-    <td class="tg-vvbc" style="border: 1px solid black"><span style="font-weight:400;color:#0C3989">choy_yin_lam@moe.edu.sg</span></td>
+    <td class="tg-vvbc" style="border: 1px solid black"><span style="font-weight:400;color:#0C3989">Mr Ho Kar Yan</span></td>
+    <td class="tg-vvbc" style="border: 1px solid black"><span style="font-weight:400;color:#0C3989">ho_kar_yan@moe.edu.sg</span></td>
   </tr>
   <tr>
     <td class="tg-ifvt" rowspan="2" style="border: 1px solid black"><b>6RO</b></td>
