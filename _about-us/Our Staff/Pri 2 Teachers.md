@@ -42,8 +42,8 @@ variant: markdown
   </tr>
   <tr>
     <td class="tg-ifvt" rowspan="2" style="border: 1px solid black"><b>2RO</b></td>
-    <td class="tg-vvbc" style="border: 1px solid black">Mdm Nashita M. Idris</td>
-    <td class="tg-vvbc" style="border: 1px solid black">nashita_mohamed_idris@moe.edu.sg</td>
+    <td class="tg-vvbc" style="border: 1px solid black">Mdm Ayesha</td>
+    <td class="tg-vvbc" style="border: 1px solid black">ayesha_jamaldeen@moe.edu.sg</td>
   </tr>
   <tr>
     <td class="tg-vvbc" style="border: 1px solid black"><span style="font-weight:400;color:#0C3989">Mr David James Chua</span></td>
