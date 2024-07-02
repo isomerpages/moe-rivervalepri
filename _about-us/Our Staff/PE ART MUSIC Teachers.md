@@ -3,6 +3,7 @@ title: PE ART MUSIC Teachers
 permalink: /about-us/our-staff/pe-art-music-teachers/
 description: ""
 third_nav_title: Our Staff
+variant: markdown
 ---
 ### PE Teachers
 
@@ -38,10 +39,7 @@ third_nav_title: Our Staff
     <td class="tg-vvbc" style="border: 1px solid black">Mdm Nur Liyana Jawini</td>
     <td class="tg-vvbc" style="border: 1px solid black">nur_liyana_jawini@moe.edu.sg</td>
   </tr>
-  <tr>
-    <td class="tg-vvbc" style="border: 1px solid black">Ms Choy Yin Lam</td>
-    <td class="tg-vvbc" style="border: 1px solid black">choy_yin_lam@moe.edu.sg</td>
-  </tr>
+
   <tr>
     <td class="tg-vvbc" style="border: 1px solid black">Mr Mohamed Sadiqin</td>
     <td class="tg-vvbc" style="border: 1px solid black">mohamed_sadiqin_subhan@moe.edu.sg</td>
