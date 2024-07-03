@@ -41,8 +41,8 @@ variant: markdown
     <td class="tg-vvbc" style="border: 1px solid black"><span style="font-weight:400;color:#0C3989">lim_ze_wei@moe.edu.sg</span></td>
   </tr>
   <tr>
-    <td class="tg-vvbc" style="border: 1px solid black"><span style="font-weight:400;color:#0C3989">Mr Roy Loy</span></td>
-    <td class="tg-vvbc" style="border: 1px solid black"><span style="font-weight:400;color:#0C3989">loy_boon_theng@moe.edu.sg</span></td>
+    <td class="tg-vvbc" style="border: 1px solid black"><span style="font-weight:400;color:#0C3989">Mrs Candice Poh</span></td>
+    <td class="tg-vvbc" style="border: 1px solid black"><span style="font-weight:400;color:#0C3989">ngau_shu_mei_candice@moe.edu.sg</span></td>
   </tr>
   <tr>
     <td class="tg-ifvt" rowspan="2" style="border: 1px solid black">6RS</td>
