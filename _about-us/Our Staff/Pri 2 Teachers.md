@@ -51,8 +51,8 @@ variant: markdown
   </tr>
   <tr>
     <td class="tg-ifvt" rowspan="3" style="border: 1px solid black"><b>2RS</b></td>
-    <td class="tg-vvbc" style="border: 1px solid black"><span style="font-weight:400;color:#0C3989">Mrs Janet Quek</span></td>
-    <td class="tg-vvbc" style="border: 1px solid black"><span style="font-weight:400;color:#0C3989">seah_shiao_yen_janet@moe.edu.sg</span></td>
+    <td class="tg-vvbc" style="border: 1px solid black"><span style="font-weight:400;color:#0C3989">Ms Tan Xin Yi Cheryl</span></td>
+    <td class="tg-vvbc" style="border: 1px solid black"><span style="font-weight:400;color:#0C3989">tan_xin_yi_cheryl@moe.edu.sg</span></td>
   </tr>
   <tr>
     <td class="tg-vvbc" style="border: 1px solid black">Mdm Li Song</td>
