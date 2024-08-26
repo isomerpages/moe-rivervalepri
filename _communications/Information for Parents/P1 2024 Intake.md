@@ -7,7 +7,7 @@ variant: markdown
 ---
 [1. P1 Briefing Slides](/files/p1%202024%20parents%20briefing.pdf)
 
-[2. P1 Administration Page](https://sites.google.com/moe.edu.sg/rivpsp12024/home)
+2. P1 Administration Page - Under Construction
 
 
 3. P1 Orientation Slides
