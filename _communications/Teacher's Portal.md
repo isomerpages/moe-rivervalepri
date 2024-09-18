@@ -16,9 +16,6 @@ variant: markdown
 
 </figure>
 
-<figure>
-
-</figure>	
 	
 |  |  | 
 | :----------: | :----------:| 
