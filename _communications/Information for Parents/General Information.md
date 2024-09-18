@@ -20,7 +20,7 @@ variant: markdown
 | [P3 WA3 Schedule 2024](/files/Communications/WA%20and%20Prelim%20Schedule/P3_WA3_Schedule_2024.pdf)   | [P4 WA3 Schedule 2024](/files/Communications/WA%20and%20Prelim%20Schedule/P4_WA3_Schedule_2024.pdf)  | [P5 WA3 Schedule 2024](/files/Communications/WA%20and%20Prelim%20Schedule/P5_WA3_Schedule_2024.pdf)  |[P6 Prelim Schedule 2024](/files/Communications/WA%20and%20Prelim%20Schedule/P6_Prelim_Schedule_2024.pdf)
 
 **<u>Term 4</u>** 
-| P3 EOY Schedule 2024  | P4 EOY Schedule 2024  |P5 EOY Schedule 2024  |
+| [P3 End Year Assessment Schedule 2024](/files/Communications/WA%20and%20Prelim%20Schedule/2024_P3_End_Year_Assessment_Schedule.pdf)  | [P4 End Year Assessment Schedule 2024](/files/Communications/WA%20and%20Prelim%20Schedule/2024_P4_End_Year_Assessment_Schedule.pdf)  |[P5 End Year Assessment Schedule 2024](/files/Communications/WA%20and%20Prelim%20Schedule/2024_P5_End_Year_Assessment_Schedule.pdf) |
 ### Parents Gateway 
 Dear Parents,
 
