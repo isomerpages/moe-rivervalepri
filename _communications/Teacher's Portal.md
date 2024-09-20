@@ -16,11 +16,98 @@ variant: markdown
 
 </figure>
 
+<figure>
+
+<a href="https://icon.moe.edu.sg/"> <img style="width:40%;height:50%" src="/images/Communications/icon.jpg"></a>
+
+<figcaption>
+
+<strong> iCON 2.0 </strong>
+
+</figcaption>
+
+</figure>
 	
-|  |  | 
-| :----------: | :----------:| 
-|[iCON](https://icon.moe.edu.sg/)|[iEXAM](https://myexamduty.seab.gov.sg/auth/login)|
-| [SLS](https://vle.learning.moe.edu.sg/login) | [School Cockpit](https://schoolcockpit.moe.gov.sg/) |  
-| [OPAL2.0](https://opal2.moe.edu.sg/) |[Parents Gateway](https://pg.moe.edu.sg/)|
-|[SC mobile](https://scmobile.moe.edu.sg/)|         [Resource Booking System](https://rbs.avero-tech.com/login.html)|
-[Temperature Taking Form](https://form.gov.sg/65964d46fec9850012839740)|
+<figure>
+
+<a href="https://myexamduty.seab.gov.sg/auth/login/"> <img style="width:40%;height:50%" src="/images/Communications/iexams.jpg"></a>
+
+<figcaption>
+
+<strong> iEXAM </strong>
+
+</figcaption>
+
+</figure>
+
+<figure>
+
+<a href="https://schoolcockpit.moe.gov.sg/"> <img style="width:40%;height:50%" src="/images/Communications/SchoolCockpit.jpg"></a>
+
+<figcaption>
+
+<strong> School Cockpit </strong>
+
+</figcaption>
+
+</figure>
+
+<figure>
+
+<a href="https://pg.moe.edu.sg/"> <img style="width:40%;height:50%" src="/images/Communications/pg.jpg"></a>
+
+<figcaption>
+
+<strong> Parents Gateway </strong>
+
+</figcaption>
+
+</figure>
+
+<figure>
+
+<a href="https://scmobile.moe.edu.sg/"> <img style="width:40%;height:50%" src="/images/Communications/scmobile.jpg"></a>
+
+<figcaption>
+
+<strong> SC Mobile </strong>
+
+</figcaption>
+
+</figure>
+
+<figure>
+
+<a href="https://rbs.avero-tech.com/login.html"> <img style="width:40%;height:50%" src="/images/Communications/rbs.jpg"></a>
+
+<figcaption>
+
+<strong>Resource Booking System </strong>
+
+</figcaption>
+
+</figure>
+
+<figure>
+
+<a href="https://form.gov.sg/65964d46fec9850012839740"> <img style="width:40%;height:50%" src="/images/Communications/form.jpg"></a>
+
+<figcaption>
+
+<strong>Temperature Taking Form </strong>
+
+</figcaption>
+
+</figure>
+
+<figure>
+
+<a href="https://opal2.moe.edu.sg/"> <img style="width:40%;height:50%" src="/images/Communications/opal.jpg"></a>
+
+<figcaption>
+
+<strong>OPAL2.0 </strong>
+
+</figcaption>
+
+</figure>
