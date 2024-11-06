@@ -194,5 +194,4 @@ variant: markdown
   <tr>
 </tr></tbody>
 </table><br>
-
-
+<img src="/images/Staff/executive_committee_2.jpg">
