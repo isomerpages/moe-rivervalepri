@@ -17,6 +17,6 @@ variant: markdown
 
 Content:     [Link](https://form.gov.sg/6502c5f7d5cb3e0011056366)
 
-3.**2024 BookList**
+3.**2025 BookList**
 
-[Rivervale 2024 BookList](https://sites.google.com/moe.edu.sg/rivps2024booklist?usp=sharing)
+[Rivervale 2025 BookList](https://sites.google.com/moe.edu.sg/rivps2025booklist?usp=sharing)
