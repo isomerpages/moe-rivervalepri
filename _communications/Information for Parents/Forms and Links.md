@@ -19,4 +19,4 @@ Content:     [Link](https://form.gov.sg/6502c5f7d5cb3e0011056366)
 
 3.**2025 BookList**
 
-[Rivervale 2025 BookList](https://sites.google.com/moe.edu.sg/rivps2024booklist?usp=sharing)
+[2025 Booklist](https://sites.google.com/moe.edu.sg/rivps-booklist/home)
