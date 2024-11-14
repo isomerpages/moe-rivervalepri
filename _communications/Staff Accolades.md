@@ -14,8 +14,7 @@ variant: markdown
 .tg .tg-dik8{background-color:#0C3989;color:#40B9F0;font-weight:bold;text-align:left;vertical-align:middle}
 .tg .tg-a3j2{background-color:#FFF;color:#222;text-align:center;vertical-align:middle}
 </style>
-
-*     <table class="tg">
+<table class="tg">
 <thead>
   <tr>
     <th class="tg-dik8"><span style="font-weight:bold;color:#40B9F0;background-color:#0C3989">No.</span></th>
@@ -25,7 +24,7 @@ variant: markdown
 <tbody>
   <tr>
     <td class="tg-a3j2"><span style="color:#222;background-color:#FFF">1.</span></td>
-    <td class="tg-l2bf">Most Inspiring Tamil Teachers' Award (MITT) 2023<br><br>School Nominee<br><br>Mdm Nanthini S Rajandaan</td>
+<td class="tg-l2bf">Most Inspiring Tamil Teachers' Award (MITT) 2023<br><br>School Nominee<br><br>Mdm Nanthini S Rajandaan</td>
   </tr>
   <tr>
     <td class="tg-a3j2"><span style="color:#222;background-color:#FFF">2.</span></td><td class="tg-l2bf">National Day Award 2023<br><br>The Commendation Medal<br><br>Mdm Chiah Min Hui Jasmine<br><br><br>The Long Service Medal<br><br>Mdm Thong Phui Shan<br>Mdm Hamimah Binte Ali<br>Mdm Lim Boon Geok<br>Mdm Hartini Bte Mohamed</td>
