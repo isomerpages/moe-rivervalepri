@@ -3,62 +3,86 @@ title: General Information
 permalink: /communications/information-for-parents/generalinformation/
 description: ""
 third_nav_title: Information for Parents
-variant: markdown
+variant: tiptap
 ---
-### Rivervale Connects
-| [Term 1](/files/Announcements/2024_Term_1_Rivervale_Connects.pdf)  | [Term 2](/files/Communications/Rivervale%20Connects/2024_Term_2_Rivervale_Connects.pdf) | [Term 3](/files/Communications/Rivervale%20Connects/T3_2024_Rivervale_Connects.pdf) |  [Term 4](/files/Communications/Rivervale%20Connects/5_Sep_T4_2024_Rivervale_Connects.pdf)| 
-### WA and Preliminary Examination Schedule
-**<u>Term 1</u>**
-| [P3 WA1 Schedule 2024](/files/Communications/P3_WA1_Schedule_2024.pdf)   | [P4 WA1 Schedule 2024](/files/Communications/P4_WA1_Schedule_2024.pdf)   | [P5 WA1 Schedule 2024](/files/Communications/P5_WA1_Schedule_2024.pdf)   |[P6 WA1 Schedule 2024](/files/Communications/P6_WA1_Schedule_2024.pdf)|
-
-**<u>Term 2</u>** 
-|  [P3 WA2 Schedule 2024](/files/Communications/WA%20and%20Prelim%20Schedule/P3_WA2_Schedule_2024.pdf)
-| [P4 WA2 Schedule 2024](/files/Communications/WA%20and%20Prelim%20Schedule/P4_WA2_Schedule_2024_updated.pdf)| [P5 WA2 Schedule 2024](/files/Communications/P5_WA2_Schedule_2024_updated.pdf)
-     | [P6 WA2 Schedule 2024](/files/Communications/WA%20and%20Prelim%20Schedule/P6_WA2_Schedule_2024.pdf) |
-
-**<u>Term 3</u>** 
-| [P3 WA3 Schedule 2024](/files/Communications/WA%20and%20Prelim%20Schedule/P3_WA3_Schedule_2024.pdf)   | [P4 WA3 Schedule 2024](/files/Communications/WA%20and%20Prelim%20Schedule/P4_WA3_Schedule_2024.pdf)  | [P5 WA3 Schedule 2024](/files/Communications/WA%20and%20Prelim%20Schedule/P5_WA3_Schedule_2024.pdf)  |[P6 Prelim Schedule 2024](/files/Communications/WA%20and%20Prelim%20Schedule/P6_Prelim_Schedule_2024.pdf)
-
-**<u>Term 4</u>** 
-| [P3 End Year Assessment Schedule 2024](/files/Communications/WA%20and%20Prelim%20Schedule/2024_P3_End_Year_Assessment_Schedule.pdf)  | [P4 End Year Assessment Schedule 2024](/files/Communications/WA%20and%20Prelim%20Schedule/2024_P4_End_Year_Assessment_Schedule.pdf)  |[P5 End Year Assessment Schedule 2024](/files/Communications/WA%20and%20Prelim%20Schedule/2024_P5_End_Year_Assessment_Schedule.pdf) |
-### Parents Gateway 
-Dear Parents,
-
-  
-
-Parents Gateway is an initiative by MOE to enable parents to interact with schools more conveniently on administrative&nbsp;and financial matters.&nbsp;Parents will also be able to use this mobile application to stay updated on school’s programme&nbsp;and activities.
-
-  
-
-We would like to invite you to download the free Parents Gateway mobile app on your mobile phone (available on iOS and Android platforms only) and perform a simple one-time onboarding process.
-
-**For assistance to download the Parents Gateway Mobile Application,**
-1. View the [Step-by-Step Guide Video ](https://www.youtube.com/watch?v=tW9jwyuovOo)
-2. Refer to the [Parents User Guide]()
-
-**To register for SingPass, you may&nbsp;refer to** [Registering for SingPass.](/files/Communications/Parents%20Gateway/Registering%20for%20SingPass.pdf)
-
-[Frequently Asked Questions About Parents Gateway](/files/Communications/Parents%20Gateway/Frequently%20Asked%20Questions.pdf)
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tW9jwyuovOo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
-
-
-### Consent for photography and videos 
-Photograph(s) or video image(s) of students and/or their parents/guardians may be&nbsp;captured during school activities and events such as classroom lessons, CCA,enrichment programmes, school camps and other school events. The school may use&nbsp;and publish such photographs and/or video recordings in school publications, website,&nbsp;social media channels, and other communication channels.
-
-### Rivervale Primary in the News
-
- 1)&nbsp;Channel News Asia: Stronger :The Battle against COVID-19 3rd March 2020
- 
-![](/images/Communications/Capture.png)
-
-Click [here](https://www.channelnewsasia.com/watch/stronger-battle-against-covid-19)&nbsp;to view video (~31:17 - 34:06) and article on Channel News Asia.
-
-2) &nbsp;Lianhe Zaobao 8 March 2020   
-确保学生都能参与心仪项目&nbsp;八小学试行无须选拔课程辅助活动模式    
-Click [here](/files/Communications/Rivervale%20in%20the%20News/确保学生都能参与心仪项目%20八小学试行无须选拔课程辅助活动模式%208%20March%202020.pdf) &nbsp;to view
-
-### Rivervale Primary E Open House 2022 
-Please click&nbsp;[here](/files/Communications/Open%20House_For%20SchoolWebsite.pdf)&nbsp;to view slides for our E-open House 2022.
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Azb8sezx72Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
+<h3>Rivervale Connects</h3>
+<p>| <a href="/files/Announcements/2024_Term_1_Rivervale_Connects.pdf" rel="noopener noreferrer nofollow" target="_blank">Term 1</a> |
+<a href="/files/Communications/Rivervale%20Connects/2024_Term_2_Rivervale_Connects.pdf" rel="noopener noreferrer nofollow" target="_blank">Term 2</a>| <a href="/files/Communications/Rivervale%20Connects/T3_2024_Rivervale_Connects.pdf" rel="noopener noreferrer nofollow" target="_blank">Term 3</a> |
+<a href="/files/Communications/Rivervale%20Connects/5_Sep_T4_2024_Rivervale_Connects.pdf" rel="noopener noreferrer nofollow" target="_blank">Term 4</a>|</p>
+<h3>WA and Preliminary Examination Schedule</h3>
+<p><strong><u>Term 1</u></strong>| <a href="/files/Communications/P3_WA1_Schedule_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">P3 WA1 Schedule 2024</a> |
+<a href="/files/Communications/P4_WA1_Schedule_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">P4 WA1 Schedule 2024</a>| <a href="/files/Communications/P5_WA1_Schedule_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">P5 WA1 Schedule 2024</a> |
+<a href="/files/Communications/P6_WA1_Schedule_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">P6 WA1 Schedule 2024</a>|</p>
+<p><strong><u>Term 2</u></strong>| <a href="/files/Communications/WA%20and%20Prelim%20Schedule/P3_WA2_Schedule_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">P3 WA2 Schedule 2024</a>|
+<a href="/files/Communications/WA%20and%20Prelim%20Schedule/P4_WA2_Schedule_2024_updated.pdf" rel="noopener noreferrer nofollow" target="_blank">P4 WA2 Schedule 2024</a>| <a href="/files/Communications/P5_WA2_Schedule_2024_updated.pdf" rel="noopener noreferrer nofollow" target="_blank">P5 WA2 Schedule 2024</a>|
+<a href="/files/Communications/WA%20and%20Prelim%20Schedule/P6_WA2_Schedule_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">P6 WA2 Schedule 2024</a>|</p>
+<p><strong><u>Term 3</u></strong>| <a href="/files/Communications/WA%20and%20Prelim%20Schedule/P3_WA3_Schedule_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">P3 WA3 Schedule 2024</a> |
+<a href="/files/Communications/WA%20and%20Prelim%20Schedule/P4_WA3_Schedule_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">P4 WA3 Schedule 2024</a>| <a href="/files/Communications/WA%20and%20Prelim%20Schedule/P5_WA3_Schedule_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">P5 WA3 Schedule 2024</a> |
+<a href="/files/Communications/WA%20and%20Prelim%20Schedule/P6_Prelim_Schedule_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">P6 Prelim Schedule 2024</a>
+</p>
+<p><strong><u>Term 4</u></strong>| <a href="/files/Communications/WA%20and%20Prelim%20Schedule/2024_P3_End_Year_Assessment_Schedule.pdf" rel="noopener noreferrer nofollow" target="_blank">P3 End Year Assessment Schedule 2024</a> |
+<a href="/files/Communications/WA%20and%20Prelim%20Schedule/2024_P4_End_Year_Assessment_Schedule.pdf" rel="noopener noreferrer nofollow" target="_blank">P4 End Year Assessment Schedule 2024</a>|<a href="/files/Communications/WA%20and%20Prelim%20Schedule/2024_P5_End_Year_Assessment_Schedule.pdf" rel="noopener noreferrer nofollow" target="_blank">P5 End Year Assessment Schedule 2024</a> |</p>
+<h3>Parents Gateway</h3>
+<p>Dear Parents,</p>
+<p>Parents Gateway is an initiative by MOE to enable parents to interact
+with schools more conveniently on administrative&nbsp;and financial matters.&nbsp;Parents
+will also be able to use this mobile application to stay updated on school’s
+programme&nbsp;and activities.</p>
+<p>We would like to invite you to download the free Parents Gateway mobile
+app on your mobile phone (available on iOS and Android platforms only)
+and perform a simple one-time onboarding process.</p>
+<p><strong>For assistance to download the Parents Gateway Mobile Application,</strong>
+</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>View the <a href="https://www.youtube.com/watch?v=tW9jwyuovOo" rel="noopener noreferrer nofollow" target="_blank">Step-by-Step Guide Video</a>
+</p>
+</li>
+<li>
+<p>Refer to the <a href="" rel="noopener noreferrer nofollow" target="_blank">Parents User Guide</a>
+</p>
+</li>
+</ol>
+<p><strong>To register for SingPass, you may&nbsp;refer to</strong>  <a href="/files/Communications/Parents%20Gateway/Registering%20for%20SingPass.pdf" rel="noopener noreferrer nofollow" target="_blank">Registering for SingPass.</a>
+</p>
+<p><a href="/files/Communications/Parents%20Gateway/Frequently%20Asked%20Questions.pdf" rel="noopener noreferrer nofollow" target="_blank">Frequently Asked Questions About Parents Gateway</a>
+</p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/tW9jwyuovOo"></iframe>
+</div>
+<h3>Consent for photography and videos</h3>
+<p>Photograph(s) or video image(s) of students and/or their parents/guardians
+may be&nbsp;captured during school activities and events such as classroom
+lessons, CCA,enrichment programmes, school camps and other school events.
+The school may use&nbsp;and publish such photographs and/or video recordings
+in school publications, website,&nbsp;social media channels, and other
+communication channels.</p>
+<h3>Rivervale Primary in the News</h3>
+<p>1) Word Whiz- Back to School Series (校园篇) 2023</p>
+<p><a href="https://www.mewatch.sg/clips/Word-Whiz-Back-to-School-2-417192" rel="noopener noreferrer nofollow" target="_blank">https://www.mewatch.sg/clips/Word-Whiz-Back-to-School-2-417192</a>
+</p>
+<p><a href="https://www.mewatch.sg/clips/Word-Whiz-Back-to-School-3-417196" rel="noopener noreferrer nofollow" target="_blank">https://www.mewatch.sg/clips/Word-Whiz-Back-to-School-3-417196</a>
+</p>
+<p><a href="https://www.mewatch.sg/clips/Word-Whiz-Back-to-School-10-425847" rel="noopener noreferrer nofollow" target="_blank">https://www.mewatch.sg/clips/Word-Whiz-Back-to-School-10-425847</a>
+</p>
+<p><a href="https://www.mewatch.sg/watch/Word-Whiz-Back-to-School-11-427176" rel="noopener noreferrer nofollow" target="_blank">https://www.mewatch.sg/watch/Word-Whiz-Back-to-School-11-427176</a>
+</p>
+<p></p>
+<p>2)&nbsp;Channel News Asia: Stronger :The Battle against COVID-19 3rd March
+2020</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Communications/Capture.png">
+</div>
+<p>Click <a href="https://www.channelnewsasia.com/watch/stronger-battle-against-covid-19" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;to
+view video (~31:17 - 34:06) and article on Channel News Asia.</p>
+<p>3.&nbsp;Lianhe Zaobao 8 March 2020
+<br>确保学生都能参与心仪项目&nbsp;八小学试行无须选拔课程辅助活动模式
+<br>Click <a href="/files/Communications/Rivervale%20in%20the%20News/%E7%A1%AE%E4%BF%9D%E5%AD%A6%E7%94%9F%E9%83%BD%E8%83%BD%E5%8F%82%E4%B8%8E%E5%BF%83%E4%BB%AA%E9%A1%B9%E7%9B%AE%20%E5%85%AB%E5%B0%8F%E5%AD%A6%E8%AF%95%E8%A1%8C%E6%97%A0%E9%A1%BB%E9%80%89%E6%8B%94%E8%AF%BE%E7%A8%8B%E8%BE%85%E5%8A%A9%E6%B4%BB%E5%8A%A8%E6%A8%A1%E5%BC%8F%208%20March%202020.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> &nbsp;to
+view</p>
+<h3>Rivervale Primary E Open House 2022</h3>
+<p>Please click&nbsp;<a href="/files/Communications/Open%20House_For%20SchoolWebsite.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;to
+view slides for our E-open House 2022.</p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Azb8sezx72Y"></iframe>
+</div>
+<p></p>
