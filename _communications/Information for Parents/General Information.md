@@ -71,14 +71,18 @@ communication channels.</p>
 </p>
 <p><a href="https://www.mewatch.sg/watch/Word-Whiz-Back-to-School-11-427176" rel="noopener noreferrer nofollow" target="_blank">https://www.mewatch.sg/watch/Word-Whiz-Back-to-School-11-427176</a>
 </p>
-<p>3)&nbsp;Channel News Asia: Stronger :The Battle against COVID-19 3rd March
+<p>3) 2023 MOE Instagram: Staff Well-being Commitee</p>
+<p>(Slides 4-5)</p>
+<p><a href="https://www.instagram.com/moesingapore/p/C26VBm5N4yA/?img_index=5" rel="noopener noreferrer nofollow" target="_blank">https://www.instagram.com/moesingapore/p/C26VBm5N4yA/?img_index=5</a>
+</p>
+<p>4)&nbsp;Channel News Asia: Stronger: The Battle against COVID-19 3rd March
 2020</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Communications/Capture.png">
 </div>
 <p>Click <a href="https://www.channelnewsasia.com/watch/stronger-battle-against-covid-19" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;to
 view video (~31:17 - 34:06) and article on Channel News Asia.</p>
-<p>4)&nbsp;Lianhe Zaobao 8 March 2020
+<p>5)&nbsp;Lianhe Zaobao 8 March 2020
 <br>确保学生都能参与心仪项目&nbsp;八小学试行无须选拔课程辅助活动模式
 <br>Click <a href="/files/Communications/Rivervale%20in%20the%20News/%E7%A1%AE%E4%BF%9D%E5%AD%A6%E7%94%9F%E9%83%BD%E8%83%BD%E5%8F%82%E4%B8%8E%E5%BF%83%E4%BB%AA%E9%A1%B9%E7%9B%AE%20%E5%85%AB%E5%B0%8F%E5%AD%A6%E8%AF%95%E8%A1%8C%E6%97%A0%E9%A1%BB%E9%80%89%E6%8B%94%E8%AF%BE%E7%A8%8B%E8%BE%85%E5%8A%A9%E6%B4%BB%E5%8A%A8%E6%A8%A1%E5%BC%8F%208%20March%202020.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> &nbsp;to
 view</p>
