@@ -95,18 +95,18 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Tang Kwang Wue</p>
+<p>Mr Ran Yijun</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>tang_kwang_wue@moe.edu.sg</p>
+<p>ran_yijun@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Nurmerdina Mohd Azni</p>
+<p>Ms Tricia</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>nurmerdina_mohd_azni@moe.edu.sg</p>
+<p></p>
 </td>
 </tr>
 <tr>
