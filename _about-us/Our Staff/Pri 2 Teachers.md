@@ -14,7 +14,7 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="3">
-<p>Primary 2 Form Teachers</p>
+<p>Primary 2 Form Teachers (2025)</p>
 </th>
 </tr>
 <tr>
@@ -90,31 +90,23 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="2" colspan="1">
 <p><strong>2RS</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Tai Xin Yi Cheryl</p>
+<p>Mdm Nashita</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>tai_xin_yi_cheryl@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Li Song</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>li_song@moe.edu.sg</p>
+<p>nashita_mohamed_idris@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Lo Siew Yee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>lo_siew_yee@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
