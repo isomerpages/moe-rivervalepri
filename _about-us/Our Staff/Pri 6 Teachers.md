@@ -91,10 +91,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Mohamad Khair Bin Johari</p>
+<p>Mdm Chan Pui Yong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>mohamad_khair_johari@moe.edu.sg</p>
+<p>chan_pui_yong@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
