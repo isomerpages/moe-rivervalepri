@@ -176,7 +176,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>thong_phui_shan@moe.edu.sg
+<p>vikneswari_sukumaran@moe.edu.sg
 <br>
 </p>
 </td>
