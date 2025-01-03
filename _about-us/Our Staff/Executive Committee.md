@@ -294,26 +294,8 @@ variant: tiptap
 </p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>SH Aesthetics
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mrs Rachel Tay
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>rachel_subramaniam@moe.edu.sg</p>
-</td>
-</tr>
 </tbody>
 </table>
-<p>
-<br>
-</p>
 <h3>Student Development Team</h3>
 <table style="minWidth: 75px">
 <colgroup>
@@ -323,15 +305,15 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p>HOD Student Management &amp; Well-Being &amp; Student Leadership</p>
-</th>
-<th rowspan="1" colspan="1">
+<td rowspan="1" colspan="1">
+<p>HOD Student Management &amp; Well-being &amp; Student Leadership</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Mr Muhd Zakir</p>
-</th>
-<th rowspan="1" colspan="1">
+</td>
+<td rowspan="1" colspan="1">
 <p>muhammad_zakir_abu_bakar@moe.edu.sg</p>
-</th>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -368,6 +350,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>SH Discipline</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Nur Sakina Bte Akbar Ali</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>nur_sakina_akbar_ali@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Assistant Year Head (P1&amp;2)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -390,9 +383,6 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p>
-<br>
-</p>
 <h3>Professional Development Team</h3>
 <table style="minWidth: 75px">
 <colgroup>
@@ -402,25 +392,14 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
+<td rowspan="1" colspan="1">
 <p>Lead Teacher (Chinese)</p>
-</th>
-<th rowspan="1" colspan="1">
+</td>
+<td rowspan="1" colspan="1">
 <p>Mdm Chew Mian Cheng</p>
-</th>
-<th rowspan="1" colspan="1">
+</td>
+<td rowspan="1" colspan="1">
 <p>chew_mian_cheng@moe.edu.sg</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Senior Teacher (English)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mrs Yow Hwee Peng</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>goh_hwee_peng@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
