@@ -67,26 +67,26 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Veronica Tan</p>
+<p>Mr Yeo Peng Quee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>tan_suan_eng_veronica@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mrs Samantha Lim</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>quek_yi_shao@moe.edu.sg</p>
+<p>yeo_peng_quee@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Ng Mui Chin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>huang_meijing@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Nanthini</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>nanthini_s_rajandaan@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
