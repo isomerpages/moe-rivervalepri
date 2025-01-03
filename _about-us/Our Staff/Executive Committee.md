@@ -151,17 +151,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD PE/ Aesthetics/CCA
+<p>HOD PE, CCA &amp; Aesthetics
 <br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Emily Tan-Yong
+<p>Mr Song Ziliang
 <br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>tan_yong_chwee_ping@moe.edu.sg
+<p>song_ziliang@moe.edu.sg
 <br>
 </p>
 </td>
