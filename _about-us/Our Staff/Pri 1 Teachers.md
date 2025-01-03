@@ -147,18 +147,18 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Laura Bay</p>
+<p>Mr Ray Lee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>tay_shengwei_laura@moe.edu.sg</p>
+<p>ray_lee_say_sing@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Khairiana Ali</p>
+<p>Mdm Ong Wei Kei</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>khairiana_ali@moe.edu.sg</p>
+<p>ong_wei_kei@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
