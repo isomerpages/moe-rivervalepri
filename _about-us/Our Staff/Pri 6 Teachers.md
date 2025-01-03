@@ -123,18 +123,18 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Chan Pui Yong</p>
+<p>Mr Seah Jin Yang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>chan_pui_yong@moe.edu.sg</p>
+<p>seah_jin_yang@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Ong Wei Kei</p>
+<p>Mr Muhd Firdaus B Abdul Latiff</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ong_wei_kei@moe.edu.sg</p>
+<p>muhammad_firdaus_abdul_latiff@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -151,10 +151,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Lu Wan Min</p>
+<p>Ms Nurshamira</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>lu_wanmin@moe.edu.sg</p>
+<p>nurshamira_johari@moe.edu.sg</p>
 </td>
 </tr>
 </tbody>
