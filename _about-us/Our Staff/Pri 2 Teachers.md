@@ -138,18 +138,18 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Nur Shazlina</p>
+<p>Ms Poh Si Hui</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>nur_shazlina_shaly@moe.edu.sg</p>
+<p>poh_si_hui@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Ong Shi Theng</p>
+<p>Mdm Jasmine Chiah</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ong_shi_theng@moe.edu.sg</p>
+<p>chiah_min_hui_jasmine@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
