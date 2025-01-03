@@ -103,18 +103,18 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Ng Mui Chin</p>
+<p>Mdm Nurul Huda Bte Borhan Ali</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>huang_meijing@moe.edu.sg</p>
+<p>nurul_huda_borhan_ali@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Yee Siong Yew</p>
+<p>Mdm Liang Wei Hsiang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>yee_siong_yew@moe.edu.sg</p>
+<p>liang_wei_hsiang@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
