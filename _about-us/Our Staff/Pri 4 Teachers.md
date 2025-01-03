@@ -14,7 +14,7 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="3">
-<p>Primary 4 Form Teachers</p>
+<p>Primary 4 Form Teachers (2025)</p>
 </th>
 </tr>
 <tr>
@@ -131,21 +131,22 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
-<p>4CA</p>
+<p><strong>4CA</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Jamie Yeo</p>
+<p>Ms Cheryl Chern</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>kay_woon_ping@moe.edu.sg</p>
+<p>chern_shiying_cheryl@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Ang Hui Qian Iris</p>
+<p>Ms Veronica Tan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ang_hui_qian_iris@moe.edu.sg</p>
+<p>tan_suan_eng_veronica@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
