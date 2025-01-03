@@ -110,23 +110,15 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="1" colspan="1">
 <p><strong>2IN</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Yong Jui Lin</p>
+<p>Mrs Linda Goh</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>yong_jui_lin@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Jasmine Chiah</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>chiah_min_hui_jasmine@moe.edu.sg</p>
+<p>tan_su_mei_linda@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -134,7 +126,10 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Nazrah Hanani Mohd Rawi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>nazrah_hanani_mohamed_rawi@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
