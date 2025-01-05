@@ -3,102 +3,206 @@ title: Pri 2 Teachers
 permalink: /about-us/our-staff/pri-2-teachers/
 description: ""
 third_nav_title: Our Staff
-variant: markdown
+variant: tiptap
 ---
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-ifvt{background-color:#FFF;color:#0C3989;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-vvbc{background-color:#FFF;color:#0C3989;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-ifvt" colspan="3" style="border: 1px solid black">Primary 2 Form Teachers</th>
-  </tr>
-</thead>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
-  <tr>
-    <td class="tg-ifvt" style="border: 1px solid black"><b>Year Head</b></td>
-    <td class="tg-vvbc" style="border: 1px solid black"><span style="font-weight:400;color:#0C3989">Mdm Hamimah Ali</span></td>
-    <td class="tg-vvbc" style="border: 1px solid black"><span style="font-weight:400;color:#0C3989">hamimah_ali@moe.edu.sg</span></td>
-  </tr>
-  <tr>
-    <td class="tg-ifvt" style="border: 1px solid black"><b>Assistant Year Head</b></td>
-    <td class="tg-vvbc" style="border: 1px solid black"><span style="font-weight:400;color:#0C3989">Mdm Ng Hwee Koon</span></td>
-    <td class="tg-vvbc" style="border: 1px solid black"><span style="font-weight:400;color:#0C3989">ng_hwee_koon@moe.edu.sg</span></td>
-  </tr>
-  <tr>
-    <td class="tg-ifvt" rowspan="2" style="border: 1px solid black"><b>2RE</b></td>
-    <td class="tg-vvbc" style="border: 1px solid black">Mdm Lau Wan Yu</td>
-    <td class="tg-vvbc" style="border: 1px solid black">lau_wan_yu@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-vvbc" style="border: 1px solid black">Ms Vijaya Letchumii</td>
-    <td class="tg-vvbc" style="border: 1px solid black">vijaya_letchumi_sandramogan@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-ifvt" rowspan="2" style="border: 1px solid black"><b>2RO</b></td>
-    <td class="tg-vvbc" style="border: 1px solid black">Mdm Ayeshah</td>
-    <td class="tg-vvbc" style="border: 1px solid black">ayeshah_jamaldeen@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-vvbc" style="border: 1px solid black"><span style="font-weight:400;color:#0C3989">Mr David James Chua</span></td>
-    <td class="tg-vvbc" style="border: 1px solid black"><span style="font-weight:400;color:#0C3989">david_james_chua@moe.edu.sg</span></td>
-  </tr>
-  <tr>
-    <td class="tg-ifvt" rowspan="3" style="border: 1px solid black"><b>2RS</b></td>
-    <td class="tg-vvbc" style="border: 1px solid black"><span style="font-weight:400;color:#0C3989">Ms Tai Xin Yi Cheryl</span></td>
-    <td class="tg-vvbc" style="border: 1px solid black"><span style="font-weight:400;color:#0C3989">tai_xin_yi_cheryl@moe.edu.sg</span></td>
-  </tr>
-  <tr>
-    <td class="tg-vvbc" style="border: 1px solid black">Mdm Li Song</td>
-    <td class="tg-vvbc" style="border: 1px solid black">li_song@moe.edu.sg</td>
-  </tr>
-	<tr>
-   
-  </tr>
-  <tr>
-    <td class="tg-ifvt" rowspan="3" style="border: 1px solid black"><b>2IN</b></td>
-    <td class="tg-vvbc" style="border: 1px solid black">Mdm Yong Jui Lin</td>
-    <td class="tg-vvbc" style="border: 1px solid black">yong_jui_lin@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-vvbc" style="border: 1px solid black">Mdm Jasmine Chiah</td>
-    <td class="tg-vvbc" style="border: 1px solid black">chiah_min_hui_jasmine@moe.edu.sg</td>
-  </tr>
-	 <tr>
-		 </tr>
-    <tr><td class="tg-ifvt" rowspan="2" style="border: 1px solid black"><b>2CA</b></td>
-    <td class="tg-vvbc" style="border: 1px solid black">Ms Nur Shazlina</td>
-    <td class="tg-vvbc" style="border: 1px solid black">nur_shazlina_shaly@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-vvbc" style="border: 1px solid black"><span style="font-weight:400;color:#0C3989">Ms Ong Shi Theng</span></td>
-    <td class="tg-vvbc" style="border: 1px solid black"><span style="font-weight:400;color:#0C3989">ong_shi_theng@moe.edu.sg</span></td>
-  </tr>
-  <tr>
-    <td class="tg-ifvt" rowspan="2" style="border: 1px solid black"><b>2HA</b></td>
-    <td class="tg-vvbc" style="border: 1px solid black">Mrs Sally Tay</td>
-    <td class="tg-vvbc" style="border: 1px solid black">sally_tan_cai_feng@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-vvbc" style="border: 1px solid black">Mdm Nazrah Hanani Mohd Rawi</td>
-    <td class="tg-vvbc" style="border: 1px solid black">nazrah_hanani_mohamed_rawi@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-ifvt" rowspan="2" style="border: 1px solid black"><b>2EX</b></td>
-    <td class="tg-vvbc" style="border: 1px solid black"><span style="font-weight:400;color:#0C3989">Mrs Linda Goh</span></td>
-    <td class="tg-vvbc" style="border: 1px solid black"><span style="font-weight:400;color:#0C3989">tan_su_mei_linda@moe.edu.sg</span></td>
-  </tr>
-  <tr>
-    <td class="tg-vvbc" style="border: 1px solid black">Mdm Kiran Jacqueline Rafeek</td>
-    <td class="tg-vvbc" style="border: 1px solid black">kiran_jacqueline_rafeek@moe.edu.sg</td>
-  </tr>
-  <tr>
-  
-</tr></tbody>
+<tr>
+<th rowspan="1" colspan="3">
+<p>Primary 2 Form Teachers (2025)</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Year Head</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Hamimah Ali</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>hamimah_ali@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Assistant Year Head</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Ng Hwee Koon</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ng_hwee_koon@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3" colspan="1">
+<p><strong>2RE</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Shashita</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>shashita_ramesh_kumar@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Chew Mian Cheng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>chew_mian_cheng@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Eu Kong Leong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>eu_kong_leong_a@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p><strong>2RO</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Ng Hwee Koon</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ng_hwee_koon@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Ghayathri</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>k_ghayathri_dhevi@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p><strong>2RS</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Nashita</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>nashita_mohamed_idris@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Lo Siew Yee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>lo_siew_yee@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2IN</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Linda Goh</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>tan_su_mei_linda@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Nazrah Hanani Mohd Rawi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>nazrah_hanani_mohamed_rawi@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p><strong>2CA</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Poh Si Hui</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>poh_si_hui@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Jasmine Chiah</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>chiah_min_hui_jasmine@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p><strong>2HA</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Laura Bay</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>tay_shengwei_laura@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Khairiana Ali</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>khairiana_ali@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p><strong>2EX</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Emily Tan-Yong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>tan-yong_chwee_ping@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Mary Chua</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>chua_bock_chin@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
 </table>
+<p></p>
