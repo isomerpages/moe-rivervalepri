@@ -6,9 +6,8 @@ third_nav_title: Information for Parents
 variant: tiptap
 ---
 <h3>Rivervale Connects</h3>
-<p>| <a href="/files/Announcements/2024_Term_1_Rivervale_Connects.pdf" rel="noopener noreferrer nofollow" target="_blank">Term 1</a> |
-<a href="/files/Communications/Rivervale%20Connects/2024_Term_2_Rivervale_Connects.pdf" rel="noopener noreferrer nofollow" target="_blank">Term 2</a>| <a href="/files/Communications/Rivervale%20Connects/T3_2024_Rivervale_Connects.pdf" rel="noopener noreferrer nofollow" target="_blank">Term 3</a> |
-<a href="/files/Communications/Rivervale%20Connects/5_Sep_T4_2024_Rivervale_Connects.pdf" rel="noopener noreferrer nofollow" target="_blank">Term 4</a>|</p>
+<p>| <a href="/files/Communications/Rivervale Connects/Rivervale_Connects_2025_Term_1.pdf" rel="noopener nofollow" target="_blank">Term 1</a> |
+Term 2| Term 3 | Term 4|</p>
 <h3>WA and Preliminary Examination Schedule</h3>
 <p><strong><u>Term 1</u></strong>| <a href="/files/Communications/P3_WA1_Schedule_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">P3 WA1 Schedule 2024</a> |
 <a href="/files/Communications/P4_WA1_Schedule_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">P4 WA1 Schedule 2024</a>| <a href="/files/Communications/P5_WA1_Schedule_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">P5 WA1 Schedule 2024</a> |
