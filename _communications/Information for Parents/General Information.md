@@ -6,8 +6,7 @@ third_nav_title: Information for Parents
 variant: tiptap
 ---
 <h3>Rivervale Connects</h3>
-<p>| <a href="/files/Communications/Rivervale Connects/Rivervale_Connects_2025_Term_1.pdf" rel="noopener nofollow" target="_blank">Term 1</a> |
-Term 2| Term 3 | Term 4|</p>
+<p>| Term 1 | Term 2| Term 3 | Term 4|</p>
 <h3>WA and Preliminary Examination Schedule</h3>
 <p><strong><u>Term 1</u></strong>| <a href="/files/Communications/P3_WA1_Schedule_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">P3 WA1 Schedule 2024</a> |
 <a href="/files/Communications/P4_WA1_Schedule_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">P4 WA1 Schedule 2024</a>| <a href="/files/Communications/P5_WA1_Schedule_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">P5 WA1 Schedule 2024</a> |
