@@ -70,7 +70,7 @@ themselves safe from sexuality-related risks.</p>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/MOE_LOGO.jpg">
+<img style="width: 20%;" height="auto" width="100%" alt="" src="/images/MOE_LOGO.jpg">
 </div>
 <p><strong>2025 Sexuality Education Lessons in CCE</strong>
 </p>
@@ -167,7 +167,7 @@ and how to seek help for themselves and their friends.</p>
 </table>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/MOE_LOGO.jpg">
+<img style="width: 20%;" height="auto" width="100%" alt="" src="/images/MOE_LOGO.jpg">
 </div>
 <p><strong>2025 Sexuality Education Lessons in CCE</strong>
 </p>
