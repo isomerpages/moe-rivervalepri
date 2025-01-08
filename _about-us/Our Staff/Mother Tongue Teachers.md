@@ -70,10 +70,6 @@ variant: markdown
     <td style="border: 1px solid black" class="tg-vvbc">tan_kok_teng@moe.edu.sg</td>
   </tr>
   <tr>
-    <td style="border: 1px solid black" class="tg-vvbc">Ms Jessie Nah Min Li</td>
-    <td style="border: 1px solid black" class="tg-vvbc">jessie_nah_min_li@schools.gov.sg</td>
-  </tr>
-  <tr>
     <td style="border: 1px solid black" class="tg-vvbc">Mr Ran Yijun</td>
     <td style="border: 1px solid black" class="tg-vvbc">ran_yijun@moe.edu.sg</td>
   </tr>
@@ -84,6 +80,14 @@ variant: markdown
   <tr>
     <td style="border: 1px solid black" class="tg-vvbc">Mdm Lo Siew Yee</td>
     <td style="border: 1px solid black" class="tg-vvbc">lo_siew_yee@schools.gov.sg</td>
+  </tr>
+	<tr>
+    <td style="border: 1px solid black" class="tg-vvbc">Ms Jessie Nah Min Li</td>
+    <td style="border: 1px solid black" class="tg-vvbc">jessie_nah_min_li@schools.gov.sg</td>
+  </tr>
+	<tr>
+    <td style="border: 1px solid black" class="tg-vvbc">Mr Lim Sir Bee</td>
+    <td style="border: 1px solid black" class="tg-vvbc">lim_sir_bee@schools.gov.sg</td>
   </tr>
   <tr>
     
