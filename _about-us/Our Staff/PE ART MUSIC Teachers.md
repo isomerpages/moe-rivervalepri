@@ -45,8 +45,8 @@ variant: markdown
     <td class="tg-vvbc" style="border: 1px solid black">mohamed_sadiqin_subhan@moe.edu.sg</td>
   </tr>
 	<tr>
-    <td class="tg-vvbc" style="border: 1px solid black">Mr Ghazali Bin Abdol Wahab</td>
-    <td class="tg-vvbc" style="border: 1px solid black"></td>
+    <td class="tg-vvbc" style="border: 1px solid black">Mr Jared Ng</td>
+    <td class="tg-vvbc" style="border: 1px solid black">jared_ng_yujie@schools.gov.sg</td>
   </tr>
 </tbody>
 </table>
