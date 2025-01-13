@@ -79,15 +79,15 @@ variant: markdown
   </tr>
   <tr>
     <td style="border: 1px solid black" class="tg-vvbc">Mdm Lo Siew Yee</td>
-    <td style="border: 1px solid black" class="tg-vvbc">lo_siew_yee@schools.gov.sg</td>
+    <td style="border: 1px solid black" class="tg-vvbc">lo_siew_yee@moe.edu.sg</td>
   </tr>
 	<tr>
     <td style="border: 1px solid black" class="tg-vvbc">Ms Jessie Nah Min Li</td>
-    <td style="border: 1px solid black" class="tg-vvbc">jessie_nah_min_li@schools.gov.sg</td>
+    <td style="border: 1px solid black" class="tg-vvbc">jessie_nah_min_li@moe.edu.sg</td>
   </tr>
 	<tr>
     <td style="border: 1px solid black" class="tg-vvbc">Mr Lim Sir Bee</td>
-    <td style="border: 1px solid black" class="tg-vvbc">lim_sir_bee@schools.gov.sg</td>
+    <td style="border: 1px solid black" class="tg-vvbc">lim_sir_bee@moe.edu.sg</td>
   </tr>
   <tr>
     
@@ -165,7 +165,7 @@ variant: markdown
   </tr>
 	 <tr>
     <td style="border: 1px solid black" class="tg-vvbc">Miss P Aishwarya</td>
-    <td style="border: 1px solid black" class="tg-vvbc">p_aishwarya@schools.gov.sg</td>
+    <td style="border: 1px solid black" class="tg-vvbc">p_aishwarya@moe.edu.sg</td>
   </tr>
 </tbody>
 </table>
