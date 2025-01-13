@@ -253,5 +253,5 @@ Opt-out form will be made available nearer to the dates of the lessons.
 A notification will be sent to inform parents about the commencement of
 the programme via Parents Gateway.</p>
 <p>10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school at
-<a href="rivervale_ps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">rivervale_ps@moe.edu.sg</a>or 63887450 for discussion or to seek clarification
+rivervale_ps@moe.edu.sg or 63887450 for discussion or to seek clarification
 about the school’s Sexuality Education programme.</p>
