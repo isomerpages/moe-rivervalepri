@@ -46,7 +46,7 @@ variant: markdown
   </tr>
 	<tr>
     <td class="tg-vvbc" style="border: 1px solid black">Mr Jared Ng</td>
-    <td class="tg-vvbc" style="border: 1px solid black">jared_ng_yujie@schools.gov.sg</td>
+    <td class="tg-vvbc" style="border: 1px solid black">jared_ng_yujie@moe.edu.sg</td>
   </tr>
 </tbody>
 </table>
@@ -75,7 +75,7 @@ variant: markdown
   </tr>
   <tr>
     <td class="tg-l7h4" style="border: 1px solid black">Mdm Nur Shereena<br></td>
-    <td class="tg-l7h4" style="border: 1px solid black">nur_shereena_abidin@schools.gov.sg</td>
+    <td class="tg-l7h4" style="border: 1px solid black">nur_shereena_abidin@moe.edu.sg</td>
   </tr>
 </tbody>
 </table>
@@ -94,7 +94,7 @@ variant: markdown
 <thead>
   <tr>
     <th class="tg-l7h4" style="border: 1px solid black">Mr Song Ziliang<br></th>
-    <th class="tg-l7h4" style="border: 1px solid black">song_ziliang@schools.gov.sg<br></th>
+    <th class="tg-l7h4" style="border: 1px solid black">song_ziliang@moe.edu.sg<br></th>
   </tr>
 	 <tr>
     <th class="tg-l7h4" style="border: 1px solid black">Mdm Iris Ang<br></th>
