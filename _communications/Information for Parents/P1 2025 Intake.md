@@ -12,5 +12,9 @@ third_nav_title: Information for Parents
 <p><a href="/files/P1_Parents_Briefing_2025_.pdf" rel="noopener nofollow" target="_blank">P1 Parents Briefing Slides 2025</a>
 </p>
 </li>
+<li>
+<p><a href="/files/P1_Induction_2025_FAQ_Final.pdf" rel="noopener nofollow" target="_blank">P1 Induction 2025 FAQ</a>
+</p>
+</li>
 </ol>
 <p></p>

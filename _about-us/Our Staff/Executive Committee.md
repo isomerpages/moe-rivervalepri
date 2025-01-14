@@ -3,7 +3,7 @@ title: Executive Committee
 permalink: /about-us/our-staff/executive-committee/
 description: ""
 third_nav_title: Our Staff
-variant: tiptap
+variant: markdown
 ---
 <table style="minWidth: 75px">
 <colgroup>

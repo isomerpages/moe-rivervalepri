@@ -50,8 +50,8 @@ variant: markdown
     <td style="border: 1px solid black" class="tg-vvbc">liang_wei_hsiang@moe.edu.sg</td>
   </tr>
   <tr>
-    <td style="border: 1px solid black" class="tg-vvbc">Mdm Low Lee San</td>
-    <td style="border: 1px solid black" class="tg-vvbc">low_lee_san@moe.edu.sg</td>
+    <td style="border: 1px solid black" class="tg-vvbc">Mdm Lu Wanmin</td>
+    <td style="border: 1px solid black" class="tg-vvbc">lu_wanmin@moe.edu.sg</td>
   </tr>
   <tr>
     <td style="border: 1px solid black" class="tg-vvbc">Mdm Ong Wei Kei</td>
@@ -70,10 +70,6 @@ variant: markdown
     <td style="border: 1px solid black" class="tg-vvbc">tan_kok_teng@moe.edu.sg</td>
   </tr>
   <tr>
-    <td style="border: 1px solid black" class="tg-vvbc">Mdm Lu Wan Min</td>
-    <td style="border: 1px solid black" class="tg-vvbc">lu_wanmin@moe.edu.sg</td>
-  </tr>
-  <tr>
     <td style="border: 1px solid black" class="tg-vvbc">Mr Ran Yijun</td>
     <td style="border: 1px solid black" class="tg-vvbc">ran_yijun@moe.edu.sg</td>
   </tr>
@@ -82,8 +78,16 @@ variant: markdown
     <td style="border: 1px solid black" class="tg-vvbc">choi_ivy@moe.edu.sg</td>
   </tr>
   <tr>
-    <td style="border: 1px solid black" class="tg-vvbc">Mdm Ong Shi Theng</td>
-    <td style="border: 1px solid black" class="tg-vvbc">ong_shi_theng@moe.edu.sg</td>
+    <td style="border: 1px solid black" class="tg-vvbc">Mdm Lo Siew Yee</td>
+    <td style="border: 1px solid black" class="tg-vvbc">lo_siew_yee@moe.edu.sg</td>
+  </tr>
+	<tr>
+    <td style="border: 1px solid black" class="tg-vvbc">Ms Jessie Nah Min Li</td>
+    <td style="border: 1px solid black" class="tg-vvbc">jessie_nah_min_li@moe.edu.sg</td>
+  </tr>
+	<tr>
+    <td style="border: 1px solid black" class="tg-vvbc">Mr Lim Sir Bee</td>
+    <td style="border: 1px solid black" class="tg-vvbc">lim_sir_bee@moe.edu.sg</td>
   </tr>
   <tr>
     
@@ -152,12 +156,16 @@ variant: markdown
 </thead>
 <tbody>
   <tr>
-    <td style="border: 1px solid black" class="tg-vvbc">Ms K Ghayathri Dhevi</td>
+    <td style="border: 1px solid black" class="tg-vvbc">Mdm K Ghayathri Dhevi</td>
     <td style="border: 1px solid black" class="tg-vvbc">k_ghayathri_dhevi@moe.edu.sg</td>
   </tr>
   <tr>
     <td style="border: 1px solid black" class="tg-vvbc">Miss Vijaya Letchumi</td>
     <td style="border: 1px solid black" class="tg-vvbc">vijaya_letchumi_sandramogan@moe.edu.sg</td>
+  </tr>
+	 <tr>
+    <td style="border: 1px solid black" class="tg-vvbc">Miss P Aishwarya</td>
+    <td style="border: 1px solid black" class="tg-vvbc">p_aishwarya@moe.edu.sg</td>
   </tr>
 </tbody>
 </table>
