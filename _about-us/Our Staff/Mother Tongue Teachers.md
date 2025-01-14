@@ -51,7 +51,7 @@ variant: markdown
   </tr>
   <tr>
     <td style="border: 1px solid black" class="tg-vvbc">Mdm Lu Wanmin</td>
-    <td style="border: 1px solid black" class="tg-vvbc">lu_wanmin@schools.gov.sg</td>
+    <td style="border: 1px solid black" class="tg-vvbc">lu_wanmin@moe.edu.sg</td>
   </tr>
   <tr>
     <td style="border: 1px solid black" class="tg-vvbc">Mdm Ong Wei Kei</td>
