@@ -1,7 +1,7 @@
 ---
 title: P1 2025 Intake
 permalink: /p1-2025-intake/
-variant: markdown
+variant: tiptap
 description: ""
 third_nav_title: Information for Parents
 ---
@@ -17,7 +17,10 @@ third_nav_title: Information for Parents
 </p>
 </li>
 <li>
-<p><a href="/files/P1_Induction_2025_FAQ_Final.pdf" rel="noopener nofollow" target="_blank">P1 Parent Induction and Engagement 2025</a>
-</p>
+<p>P1 Parent Induction and Engagement 2025</p>
 </li>
 </ol>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/L3F3gwf7Me0?si=ET686FUXQuPztIXv"></iframe>
+</div>
+<p></p>
