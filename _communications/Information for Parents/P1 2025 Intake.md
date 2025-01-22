@@ -21,4 +21,3 @@ third_nav_title: Information for Parents
 </p>
 </li>
 </ol>
-<p></p>
