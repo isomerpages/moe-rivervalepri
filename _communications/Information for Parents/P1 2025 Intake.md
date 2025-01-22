@@ -17,9 +17,8 @@ third_nav_title: Information for Parents
 </p>
 </li>
 <li>
-<p>P1 Parent Induction and Engagement 2025 &nbsp;</p>
-<p></p>
-<p>&nbsp;</p>
+<p><a href="/files/P1_Induction_2025_FAQ_Final.pdf" rel="noopener nofollow" target="_blank">P1 Parent Induction and Engagement 2025</a>
+</p>
 </li>
 </ol>
 <p></p>
