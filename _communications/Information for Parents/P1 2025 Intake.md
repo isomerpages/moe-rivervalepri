@@ -22,7 +22,4 @@ third_nav_title: Information for Parents
 <p>&nbsp;</p>
 </li>
 </ol>
-<div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/L3F3gwf7Me0?si=EifYAtin6dwuBcSj"></iframe>
-</div>
 <p></p>
