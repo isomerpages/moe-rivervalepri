@@ -13,6 +13,18 @@ third_nav_title: Information for Parents
 </p>
 </li>
 <li>
+<p>P1 Induction Briefing for Parents Student Development Team 2025</p>
+</li>
+<li>
+<p>P1 Induction Briefing for Parents_CoreCurriculum 2025</p>
+</li>
+<li>
+<p>P1 Induction Briefing for Parents_PAM_PAL_CCA 2025</p>
+</li>
+<li>
+<p>P1 Induction Briefing for Parents_Principal Address 2025</p>
+</li>
+<li>
 <p><a href="/files/P1_Induction_2025_FAQ_Final.pdf" rel="noopener nofollow" target="_blank">P1 Induction 2025 FAQ</a>
 </p>
 </li>
