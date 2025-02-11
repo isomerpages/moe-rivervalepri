@@ -109,5 +109,20 @@ variant: markdown
 <strong>OPAL2.0 </strong>
 
 </figcaption>
+	</figure>
 
-</figure>
+
+<a href="https://intranet.moe.gov.sg/Pages/Home.aspx"> <img style="width:40%;height:50%" src="/images/Communications/moe_logo_1.jpg"></a>
+
+<figcaption>
+	                                
+                                                                                            MOE Intranet
+</figcaption>
+		
+
+
+<a href="https://idp.mims.moe.gov.sg/nidp/app/login"> <img style="width:40%;height:50%" src="/images/Communications/moe_mims.jpg"></a>
+
+<figcaption>
+                                                                                                                                                                                                                                                                        MIMS Portal                 
+</figcaption>
