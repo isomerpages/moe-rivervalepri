@@ -124,6 +124,5 @@ variant: markdown
 <a href="https://idp.mims.moe.gov.sg/nidp/app/login"> <img style="width:40%;height:50%" src="/images/Communications/moe_mims.jpg"></a>
 
 <figcaption>
-                                                                                          MIMS Portal 
-	
+                                                                                                                                                                                                                                                                        MIMS Portal                 
 </figcaption>
