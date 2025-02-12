@@ -18,16 +18,20 @@ variant: markdown
 [P4 Parent Engagement 2024](/files/Communications/P4_Parent_Engagement_2024.pdf)<br>
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/lYOR7yYtfos?si=T7Piq_Yml507lTTr" height="315" width="560"></iframe>
 
-### P5P6 Parent Engagement 2024
+### P5 Parent Engagement 2024
 
 [P5 Parent Engagement 2024](/files/Communications/P5_Parent_Engagement_2024_sch_website.pdf)<br>
+
+
 
 <div class="bp-youtube">
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/jq9exPHkAtE?si=lIni9Eo9K6WnG4O3" height="315" width="560"></iframe>
 </div>
 
-[P6 Parent Engagement 2024](/files/Communications/P6_Parent_Engagement_2024_sch_website.pdf)<br>
-*Student-Led Conference will be held on **17 April 2023**. Please note correction and we apologise for any inconvenience caused.
+###  P6 Parent Engagement 2025
+[P6 Parent Engagement 2025](/files/P6_Parent_Engagement_2025.pdf)<br>
+[P6 Parent Engagement 2025_QnA](/files/P6_Parent_Engagement_2025_QnA.pdf)<br> 
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/rbeuRynw0Z4?si=NW-IXX-2-eGob7Io" height="315" width="560"></iframe>
 
 ### P2 Parent Engagement 2024
 [P2 Parent Engagement 2024](/files/Communications/P2_Parent_Engagement_2024_Final_Sch.pdf)
