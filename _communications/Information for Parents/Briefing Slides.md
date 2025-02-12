@@ -30,8 +30,8 @@ variant: markdown
 
 ###  P6 Parent Engagement 2025
 [P6 Parent Engagement 2025](/files/P6_Parent_Engagement_2025.pdf)<br>
-
 [P6 Parent Engagement 2025_QnA](/files/P6_Parent_Engagement_2025_QnA.pdf)<br> 
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/rbeuRynw0Z4?si=NW-IXX-2-eGob7Io" height="315" width="560"></iframe>
 
 ### P2 Parent Engagement 2024
 [P2 Parent Engagement 2024](/files/Communications/P2_Parent_Engagement_2024_Final_Sch.pdf)
