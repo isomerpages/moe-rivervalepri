@@ -44,8 +44,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>tan_su_mei_linda@moe.edu.sg
 <br>nur_syahidah_mohamed_salleh@moe.edu.sg
-<br><a href="mailto:tan-yong_chwee_ping@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan-yong_chwee_ping@moe.edu.sg</a>
-</p>
+<br>tan-yong_chwee_ping@moe.edu.sg</p>
 </td>
 </tr>
 </tbody>
