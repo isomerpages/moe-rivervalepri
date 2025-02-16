@@ -42,9 +42,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>mohamed_sadiqin_subhan@moe.edu.sg ran_yijun@moe.edu.sg
-<br><a href="mailto:lim_sir_bee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_sir_bee@moe.edu.sg</a>
-</p>
+<p>mohamed_sadiqin_subhan@moe.edu.sg ran_yijun@moe.edu.sglim_sir_bee@moe.edu.sg</p>
 </td>
 </tr>
 </tbody>
