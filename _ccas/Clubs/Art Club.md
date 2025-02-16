@@ -38,11 +38,13 @@ variant: tiptap
 <p>Mdm Khairiana Ali
 <br>Ms Veronica Tan
 <br>Mdm Ng Hwee Koon</p>
+<p>Mdm Nur Shereena</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>khairiana_ali@moe.edu.sg
 <br>tan_suan_eng_veronica@moe.edu.sg
 <br>ng_hwee_koon@moe.edu.sg</p>
+<p>nur_shereena_abidin@moe.edu.sg</p>
 </td>
 </tr>
 </tbody>
