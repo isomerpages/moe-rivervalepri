@@ -29,6 +29,28 @@ variant: markdown
 
 ### Subject Sharing with Parents 2025 – P3 P4&nbsp;
 
-
+[1. 2025 P34 subject sharing_ICT](/files/1__2025_P34_subject_sharing_ICT.pdf)
+<br>
+[2. 2025 P3 P4 Suject Sharing _PAM](/files/2__2025_P3_P4_Suject_Sharing__PAM.pdf)
+<br>
+[3. 2025 P3 P4 Suject Sharing _English](/files/3__2025_P3_P4_Suject_Sharing__English.pdf)
+<br>
+[4. 2025 P34 subject sharing_MT](/files/4__2025_P34_subject_sharing_MT.pdf)
+<br>
+[5. 2025 P34 subject sharing_Math](/files/5__2025_P34_subject_sharing_Math.pdf)
+<br>
+[6. 2025 P34 subject sharing_SC](/files/6__2025_P34_subject_sharing_SC.pdf)
 
 ### Subject Sharing with Parents 2025 – P5 P6
+
+[1. 2025 P56 ICT subject sharing](/files/1__2025_P56_ICT_subject_sharing.pdf)
+<br>
+[2. 2025 P56 PAM subject sharing](/files/2__2025_P56_PAM_subject_sharing.pdf)
+<br>
+[3. 2025 P5P6 English subject sharing](/files/3__2025_P5P6_English_subject_sharing.pdf)
+<br>
+[4. 2025 P56 MT subject sharing](/files/4__2025_P56_MT_subject_sharing.pdf)
+<br>
+[5. 2025 P56 Math subject sharing](/files/5__2025_P56_Math_subject_sharing.pdf)
+<br>
+[6. 2025 P56 Sci subject sharing](/files/6__2025_P56_Sci_subject_sharing.pdf)
