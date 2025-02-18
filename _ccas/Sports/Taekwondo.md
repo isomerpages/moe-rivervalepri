@@ -39,16 +39,16 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Nurshamira
-<br>Miss P Aishwarya</p>
-<p>Ms Kwek Jing Yi</p>
-<p>Mdm Lo Siew Yee</p>
+<br>Miss P Aishwarya
+<br>Ms Kwek Jing Yi
+<br>Mdm Lo Siew Yee</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>nurshamira_johari@moe.edu.sg
 <br>p_aishwarya@moe.edu.sg
-<br>kwek_jing_yi@moe.edu.sg</p>
-<p>lo_siew_yee@moe.edu.sg</p>
-</td>
+<br>kwek_jing_yi@moe.edu.sg
+<br>lo_siew_yee@moe.edu.sg
+</p></td>
 </tr>
 </tbody>
 </table>
