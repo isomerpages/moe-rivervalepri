@@ -41,9 +41,9 @@ variant: markdown
 <br>Ms Chew Ching Wen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>nurul_nabila_azman@moe.edu.sg tang_kwang_wue@moe.edu.sg
-<br>yee_siong_yew@moe.edu.sg</p>
-<p>chew_ching_wen@moe.edi/sg</p>
+<p>nurul_nabila_azman@moe.edu.sg <br>tang_kwang_wue@moe.edu.sg
+<br>yee_siong_yew@moe.edu.sg
+<br>chew_ching_wen@moe.edu.sg</p>
 </td>
 </tr>
 </tbody>
