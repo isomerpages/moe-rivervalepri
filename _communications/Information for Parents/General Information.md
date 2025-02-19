@@ -11,15 +11,12 @@ Term 2| Term 3 | Term 4|</p>
 <h3>WA and Preliminary Examination Schedule 2025</h3>
 <p><strong><u>Term 1</u></strong>| <a href="/files/P3_WA1_Schedule_2025.pdf" rel="noopener nofollow" target="_blank">P3 WA1 Schedule_2025</a> | <a href="/files/P4_WA1_Schedule_2025.pdf" rel="noopener nofollow" target="_blank">P4 WA1 Schedule_2025</a>|
 <a href="/files/P5_WA1_Schedule_2025.pdf" rel="noopener nofollow" target="_blank">P5 WA1 Schedule_2025</a>| <a href="/files/P6_WA1_Schedule_2025.pdf" rel="noopener nofollow" target="_blank">P6 WA1 Schedule_2025</a>|</p>
-<p><strong><u>Term 2</u></strong>| <a href="/files/Communications/WA%20and%20Prelim%20Schedule/P3_WA2_Schedule_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">P3 WA2 Schedule 2024</a>|
-<a href="/files/Communications/WA%20and%20Prelim%20Schedule/P4_WA2_Schedule_2024_updated.pdf" rel="noopener noreferrer nofollow" target="_blank">P4 WA2 Schedule 2024</a>| <a href="/files/Communications/P5_WA2_Schedule_2024_updated.pdf" rel="noopener noreferrer nofollow" target="_blank">P5 WA2 Schedule 2024</a>|
-<a href="/files/Communications/WA%20and%20Prelim%20Schedule/P6_WA2_Schedule_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">P6 WA2 Schedule 2024</a>|</p>
-<p><strong><u>Term 3</u></strong>| <a href="/files/Communications/WA%20and%20Prelim%20Schedule/P3_WA3_Schedule_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">P3 WA3 Schedule 2024</a> |
-<a href="/files/Communications/WA%20and%20Prelim%20Schedule/P4_WA3_Schedule_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">P4 WA3 Schedule 2024</a>| <a href="/files/Communications/WA%20and%20Prelim%20Schedule/P5_WA3_Schedule_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">P5 WA3 Schedule 2024</a> |
-<a href="/files/Communications/WA%20and%20Prelim%20Schedule/P6_Prelim_Schedule_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">P6 Prelim Schedule 2024</a>
+<p><strong><u>Term 2</u></strong> 
 </p>
-<p><strong><u>Term 4</u></strong>| <a href="/files/Communications/WA%20and%20Prelim%20Schedule/2024_P3_End_Year_Assessment_Schedule.pdf" rel="noopener noreferrer nofollow" target="_blank">P3 End Year Assessment Schedule 2024</a> |
-<a href="/files/Communications/WA%20and%20Prelim%20Schedule/2024_P4_End_Year_Assessment_Schedule.pdf" rel="noopener noreferrer nofollow" target="_blank">P4 End Year Assessment Schedule 2024</a>|<a href="/files/Communications/WA%20and%20Prelim%20Schedule/2024_P5_End_Year_Assessment_Schedule.pdf" rel="noopener noreferrer nofollow" target="_blank">P5 End Year Assessment Schedule 2024</a> |</p>
+<p><strong><u>Term 3</u></strong> 
+</p>
+<p><strong><u>Term 4</u></strong>
+</p>
 <h3>Parents Gateway</h3>
 <p>Dear Parents,</p>
 <p>Parents Gateway is an initiative by MOE to enable parents to interact
