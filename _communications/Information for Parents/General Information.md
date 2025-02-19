@@ -5,13 +5,12 @@ description: ""
 third_nav_title: Information for Parents
 variant: tiptap
 ---
-<h3>Rivervale Connects</h3>
+<h3>Rivervale Connects 2025</h3>
 <p>| <a href="/files/Communications/Rivervale Connects/Rivervale_Connects_2025_Term_1.pdf" rel="noopener nofollow" target="_blank">Term 1</a> |
 Term 2| Term 3 | Term 4|</p>
-<h3>WA and Preliminary Examination Schedule</h3>
-<p><strong><u>Term 1</u></strong>| <a href="/files/Communications/P3_WA1_Schedule_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">P3 WA1 Schedule 2024</a> |
-<a href="/files/Communications/P4_WA1_Schedule_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">P4 WA1 Schedule 2024</a>| <a href="/files/Communications/P5_WA1_Schedule_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">P5 WA1 Schedule 2024</a> |
-<a href="/files/Communications/P6_WA1_Schedule_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">P6 WA1 Schedule 2024</a>|</p>
+<h3>WA and Preliminary Examination Schedule 2025</h3>
+<p><strong><u>Term 1</u></strong>| <a href="/files/P3_WA1_Schedule_2025.pdf" rel="noopener nofollow" target="_blank">P3 WA1 Schedule_2025</a> | <a href="/files/P4_WA1_Schedule_2025.pdf" rel="noopener nofollow" target="_blank">P4 WA1 Schedule_2025</a>|
+<a href="/files/P5_WA1_Schedule_2025.pdf" rel="noopener nofollow" target="_blank">P5 WA1 Schedule_2025</a>| <a href="/files/P6_WA1_Schedule_2025.pdf" rel="noopener nofollow" target="_blank">P6 WA1 Schedule_2025</a>|</p>
 <p><strong><u>Term 2</u></strong>| <a href="/files/Communications/WA%20and%20Prelim%20Schedule/P3_WA2_Schedule_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">P3 WA2 Schedule 2024</a>|
 <a href="/files/Communications/WA%20and%20Prelim%20Schedule/P4_WA2_Schedule_2024_updated.pdf" rel="noopener noreferrer nofollow" target="_blank">P4 WA2 Schedule 2024</a>| <a href="/files/Communications/P5_WA2_Schedule_2024_updated.pdf" rel="noopener noreferrer nofollow" target="_blank">P5 WA2 Schedule 2024</a>|
 <a href="/files/Communications/WA%20and%20Prelim%20Schedule/P6_WA2_Schedule_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">P6 WA2 Schedule 2024</a>|</p>
