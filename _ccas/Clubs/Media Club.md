@@ -41,7 +41,9 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <p>quek_yi_shao@moe.edu.sg
+<br>
 <br>marlina_zainal@moe.edu.sg
+<br>
 <br>huang_bi_yun@moe.edu.sg</p>
 </td>
 </tr>
