@@ -3,7 +3,7 @@ title: Media Club
 permalink: /ccas/clubs/mediaclub/
 description: ""
 third_nav_title: Clubs
-variant: tiptap
+variant: markdown
 ---
 <table style="minWidth: 100px">
 <colgroup>
@@ -41,7 +41,9 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>quek_yi_shao@moe.edu.sg
+<br>
 <br>marlina_zainal@moe.edu.sg
+<br>
 <br>huang_bi_yun@moe.edu.sg</p>
 </td>
 </tr>

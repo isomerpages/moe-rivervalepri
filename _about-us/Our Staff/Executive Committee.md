@@ -14,7 +14,7 @@ variant: markdown
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Princiapl</p>
+<p>Principal</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Radha Govindasamy Subramaniam</p>

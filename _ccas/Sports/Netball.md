@@ -3,7 +3,7 @@ title: Netball
 permalink: /ccas/sports/netball/
 description: ""
 third_nav_title: Sports
-variant: tiptap
+variant: markdown
 ---
 <table style="minWidth: 100px">
 <colgroup>

@@ -3,7 +3,7 @@ title: Drama
 permalink: /ccas/clubs/drama/
 description: ""
 third_nav_title: Clubs
-variant: tiptap
+variant: markdown
 ---
 <table style="minWidth: 100px">
 <colgroup>
@@ -37,15 +37,16 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mrs Amy Thomas
 <br>Miss Nur Sakina Binte Akbar Ali
-<br>Mr Mohd Razif Bin Ansari</p>
-<p>Mdm Ayeshah Binte Jamaldeen</p>
-</td>
+<br>Mr Mohd Razif Bin Ansari
+<br>Mdm Ayeshah Binte Jamaldeen</p><p>
+</p></td>
 <td rowspan="1" colspan="1">
 <p>amy_lim_kin_kuen@moe.edu.sg
 <br>nur_sakina_akbar_ali@moe.edu.sg
-<br>mohd_razif_ansari@moe.edu.sg</p>
-<p>ayeshah_jamaldeen@moe.edu.sg</p>
-</td>
+<br>
+<br>mohd_razif_ansari@moe.edu.sg
+<br>ayeshah_jamaldeen@moe.edu.sg
+</p></td>
 </tr>
 </tbody>
 </table>

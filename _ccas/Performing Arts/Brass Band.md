@@ -3,7 +3,7 @@ title: Brass Band
 permalink: /ccas/performing-arts/brass-band/
 description: ""
 third_nav_title: Performing Arts
-variant: tiptap
+variant: markdown
 ---
 <table style="minWidth: 100px">
 <colgroup>
@@ -40,15 +40,15 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Miss Tan Yi Han
 <br>Ms Teo Wei Ping
-<br>Ms Poh Si Hui</p>
-<p>Ms Ng Jieying</p>
-</td>
+<br>Ms Poh Si Hui
+<br>Ms Ng Jieying
+</p></td>
 <td rowspan="1" colspan="1">
 <p>tan_yi_han@moe.edu.sg
 <br>teo_wei_ping@moe.edu.sg
-<br>poh_si_hui@moe.edu.sg</p>
-<p>ng_jieying_a@moe.edu.sg</p>
-</td>
+<br>poh_si_hui@moe.edu.sg
+<br>ng_jieying_a@moe.edu.sg
+</p></td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">

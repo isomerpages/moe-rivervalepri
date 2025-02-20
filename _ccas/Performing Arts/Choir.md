@@ -3,7 +3,7 @@ title: Choir
 permalink: /ccas/performing-arts/choir/
 description: ""
 third_nav_title: Performing Arts
-variant: tiptap
+variant: markdown
 ---
 <table style="minWidth: 100px">
 <colgroup>

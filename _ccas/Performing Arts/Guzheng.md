@@ -3,7 +3,7 @@ title: Guzheng
 permalink: /ccas/performing-arts/guzheng/
 description: ""
 third_nav_title: Performing Arts
-variant: tiptap
+variant: markdown
 ---
 <table style="minWidth: 100px">
 <colgroup>
@@ -38,14 +38,14 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Iris Ang
-<br>Mdm Tan Kok Teng</p>
-<p>Mdm Chan Pui Yong</p>
-</td>
+<br>Mdm Tan Kok Teng
+<br>Mdm Chan Pui Yong
+</p></td>
 <td rowspan="1" colspan="1">
 <p>ang_hui_qian_iris@moe.edu.sg
-<br>tan_kok_teng@moe.edu.sg</p>
-<p>chan_pui_yong@moe.edu.sg</p>
-</td>
+<br>tan_kok_teng@moe.edu.sg
+<br>chan_pui_yong@moe.edu.sg
+</p></td>
 </tr>
 </tbody>
 </table>
