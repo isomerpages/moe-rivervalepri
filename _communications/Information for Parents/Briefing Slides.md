@@ -7,6 +7,9 @@ variant: markdown
 ---
 ### P2 Parent Engagement 2025
 
+[P2 Parent Engagement 2025](/files/Communications/P2_Parent_Engagement_2025_school_website.pdf) <br>
+[P2 Parent Engagement FAQs](/files/Communications/Final_FAQ_Primary_2_Parent_Engagement_2025.pdf)
+
 ### P3 Parent Engagement 2025
 
 ### P4 Parent Engagement 2025
