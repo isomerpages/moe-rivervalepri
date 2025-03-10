@@ -13,10 +13,13 @@ variant: markdown
 
 ### P3 Parent Engagement 2025
 
+[P3 Parent Engagement 2025](/files/Communications/P3_Parent_Engagement_2025.pdf) <br>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/2scbJmNzrOs?si=8Vi6bwXfkaxd-0mk" height="315" width="560"></iframe>
+
 ### P4 Parent Engagement 2025
 
 [P4 Parent Engagement 2025](/files/P4_Parent_Engagement_2025___180225__website_.pdf)
-<br><br>
+<br>
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/m6X8OR4bd3I?si=OVVcvTZMCEBbuE62" height="315" width="560"></iframe>
 
 ### P5 Parent Engagement 2025
