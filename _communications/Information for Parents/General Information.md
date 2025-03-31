@@ -7,7 +7,7 @@ variant: tiptap
 ---
 <h3>Rivervale Connects 2025</h3>
 <p>| <a href="/files/Communications/Rivervale Connects/Rivervale_Connects_2025_Term_1.pdf" rel="noopener nofollow" target="_blank">Term 1</a> |
-<a href="/files/2025_Rivervale_Connects_Term_2.pdf" rel="noopener noreferrer nofollow" target="_blank">Term 2</a>| Term 3 | Term 4|</p>
+<a href="/files/Rivervale_Primary_Connect_2025_Term_2_V2.pdf" rel="noopener noreferrer nofollow" target="_blank">Term 2</a>| Term 3 | Term 4|</p>
 <h3>WA and Preliminary Examination Schedule 2025</h3>
 <p><strong><u>Term 1</u></strong>| <a href="/files/P3_WA1_Schedule_2025.pdf" rel="noopener nofollow" target="_blank">P3 WA1 Schedule_2025</a> | <a href="/files/P4_WA1_Schedule_2025.pdf" rel="noopener nofollow" target="_blank">P4 WA1 Schedule_2025</a>|
 <a href="/files/P5_WA1_Schedule_2025.pdf" rel="noopener nofollow" target="_blank">P5 WA1 Schedule_2025</a>| <a href="/files/P6_WA1_Schedule_2025.pdf" rel="noopener nofollow" target="_blank">P6 WA1 Schedule_2025</a>|</p>
