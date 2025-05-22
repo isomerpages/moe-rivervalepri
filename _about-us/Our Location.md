@@ -2,6 +2,7 @@
 title: Our Location
 permalink: /Our-Location/
 description: ""
+variant: markdown
 ---
 ![](/images/School/Location.png)
 
@@ -9,6 +10,6 @@ description: ""
     80, RIVERVALE DRIVE, SINGAPORE 545092
 *   **Bus Service** 86  
     
-*   **Nearest MRT Station :** Compass Point  
+*   **Nearest MRT Station :** Sengkang 
     
 *   **Nearest LRT Station :** Rumbia
