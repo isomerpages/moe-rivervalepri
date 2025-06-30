@@ -15,7 +15,7 @@ variant: markdown
 
 2.**Waiting List**
 
-Content:     [Link](https://form.gov.sg/6502c5f7d5cb3e0011056366)
+Content:     [Link](https://form.gov.sg/6848f79474d35ce75a3cd495)
 
 3.**2025 BookList**
 
