@@ -82,6 +82,17 @@ variant: tiptap
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Kiran Jacqueline Joshua</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>kiran_jacqueline_joshua@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
 <td rowspan="2" colspan="1">
 <p><strong>1RS</strong>
 </p>
@@ -95,10 +106,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Jared Ng</p>
+<p>Mdm Chin Kim Siew Sarah</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>jared_ng_yujie@moe.edu.sg</p>
+<p>chin_kim_siew_sarah_@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
