@@ -129,7 +129,7 @@ variant: tiptap
 <p>Ms Jasmine Tye</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>tye_meifen_jasmine@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
