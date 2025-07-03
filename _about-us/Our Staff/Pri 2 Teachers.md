@@ -178,10 +178,10 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Emily Tan-Yong</p>
+<p>Mr Ghazali Bin Abdol Wahab</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>tan-yong_chwee_ping@moe.edu.sg</p>
+<p>ghazali_bin_abdol_wahab@moe.edu.sg</p>
 </td>
 </tr>
 <tr>

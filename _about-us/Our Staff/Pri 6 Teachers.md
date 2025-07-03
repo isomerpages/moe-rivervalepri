@@ -51,7 +51,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Geraldine Lim</p>
+<p>Mdm Geraldine Lim</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>ong_hui_ying_geraldine@moe.edu.sg</p>
