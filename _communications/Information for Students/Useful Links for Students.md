@@ -60,3 +60,17 @@ Suggested Reads from NLB
 * [P4](https://go.gov.sg/nlb-suggestedreads2023-p4)
 * [P5](https://go.gov.sg/nlb-suggestedreads2023-p5)
 * [P6](https://go.gov.sg/nlb-suggestedreads2023-p6)
+
+
+**Links for Read, Create , SG60 competition**
+
+Submission Deadline: 15 August 2025 , 11.59pm 
+(Forms available at the School Library)
+
+
+Upload your submission form and signed copyright agreement via 
+[https://www.surveymonkey.com/r/ReadCreateSG60](https://www.surveymonkey.com/r/ReadCreateSG60)
+Submit your video link via 
+[https://www.dropbox.com/request/aWbkPtAjF48cWl1cRJVn](https://www.dropbox.com/request/aWbkPtAjF48cWl1cRJVn)
+Submit your comic strip via 
+[https://www.dropbox.com/request/amdzvV8BFXgwRya0uiSX](https://www.dropbox.com/request/amdzvV8BFXgwRya0uiSX)
