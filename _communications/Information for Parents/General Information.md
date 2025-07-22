@@ -32,6 +32,14 @@ Term 4|</p>
 </p>
 <p><strong><u>Term 3</u></strong>
 </p>
+<p><a href="/files/P3_WA3_Schedule.pdf" rel="noopener nofollow" target="_blank">P3 WA3 Schedule 2025</a>
+</p>
+<p><a href="/files/P4_WA3_Schedule.pdf" rel="noopener nofollow" target="_blank">P4 WA3 Schedule 2025</a>
+</p>
+<p><a href="/files/P5_WA3_Schedule.pdf" rel="noopener nofollow" target="_blank">P5 WA3 Schedule 2025</a>
+</p>
+<p><a href="/files/P6_Prelim_Schedule.pdf" rel="noopener nofollow" target="_blank">P6 Prelim Schedule 2025</a>
+</p>
 <p><strong><u>Term 4</u></strong>
 </p>
 <h3>Parents Gateway</h3>
