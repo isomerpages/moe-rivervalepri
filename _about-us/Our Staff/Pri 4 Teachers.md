@@ -106,7 +106,7 @@ variant: tiptap
 <p>Ms Tricia</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>tricia_ong_lee_chin@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
