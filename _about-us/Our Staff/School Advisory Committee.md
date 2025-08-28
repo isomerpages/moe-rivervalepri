@@ -8,7 +8,7 @@ variant: markdown
 | | | | |
 | -------- | -------- | -------- |-------- |
 | Chairman   |  Dr Shanti Divaharan  
-| Honorary Treasurer   | Mr Ivan Wee Tong Hing   | |       |
+| Honorary Treasurer   | Mr Wee Tong Hing Ivan   | |       |
 | Principal/Honorary Secretary     |  Ms Radha Govindasamy Subramaniam    |
 | Member   | Mr Alastair Lee Yi Wei   |    |      |
 | Member   | Mr Goh Boon Keong Robin  |      |     |
