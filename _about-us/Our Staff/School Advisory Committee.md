@@ -7,10 +7,11 @@ variant: markdown
 ---
 | | | | |
 | -------- | -------- | -------- |-------- |
-| Chairman   |  Dr Shanti Divaharan  | Principal/Honorary Secretary     |  Ms Radha Govindasamy Subramaniam    |
+| Chairman   |  Dr Shanti Divaharan  
 | Honorary Treasurer   | Mr Ivan Wee Tong Hing   | |       |
-| Member   | Mdm Ida Iryanee Binte Nooraman  |    |      |
-| Member   | Mr Robin Goh Boon Keong   |      |     |
-| Member   | Mr Alastair Lee Yi Wei   |    |       |
-| Member   | Mdm Peng Hong Tog Jenny |    |       |
-| Member   |Mr Kang Yi Yang  |    |       |
+| Principal/Honorary Secretary     |  Ms Radha Govindasamy Subramaniam    |
+| Member   | Mr Alastair Lee Yi Wei   |    |      |
+| Member   | Mr Goh Boon Keong Robin  |      |     |
+| Member   | Mdm Ida Iryanee Binte Nooraman   |    |       |
+| Member   | Mr Kang Yi Yang|    |       |
+| Member   | Mdm Peh Hong Tog Jenny   |    |       |
