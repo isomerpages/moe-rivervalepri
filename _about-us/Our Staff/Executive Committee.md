@@ -171,7 +171,7 @@ variant: markdown
 <p>HOD CCE</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Vicky
+<p>Ms Vicky
 <br>
 </p>
 </td>
