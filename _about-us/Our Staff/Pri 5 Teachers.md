@@ -43,7 +43,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Vicky</p>
+<p>Ms Vicky</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>vikneswari_sukumaran@moe.edu.sg</p>
