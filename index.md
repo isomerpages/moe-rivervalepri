@@ -12,7 +12,7 @@ sections:
         - title: ANNOUNCEMENTS
           description: ""
           url: /ANNOUNCEMENTS
-      variant: image
+      variant: center
   - infobar:
       title: Teachers' Portal
       button: Click here
