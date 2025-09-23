@@ -42,6 +42,16 @@ variant: tiptap
 </p>
 <p><strong><u>Term 4</u></strong>
 </p>
+<p><a href="/files/2025_P3_End_of_Year_Assessment_Schedule.pdf" rel="noopener nofollow" target="_blank">P3 EOY Schedule 2025</a>
+</p>
+<p><a href="/files/PG_Oral_P4_EOY.pdf" rel="noopener nofollow" target="_blank">P4 EOY ORAL 2025</a>
+</p>
+<p><a href="/files/2025_P4_End_of_Year_Assessment_Schedule.pdf" rel="noopener nofollow" target="_blank">P4 EOY Schedule 2025</a>
+</p>
+<p><a href="/files/PG_Oral_P5_EOY.pdf" rel="noopener nofollow" target="_blank">P5 EOY ORAL 2025</a>
+</p>
+<p><a href="/files/2025_P5_End_of_Year_Assessment_Schedule.pdf" rel="noopener nofollow" target="_blank">P5 EOY Schedule 2025</a>
+</p>
 <h3>Parents Gateway</h3>
 <p>Dear Parents,</p>
 <p>Parents Gateway is an initiative by MOE to enable parents to interact
