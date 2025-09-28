@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/R_Banner3.apng
+      background: /images/IMGCentury_created_GIF.gif
       key_highlights:
         - title: ANNOUNCEMENTS
           description: ""
