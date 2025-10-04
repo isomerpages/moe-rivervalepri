@@ -7,12 +7,12 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/final_22.apng
+      background: /images/final_23.apng
       key_highlights:
         - title: ANNOUNCEMENTS
           description: ""
           url: /ANNOUNCEMENTS
-      variant: center
+      variant: image
   - infobar:
       title: Teachers' Portal
       button: Click here
