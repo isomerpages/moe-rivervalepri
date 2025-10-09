@@ -8,10 +8,6 @@ notification: ""
 sections:
   - hero:
       background: /images/ezgif_com_apng_maker__1_.apng
-      key_highlights:
-        - title: ANNOUNCEMENTS
-          description: ""
-          url: /ANNOUNCEMENTS
       variant: center
   - infobar:
       title: Teachers' Portal
