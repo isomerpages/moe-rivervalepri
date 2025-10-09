@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/ezgif_com_apng_maker__1_.apng
+      background: /images/ezgif_com_apng_maker__4_.apng
       variant: center
   - infobar:
       title: Teachers' Portal
