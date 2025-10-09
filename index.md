@@ -7,11 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/final_28.apng
-      key_highlights:
-        - title: ANNOUNCEMENTS
-          description: ""
-          url: /ANNOUNCEMENTS
+      background: /images/ezgif_com_apng_maker__1_.apng
       variant: center
   - infobar:
       title: Teachers' Portal
