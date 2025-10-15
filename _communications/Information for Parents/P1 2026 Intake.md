@@ -11,7 +11,7 @@ third_nav_title: Information for Parents
 </p>
 </li>
 <li>
-<p>P1 Administration Briefing Slides <em>(coming soon)</em>
+<p><a href="/files/Communications/Parents Engagement/P1_Parents_Briefing_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">P1 Administration Briefing Slides</a>
 </p>
 </li>
 </ol>
