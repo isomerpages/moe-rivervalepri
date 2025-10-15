@@ -18,4 +18,9 @@ sections:
       id: infobar
       button: CLICK HERE
       url: https://www.rivervalepri.moe.edu.sg/communications/information-for-parents/generalinformation/
+  - infobar:
+      title: Information for Students
+      id: infobar
+      button: CLICK HERE
+      url: https://www.rivervalepri.moe.edu.sg/communications/useful-links-for-students/
 ---
