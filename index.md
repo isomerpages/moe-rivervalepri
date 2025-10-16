@@ -24,7 +24,7 @@ sections:
       button: CLICK HERE
       url: https://www.rivervalepri.moe.edu.sg/communications/useful-links-for-students/
   - textcards:
-      title: HIGHLIGHTS
+      title: KEY INFORMATION
       id: textcards
       cards:
         - title: Rivervale Connects
