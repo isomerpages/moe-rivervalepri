@@ -9,20 +9,16 @@ sections:
   - hero:
       background: /images/ezgif_com_apng_maker__4_.apng
       variant: center
-  - infobar:
-      title: Teachers' Portal
-      button: Click here
-      url: https://www.rivervalepri.moe.edu.sg/communications/permalink/
-  - infobar:
-      title: Information for Parents
-      id: infobar
-      button: CLICK HERE
-      url: https://www.rivervalepri.moe.edu.sg/communications/information-for-parents/generalinformation/
-  - infobar:
-      title: Information for Students
-      id: infobar
-      button: CLICK HERE
-      url: https://www.rivervalepri.moe.edu.sg/communications/useful-links-for-students/
+      key_highlights:
+        - title: Teacher's Portal
+          description: Click Here
+          url: https://www.rivervalepri.moe.edu.sg/communications/permalink/
+        - title: STUDENTS'S PORTAL
+          description: Click Here
+          url: https://www.rivervalepri.moe.edu.sg/communications/useful-links-for-students/
+        - title: PARENT'S PORTAL
+          description: Click Here
+          url: https://www.rivervalepri.moe.edu.sg/communications/information-for-parents/generalinformation/
   - textcards:
       title: KEY INFORMATION
       id: textcards
