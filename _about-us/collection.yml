@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Staff Accolades.md
       - Vision & Mission.md
       - School Song.md
       - General Information.md
