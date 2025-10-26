@@ -2,7 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - Staff Accolades.md
       - Vision & Mission.md
       - School Song.md
       - General Information.md
@@ -26,3 +25,4 @@ collections:
       - Our Staff/PE ART MUSIC Teachers.md
       - Our Staff/Executive & Administration Staff.md
       - Our Staff/Counsellors & SEN Officers.md
+      - Staff Accolades.md
