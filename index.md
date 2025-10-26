@@ -19,4 +19,17 @@ sections:
         - title: PARENT'S PORTAL
           description: Click Here
           url: https://www.rivervalepri.moe.edu.sg/communications/information-for-parents/generalinformation/
+  - infobar:
+      title: School Calendar
+      subtitle: For updates on school events
+      id: infobar
+      button: CLICK HERE
+      url: https://www.rivervalepri.moe.edu.sg/communications/school-calendar/
+  - infobar:
+      title: Instagram
+      subtitle: Stay connected with us on
+      id: infobar
+      description: A sneak peak into Rivervale
+      button: Click Here
+      url: https://www.instagram.com/rivervaleps?igsh=MWtqYzF1eTNzMDA2cA==
 ---
