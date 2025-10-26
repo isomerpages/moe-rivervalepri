@@ -2,7 +2,6 @@ collections:
   communications:
     output: true
     order:
-      - Teachers' Portal/Staff Accolades.md
       - Teachers' Portal/.keep
       - Students' Portal/.keep
       - Students' Portal/Useful Links for Students.md
