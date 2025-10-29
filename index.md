@@ -25,10 +25,12 @@ sections:
       button: CLICK HERE
       url: https://www.rivervalepri.moe.edu.sg/communications/information-for-parents/generalinformation/
       alt: Image alt text
+      image: /images/Blue_Geometric_Page_Border_Doubled_Sided_Poster.png
   - infopic:
       title: Instagram
       id: infopic
       button: CLICK HERE
       url: https://www.instagram.com/rivervaleps?igsh=MWtqYzF1eTNzMDA2cA==
       alt: Image alt text
+      image: /images/Blue_and_Yellow_Abstract_Page_Border_Double_Sided__Poster_A3_Landscape.png
 ---
