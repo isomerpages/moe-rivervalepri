@@ -19,6 +19,9 @@ sections:
         - title: PARENT'S PORTAL
           description: Click Here
           url: https://www.rivervalepri.moe.edu.sg/communications/information-for-parents/generalinformation/
+        - title: Test
+          description: Key Highlight description
+          url: https://www.rivervalepri.moe.edu.sg/Primary-4-Booster/
   - infopic:
       title: Key Information
       id: infopic
