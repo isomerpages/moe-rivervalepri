@@ -1,4 +1,5 @@
 collections:
   kindergarten:
     output: true
-    order: []
+    order:
+      - MK@Rivervale.md
