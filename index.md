@@ -18,7 +18,7 @@ sections:
           url: https://www.rivervalepri.moe.edu.sg/useful-links-for-students/
         - title: PARENT'S PORTAL
           description: Click Here
-          url: https://www.rivervalepri.moe.edu.sg/communications/information-for-parents/generalinformation/
+          url: https://www.rivervalepri.moe.edu.sg/p1-2026-intake/
   - infopic:
       title: Key Information
       id: infopic
