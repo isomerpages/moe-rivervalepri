@@ -3,5 +3,6 @@ collections:
     output: true
     order:
       - Teachers' Portal/.keep
+      - Students' Portal/Useful Links for Students.md
       - Students' Portal/.keep
       - Parents' Portal/.keep
