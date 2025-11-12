@@ -23,7 +23,7 @@ sections:
       title: Key Information
       id: infopic
       button: CLICK HERE
-      url: https://www.rivervalepri.moe.edu.sg/communications/information-for-parents/generalinformation/
+      url: https://www.rivervalepri.moe.edu.sg/key-information/
       alt: Image alt text
       image: /images/Blue_Geometric_Page_Border_Doubled_Sided_Poster.png
   - infopic:
