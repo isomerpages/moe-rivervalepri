@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Teachers' Portal/.keep
+      - Students' Portal/Guide to using SLS & Student ICON.md
       - Students' Portal/Useful Links for Students.md
       - Students' Portal/.keep
       - Parents' Portal/.keep
