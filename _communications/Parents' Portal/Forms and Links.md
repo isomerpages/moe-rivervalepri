@@ -17,6 +17,6 @@ third_nav_title: Parents' Portal
 
 Content:     [Link](https://form.gov.sg/6848f79474d35ce75a3cd495)
 
-3.**2025 BookList**
+3.**2026 BookList**
 
-[2025 Booklist](https://sites.google.com/moe.edu.sg/rivps-booklist/home)
+[2026 Booklist](https://sites.google.com/moe.edu.sg/rivps-booklist/home)
