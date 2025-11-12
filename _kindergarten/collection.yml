@@ -1,0 +1,5 @@
+collections:
+  kindergarten:
+    output: true
+    order:
+      - MK@Rivervale.md
