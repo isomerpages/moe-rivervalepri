@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Acceptable Use Policy.md
       - Vision & Mission.md
       - School Song.md
       - General Information.md
