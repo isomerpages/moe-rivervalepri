@@ -4,9 +4,9 @@ collections:
     order:
       - Teachers' Portal/Teachers' Portal.md
       - Teachers' Portal/.keep
-      - Students' Portal/Guide to using SLS & Student ICON.md
-      - Students' Portal/Useful Links for Students.md
       - Students' Portal/.keep
+      - Students' Portal/Useful Links for Students.md
+      - Students' Portal/Guide to using SLS & Student ICON.md
       - Parents' Portal/General Information.md
       - Parents' Portal/School Calendar.md
       - Parents' Portal/Forms and Links.md
