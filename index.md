@@ -12,7 +12,7 @@ sections:
       key_highlights:
         - title: Teacher's Portal
           description: Click Here
-          url: https://www.rivervalepri.moe.edu.sg/communications/permalink/
+          url: https://www.rivervalepri.moe.edu.sg/teachers-portal/
         - title: STUDENTS'S PORTAL
           description: Click Here
           url: https://www.rivervalepri.moe.edu.sg/useful-links-for-students/
