@@ -2,7 +2,7 @@ collections:
   communications:
     output: true
     order:
-      - Teachers' Portal/Teachers' Portal.md
+      - Teachers' Portal/Useful Links for Teachers.md
       - Teachers' Portal/.keep
       - Students' Portal/.keep
       - Students' Portal/Useful Links for Students.md
