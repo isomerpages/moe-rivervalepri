@@ -10,13 +10,13 @@ sections:
       background: /images/ezgif_com_apng_maker__31_.apng
       variant: center
       key_highlights:
-        - title: Teacher's Portal
+        - title: TEACHERS' PORTAL
           description: Click Here
           url: https://www.rivervalepri.moe.edu.sg/teachers-portal/
-        - title: STUDENTS'S PORTAL
+        - title: STUDENTS' PORTAL
           description: Click Here
           url: https://www.rivervalepri.moe.edu.sg/useful-links-for-students/
-        - title: PARENT'S PORTAL
+        - title: PARENTS' PORTAL
           description: Click Here
           url: https://www.rivervalepri.moe.edu.sg/p1-2026-intake/
   - infopic:
