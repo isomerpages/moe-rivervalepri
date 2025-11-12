@@ -12,7 +12,7 @@ sections:
       key_highlights:
         - title: TEACHERS' PORTAL
           description: Click Here
-          url: https://www.rivervalepri.moe.edu.sg/teachers-portal/
+          url: https://www.rivervalepri.moe.edu.sg/useful-links-for-teachers/
         - title: STUDENTS' PORTAL
           description: Click Here
           url: https://www.rivervalepri.moe.edu.sg/useful-links-for-students/
