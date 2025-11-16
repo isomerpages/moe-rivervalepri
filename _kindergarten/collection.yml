@@ -2,5 +2,5 @@ collections:
   kindergarten:
     output: true
     order:
-      - Other information.md
       - MK@Rivervale.md
+      - Other information.md
