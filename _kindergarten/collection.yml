@@ -3,3 +3,4 @@ collections:
     output: true
     order:
       - MK@Rivervale.md
+      - Other information.md
