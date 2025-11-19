@@ -7,8 +7,8 @@ description: ""
 <ol data-tight="true" class="tight">
 <li>
 <p>Interested parents can visit the upcoming Open House at MK@North Vista
-on Saturday, 28<sup>th</sup> March 2026. The link will be provided at a
-later date.</p>
+on Saturday, 28<sup>th</sup> March 2026. More details will be provided closer
+to the date.</p>
 <p></p>
 </li>
 <li>
