@@ -26,7 +26,7 @@ Tel: 64563198
 
 Fax: 63862407/ 64563176
 
-**2025 End-of-Year Information for Sale of Uniform (Click on Link Below)**
+**2025 End-of-Year Information for Sale of Uniform (Click on the link below)**
 
 [2025 End-of-Year Sale of Uniform](/files/RVPS_sale_schedule_FASY25.pdf)
 
