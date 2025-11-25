@@ -3,6 +3,7 @@ title: School Uniform Supplier
 permalink: /about-us/service-providers/schooluniformsupplier/
 description: ""
 third_nav_title: Our Service Providers
+variant: markdown
 ---
 #### **School Uniform Supplier**
 
@@ -24,6 +25,10 @@ Singapore 569628
 Tel: 64563198
 
 Fax: 63862407/ 64563176
+
+**2025 End-of-Year Information for Sale of Uniform (Click on Link Below)**
+
+[2025 End-of-Year Sale of Uniform](/files/RVPS_sale_schedule_FASY25.pdf)
 
 Website:&nbsp;[https://jeepsinguniform.com](https://jeepsinguniform.com/)&nbsp;
 
