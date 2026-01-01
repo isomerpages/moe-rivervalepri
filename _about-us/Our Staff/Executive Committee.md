@@ -37,6 +37,22 @@ variant: markdown
 </td>
 </tr>
 <tr>
+	
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Vice-Principal(Academic)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Wong Wan Ling
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>rivervale_school_leaders@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p>Vice-Principal(Admin)</p>
 </td>
@@ -105,12 +121,12 @@ variant: markdown
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Jamie Yeo
+<p>Mdm Yasmeen Bte Mohamad
 <br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>kay_woon_ping@moe.edu.sg
+<p>yasmeen_mohamad@moe.edu.sg
 <br>
 </p>
 </td>
@@ -251,7 +267,7 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SH CCA &amp; Student Leadership and Development
+<p>SH Physical Education &amp; Co-curricular Activity
 <br>
 </p>
 </td>
@@ -320,10 +336,10 @@ variant: markdown
 <p>Year Head (P1&amp;P2)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Hamimah Ali</p>
+<p>Miss Poh Mei Cheng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>hamimah_ali@moe.edu.sg</p>
+<p>poh_mei_cheng@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -342,10 +358,10 @@ variant: markdown
 <p>Year Head (P5&amp;P6)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Ho Kar Yan</p>
+<p>Mdm Ruziana Bte Zakaria</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ho_kar_yan@moe.edu.sg</p>
+<p>ruziana_zakaria@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -372,7 +388,7 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Assistant Year Head (P3&amp;4)</p>
+<p>Assistant Year Head (P5&amp;6)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Huang Bi Yun</p>
@@ -433,6 +449,28 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <p>nashita_mohamed_idris@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Senior Teacher (English)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Amy Thomas</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>amy_lim_kin_kuen@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Senior Teacher (Chinese)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Ong Wei Kei</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ong_wei_kei@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
