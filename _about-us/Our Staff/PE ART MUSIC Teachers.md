@@ -17,10 +17,7 @@ variant: markdown
 </style>
 <table class="tg" style="border: 1px solid black">
 <thead>
-  <tr>
-    <th class="tg-vvbc" style="border: 1px solid black">Mrs Emily Tan-Yong</th>
-    <th class="tg-vvbc" style="border: 1px solid black">tan-yong_chwee_ping@moe.edu.sg</th>
-  </tr>
+  
 </thead>
 <tbody>
   <tr>
