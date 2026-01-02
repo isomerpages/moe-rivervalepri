@@ -103,6 +103,10 @@ variant: markdown
     
 </tr></thead>
 <tbody>
+	<tr>
+    <td style="border: 1px solid black" class="tg-l7h4">Mdm Ruziana Bte Zakaria<br></td>
+    <td style="border: 1px solid black" class="tg-l7h4">ruziana_bte_zakariai@moe.edu.sg<br></td>
+  </tr>
   <tr>
     <td style="border: 1px solid black" class="tg-l7h4">Mr Mohd Khair Johari<br></td>
     <td style="border: 1px solid black" class="tg-l7h4">mohamad_khair_johari@moe.edu.sg<br></td>
@@ -126,10 +130,6 @@ variant: markdown
   <tr>
     <td style="border: 1px solid black" class="tg-l7h4">Ms Nurmerdina<br></td>
     <td style="border: 1px solid black" class="tg-l7h4">nurmerdina_mohd_azni@moe.edu.sg</td>
-  </tr>
-	  <tr>
-    <td style="border: 1px solid black" class="tg-l7h4">Mdm Ruziana Bte Zakaria<br></td>
-    <td style="border: 1px solid black" class="tg-l7h4">ruziana_bte_zakariai@moe.edu.sg<br></td>
   </tr>
 </tbody>
 </table>
