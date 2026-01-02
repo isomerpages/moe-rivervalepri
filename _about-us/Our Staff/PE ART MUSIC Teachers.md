@@ -17,10 +17,7 @@ variant: markdown
 </style>
 <table class="tg" style="border: 1px solid black">
 <thead>
-  <tr>
-    <th class="tg-vvbc" style="border: 1px solid black">Mrs Emily Tan-Yong</th>
-    <th class="tg-vvbc" style="border: 1px solid black">tan-yong_chwee_ping@moe.edu.sg</th>
-  </tr>
+  
 </thead>
 <tbody>
   <tr>
@@ -45,8 +42,8 @@ variant: markdown
     <td class="tg-vvbc" style="border: 1px solid black">mohamed_sadiqin_subhan@moe.edu.sg</td>
   </tr>
 	<tr>
-    <td class="tg-vvbc" style="border: 1px solid black">Mr Jared Ng</td>
-    <td class="tg-vvbc" style="border: 1px solid black">jared_ng_yujie@moe.edu.sg</td>
+    <td class="tg-vvbc" style="border: 1px solid black">Mr Lionel Lee</td>
+    <td class="tg-vvbc" style="border: 1px solid black">lionel_lee@moe.edu.sg</td>
   </tr>
 </tbody>
 </table>
@@ -63,10 +60,7 @@ variant: markdown
 </style>
 <table class="tg" style="border: 1px solid black">
 <thead>
-  <tr>
-    <th class="tg-l7h4" style="border: 1px solid black">Mr Ho Kar Yan<br></th>
-    <th class="tg-l7h4" style="border: 1px solid black">ho_kar_yan@moe.edu.sg<br></th>
-  </tr>
+ 
 </thead>
 <tbody>
   <tr>
@@ -76,6 +70,10 @@ variant: markdown
   <tr>
     <td class="tg-l7h4" style="border: 1px solid black">Mdm Nur Shereena<br></td>
     <td class="tg-l7h4" style="border: 1px solid black">nur_shereena_abidin@moe.edu.sg</td>
+  </tr>
+	 <tr>
+    <th class="tg-l7h4" style="border: 1px solid black">Mdm Liu Yuanling Candice<br></th>
+    <th class="tg-l7h4" style="border: 1px solid black">liu_yuanling_candice@moe.edu.sg<br></th>
   </tr>
 </tbody>
 </table>

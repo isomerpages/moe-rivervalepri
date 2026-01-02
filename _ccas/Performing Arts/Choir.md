@@ -35,12 +35,14 @@ variant: markdown
 <p>Friday, 2.15 p.m. to 4.15 p.m.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Ivy Choi
-<br>Mdm Lu Wan Min</p>
+<p>Mdm Lu Wan Min
+<br>Mdm Vanessa Chiam Yunn Shyuan
+</p> Mdm Chin Kim Siew Sarah
 </td>
 <td rowspan="1" colspan="1">
-<p>choi_ivy@moe.edu.sg
-<br>lu_wanmin@moe.edu.sg</p>
+<p>lu_wanmin@moe.edu.sg
+<br>vanessa_chiam_yunn_shyuan@moe.edu.sg</p>
+	<br>chin_kim_siew_sarah@moe.edu.sg<p></p>
 </td>
 </tr>
 </tbody>

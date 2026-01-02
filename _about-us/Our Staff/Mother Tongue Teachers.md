@@ -58,14 +58,6 @@ variant: markdown
     <td style="border: 1px solid black" class="tg-vvbc">ong_wei_kei@moe.edu.sg</td>
   </tr>
   <tr>
-    <td style="border: 1px solid black" class="tg-vvbc">Mr Yee Siong Yew</td>
-    <td style="border: 1px solid black" class="tg-vvbc">yee_siong_yew@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td style="border: 1px solid black" class="tg-vvbc">Mdm Yeow Bee Hiong</td>
-    <td style="border: 1px solid black" class="tg-vvbc">yeow_bee_hiong@moe.edu.sg</td>
-  </tr>
-  <tr>
     <td style="border: 1px solid black" class="tg-vvbc">Mdm Tan Kok Teng</td>
     <td style="border: 1px solid black" class="tg-vvbc">tan_kok_teng@moe.edu.sg</td>
   </tr>
@@ -73,21 +65,22 @@ variant: markdown
     <td style="border: 1px solid black" class="tg-vvbc">Mr Ran Yijun</td>
     <td style="border: 1px solid black" class="tg-vvbc">ran_yijun@moe.edu.sg</td>
   </tr>
-  <tr>
-    <td style="border: 1px solid black" class="tg-vvbc">Mdm Ivy Choi</td>
-    <td style="border: 1px solid black" class="tg-vvbc">choi_ivy@moe.edu.sg</td>
-  </tr>
+ 
   <tr>
     <td style="border: 1px solid black" class="tg-vvbc">Mdm Lo Siew Yee</td>
     <td style="border: 1px solid black" class="tg-vvbc">lo_siew_yee@moe.edu.sg</td>
   </tr>
 	<tr>
-    <td style="border: 1px solid black" class="tg-vvbc">Ms Jessie Nah Min Li</td>
-    <td style="border: 1px solid black" class="tg-vvbc">jessie_nah_min_li@moe.edu.sg</td>
+    <td style="border: 1px solid black" class="tg-vvbc">Mdm Vanessa Chiam Yunn Shyuan</td>
+    <td style="border: 1px solid black" class="tg-vvbc">vanessa_chiam_yunn_shyuan@moe.edu.sg</td>
   </tr>
 	<tr>
-    <td style="border: 1px solid black" class="tg-vvbc">Mr Lim Sir Bee</td>
-    <td style="border: 1px solid black" class="tg-vvbc">lim_sir_bee@moe.edu.sg</td>
+    <td style="border: 1px solid black" class="tg-vvbc">Miss Jovise Tan Hui Lin</td>
+    <td style="border: 1px solid black" class="tg-vvbc">jovise_tan_hui_ lin@moe.edu.sg</td>
+  </tr>
+	<tr>
+    <td style="border: 1px solid black" class="tg-vvbc">Miss Zhang Qian</td>
+    <td style="border: 1px solid black" class="tg-vvbc">zhang_qian@moe.edu.sg</td>
   </tr>
   <tr>
     
@@ -110,6 +103,10 @@ variant: markdown
     
 </tr></thead>
 <tbody>
+	<tr>
+    <td style="border: 1px solid black" class="tg-l7h4">Mdm Ruziana Bte Zakaria<br></td>
+    <td style="border: 1px solid black" class="tg-l7h4">ruziana_bte_zakariai@moe.edu.sg<br></td>
+  </tr>
   <tr>
     <td style="border: 1px solid black" class="tg-l7h4">Mr Mohd Khair Johari<br></td>
     <td style="border: 1px solid black" class="tg-l7h4">mohamad_khair_johari@moe.edu.sg<br></td>
@@ -149,23 +146,23 @@ variant: markdown
 </style>
 <table style="border: 1px solid black" class="tg">
 <thead>
-  <tr>
-    <th style="border: 1px solid black" class="tg-vvbc">Mdm Nanthini S Rajandaan</th>
-    <th style="border: 1px solid black" class="tg-vvbc">nanthini_s_rajandaan@moe.edu.sg</th>
-  </tr>
 </thead>
 <tbody>
-  <tr>
-    <td style="border: 1px solid black" class="tg-vvbc">Mdm K Ghayathri Dhevi</td>
-    <td style="border: 1px solid black" class="tg-vvbc">k_ghayathri_dhevi@moe.edu.sg</td>
-  </tr>
   <tr>
     <td style="border: 1px solid black" class="tg-vvbc">Miss Vijaya Letchumi</td>
     <td style="border: 1px solid black" class="tg-vvbc">vijaya_letchumi_sandramogan@moe.edu.sg</td>
   </tr>
 	 <tr>
+    <td style="border: 1px solid black" class="tg-vvbc">Mdm K Ghayathri Dhevi</td>
+    <td style="border: 1px solid black" class="tg-vvbc">k_ghayathri_dhevi@moe.edu.sg</td>
+  </tr>
+	 <tr>
     <td style="border: 1px solid black" class="tg-vvbc">Miss P Aishwarya</td>
     <td style="border: 1px solid black" class="tg-vvbc">p_aishwarya@moe.edu.sg</td>
+  </tr>
+	<tr>
+    <th style="border: 1px solid black" class="tg-vvbc">Mdm Nanthini S Rajandaan</th>
+    <th style="border: 1px solid black" class="tg-vvbc">nanthini_s_rajandaan@moe.edu.sg</th>
   </tr>
 </tbody>
 </table>

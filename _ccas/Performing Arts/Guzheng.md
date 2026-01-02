@@ -37,14 +37,14 @@ variant: markdown
 <br>Thursday, Performing Group (Ad-Hoc), 3.00 p.m. - 5.00 p.m.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Iris Ang
-<br>Mdm Tan Kok Teng
-<br>Mdm Chan Pui Yong
+<p>Mdm Tan Kok Teng
+<br>Ms Yeo Puay San
+<br>Mdm Yeow Bee Hiong
 </p></td>
 <td rowspan="1" colspan="1">
-<p>ang_hui_qian_iris@moe.edu.sg
-<br>tan_kok_teng@moe.edu.sg
-<br>chan_pui_yong@moe.edu.sg
+<p>tan_kok_teng@moe.edu.sg
+<br>yeo_puay_san@moe.edu.sg
+<br>yeow_bee_hiong@moe.edu.sg
 </p></td>
 </tr>
 </tbody>

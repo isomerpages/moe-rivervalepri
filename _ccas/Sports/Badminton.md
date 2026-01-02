@@ -37,15 +37,15 @@ variant: markdown
 <br>Thursday, P6, 3.00 p.m. to 5.00 p.m.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Linda Goh
+<p>Mr Ghazali Bin Abdol Wahab
 <br>Mdm Syahidah Mohd Salleh
-<br>Mrs Emily Tan-Yong</p>
+<br>Miss Zhang Qian</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>tan_su_mei_linda@moe.edu.sg
-<br>nur_syahidah_mohamed_salleh@moe.edu.sg 
+<p>ghazali_bin_abdol_wahab@moe.edu.sg
+<br><br>nur_syahidah_mohamed_salleh@moe.edu.sg 
 <br>
-<br>tan-yong_chwee_ping@moe.edu.sg</p>
+<br>zhang_qian@moe.edu.sg</p>
 </td>
 </tr>
 </tbody>

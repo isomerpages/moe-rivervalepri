@@ -3,6 +3,7 @@ title: Executive & Administration Staff
 permalink: /about-us/our-staff/eas/
 description: ""
 third_nav_title: Our Staff
+variant: markdown
 ---
 ### EAS
 <table style="border: 1px solid black" class="tg">
@@ -44,6 +45,11 @@ third_nav_title: Our Staff
     <td style="border: 1px solid black" class="tg-cly1">Mdm Surina Binte Mohamed Nasir</td>
     <td style="border: 1px solid black" class="tg-cly1">surina_mohamed_nasir@schools.gov.sg</td>
   </tr>
+	<tr>
+    <td style="border: 1px solid black" class="tg-1wig">Corporate Support Officer</td>
+    <td style="border: 1px solid black" class="tg-cly1">Miss Norlin Binte Md Yussof</td>
+    <td style="border: 1px solid black" class="tg-cly1">norlin_binte_md_yussof@schools.gov.sg</td>
+  </tr>
   <tr>
     <td style="border: 1px solid black" class="tg-1wig">Corporate Support Officer</td>
     <td style="border: 1px solid black" class="tg-cly1">Mdm Yeo Ai Li</td>
@@ -64,6 +70,11 @@ third_nav_title: Our Staff
   <tr>
     <td style="border: 1px solid black" class="tg-1wig">Operations Support Officer<br></td>
     <td style="border: 1px solid black" class="tg-cly1">Mdm Siti Binti Ahmat</td>
+    <td style="border: 1px solid black" class="tg-nrix"></td>
+  </tr>
+	<tr>
+    <td style="border: 1px solid black" class="tg-1wig">Operations Support Officer<br></td>
+    <td style="border: 1px solid black" class="tg-cly1">Mdm Siti Suhana Binte Hussin</td>
     <td style="border: 1px solid black" class="tg-nrix"></td>
   </tr>
 	<tr>

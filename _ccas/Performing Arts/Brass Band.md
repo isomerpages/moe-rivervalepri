@@ -38,16 +38,16 @@ variant: markdown
 <br>&amp; Senior Band, 2.15 p.m. - 5.00 p.m.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Tan Yi Han
-<br>Ms Teo Wei Ping
-<br>Ms Poh Si Hui
-<br>Ms Ng Jieying
+<p>Miss Tan Yi Han 
+<br>Miss Zahirah Binte Mohamad Latiff
+<br>Mdm Nurul Khaliesah Bte Surahman
+<br>Miss Jovise Tan
 </p></td>
 <td rowspan="1" colspan="1">
 <p>tan_yi_han@moe.edu.sg
-<br>teo_wei_ping@moe.edu.sg
-<br>poh_si_hui@moe.edu.sg
-<br>ng_jieying_a@moe.edu.sg
+<br>zahirah_binte_mohamad_latif@moe.edu.sg
+<br><br>nurul_khaliesah_bte_surahman@moe.edu.sg
+<br><br>jovise_tan@moe.edu.sg
 </p></td>
 </tr>
 <tr>
