@@ -14,7 +14,7 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="3">
-<p>Primary 1 Form Teachers (2025)</p>
+<p>Primary 1 Form Teachers (2026)</p>
 </th>
 </tr>
 <tr>
@@ -103,7 +103,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
-<p></p>
+<p><strong>1INT </strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Mary Chua</p>
