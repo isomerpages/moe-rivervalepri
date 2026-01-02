@@ -146,23 +146,23 @@ variant: markdown
 </style>
 <table style="border: 1px solid black" class="tg">
 <thead>
-  <tr>
-    <th style="border: 1px solid black" class="tg-vvbc">Mdm Nanthini S Rajandaan</th>
-    <th style="border: 1px solid black" class="tg-vvbc">nanthini_s_rajandaan@moe.edu.sg</th>
-  </tr>
 </thead>
 <tbody>
-  <tr>
-    <td style="border: 1px solid black" class="tg-vvbc">Mdm K Ghayathri Dhevi</td>
-    <td style="border: 1px solid black" class="tg-vvbc">k_ghayathri_dhevi@moe.edu.sg</td>
-  </tr>
   <tr>
     <td style="border: 1px solid black" class="tg-vvbc">Miss Vijaya Letchumi</td>
     <td style="border: 1px solid black" class="tg-vvbc">vijaya_letchumi_sandramogan@moe.edu.sg</td>
   </tr>
 	 <tr>
+    <td style="border: 1px solid black" class="tg-vvbc">Mdm K Ghayathri Dhevi</td>
+    <td style="border: 1px solid black" class="tg-vvbc">k_ghayathri_dhevi@moe.edu.sg</td>
+  </tr>
+	 <tr>
     <td style="border: 1px solid black" class="tg-vvbc">Miss P Aishwarya</td>
     <td style="border: 1px solid black" class="tg-vvbc">p_aishwarya@moe.edu.sg</td>
+  </tr>
+	<tr>
+    <th style="border: 1px solid black" class="tg-vvbc">Mdm Nanthini S Rajandaan</th>
+    <th style="border: 1px solid black" class="tg-vvbc">nanthini_s_rajandaan@moe.edu.sg</th>
   </tr>
 </tbody>
 </table>
