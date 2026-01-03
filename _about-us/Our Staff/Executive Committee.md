@@ -490,6 +490,6 @@ variant: markdown
 <br>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/Staff/executive_committee_2.jpg">
+<img style="width: 100%" height="auto" width="100%" src="/images/Staff/executive_committee_new.jpg">
 </div>
 <p></p>
