@@ -23,10 +23,10 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Hamimah Ali</p>
+<p>Miss Poh Mei Cheng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>hamimah_ali@moe.edu.sg</p>
+<p>poh_mei_cheng@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -42,23 +42,35 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="2" colspan="1">
 <p><strong>2RE</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Shashita</p>
+<p>Mdm Nur Shereena Binte Abidin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>shashita_ramesh_kumar@moe.edu.sg</p>
+<p>nur_shereena_abidin@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Chew Mian Cheng</p>
+<p>Madam Li Song</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>chew_mian_cheng@moe.edu.sg</p>
+<p>li_song@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p><strong>2RO</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Madam Nashita Bte Mohamed Idris</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>nashita_mohamed_idris@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -71,42 +83,22 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
-<p><strong>2RO</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Ng Hwee Koon</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ng_hwee_koon@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Ghayathri</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>k_ghayathri_dhevi@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="2" colspan="1">
 <p><strong>2RS</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Nashita</p>
+<p>Miss Ayeshah Binte Jamaldeen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>nashita_mohamed_idris@moe.edu.sg</p>
+<p>ayeshah_jamaldeen@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Lo Siew Yee</p>
+<p>Miss Ang Hui Nee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>lo_siew_yee@moe.edu.sg</p>
+<p>ang_hui_nee@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -115,10 +107,10 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Linda Goh</p>
+<p>Miss Vijaya Letchumi D/O Sandramogan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>tan_su_mei_linda@moe.edu.sg</p>
+<p>vijaya_letchumi_sandramogan@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -126,10 +118,10 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Nazrah Hanani Mohd Rawi</p>
+<p>Ms Nur Syahidah B Mohamed Salleh</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>nazrah_hanani_mohamed_rawi@moe.edu.sg</p>
+<p>nur_syahidah_mohamed_salleh@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -138,18 +130,18 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Poh Si Hui</p>
+<p>Mdm Raeesa d/o Mohammad Ilyas</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>poh_si_hui@moe.edu.sg</p>
+<p>raeesa_mohammad_ilyas@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Jasmine Chiah</p>
+<p>Mr Riduan Bin Mohamed Ali</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>chiah_min_hui_jasmine@moe.edu.sg</p>
+<p>riduan_bin_mohamed_ali@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -158,18 +150,18 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Laura Bay</p>
+<p>Madam Ong Wei Kei</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>tay_shengwei_laura@moe.edu.sg</p>
+<p>ong_wei_kei@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Khairiana Ali</p>
+<p>Ms Tricia Ong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>khairiana_ali@moe.edu.sg</p>
+<p>tricia_ong_lee_chin_a@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -178,18 +170,18 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Ghazali Bin Abdol Wahab</p>
+<p>Ms Amalina</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ghazali_bin_abdol_wahab@moe.edu.sg</p>
+<p>nur_amalina@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Mary Chua</p>
+<p>Mdm Nazrah Hanani Bte Mohamed Rawi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>chua_bock_chin@moe.edu.sg</p>
+<p>nazrah_hanani_bte_mohamed_rawi@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
