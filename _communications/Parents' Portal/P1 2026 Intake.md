@@ -11,7 +11,7 @@ third_nav_title: Parents' Portal
 </p>
 </li>
 <li>
-<p><a href="/files/Communications/Parents Engagement/P1_Parents_Briefing_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">P1 Administration Briefing Slides</a>
+<p><a href="/files/Communications/P1_Induction_Prog_for_Parents_Sch_Website_2026__2_.pdf" rel="noopener nofollow" target="_blank">P1 Briefing Slides for Parents 2026</a>
 </p>
 </li>
 </ol>
