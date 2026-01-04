@@ -31,7 +31,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Assistant Year Head</p>
+<p><strong>Assistant Year Head</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Huang<strong> </strong>Biyun</p>
