@@ -30,18 +30,6 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p><strong>Assistant Year Head</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Huang Biyun</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>huang_bi_yun@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
 <td rowspan="2" colspan="1">
 <p><strong>3RE</strong>
 </p>
