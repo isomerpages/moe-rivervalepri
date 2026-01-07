@@ -127,7 +127,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Tai Xin Yi Cheryl</p>
+<p>Miss Cheryl Tai</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>tai_xin_yi_cheryl@moe.edu.sg</p>
@@ -135,7 +135,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Teo Wei Ping</p>
+<p>Ms Teo Wei Ping</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>teo_wei_ping@moe.edu.sg</p>
