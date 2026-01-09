@@ -6,7 +6,7 @@ description: ""
 third_nav_title: Teachers' Portal
 ---
 <p></p><a class="isomer-image-wrapper" href="https://vle.learning.moe.edu.sg/login"><img style="width: 50%;" height="auto" width="100%" alt="SLS" src="/images/Communications/SLS_WEBSITE_NEW.jpg"></a>
-<p><strong><em>     SLS</em></strong>
+<p><strong><em>SLS</em></strong>
 </p>
 <p></p><a class="isomer-image-wrapper" href="https://admin.google.com/ac/accountchooser?continue=https://workspace.google.com/dashboard"><img style="width: 50%;" height="auto" width="100%" alt="ICON 2.0" src="/images/Communications/icon.jpg"></a>
 <p><strong><em>iCON 2.0</em></strong>
@@ -27,7 +27,7 @@ third_nav_title: Teachers' Portal
 <p></p><a class="isomer-image-wrapper" href="https://form.gov.sg/65964d46fec9850012839740"><img style="width: 50%;" height="auto" width="100%" alt="Temperature Taking Form" src="/images/Communications/form.jpg"></a>
 <p><strong><em>Temperature Taking Form</em></strong>
 </p>
-<p></p><a class="isomer-image-wrapper" href="opal2.moe.edu.sg/app/learner"><img style="width: 50%;" height="auto" width="100%" alt="OPAL 2.0" src="/images/Communications/opal.jpg"></a>
+<p></p><a class="isomer-image-wrapper" href="https://idm.opal2.moe.edu.sg/"><img style="width: 50%;" height="auto" width="100%" alt="OPAL 2.0" src="/images/Communications/opal.jpg"></a>
 <p><strong><em>OPAL2.0</em></strong>
 </p>
 <p></p>
