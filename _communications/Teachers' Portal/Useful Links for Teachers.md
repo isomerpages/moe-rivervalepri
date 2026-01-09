@@ -6,7 +6,7 @@ description: ""
 third_nav_title: Teachers' Portal
 ---
 <p></p><a class="isomer-image-wrapper" href="https://vle.learning.moe.edu.sg/login"><img style="width: 50%;" height="auto" width="100%" alt="SLS" src="/images/Communications/SLS_WEBSITE_NEW.jpg"></a>
-<p><strong><em>     SLS</em></strong>
+<p><strong><em>SLS</em></strong>
 </p>
 <p></p><a class="isomer-image-wrapper" href="https://admin.google.com/ac/accountchooser?continue=https://workspace.google.com/dashboard"><img style="width: 50%;" height="auto" width="100%" alt="ICON 2.0" src="/images/Communications/icon.jpg"></a>
 <p><strong><em>iCON 2.0</em></strong>
@@ -27,7 +27,7 @@ third_nav_title: Teachers' Portal
 <p></p><a class="isomer-image-wrapper" href="https://form.gov.sg/65964d46fec9850012839740"><img style="width: 50%;" height="auto" width="100%" alt="Temperature Taking Form" src="/images/Communications/form.jpg"></a>
 <p><strong><em>Temperature Taking Form</em></strong>
 </p>
-<p></p><a class="isomer-image-wrapper" href="opal2.moe.edu.sg/app/learner"><img style="width: 50%;" height="auto" width="100%" alt="OPAL 2.0" src="/images/Communications/opal.jpg"></a>
+<p></p><a class="isomer-image-wrapper" href="https://idm.opal2.moe.edu.sg/Account/Login?ReturnUrl=%2Fconnect%2Fauthorize%2Fcallback%3Fclient_id%3DcslV3.1.0%26response_type%3Dcode%26redirect_uri%3Dhttps%253A%252F%252Fwww.opal2.moe.edu.sg%252Fcsl%252Fuser%252Fauth%252Fexternal%253Fauthclient%253DIdM%26xoauth_displayname%3DOPAL2.0%26scope%3Dopenid%2520profile%2520cxDomainInternalApi%2520offline_access%26state%3Dbeaeebb6c37e12bc0a77f3166d96c0b2dfa40307b11a784d54dac3189a51408c"><img style="width: 50%;" height="auto" width="100%" alt="OPAL 2.0" src="/images/Communications/opal.jpg"></a>
 <p><strong><em>OPAL2.0</em></strong>
 </p>
 <p></p>
