@@ -3,107 +3,157 @@ title: PE ART MUSIC Teachers
 permalink: /about-us/our-staff/pe-art-music-teachers/
 description: ""
 third_nav_title: Our Staff
-variant: markdown
+variant: tiptap
 ---
-### PE Teachers
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-vvbc{background-color:#FFF;color:#0C3989;text-align:left;vertical-align:top}
-</style>
-<table class="tg" style="border: 1px solid black">
-<thead>
-  
-</thead>
+<h3>PE Teachers</h3>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
-  <tr>
-    <td class="tg-vvbc" style="border: 1px solid black">Mdm Norasidah Murat</td>
-    <td class="tg-vvbc" style="border: 1px solid black">norasidah_murat@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-vvbc" style="border: 1px solid black">Mr Riduan Mohamed Ali</td>
-    <td class="tg-vvbc" style="border: 1px solid black">riduan_mohamed_ali@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-vvbc" style="border: 1px solid black">Mr M. Firdaus Abdul Latiff</td>
-    <td class="tg-vvbc" style="border: 1px solid black">muhammad_firdaus_abdul_latiff@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-vvbc" style="border: 1px solid black">Mdm Nur Liyana Jawini</td>
-    <td class="tg-vvbc" style="border: 1px solid black">nur_liyana_jawini@moe.edu.sg</td>
-  </tr>
-
-  <tr>
-    <td class="tg-vvbc" style="border: 1px solid black">Mr Mohamed Sadiqin</td>
-    <td class="tg-vvbc" style="border: 1px solid black">mohamed_sadiqin_subhan@moe.edu.sg</td>
-  </tr>
-	<tr>
-    <td class="tg-vvbc" style="border: 1px solid black">Mr Lionel Lee</td>
-    <td class="tg-vvbc" style="border: 1px solid black">lionel_lee@moe.edu.sg</td>
-  </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Norasidah Murat</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>norasidah_murat@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Riduan Mohamed Ali</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>riduan_mohamed_ali@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr M. Firdaus Abdul Latiff</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>muhammad_firdaus_abdul_latiff@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Nur Liyana Jawini</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>nur_liyana_jawini@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Mohamed Sadiqin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>mohamed_sadiqin_subhan@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Ghazali Abdol Wahab</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ghazali_bin_abdol_wahab@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Lionel Lee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>lionel_lee@moe.edu.sg</p>
+</td>
+</tr>
 </tbody>
 </table>
-
-### Art Teachers
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-l7h4{background-color:#FFF;color:#0C3989;text-align:left;vertical-align:middle}
-</style>
-<table class="tg" style="border: 1px solid black">
-<thead>
- 
-</thead>
+<h3>Art Teachers</h3>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
-  <tr>
-    <td class="tg-l7h4" style="border: 1px solid black">Ms Khairiana Ali<br></td>
-    <td class="tg-l7h4" style="border: 1px solid black">khairiana_ali@moe.edu.sg<br></td>
-  </tr>
-  <tr>
-    <td class="tg-l7h4" style="border: 1px solid black">Mdm Nur Shereena<br></td>
-    <td class="tg-l7h4" style="border: 1px solid black">nur_shereena_abidin@moe.edu.sg</td>
-  </tr>
-	 <tr>
-    <th class="tg-l7h4" style="border: 1px solid black">Mdm Liu Yuanling Candice<br></th>
-    <th class="tg-l7h4" style="border: 1px solid black">liu_yuanling_candice@moe.edu.sg<br></th>
-  </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Khairiana Ali
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>khairiana_ali@moe.edu.sg
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Nur Shereena
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>nur_shereena_abidin@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Mdm Liu Yuanling Candice
+<br>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>liu_yuanling_candice@moe.edu.sg
+<br>
+</p>
+</th>
+</tr>
 </tbody>
 </table>
-
-### Music Teachers
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-l7h4{background-color:#FFF;color:#0C3989;text-align:left;vertical-align:middle}
-</style>
-<table class="tg" style="border: 1px solid black">
-<thead>
-  <tr>
-    <th class="tg-l7h4" style="border: 1px solid black">Mr Song Ziliang<br></th>
-    <th class="tg-l7h4" style="border: 1px solid black">song_ziliang@moe.edu.sg<br></th>
-  </tr>
-	 <tr>
-    <th class="tg-l7h4" style="border: 1px solid black">Mdm Iris Ang<br></th>
-    <th class="tg-l7h4" style="border: 1px solid black">ang_hui_qian_iris@moe.edu.sg<br></th>
-  </tr>
-</thead>
+<h3>Music Teachers</h3>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
-  <tr>
-    <td class="tg-l7h4" style="border: 1px solid black">Ms Tan Yi Han<br></td>
-    <td class="tg-l7h4" style="border: 1px solid black">tan_yi_han@moe.edu.sg</td>
-  </tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Mr Song Ziliang
+<br>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>song_ziliang@moe.edu.sg
+<br>
+</p>
+</th>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Mdm Iris Ang
+<br>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>ang_hui_qian_iris@moe.edu.sg
+<br>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Tan Yi Han
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>tan_yi_han@moe.edu.sg</p>
+</td>
+</tr>
 </tbody>
-	
 </table>
+<p></p>
