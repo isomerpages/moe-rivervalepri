@@ -103,7 +103,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
-<p><strong>1INT </strong>
+<p><strong>1INT</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -130,7 +130,7 @@ variant: tiptap
 <p>Mdm Duchess Kiran Jacqueline Joshua</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>kiran_jacqueline_joshua@moe.edu.sg</p>
+<p>kiran_jacqueline_rafeek@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
