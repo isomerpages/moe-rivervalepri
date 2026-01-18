@@ -7,14 +7,14 @@ description: ""
 <ol data-tight="true" class="tight">
 <li>
 <p>Interested parents can visit the upcoming Open House at MK@North Vista
-on Saturday, 28<sup>th</sup> March 2026. More details will be provided closer
-to the date.</p>
+on Saturday, 28<sup>th</sup> March 2026. Please click this <a href="https://www.northvistapri.moe.edu.sg/kindergarten/mk-open-house/" rel="noopener nofollow" target="_blank">link</a> for
+details.</p>
 <p></p>
 </li>
 <li>
 <p>2026 MK Registration Exercise for the 2027 K1 cohort will start from Monday,
 23<sup>rd</sup> March 2026, 9 a.m. to Tuesday, 31<sup>st</sup> March 2026,
-4 p.m. For more information, please click on this link: <a href="https://www.moe.gov.sg/preschool/moe-kindergarten/register" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/preschool/moe-kindergarten/register</a>
+4.30 p.m. For more information, please click on this link: <a href="https://www.moe.gov.sg/preschool/moe-kindergarten/register" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/preschool/moe-kindergarten/register</a>
 </p>
 <p></p>
 </li>
@@ -25,7 +25,7 @@ link. <a href="https://www.moe.gov.sg/preschool/moe-kindergarten" rel="noopener 
 <p></p>
 </li>
 <li>
-<p>Should you have any questions, please email us at <a href="mailto:mk_rivervale@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mk_rivervale@moe.edu.sg</a> 
+<p>Should you have any questions, please email us at <a href="mailto:mk_rivervale@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mk_rivervale@moe.edu.sg</a>
 </p>
 </li>
 </ol>
