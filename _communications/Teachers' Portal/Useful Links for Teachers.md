@@ -5,7 +5,9 @@ variant: tiptap
 description: ""
 third_nav_title: Teachers' Portal
 ---
-<p></p><a class="isomer-image-wrapper" href="https://vle.learning.moe.edu.sg/login"><img style="width: 50%;" height="auto" width="100%" alt="SLS" src="/images/Communications/SLS_WEBSITE_NEW.jpg"></a>
+<p></p><a class="isomer-image-wrapper" href="https://scmobile.moe.edu.sg/login"><img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Communications/sc_mobile_.png"></a>
+<p><strong><em>SC Mobile </em></strong>
+</p><a class="isomer-image-wrapper" href="https://vle.learning.moe.edu.sg/login"><img style="width: 50%;" height="auto" width="100%" alt="SLS" src="/images/Communications/SLS_WEBSITE_NEW.jpg"></a>
 <p><strong><em>SLS</em></strong>
 </p>
 <p></p><a class="isomer-image-wrapper" href="https://admin.google.com/ac/accountchooser?continue=https://workspace.google.com/dashboard"><img style="width: 50%;" height="auto" width="100%" alt="ICON 2.0" src="/images/Communications/icon.jpg"></a>
