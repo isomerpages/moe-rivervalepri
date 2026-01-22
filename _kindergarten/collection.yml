@@ -2,5 +2,6 @@ collections:
   kindergarten:
     output: true
     order:
+      - Open House 2026.md
       - MK@Rivervale.md
       - Other information.md
