@@ -37,14 +37,14 @@ variant: markdown
 <td rowspan="1" colspan="1">
 <p>Mr Mohamed Sadiqin
 <br>Mr Ran Yijun
-<br>Mdm Lim Sir Bee
+<br>Mr Khairul Anwar Bin  Kamaruddin
 <br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p>mohamed_sadiqin_subhan@moe.edu.sg 
 <br>ran_yijun@moe.edu.sg
-<br>lim_sir_bee@moe.edu.sg</p>
+<br>khairul_anwar_bin_kamaruddin@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
