@@ -40,14 +40,13 @@ variant: markdown
 <p>Mr Riduan
 <br>Mdm Nashita M. Idris
 <br>Ms Geetha Christina
-<br>Mr Jared Ng</p>
+<br>Mr Mrs Kiran Jacqueline Rafeek</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>riduan_mohamed_ali@moe.edu.sg
 <br>nashita_mohamed_idris@moe.edu.sg
-<br>
 <br>geetha_christina_mathialagan@moe.edu.sg
-<br>jared_ng_yujie@moe.edu.sg</p>
+<br>kiran_jacqueline_rafeek@moe.edu.sg</p>
 </td>
 </tr>
 </tbody>
