@@ -28,8 +28,8 @@ variant: markdown
   <tr style="border: 1px solid black">
     <td class="tg-m9di" style="border: 1px solid black">Football</td>
     <td class="tg-m9di" style="border: 1px solid black">Monday 3.00 p.m. to 5.00 p.m.<br>Juniors &amp; Seniors</td>
-    <td class="tg-u2s6" style="border: 1px solid black"><span style="font-weight:400;color:#0C3989">Mr Firdaus</span><br><span style="font-weight:400;color:#0C3989">Mr Khair</span><br>Mdm Siti Nurul Aiin<br></td>
-    <td class="tg-m9di" style="border: 1px solid black">muhammad_firdaus_abdul_latiff@moe.edu.sg mohamad_khair_johari@moe.edu.sg<br>siti_nurul_aiin_samsulkahar@moe.edu.sg<br></td>
+    <td class="tg-u2s6" style="border: 1px solid black"><span style="font-weight:400;color:#0C3989">Mr Firdaus</span><br><span style="font-weight:400;color:#0C3989">Mr Khair</span><br>Mdm Siti Nurul Aiin<br>Mr Lionel Lee</td>
+    <td class="tg-m9di" style="border: 1px solid black">muhammad_firdaus_abdul_latiff@moe.edu.sg mohamad_khair_johari@moe.edu.sg<br>siti_nurul_aiin_samsulkahar@moe.edu.sg<br>lionel_lee@moe.edu.sg</td>
   </tr>
 </tbody>
 </table><br>
