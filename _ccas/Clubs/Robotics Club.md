@@ -36,15 +36,19 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Seah Jin Yang
-<br>Mr Eu Kong Leong
-<br>Mdm Ng Mui Chin
-<br>Mr Ray Lee Say Sing</p>
+<br>Ms Poh Si Hui
+<br>Ms Ong Boon Ching Eileen
+<br>Mr Allan Wan
+<br>Miss Lim Woei Chin
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>seah_jin_yang@moe.edu.sg
-<br>eu_kong_leong@moe.edu.sg
-<br>huang_meijing@moe.edu.sg
-<br>ray_lee_say_sing@moe.edu.sg</p>
+<br>@moe.edu.sg
+<br>@moe.edu.sg
+<br>@moe.edu.sg
+<br>@moe.edu.sg
+</p>
 </td>
 </tr>
 </tbody>
