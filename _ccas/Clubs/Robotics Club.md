@@ -44,10 +44,10 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <p>seah_jin_yang@moe.edu.sg
-<br>@moe.edu.sg
-<br>@moe.edu.sg
-<br>@moe.edu.sg
-<br>@moe.edu.sg
+<br>poh_si_hui@moe.edu.sg
+<br>
+<br>
+<br>lim_woei_chin@moe.edu.sg
 </p>
 </td>
 </tr>
