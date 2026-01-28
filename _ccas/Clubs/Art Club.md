@@ -39,12 +39,16 @@ variant: markdown
 <br>Ms Veronica Tan
 <br>Mdm Ng Hwee Koon
 <br>Mdm Nur Shereena
+<br> Mdm Liu Yuanling Candice
+<br> Mdm Low Lee San	
 </p></td>
 <td rowspan="1" colspan="1">
 <p>khairiana_ali@moe.edu.sg
 <br>tan_suan_eng_veronica@moe.edu.sg
 <br>ng_hwee_koon@moe.edu.sg
 <br>nur_shereena_abidin@moe.edu.sg
+<br>liu_yuanling_candice@moe.edu.sg
+<br>low_lee_san@moe.edu.sg
 </p></td>
 </tr>
 </tbody>
