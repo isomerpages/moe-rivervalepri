@@ -47,7 +47,7 @@ variant: markdown
 <br>poh_si_hui@moe.edu.sg
 <br>ong_boon_ching_eileen@moe.edu.sg
 <br>
-<br>
+<br>allan_wan_kok_keong@moe.edu.sg
 <br>lim_woei_chin@moe.edu.sg
 </p>
 </td>
