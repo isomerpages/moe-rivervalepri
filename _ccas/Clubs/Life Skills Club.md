@@ -38,7 +38,7 @@ variant: markdown
 <p>Mdm Nurmerdina Mohd Azni
 <br>Mrs Laura Bay
 <br>Ms K Ghayathri Dhevi
-<br>
+<br>Ms Teo Wei Ping
 <br>
 </p>
 </td>
@@ -47,6 +47,7 @@ variant: markdown
 <br>
 <br>tay_shengwei_laura@moe.edu.sg
 <br>K_Ghayathri_Dhevi@moe.edu.sg
+<br>teo_wei_ping@moe.edu.sg
 </p></td>
 </tr>
 </tbody>
