@@ -50,16 +50,4 @@ third_nav_title: Parents' Portal
 <br>
 [6. 2025 P34 subject sharing_SC](/files/6__2025_P34_subject_sharing_SC.pdf)
 
-### Subject Sharing with Parents 2025 – P5 P6
 
-[1. 2025 P56 ICT subject sharing](/files/1__2025_P56_ICT_subject_sharing.pdf)
-<br>
-[2. 2025 P56 PAM subject sharing](/files/2__2025_P56_PAM_subject_sharing.pdf)
-<br>
-[3. 2025 P5P6 English subject sharing](/files/3__2025_P5P6_English_subject_sharing.pdf)
-<br>
-[4. 2025 P56 MT subject sharing](/files/4__2025_P56_MT_subject_sharing.pdf)
-<br>
-[5. 2025 P56 Math subject sharing](/files/5__2025_P56_Math_subject_sharing.pdf)
-<br>
-[6. 2025 P56 Sci subject sharing](/files/6__2025_P56_Sci_subject_sharing.pdf)
