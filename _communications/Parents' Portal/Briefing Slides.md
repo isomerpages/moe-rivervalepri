@@ -11,14 +11,11 @@ third_nav_title: Parents' Portal
 [P2 Parent Engagement FAQs](/files/Communications/Final_FAQ_Primary_2_Parent_Engagement_2025.pdf)
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/zvjKu_9SPuI?si=vEtI5U2Rvinc9pbs" height="315" width="560"></iframe>
 
-### P3 Parent Engagement 2025
-
-[P3 Parent Engagement 2025](/files/Communications/P3_Parent_Engagement_2025.pdf) <br>
+### P3 P4 Parent Engagement and Subject Sharing 2026
+[P3 P4 Parent Engagement and Subject Sharing 2026](/files/Communications/P3P4_Parent_Engagement_and_Subject_Sharing_Session_2026_1.pdf)
+<br>
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/2scbJmNzrOs?si=8Vi6bwXfkaxd-0mk" height="315" width="560"></iframe>
 
-### P4 Parent Engagement 2025
-
-[P4 Parent Engagement 2025](/files/P4_Parent_Engagement_2025___180225__website_.pdf)
 <br>
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/m6X8OR4bd3I?si=OVVcvTZMCEBbuE62" height="315" width="560"></iframe>
 
@@ -34,18 +31,3 @@ third_nav_title: Parents' Portal
 
 <br>
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/rbeuRynw0Z4?si=NW-IXX-2-eGob7Io" height="315" width="560"></iframe>
-
-
-### Subject Sharing with Parents 2025 – P3 P4
-
-[1. 2025 P34 subject sharing_ICT](/files/1__2025_P34_subject_sharing_ICT.pdf)
-<br>
-[2. 2025 P3 P4 Suject Sharing _PAM](/files/2__2025_P3_P4_Suject_Sharing__PAM.pdf)
-<br>
-[3. 2025 P3 P4 Suject Sharing _English](/files/3__2025_P3_P4_Suject_Sharing__English.pdf)
-<br>
-[4. 2025 P34 subject sharing_MT](/files/4__2025_P34_subject_sharing_MT.pdf)
-<br>
-[5. 2025 P34 subject sharing_Math](/files/5__2025_P34_subject_sharing_Math.pdf)
-<br>
-[6. 2025 P34 subject sharing_SC](/files/6__2025_P34_subject_sharing_SC.pdf)
