@@ -5,10 +5,11 @@ description: ""
 variant: markdown
 third_nav_title: Parents' Portal
 ---
-### P2 Parent Engagement 2025
+### P2 Parent Engagement 2026
+[P2 Parent Engagement 2026](/files/Communications/P2_Parent_Engagement_2026_schwebsite__1_.pdf)
 
-[P2 Parent Engagement 2025](/files/Communications/P2_Parent_Engagement_2025_school_website.pdf) <br>
-[P2 Parent Engagement FAQs](/files/Communications/Final_FAQ_Primary_2_Parent_Engagement_2025.pdf)
+ <br>
+
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/zvjKu_9SPuI?si=vEtI5U2Rvinc9pbs" height="315" width="560"></iframe>
 
 ### P3 P4 Parent Engagement and Subject Sharing 2026
