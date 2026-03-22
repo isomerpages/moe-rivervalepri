@@ -5,7 +5,8 @@ description: ""
 variant: tiptap
 ---
 <h3>Rivervale Connects 2026</h3>
-<p>| <a href="/files/2026_Rivervale_Connects_Term_1.pdf" rel="noopener nofollow" target="_blank">Term 1 </a> |</p>
+<p>| <a href="/files/2026_Rivervale_Connects_Term_1.pdf" rel="noopener nofollow" target="_blank">Term 1 </a>|
+<a href="/files/2026_Rivervale_Connects_Term_2_.pdf" rel="noopener nofollow" target="_blank">Term 2</a>|</p>
 <h3>WA and Preliminary Examination Schedule 2025</h3>
 <p><strong><u>Term 1</u></strong>
 </p>
@@ -75,7 +76,7 @@ and perform a simple one-time onboarding process.</p>
 <p><a href="/files/Communications/Parents%20Gateway/Frequently%20Asked%20Questions.pdf" rel="noopener noreferrer nofollow" target="_blank">Frequently Asked Questions About Parents Gateway</a>
 </p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/tW9jwyuovOo"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/tW9jwyuovOo"></iframe>
 </div>
 <h3>Consent for photography and videos</h3>
 <p>Photograph(s) or video image(s) of students and/or their parents/guardians
@@ -117,6 +118,6 @@ view</p>
 <p>Please click&nbsp;<a href="/files/Communications/Open%20House_For%20SchoolWebsite.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;to
 view slides for our E-open House 2022.</p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Azb8sezx72Y"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Azb8sezx72Y"></iframe>
 </div>
 <p></p>
