@@ -70,6 +70,17 @@ variant: tiptap
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Miss Jovise Tan Hui Lin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>jovise_tan_hui_lin@moe.edu.sg&nbsp;</p>
+</td>
+</tr>
+<tr>
 <td rowspan="2" colspan="1">
 <p><strong>4RS</strong>
 </p>
