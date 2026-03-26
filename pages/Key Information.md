@@ -7,49 +7,7 @@ variant: tiptap
 <h3>Rivervale Connects 2026</h3>
 <p>| <a href="/files/2026_Rivervale_Connects_Term_1.pdf" rel="noopener nofollow" target="_blank">Term 1 </a>|
 <a href="/files/2026_Rivervale_Connects_Term_2_.pdf" rel="noopener nofollow" target="_blank">Term 2</a>|</p>
-<h3>WA and Preliminary Examination Schedule 2025</h3>
-<p><strong><u>Term 1</u></strong>
-</p>
-<p><a href="/files/P3_WA1_Schedule_2025.pdf" rel="noopener nofollow" target="_blank">P3 WA1 Schedule_2025</a>
-</p>
-<p><a href="/files/P4_WA1_Schedule_2025.pdf" rel="noopener nofollow" target="_blank">P4 WA1 Schedule_2025</a>
-</p>
-<p><a href="/files/P5_WA1_Schedule_2025.pdf" rel="noopener nofollow" target="_blank">P5 WA1 Schedule_2025</a>
-</p>
-<p><a href="/files/P6_WA1_Schedule_2025.pdf" rel="noopener nofollow" target="_blank">P6 WA1 Schedule_2025</a>
-</p>
-<p><strong><u>Term 2</u></strong>
-</p>
-<p><a href="/files/P3_WA2_Schedule_2025.pdf" rel="noopener nofollow" target="_blank">P3 WA2 Schedule 2025</a>
-</p>
-<p><a href="/files/P4_WA2_Schedule_2025.pdf" rel="noopener nofollow" target="_blank">P4 WA2 Schedule 2025</a>
-</p>
-<p><a href="/files/P5_WA2_Schedule_2025.pdf" rel="noopener nofollow" target="_blank">P5 WA2 Schedule 2025</a>
-</p>
-<p><a href="/files/P6_WA2_Schedule_2025.pdf" rel="noopener nofollow" target="_blank">P6 WA2 Schedule 2025</a>
-</p>
-<p><strong><u>Term 3</u></strong>
-</p>
-<p><a href="/files/P3_WA3_Schedule.pdf" rel="noopener nofollow" target="_blank">P3 WA3 Schedule 2025</a>
-</p>
-<p><a href="/files/P4_WA3_Schedule.pdf" rel="noopener nofollow" target="_blank">P4 WA3 Schedule 2025</a>
-</p>
-<p><a href="/files/P5_WA3_Schedule.pdf" rel="noopener nofollow" target="_blank">P5 WA3 Schedule 2025</a>
-</p>
-<p><a href="/files/P6_Prelim_Schedule.pdf" rel="noopener nofollow" target="_blank">P6 Prelim Schedule 2025</a>
-</p>
-<p><strong><u>Term 4</u></strong>
-</p>
-<p><a href="/files/2025_P3_End_of_Year_Assessment_Schedule.pdf" rel="noopener nofollow" target="_blank">P3 EOY Schedule 2025</a>
-</p>
-<p><a href="/files/PG_Oral_P4_EOY.pdf" rel="noopener nofollow" target="_blank">P4 EOY ORAL 2025</a>
-</p>
-<p><a href="/files/2025_P4_End_of_Year_Assessment_Schedule.pdf" rel="noopener nofollow" target="_blank">P4 EOY Schedule 2025</a>
-</p>
-<p><a href="/files/PG_Oral_P5_EOY.pdf" rel="noopener nofollow" target="_blank">P5 EOY ORAL 2025</a>
-</p>
-<p><a href="/files/2025_P5_End_of_Year_Assessment_Schedule.pdf" rel="noopener nofollow" target="_blank">P5 EOY Schedule 2025</a>
-</p>
+<p></p>
 <h3>Parents Gateway</h3>
 <p>Dear Parents,</p>
 <p>Parents Gateway is an initiative by MOE to enable parents to interact
