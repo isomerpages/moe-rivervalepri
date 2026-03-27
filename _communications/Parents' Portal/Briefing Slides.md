@@ -5,8 +5,15 @@ description: ""
 variant: tiptap
 third_nav_title: Parents' Portal
 ---
-<h3><strong>Additional Parent Resources </strong></h3>
-<p></p>
+<h3><strong>Additional Parent Resources</strong></h3>
+<p><a href="/files/Parent_Resource__Unlocking_their_First_Smartphone_or_Watch.pdf" rel="noopener nofollow" target="_blank">Unlocking their First Smartphone or Watch</a>
+</p>
+<p><a href="/files/Parent_Resource__Accessing_their_First_Social_Media_Account.pdf" rel="noopener nofollow" target="_blank">Accessing their First Social Media Account</a>
+</p>
+<p><a href="/files/Parent_Resource__Playing_Online_Games.pdf" rel="noopener nofollow" target="_blank">Playing Online Games</a>
+</p>
+<p><a href="/files/Parent_Resource__Cyberbullying.pdf" rel="noopener nofollow" target="_blank">Cyberbullying</a>
+</p>
 <h3>P2 Parent Engagement 2026</h3>
 <p><a href="/files/Communications/P2_Parent_Engagement_2026_schwebsite__1_.pdf" rel="noopener noreferrer nofollow" target="_blank">P2 Parent Engagement 2026</a>
 </p>
