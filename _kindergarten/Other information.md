@@ -14,6 +14,12 @@ information, please click on this link: <a href="https://www.moe.gov.sg/preschoo
 <p></p>
 </li>
 <li>
+<p>Parent who wish to enrol their child in MK@ Rivervale after the MK registration
+period, kindly fill up the waitlist form via the link <a href="https://go.gov.sg/2026mkrivervalewaitlistform" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/2026mkrivervalewaitlistform</a>
+</p>
+<p></p>
+</li>
+<li>
 <p>For more information on the MK programme and fees, please click on this
 link. <a href="https://www.moe.gov.sg/preschool/moe-kindergarten" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/preschool/moe-kindergarten</a>
 </p>
