@@ -8,7 +8,14 @@ variant: tiptap
 <p>| <a href="/files/2026_Rivervale_Connects_Term_1.pdf" rel="noopener nofollow" target="_blank">Term 1 </a>|
 <a href="/files/2026_Rivervale_Connects_Term_2_.pdf" rel="noopener nofollow" target="_blank">Term 2</a>|</p>
 <h3>Weighted Assessment Schedules Term 2 2026</h3>
-<p></p>
+<p><a href="/files/Communications/P3_WA2_Schedule_2026.pdf" rel="noopener nofollow" target="_blank">P3 WA2 Schedule_2026</a>
+</p>
+<p><a href="/files/Communications/P4_WA2_Schedule_2026.pdf" rel="noopener nofollow" target="_blank">P4 WA2 Schedule_2026</a>
+</p>
+<p><a href="/files/Communications/P5_WA2_Schedule_2026.pdf" rel="noopener nofollow" target="_blank">P5 WA2 Schedule_2026 </a>
+</p>
+<p><a href="/files/Communications/P6_WA2_Schedule_2026.pdf" rel="noopener nofollow" target="_blank">P6 WA2 Schedule_2026</a>
+</p>
 <h3>Parents Gateway</h3>
 <p>Dear Parents,</p>
 <p>Parents Gateway is an initiative by MOE to enable parents to interact
