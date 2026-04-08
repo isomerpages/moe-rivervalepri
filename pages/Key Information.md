@@ -12,7 +12,7 @@ variant: tiptap
 </p>
 <p><a href="/files/Communications/P4_WA2_Schedule_2026.pdf" rel="noopener nofollow" target="_blank">P4 WA2 Schedule_2026</a>
 </p>
-<p><a href="/files/Communications/P5_WA2_Schedule_2026.pdf" rel="noopener nofollow" target="_blank">P5 WA2 Schedule_2026 </a>
+<p><a href="/files/Communications/P5_WA2_Schedule_2026.pdf" rel="noopener nofollow" target="_blank">P5 WA2 Schedule_2026</a>
 </p>
 <p><a href="/files/Communications/P6_WA2_Schedule_2026.pdf" rel="noopener nofollow" target="_blank">P6 WA2 Schedule_2026</a>
 </p>
