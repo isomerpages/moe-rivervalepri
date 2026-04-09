@@ -41,13 +41,12 @@ variant: markdown
 <p>Ms Nurshamira
 <br>Miss P Aishwarya
 <br>Mdm Ng Mui Chin
-<br>Mdm Lo Siew Yee</p>
-</td>
+</p></td>
 <td rowspan="1" colspan="1">
 <p>nurshamira_johari@moe.edu.sg
 <br>p_aishwarya@moe.edu.sg
 <br>huang_meijing@moe.edu.sg
-<br>lo_siew_yee@moe.edu.sg
+
 </p></td>
 </tr>
 </tbody>
