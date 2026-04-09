@@ -67,8 +67,8 @@ variant: markdown
   </tr>
  
   <tr>
-    <td style="border: 1px solid black" class="tg-vvbc">Mdm Lo Siew Yee</td>
-    <td style="border: 1px solid black" class="tg-vvbc">lo_siew_yee@moe.edu.sg</td>
+    <td style="border: 1px solid black" class="tg-vvbc">Mdm Yeow Bee Hiong </td>
+    <td style="border: 1px solid black" class="tg-vvbc">yeow_bee_hiong@moe.edu.sg</td>
   </tr>
 	<tr>
     <td style="border: 1px solid black" class="tg-vvbc">Mdm Vanessa Chiam Yunn Shyuan</td>
