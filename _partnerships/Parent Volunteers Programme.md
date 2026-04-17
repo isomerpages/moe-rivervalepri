@@ -4,20 +4,22 @@ permalink: /stakeholders/Parent-Volunteers-Programme/
 description: ""
 variant: tiptap
 ---
-<p><strong><em>(Updated as at 6 August  2025)</em></strong>
+<p><strong><em>(Updated as at 17 April 2026)</em></strong>
 </p>
-<p><strong><u>For SC&nbsp;and&nbsp;SPR&nbsp;children&nbsp;born in 2020</u></strong>
+<p><strong><u>For SC&nbsp;and&nbsp;SPR&nbsp;children&nbsp;born in 2021</u></strong>
 </p>
-<p></p>
-<p>The application is <strong>NOW CLOSED.</strong>
-</p>
-<p>The school has completed its selection process, and we have identified
-the Parent Volunteers based on school needs.</p>
-<p></p>
-<p><strong>All shortlisted applicants have been notified via email.</strong>
+<p>This application is <strong>for parents of Singapore Citizen and Singapore Permanent Resident children only, who are born in the year 2021.</strong>
 </p>
 <p></p>
-<p><strong>For SC&nbsp;and&nbsp;SPR&nbsp;children&nbsp;born in 2021 – More information will be updated in 2026.</strong>
+<p>Interested applicants are to <strong>submit their application by 15 May 2026</strong>. <strong>Applications that are incomplete or received after the deadline will not be accepted.</strong>
+</p>
+<p>Please click <a href="https://form.gov.sg/69dce775f44b2ef02890f82b" rel="noopener nofollow" target="_blank">HERE</a> to
+submit your application.</p>
+<p>The <strong>school reserves the right to select the Parent Volunteers</strong> based
+on school needs. The school is <strong>not obliged to provide any reason for unsuccessful applicants</strong>.</p>
+<p></p>
+<p><strong>Shortlisted applicants will be notified via email by mid of June 2026.</strong>
 </p>
 <p></p>
 <p>Thank you.</p>
+<p></p>
