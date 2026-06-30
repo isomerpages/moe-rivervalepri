@@ -56,6 +56,10 @@ variant: markdown
     <td style="border: 1px solid black" class="tg-cly1">yeo_ai_li@schools.gov.sg<br></td>
  </tr>
   <tr>
+		<td style="border: 1px solid black" class="tg-1wig">Corporate Support Officer</td>
+    <td style="border: 1px solid black" class="tg-cly1">Mdm Chua Poh Choon</td>
+    <td style="border: 1px solid black" class="tg-cly1">chua_poh_choon@schools.gov.sg<br></td>
+		 </tr><tr>
     <td style="border: 1px solid black" class="tg-1wig">Operations Support Officer</td>
     <td style="border: 1px solid black" class="tg-cly1">Mdm Lim Lee Lian</td>
     <td style="border: 1px solid black" class="tg-cly1"> <br></td>
