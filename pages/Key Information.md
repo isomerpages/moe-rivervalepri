@@ -6,7 +6,7 @@ variant: tiptap
 ---
 <h3>Rivervale Connects 2026</h3>
 <p>| <a href="/files/2026_Rivervale_Connects_Term_1.pdf" rel="noopener nofollow" target="_blank">Term 1 </a>|
-<a href="/files/2026_Rivervale_Connects_Term_2_.pdf" rel="noopener nofollow" target="_blank">Term 2</a>|<a href="/files/Rivervale_Connects_Term_3_2026_caa_30_May__002_.pdf" rel="noopener nofollow" target="_blank">Term 3 </a>
+<a href="/files/2026_Rivervale_Connects_Term_2_.pdf" rel="noopener nofollow" target="_blank">Term 2</a>| <a href="/files/Rivervale_Connects_Term_3_2026_caa_30_May__002_.pdf" rel="noopener nofollow" target="_blank">Term 3</a>
 </p>
 <p></p>
 <h3>Weighted Assessment Schedules Term 1 2026</h3>
