@@ -47,10 +47,10 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Nur Shereena Binte Abidin</p>
+<p>Mdm Ang Hui Qian Iris</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>nur_shereena_abidin@moe.edu.sg</p>
+<p>ang_hui_qian_iris@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -158,10 +158,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Tricia Ong</p>
+<p>Mrs Amanda Lim Rui Ning</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>tricia_ong_lee_chin_a@moe.edu.sg</p>
+<p>amanda_lim_rui_ning@moe.edu.sg</p>
 </td>
 </tr>
 <tr>

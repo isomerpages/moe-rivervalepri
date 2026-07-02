@@ -107,10 +107,10 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Norasidah Bte Murat</p>
+<p>Mrs Emily Tan-Yong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>norasidah_murat@moe.edu.sg</p>
+<p>tan-yong_chwee_ping@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
