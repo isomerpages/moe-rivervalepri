@@ -47,10 +47,10 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Tan Suan Eng, Veronica</p>
+<p>Mr Tang Kwang Wue</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>tan_suan_eng_veronica@moe.edu.sg</p>
+<p>tang_kwang_wue @moe.edu.sg</p>
 </td>
 </tr>
 <tr>
