@@ -158,7 +158,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Amanda Lim Rui Ning</p>
+<p>Mrs Amanda Lim Rui Ning</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>amanda_lim_rui_ning@moe.edu.sg</p>
