@@ -47,7 +47,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Ang Hui Aian Iris</p>
+<p>Mdm Ang Hui Qian Iris</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>ang_hui_qian_iris@moe.edu.sg</p>
