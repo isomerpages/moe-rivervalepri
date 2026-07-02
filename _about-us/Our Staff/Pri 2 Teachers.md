@@ -158,10 +158,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Tricia Ong</p>
+<p>Ms Amanda Lim Rui Ning</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>tricia_ong_lee_chin_a@moe.edu.sg</p>
+<p>amanda_lim_rui_ning@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
