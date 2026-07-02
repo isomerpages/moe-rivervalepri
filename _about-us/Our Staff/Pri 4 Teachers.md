@@ -43,10 +43,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Nurshamira Binte Johari</p>
+<p>Miss Eileen Ong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>nurshamira_johari@moe.edu.sg&nbsp;</p>
+<p>ong_boon_ching_eileen@moe.edu.sg&nbsp;</p>
 </td>
 </tr>
 <tr>
