@@ -47,10 +47,10 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Nur Shereena Binte Abidin</p>
+<p>Mdm Ang Hui qian iris</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>nur_shereena_abidin@moe.edu.sg</p>
+<p>ang_hui_qian_iris@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
