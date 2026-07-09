@@ -27,6 +27,14 @@ variant: tiptap
 </p>
 <p><a href="/files/Communications/P6_WA2_Schedule_2026.pdf" rel="noopener nofollow" target="_blank">P6 WA2 Schedule_2026</a>
 </p>
+<h3>Weighted Assessment Schedules Term 3 2026</h3>
+<p><a href="/files/P4_WA3_Schedule_2026_Updated.pdf" rel="noopener nofollow" target="_blank">P4 WA3 Schedule_2026</a>
+</p>
+<p><a href="/files/P5_WA3_Schedule_2026.pdf" rel="noopener nofollow" target="_blank">P5 WA3 Schedule_2026</a>
+</p>
+<p><a href="/files/P6_Prelim_Schedule_2026.pdf" rel="noopener nofollow" target="_blank">P6 Prelim Schedule_2026</a>
+</p>
+<p></p>
 <h3>Parents Gateway</h3>
 <p>Dear Parents,</p>
 <p>Parents Gateway is an initiative by MOE to enable parents to interact
