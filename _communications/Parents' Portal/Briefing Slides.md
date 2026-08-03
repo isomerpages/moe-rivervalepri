@@ -14,7 +14,7 @@ third_nav_title: Parents' Portal
 </p>
 <p><a href="/files/Parent_Resource__Cyberbullying.pdf" rel="noopener nofollow" target="_blank">Cyberbullying</a>
 </p>
-<p><a href="/files/4___Uptd__The_Refreshed_Approach_Parent_Engagement_2026_for_sharing.pdf" rel="noopener noreferrer nofollow" target="_blank">The Refreshed Approach to Support Primary Students with Academic Strengths and Talents</a>
+<p><a href="/files/4___Uptd__The_Refreshed_Approach_Parent_Engagement_2026_for_sharing.pdf" rel="noopener nofollow" target="_blank">The Refreshed Approach to Support Primary Students with Academic Strengths and Talents</a>
 </p>
 <h3>P2 Parent Engagement 2026</h3>
 <p><a href="/files/Communications/P2_Parent_Engagement_2026_schwebsite__1_.pdf" rel="noopener noreferrer nofollow" target="_blank">P2 Parent Engagement 2026</a>
