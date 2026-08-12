@@ -6,7 +6,7 @@ variant: tiptap
 third_nav_title: Students' Portal
 ---
 <p></p>
-<p><strong>SLS</strong>
+<p><a href="https://vle.learning.moe.edu.sg/login" rel="noopener nofollow" target="_blank">SLS</a>
 </p>
 <p></p>
 <p><strong>Google Classroom</strong>
@@ -51,5 +51,5 @@ third_nav_title: Students' Portal
 <p><strong>Upload your submission form and signed copyright agreement via </strong>
 <a href="https://www.surveymonkey.com/r/7P68Y5F" rel="noopener nofollow" target="_blank">https://www.surveymonkey.com/r/7P68Y5F</a>
 </p>
-<p><strong>Do remember to submit the hardcopy of your document to the school librarian too ! </strong>
+<p><strong>Do remember to submit the hardcopy of your document to the school librarian too !</strong>
 </p>
